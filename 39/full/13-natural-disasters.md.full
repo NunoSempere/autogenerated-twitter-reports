@@ -1,0 +1,698 @@
+{
+  "success": true,
+  "message": "Job results retrieved successfully",
+  "data": {
+    "job_id": "80375a19-b90c-43c4-af67-b92d3bb949df",
+    "status": "completed",
+    "results": {
+      "filtered_tweets": [
+        {
+          "tweet": {
+            "tweet_id": "1971696476956000468",
+            "text": "Cuernavaca, Mexico now...🌊👀\nhttps://t.co/jzTT8xACUi",
+            "created_at": "2025-09-26T22:00:47Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not explicitly mention a natural disaster or storm affecting over 10,000 people. While it contains imagery (🌊👀) that might suggest concern about a storm or similar event, it does not provide enough detail to confirm any specific impact or scale related to a natural disaster."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971695980585406834",
+            "text": "RT @TWCAlexWilson: We've got the very latest tonight on @wxunfiltered with THE guy - former director of the NHC and our Hurricane Expert, @…",
+            "created_at": "2025-09-26T21:58:48Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a weather update and features a reference to a hurricane expert, but it does not explicitly mention a natural disaster or storm that has or will affect over 10,000 people. The content is more focused on providing information rather than indicating a significant impact on a large population."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971693606307353042",
+            "text": "https://t.co/uSJHeF8DAm",
+            "created_at": "2025-09-26T21:49:22Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The given input does not provide enough information about the content of the tweet itself since the link is not accessible to evaluate its contents. Therefore, I cannot determine if it discusses a natural disaster or storm affecting over 10,000 people."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971691460010578410",
+            "text": "Here’s what we know about Potential Tropical Cyclone Nine. Stay with The Weather Channel for all the latest information as we track this system through the weekend. https://t.co/NXDd1CabCF",
+            "created_at": "2025-09-26T21:40:50Z",
+            "username": "weatherchannel"
+          },
+          "pass": true,
+          "reasoning": "The tweet mentions 'Potential Tropical Cyclone Nine,' which indicates that it is discussing a storm system. Given that tropical cyclones can significantly impact large areas and populations, it's reasonable to infer that this event could affect over 10,000 people. Therefore, the tweet is indeed talking about a natural disaster that may have considerable effects."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971690193372827903",
+            "text": "RT @mikebettes: Here's your initial heads up on PTC 9(future #Imelda). There is A LOT of uncertainty after day 3, so please check back on t…",
+            "created_at": "2025-09-26T21:35:48Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions 'PTC 9' and talks about weather uncertainty, but does not specify that it is related to a natural disaster or storm that affects over 10,000 people. It simply serves as a heads up without details on the impact or scale."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971690184174707192",
+            "text": "RT @TWCChrisBruin: 1st cone for PTC 9 now being issued. Jacksonville, FL to Wrightsville Beach, NC needs to start preparing! Still opportun…",
+            "created_at": "2025-09-26T21:35:46Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions a cone for a storm and advises preparation, but it does not specify any details about the magnitude of the storm or how many people will be affected. Therefore, it cannot be determined if it will impact over 10,000 people."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971686656731426932",
+            "text": "COLUMBIA, S.C. (FOX Carolina) - Gov. Henry McMaster declared a state of emergency ahead of possible effects of Tropical Disturbance 94L.",
+            "created_at": "2025-09-26T21:21:45Z",
+            "username": "Volcaholic1"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a state of emergency being declared due to a tropical disturbance, which indicates that there is a significant weather event that could potentially affect over 10,000 people."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971686281638982079",
+            "text": "Getting increasingly worried about significant flooding from Potential Tropical Cyclone Nine in the Carolinas.\n\nThe storm is forecast to slow down dramatically off the South Carolina coast, with some models showing 12+ inches of rain in spots.\n\nWith tropical cyclones, it’s usually not the wind that kills, it’s the water.",
+            "created_at": "2025-09-26T21:20:16Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses Potential Tropical Cyclone Nine, which is expected to cause significant flooding in the Carolinas. The mention of \"12+ inches of rain in spots\" indicates a serious storm event that could impact a large number of people, likely exceeding 10,000 affected by the flooding."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971685713226711336",
+            "text": "A new tropical storm is forming in the Bahamas and could become a rain and wind threat to the Southeast coast while a major hurricane recurves near Bermuda through early next week. Here's the latest.\nhttps://t.co/KF6No3OAcj https://t.co/kI8HQQsiTH",
+            "created_at": "2025-09-26T21:18:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a new tropical storm forming in the Bahamas, which has the potential to impact the Southeast coast. Given that tropical storms and hurricanes typically affect large populations, and especially considering the tweet references a potential threat to areas with significant populations, it's reasonable to infer that this storm could indeed affect over 10,000 people."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971681622333575567",
+            "text": "Arizona is being slammed by severe thunderstorms today, dropping hail up to the size of golf balls, with millions under flash flood warnings across the Phoenix metro area. https://t.co/0fHzAbkKNJ",
+            "created_at": "2025-09-26T21:01:45Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses severe thunderstorms in Arizona, indicating that the weather event is significant and potentially harmful. It mentions 'millions under flash flood warnings', suggesting an impact on a large number of people. Since the tweet describes a severe weather event that could affect over 10,000 individuals, it qualifies as talking about a natural disaster or storm."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971679687194890336",
+            "text": "Culiacán, Mexico now...🌊👀\nhttps://t.co/xYuahM4pK6",
+            "created_at": "2025-09-26T20:54:04Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet includes a location (Culiacán, Mexico) and an emoji that could imply a storm or flood (🌊), but it does not provide clear information about a specific natural disaster or storm that will affect over 10,000 people. The emoji and the phrase 'now' suggest an immediate situation, but without additional context or information about the scale or severity, I cannot conclude that it meets the criteria."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971678411493200288",
+            "text": "@zoom_earth https://t.co/m1ckjI77Qh",
+            "created_at": "2025-09-26T20:48:59Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet contains a URL and does not provide any specific content regarding a natural disaster or storm affecting over 10,000 people. Without additional information or context from the linked content, it cannot be determined if the tweet addresses such an event."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971677437688967446",
+            "text": "Humberto is now a major category 3 hurricane....\n\n📹 @zoom_earth \nhttps://t.co/1MBGLNA7TO",
+            "created_at": "2025-09-26T20:45:07Z",
+            "username": "Volcaholic1"
+          },
+          "pass": true,
+          "reasoning": "The tweet mentions 'Humberto' as a major category 3 hurricane, which qualifies as a natural disaster. Hurricanes can potentially affect a large number of people, and the mention of the category indicates significant severity. Therefore, it implies that it can impact over 10,000 people."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971675480362570084",
+            "text": "Culiacán, Mexico now!...🌊🌊🌊\nhttps://t.co/W8h1hEF2DO",
+            "created_at": "2025-09-26T20:37:21Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions Culiacán, Mexico and includes wave emojis, which could imply flooding or a storm. However, it does not provide explicit information about a natural disaster affecting over 10,000 people. Without clear evidence of an impact on that scale, the tweet cannot be definitively classified as discussing such a disaster."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971674180094742900",
+            "text": "Major flooding in Cienfuegos, Santiago, in Dominican republic today...🌊🌊🌊\nhttps://t.co/FpOXFhbaYZ",
+            "created_at": "2025-09-26T20:32:11Z",
+            "username": "Volcaholic1"
+          },
+          "pass": true,
+          "reasoning": "The tweet mentions 'major flooding' in a specific location (Cienfuegos, Santiago, Dominican Republic), indicating that it is indeed discussing a natural disaster. Flooding can be a catastrophic event that affects large numbers of people, and given the context and the seriousness of the situation described, it is reasonable to conclude that it likely impacts over 10,000 people."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971673292869456343",
+            "text": "RT @FeliciaCombsTWC: We're breaking down Invest 94L - what will likely be Imelda - Currently most models have the system impacting the sout…",
+            "created_at": "2025-09-26T20:28:39Z",
+            "username": "weatherchannel"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses 'Invest 94L,' which is likely to develop into a storm named 'Imelda.' It implies the system could impact the southern region, suggesting it may affect a significant number of people (over 10,000). Therefore, it fits the criteria of discussing a natural disaster or storm with potential widespread effects."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971672329043550537",
+            "text": "It's also one year ago since hurricane John hit Mexico but everyone was to focussed on Helene...\nhttps://t.co/wDTPE4lIE6",
+            "created_at": "2025-09-26T20:24:49Z",
+            "username": "Volcaholic1"
+          },
+          "pass": true,
+          "reasoning": "The tweet mentions 'hurricane John' which qualifies as a natural disaster. Hurricanes typically affect large populations, and given the scale of hurricanes, it can be inferred that it likely impacted over 10,000 people."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971670871460008435",
+            "text": "Bethepage where the Ryder cup is being held  💥⚡️",
+            "created_at": "2025-09-26T20:19:02Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions the Ryder Cup and includes emojis indicating excitement or energy, but it does not provide any information about a natural disaster or storm that would affect over 10,000 people. Therefore, it does not pass the criteria."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971668887197581560",
+            "text": "Major flooding in Bordj Bou Arreridj and M'Sila Provinces of Algeria over the past couple of days...🌊🌊🌊 https://t.co/inUWXpgjJ0",
+            "created_at": "2025-09-26T20:11:09Z",
+            "username": "Volcaholic1"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses major flooding in specific provinces of Algeria, which indicates a natural disaster. The use of 'major' suggests that the flooding is significant enough to impact a large number of people, likely exceeding the threshold of 10,000 affected individuals."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971666082936045689",
+            "text": "Have you noticed how many hurricanes starting with the letter \"I\" have been terribly destructive lately? It turns out there's a simple explanation. \nhttps://t.co/501lyIr1h8",
+            "created_at": "2025-09-26T20:00:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions hurricanes and their destructiveness but does not specify any particular incident or number of people affected. It provides an observation rather than explicit information regarding a natural disaster impacting over 10,000 people."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971664435933769964",
+            "text": "🍿🍿🍿",
+            "created_at": "2025-09-26T19:53:27Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not provide any content or context regarding a natural disaster or storm affecting a large population. It only contains popcorn emojis, which suggest anticipation or enjoyment rather than a serious topic."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971657539185266786",
+            "text": "https://t.co/WqDssx8jpY",
+            "created_at": "2025-09-26T19:26:03Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The provided tweet link (https://t.co/WqDssx8jpY) does not include any information to review, but based on the username 'Volcaholic1', it suggests a potential focus on volcanoes. Without access to the actual content of the tweet, there's no indication of it discussing a natural disaster or storm affecting over 10,000 people."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971654210061324539",
+            "text": "RT @volcaholic1: Ladies and gents, I give you a box phone farm. \n\nThese create and manage fake accounts for disinformation, trolling, scams…",
+            "created_at": "2025-09-26T19:12:49Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention any natural disaster or storm affecting people. It discusses a box phone farm that creates fake accounts for various negative purposes, with no implication of a natural disaster."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971641679141908480",
+            "text": "World’s oceans fail key health check as acidity crosses critical threshold for marine life.\n\nScientists call for renewed global effort to curb fossil fuels as seven of nine planetary boundaries now transgressed.\nhttps://t.co/rT4D8zAyo2",
+            "created_at": "2025-09-26T18:23:02Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the health of the world's oceans and the acidity level, which affects marine life, but it does not mention a specific natural disaster or storm impacting over 10,000 people. It focuses more on environmental issues rather than an immediate disaster affecting people."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971640773163503655",
+            "text": "Tropical storm alerts are expected to be issued in the Bahamas later today as a disturbance continues to organize. There is still significant uncertainty as to the details of how this will all shake out into next week. Here's the latest:\nhttps://t.co/KF6No3OAcj https://t.co/NgAdaaVwRI",
+            "created_at": "2025-09-26T18:19:26Z",
+            "username": "weatherchannel"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses tropical storm alerts being issued in the Bahamas, indicating that the weather disturbance could potentially impact a large number of residents. Given that the population of the Bahamas is over 10,000, the tweet implies the potential for a natural disaster affecting that many people."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971640263425905130",
+            "text": "RT @volcaholic1: Severe Tropical Cyclone Opong has battered the Philippines, making landfall in Oriental Mindoro after tearing through Masb…",
+            "created_at": "2025-09-26T18:17:24Z",
+            "username": "Volcaholic1"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses 'Severe Tropical Cyclone Opong' which is a natural disaster that has recently affected the Philippines. Given its description as a severe cyclone and the context of landfall, it implies a significant impact on a large population. Therefore, it is reasonable to conclude that it has or will affect over 10,000 people."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971629735940915242",
+            "text": "It's never too early to start getting prepared for a tropical storm or hurricane. Watch meteorologist @jordansteele show what you need to do during the countdown to landfall ⬇️",
+            "created_at": "2025-09-26T17:35:34Z",
+            "username": "weatherchannel"
+          },
+          "pass": true,
+          "reasoning": "The tweet mentions a tropical storm or hurricane and advises on preparations for it. Such storms typically affect large populations, often exceeding 10,000 people. Therefore, the content of the tweet is indeed discussing a natural disaster that has the potential to impact over 10,000 individuals."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971627196843479195",
+            "text": "Residents of Essentuki, Russia, captured a murmuration of birds tonight. \n\nLarge groups moved together in changing patterns across the sky illuminated by the city’s greenhouse lights. https://t.co/hxvCb9QFkm",
+            "created_at": "2025-09-26T17:25:29Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet describes a natural phenomenon (murmuration of birds) occurring in Essentuki, Russia, and does not mention any natural disaster or storm affecting people. It does not indicate any impact on over 10,000 people."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971622293408244196",
+            "text": "Space is filling fast with Starlink and other satellites. \n\nWill orbit turn into a junkyard in 20 years? \n\nHow long before collisions create more debris?\n\nAre we taking this seriously enough?",
+            "created_at": "2025-09-26T17:06:00Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the issue of satellite debris in space and questions its implications for the future. It does not mention any natural disasters or storms, nor does it refer to an event affecting 10,000 people."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971621320258724347",
+            "text": "How cool is this!  🌳🌴🌱\nhttps://t.co/WMY3YiVN9G",
+            "created_at": "2025-09-26T17:02:08Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention any natural disaster or storm; it talks about something that appears to be positive (e.g., nature) without implying any significant impact on people."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971614351401640053",
+            "text": "*Hepatitis",
+            "created_at": "2025-09-26T16:34:26Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet only mentions 'Hepatitis', which is a disease and not a natural disaster or storm. Therefore, it does not pertain to any event that affects over 10,000 people as a natural disaster would."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971610237435039802",
+            "text": "One year ago today, Hurricane Helene struck Florida’s Big Bend as a Category 4 storm, bringing catastrophic damage across the southeastern United States. \n\nThe hurricane caused severe inland flooding, left at least 250 people dead, and inflicted an estimated $78.7 billion in damages, making it one of the deadliest U.S. hurricanes in recent years.",
+            "created_at": "2025-09-26T16:18:06Z",
+            "username": "Volcaholic1"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses Hurricane Helene, emphasizing its catastrophic consequences including severe flooding, a high death toll of at least 250 people, and estimated damages of $78.7 billion. While the immediate impact mentions 250 deaths, the context of a Category 4 hurricane implies a substantial overall effect on a large population, likely exceeding 10,000 affected individuals due to widespread flooding and damage, fulfilling the criteria of the question."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971602661909950869",
+            "text": "At least 19 people have died this month after consuming bootleg alcohol in northwestern Russia’s Leningrad region near the border with Estonia, authorities said Friday.",
+            "created_at": "2025-09-26T15:47:59Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses deaths related to bootleg alcohol consumption, which does not qualify as a natural disaster or storm. Additionally, it mentions a specific number of fatalities (19), which does not meet the threshold of affecting over 10,000 people."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971599948753129891",
+            "text": "It’s time for the @rydercupusa. Here's a look at the gameday forecast. https://t.co/1cs63dkELg",
+            "created_at": "2025-09-26T15:37:12Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet from the weather channel is discussing a gameday forecast for the Ryder Cup and does not reference any natural disaster or storm affecting over 10,000 people."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971599734159839648",
+            "text": "5 PEDIATRIC RED ADVANCED LIFE SUPPORT PATIENTS TRANSPORTED TO KENDALL. ALL PATIENTS TOOK EDIBLES https://t.co/MhkK6QQn78",
+            "created_at": "2025-09-26T15:36:21Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses pediatric patients being transported due to a health issue related to drug consumption (edibles), not a natural disaster or storm affecting a large population."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971598508294820191",
+            "text": "👀👀",
+            "created_at": "2025-09-26T15:31:29Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet consists only of two emoji eyes and does not provide any information about a natural disaster or storm. Therefore, it does not meet the criteria of discussing an event that affects over 10,000 people."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971595499384783162",
+            "text": "A wildfire sparked by lightning in July forced evacuations and closures as it destroyed dozens of structures. Now the National Park Service has announced when portions of the North Rim will reopen.\nhttps://t.co/NXYQ4s9Uae",
+            "created_at": "2025-09-26T15:19:32Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a wildfire caused by lightning, which is a type of natural disaster. However, it does not mention any specific number of people affected or mention that it affects over 10,000 people. Therefore, it cannot be confirmed that it meets the criteria."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971593953574273034",
+            "text": "RT @CharlesPeekWX: Heading east with the SC coast in my GPS, for reporting on what could be Imelda. With the anniversary of Hurricane Helen…",
+            "created_at": "2025-09-26T15:13:23Z",
+            "username": "weatherchannel"
+          },
+          "pass": true,
+          "reasoning": "The tweet mentions a coastal report related to 'Imelda' and references a hurricane, indicating it is discussing a weather event that could impact a significant number of people. Therefore, it is reasonable to conclude that the tweet concerns a natural disaster affecting over 10,000 people."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971591264194932825",
+            "text": "RT @smFISHMAN: Check out the first part of my sitdown with @JimCantore as @weatherchannel looks back at the impacts of #HurricaneHelene one…",
+            "created_at": "2025-09-26T15:02:42Z",
+            "username": "weatherchannel"
+          },
+          "pass": true,
+          "reasoning": "The tweet references #HurricaneHelene, a hurricane that typically affects large populations. Given that hurricanes can impact thousands of people, often exceeding the threshold of 10,000, and the context suggesting that it looks back at impacts, it can be reasonably concluded that this tweet is discussing a natural disaster that has affected or will affect a significant number of people."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971579324424946084",
+            "text": "RT @LaFemmePhojo: We’re live from WNC with @weatherchannel this morning on the anniversary of Hurricane Helene. https://t.co/n4NCKKKaxi",
+            "created_at": "2025-09-26T14:15:15Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet refers to the anniversary of Hurricane Helene but does not indicate any current or future disaster affecting over 10,000 people. It is merely a commemoration and does not convey any imminent threat or disaster."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971577248231911566",
+            "text": "Recovery efforts are ongoing one year after Hurricane Helene devastated Western North Carolina. Senior National Correspondent @JMichaelsNews reports in Chimney Rock this morning. https://t.co/cBqIfpHGNg",
+            "created_at": "2025-09-26T14:07:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses recovery efforts following Hurricane Helene, which indicates that a natural disaster has occurred that affected a region. Given the scale of hurricanes, it is reasonable to conclude that it likely impacted over 10,000 people."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971548459867250715",
+            "text": "RT @kellycass: Not only do we have Hurricane Humberto, but another area that is forecast to develop &amp; become Imelda. This one has the poten…",
+            "created_at": "2025-09-26T12:12:37Z",
+            "username": "weatherchannel"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses Hurricane Humberto and mentions the potential development of another storm, Imelda. Hurricanes typically impact large populations, often exceeding 10,000 people, especially in terms of evacuation orders and potential disaster impacts."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971548310088352032",
+            "text": "The Southeast should prepare for a multiday flood threat beginning today. Several inches of rain could lead to flooding, and this is before any potential impacts from future Imelda next week. See the video for more. https://t.co/NUX8U23sp0 https://t.co/HqTUXrTeiJ",
+            "created_at": "2025-09-26T12:12:01Z",
+            "username": "weatherchannel"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a multiday flood threat in the Southeast, which indicates potential flooding that could affect a large number of people, possibly over 10,000. Additionally, it mentions future impacts from a storm named Imelda, further supporting the idea that this could be a significant natural disaster."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971533966277566921",
+            "text": "Future Imelda will likely develop Friday or Saturday, and could bring potential impacts to Georgia and the Carolinas next week. Watch this video for the latest track and timing. https://t.co/DmxhKd53ci https://t.co/gohU08qM4r",
+            "created_at": "2025-09-26T11:15:01Z",
+            "username": "weatherchannel"
+          },
+          "pass": true,
+          "reasoning": "The tweet mentions Future Imelda potentially developing and bringing impacts to Georgia and the Carolinas, indicating that it is discussing a storm that could affect a significant number of people in those regions. Additionally, the reference to 'potential impacts' suggests that there is a concern for a natural disaster that could impact over 10,000 people."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971523139239555308",
+            "text": "Humberto has officially become a hurricane in the central Atlantic. Here's the latest.  https://t.co/KF6No3OAcj",
+            "created_at": "2025-09-26T10:32:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Hurricane Humberto but does not provide specific information indicating that it will affect over 10,000 people. It is merely a notification of its status as a hurricane."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971413690617303490",
+            "text": "Humberto continues to strengthen and is expected to become a major hurricane by the weekend. We are still watching Invest 94L. Here's the latest:\nhttps://t.co/KF6No3OAcj https://t.co/LjZlhILDYm",
+            "created_at": "2025-09-26T03:17:05Z",
+            "username": "weatherchannel"
+          },
+          "pass": true,
+          "reasoning": "The tweet mentions Hurricane Humberto, which indicates that it is discussing a natural disaster that could affect many people. Major hurricanes typically have the potential to impact over 10,000 individuals due to their size and severity."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971380449575604703",
+            "text": "Tonight, we revisit areas that were at the center of the storm’s devastation. Watch \"Helene: One Year Later\" at 10/9c on The Weather Channel and streaming on The Weather Channel TV app: https://t.co/Feaf8zTBxX https://t.co/oWq5W8SANG",
+            "created_at": "2025-09-26T01:05:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": true,
+          "reasoning": "The tweet references areas affected by a storm's devastation, implying a significant impact that could potentially affect over 10,000 people. Thus, it is relevant to the question about natural disasters."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971338240163733851",
+            "text": "RT @wxunfiltered: \"The risks for the east coast are going up\" - @DrRickKnabb \n\nInvest 94L (future #Imelda) is getting better organized this…",
+            "created_at": "2025-09-25T22:17:16Z",
+            "username": "weatherchannel"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a developing weather event (Invest 94L or future #Imelda) that poses risks for the east coast, implying potential impacts on the population. Since this situation could lead to a significant weather event affecting a large number of people, it suggests the possibility of a natural disaster that may impact over 10,000 individuals."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971333894419972570",
+            "text": "Two skydivers got the view of a lifetime when they saw a fully circular rainbow on their way back down to Earth. Our meteorologist Caitlin Kaiser explains how this was all possible. https://t.co/4jIe6iixzN https://t.co/N7FQuYL0QR",
+            "created_at": "2025-09-25T22:00:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet describes a phenomenon involving skydivers viewing a circular rainbow and does not mention any natural disaster, storm, or any event affecting a large population."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971303696760754264",
+            "text": "Watch as this gamer's session is interrupted by a 6.3 magnitude earthquake in Venezuela. Hopefully he got to pause his game. 🎮 https://t.co/Dr5oP4oBc3 https://t.co/URQuq14f2a",
+            "created_at": "2025-09-25T20:00:01Z",
+            "username": "weatherchannel"
+          },
+          "pass": true,
+          "reasoning": "The tweet mentions a 6.3 magnitude earthquake in Venezuela, which qualifies as a natural disaster. Earthquakes of this magnitude can significantly affect large populations, often resulting in impacts on over 10,000 people, especially in populated areas. Therefore, the tweet is discussing a natural disaster that has the potential to affect a large number of individuals."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971298477343711324",
+            "text": "Humberto could become the season's next major hurricane, but the next system, which is set to become Tropical Storm Imelda, could be a threat to the Bahamas and U.S. Here's what you need to know:\nhttps://t.co/KF6No3OAcj https://t.co/cW9hUk4sLV",
+            "created_at": "2025-09-25T19:39:16Z",
+            "username": "weatherchannel"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a potential major hurricane (Humberto) and a tropical storm (Imelda) that could affect the Bahamas and the U.S., indicating that it could impact a large population, likely over 10,000 people."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971271149146472527",
+            "text": "A hurricane is heading for Europe.\n#HurricaneGabrielle is on track for a direct hit on the Azores, with tropical storm conditions expected in Spain &amp; mainland Portugal.\nThis could be one of the most severe Atlantic systems to reach Iberia. https://t.co/2ngclARzt8",
+            "created_at": "2025-09-25T17:50:41Z",
+            "username": "PGDynes"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses Hurricane Gabrielle, which is projected to affect a large area including the Azores, Spain, and mainland Portugal. Since hurricanes typically impact many people, and the tweet mentions that it could be one of the most severe systems to reach Iberia, it can be reasonably inferred that over 10,000 people will be affected."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971269350138241256",
+            "text": "RT @MEERsrm: ”Our native trees are no longer native. They’re foreigners now.” An arborist’s words sparked Mike Tidwell’s book on how climat…",
+            "created_at": "2025-09-25T17:43:32Z",
+            "username": "PGDynes"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses an author's book related to climate change and the status of native trees, but it does not mention any natural disasters or storms impacting a large population."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971269335403593761",
+            "text": "RT @MEERsrm: This week, Dr. Ye Tao visited Solthis in Freetown to explore how MEER’s passive cooling roofs could support healthcare centers…",
+            "created_at": "2025-09-25T17:43:28Z",
+            "username": "PGDynes"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention a natural disaster or storm, nor does it imply any immediate threat affecting a large population. It discusses a visit related to healthcare solutions."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970752946238562809",
+            "text": "A prolific thunderstorm outbreak is ongoing across California’s Central Coast, with thousands of strikes recorded over the past 12 hours.\n\nThunderstorms are much further north than was expected by this time near Carmel and could reach the Bay Area soon. https://t.co/fUfmA0OrXE",
+            "created_at": "2025-09-24T07:31:31Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a thunderstorm outbreak occurring in California's Central Coast with 'thousands of strikes recorded', indicating significant weather activity. It also mentions the potential impact on the Bay Area, which has a large population, suggesting that the storm is likely to affect over 10,000 people."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970618277450887423",
+            "text": "RT @bclemms: Super Typhoon Ragasa is ripping in Hong Kong. https://t.co/BcuyYCRm8Y",
+            "created_at": "2025-09-23T22:36:24Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": true,
+          "reasoning": "The tweet mentions 'Super Typhoon Ragasa,' which indicates a significant weather event likely to impact a large population. Given that the tweet mentions Hong Kong, a densely populated area, it suggests that this storm could potentially affect over 10,000 people."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970603236651659709",
+            "text": "A rare thunderstorm outbreak is possible along the Central Coast and into the SF Bay Area tonight into tomorrow. \n\nThunderstorms are a big deal in this part of the world because the Bay Area sees some of the fewest thunderstorms of any place on Earth outside the polar regions. https://t.co/m8hbkdCtB7",
+            "created_at": "2025-09-23T21:36:38Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a rare thunderstorm outbreak and its potential effects on the Central Coast and SF Bay Area. However, it does not specify or imply that this storm will affect over 10,000 people. It focuses on the rarity of thunderstorms in that area rather than on the scale or impact on the population."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970591857735606340",
+            "text": "The greater Hong Kong area (GBA), home to 86 million people, is dodging a bullet as the inner core of Category 4 Typhoon Ragasa passes just south of the region with sustained winds of 130 mph and gusts up to 160 mph.\n\nMore than 750,000 people in South China have been forced to evacuate as the typhoon nears landfall, while Hong Kong has essentially been shut down due to the storm.",
+            "created_at": "2025-09-23T20:51:25Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses Typhoon Ragasa, which is a natural disaster affecting a large area. It mentions that more than 750,000 people in South China have been forced to evacuate, which clearly indicates an impact on a population exceeding 10,000 people. Therefore, the tweet is indeed talking about a natural disaster that has or will affect over 10,000 people."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970436467047739766",
+            "text": "RT @MEERsrm: Ariana Ejupi, MEER’s Senior Project Officer, met with Mike Tidwell, Founder &amp; Director of the Chesapeake Climate Action Networ…",
+            "created_at": "2025-09-23T10:33:57Z",
+            "username": "PGDynes"
+          },
+          "pass": false,
+          "reasoning": "The tweet is about a meeting involving climate action and does not mention any natural disaster or storm affecting a large population."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970278879987409289",
+            "text": "Insane video of a tornado roaring across Torch Lake in Northern Michigan, the same lake where I have family vacationed every summer for the last 10 years! \n\nhttps://t.co/pMrU6c44Op",
+            "created_at": "2025-09-23T00:07:45Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": true,
+          "reasoning": "The tweet describes a tornado, which is a type of natural disaster. It mentions an insane video of a tornado and implies potential danger to people in the area, particularly since it references a popular vacation spot. Given that tornadoes can affect large areas and populations, it meets the criteria of talking about a natural disaster that could impact over 10,000 people."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970272162109100397",
+            "text": "RT @PappenheimWx: Speechless. Unreal tornado just occurred on Torch Lake in Michigan. I was watching the webcam when it initially touched d…",
+            "created_at": "2025-09-22T23:41:03Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": true,
+          "reasoning": "The tweet mentions a tornado that occurred in Michigan, which is a type of natural disaster. Given that tornadoes can affect large areas and populations, and the use of the term 'unreal' suggests a significant event, it can be inferred that this event may impact over 10,000 people."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970250776833597536",
+            "text": "Typhoon Ragasa was meant to be a once-in-50-year storm. Now, we’re seeing super typhoons like this every 3–4 years.\nThis isn’t anything normal — it’s the #ClimateCrisis and insurance for Hong Kong is just about to get even more expensive. https://t.co/8QUtKGOn35",
+            "created_at": "2025-09-22T22:16:05Z",
+            "username": "PGDynes"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses Typhoon Ragasa, describing it as a significant storm that is part of a concerning trend related to climate change. Given that typhoons generally impact large populations and the reference to insurance in Hong Kong implies significant economic and possibly social impact, it can be inferred that this storm is affecting or will affect over 10,000 people."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970191726456512878",
+            "text": "Europe has an air conditioning problem.\n\nAn estimated 175,000 people die from extreme heat every year in Europe, compared with just over 2,000 in the U.S. last year.\n\nOnly 20% of European homes have AC, versus 90% in the U.S.\n\nYou are nearly 4× more likely to die of extreme heat in Europe than to be fatally shot in the United States.\n\nIn Europe, future energy demands from installing AC will increasingly be supplied by clean energy sources.\n\nBut with rising temperatures driven by climate change, not having AC in Europe is becoming downright dangerous.\n\nIn Barcelona for example, the number of tropical nights has quadrupled since the 1950s.\n\nDespite having similar climates, Barcelona faces a 400% higher mortality risk than Los Angeles when temperatures climb above 30 °C (86 °F).\n\nGlobally, nights are warming faster than days due to climate change, and this is when mortality risk is highest, because the body cannot recover from daytime heat.\n\nWill Europe widely adopt AC, or continue sweating through brutal summers that are only getting worse?",
+            "created_at": "2025-09-22T18:21:26Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses extreme heat issues and the lack of air conditioning in Europe, but does not specifically mention a natural disaster or storm that affects over 10,000 people. It focuses on climate change and its implications for health and energy usage rather than reporting on a specific event impacting a large population."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1969924132998619483",
+            "text": "The Philippines’ Babuyan Islands are just hours away from a catastrophic strike by Category 5 Super Typhoon Ragasa, packing sustained winds of 165 mph and gusts up to 200 mph.\n\nThe remote islands are home to about 20,000 people, many of whom live in poverty. https://t.co/EmP7mAFmqW",
+            "created_at": "2025-09-22T00:38:07Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses Super Typhoon Ragasa, which is a natural disaster likely to affect over 10,000 people, as the Babuyan Islands have a population of about 20,000. The imminent catastrophic strike implies a significant impact on the affected population."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1969891829702353172",
+            "text": "A lot of my friends in SoCal have been talking about how much more humid it’s felt over the last 10 years. and many of them have had to get AC because of it.\n\nHave you noticed the same thing living along the coast?\n\nIt's very humid today along the SoCal coast, with a marine heatwave offshore adding extra mugginess and tropical moisture streaming in from the south.",
+            "created_at": "2025-09-21T22:29:45Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses humidity and a marine heatwave, but it does not mention a natural disaster or storm affecting over 10,000 people. Instead, it reflects personal experiences related to weather changes without indicating significant impacts or events."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1969887603869782200",
+            "text": "30 hour timelapse of the strongest storm on the planet, Category 5 Super Typhoon Ragasa in the Western Pacific. \n\nThe storm is packing 165 mph winds with catastrophic wind gusts up to 200 mph. https://t.co/PcQiBW6C0y",
+            "created_at": "2025-09-21T22:12:58Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": true,
+          "reasoning": "The tweet describes Category 5 Super Typhoon Ragasa, which is a significant natural disaster with extremely high winds and catastrophic potential. Given the nature of such storms, they typically affect a large population, likely exceeding 10,000 people in impacted areas."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1969577085829333268",
+            "text": "Wildfire smoke kills more people in the US each year than car crashes, 41,000 deaths annually, per a new Stanford study in Nature.",
+            "created_at": "2025-09-21T01:39:04Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses wildfire smoke and its associated death toll, but it does not mention a specific natural disaster or storm affecting over 10,000 people. Instead, it presents statistics related to fatalities due to wildfire smoke specifically."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1969567922696921466",
+            "text": "San Francisco has been drought-free for over 900 days, its longest stretch without drought in nearly 20 years. https://t.co/FflsNz3Gtb",
+            "created_at": "2025-09-21T01:02:40Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the lack of drought in San Francisco for a specific duration, but it does not mention any natural disaster or storm that has or will affect over 10,000 people. Instead, it highlights a positive environmental condition."
+        }
+      ],
+      "count": 68,
+      "filter_question": "Is this tweet talking about a natural disaster or storm that has or will affect over 10,000 people?",
+      "summarization_question": "Summarize natural disasters this week",
+      "summary": "Direct answer — this week’s natural-disaster activity: Multiple active and damaging weather disasters worldwide centered on tropical cyclones (Atlantic hurricanes and a Western Pacific super typhoon), heavy rainfall/flooding events, intense convective storms in the U.S. Southwest, and at least one notable earthquake. The biggest immediate threats are a very powerful Super Typhoon Ragasa in the Western Pacific and an organizing Atlantic system (Invest 94L / Potential Tropical Cyclone Nine, likely to become Tropical Storm Imelda) that threatens heavy, multi-day flooding across the U.S. Southeast.\n\nKey themes and topics\n- Tropical activity is high across basins: a Category 5+ super typhoon in the Western Pacific (Ragasa), an intensifying Atlantic hurricane (Humberto), and an organizing Atlantic disturbance (Invest 94L / Potential Tropical Cyclone Nine) that forecasters warn could become Tropical Storm Imelda and bring major rainfall to the Carolinas and Georgia. See reporting on the Bahamas/Invest 94L [Weather Channel thread](https://x.com/weatherchannel/status/1971685713226711336) and on Potential Tropical Cyclone Nine [Weather Channel update](https://x.com/weatherchannel/status/1971691460010578410).\n- Flooding is a top hazard this week — from anticipated inland rainfall with Invest 94L (some model runs showing 12+ inches for parts of the Carolinas) to acute flash and urban flooding from severe thunderstorms across the U.S. Southwest and large-scale flooding reported in North Africa and the Caribbean. See the concern for Carolina flooding [US_Stormwatch](https://x.com/US_Stormwatch/status/1971686281638982079) and state preparations in South Carolina [Volcaholic1](https://x.com/Volcaholic1/status/1971686656731426932).\n- Intense convective storms: Arizona experienced severe thunderstorms with very large hail and widespread flash-flood warnings in the Phoenix area [US_Stormwatch](https://x.com/US_Stormwatch/status/1971681622333575567).\n- Rapid-onset, high-impact events in populated areas: a destructive Western Pacific super typhoon threatening Philippine islands and forcing evacuations in South China/Hong Kong, and a dramatic tornado sighting on Torch Lake in Michigan captured on video. See the typhoon coverage [US_Stormwatch](https://x.com/US_Stormwatch/status/1969924132998619483) and the Torch Lake tornado video [US_Stormwatch](https://x.com/US_Stormwatch/status/1970278879987409289).\n- Seismic event: an on-camera interruption by a 6.3 magnitude earthquake in Venezuela was shared by The Weather Channel [Weather Channel](https://x.com/weatherchannel/status/1971303696760754264).\n\nNotable patterns and trends\n- An active tropical season across multiple basins: simultaneous major systems are present (Western Pacific super typhoon Ragasa and strengthening Atlantic hurricanes/invests), increasing regional risk. The Weather Channel and storm accounts emphasize repeated tropical threats this week [Weather Channel on Humberto and Imelda](https://x.com/weatherchannel/status/1971413690617303490).\n- Flooding as the predominant hazard: multiple posts highlight that with tropical systems, \"water is the killer\" — many of the highest risks this week are flood-related (long-duration rain totals, flash flooding). Example: model runs suggesting 12+ inches for some Carolina locations from Potential Tropical Cyclone Nine [US_Stormwatch](https://x.com/US_Stormwatch/status/1971686281638982079).\n- Increasing intensity of extreme storms: commentary linking very strong storms (e.g., Ragasa) to broader climate trends appears in the discussion about storm frequency and insurance impacts in Hong Kong and the region [PGDynes on Ragasa/climate](https://x.com/PGDynes/status/1970250776833597536).\n\nImportant mentions, interactions, and data points\n- Super Typhoon Ragasa: described as a Category 5-level super typhoon with sustained winds reported near 165 mph and gusts up to ~200 mph in imagery/timelapses and warnings; remote Philippine islands (Babuyan Islands) and parts of South China were threatened with large-scale evacuations (reports cite ~750,000 people evacuated) as the storm approached landfall [US_Stormwatch timelapse & impact posts](https://x.com/US_Stormwatch/status/1969887603869782200) and [impact report](https://x.com/US_Stormwatch/status/1969924132998619483).\n- Invest 94L / Potential Tropical Cyclone Nine (future Imelda): organizing near the Bahamas with tropical-storm alerts expected there, forecasts showing the system slowing near the South Carolina coast and producing heavy multi-day rainfall for the Southeast (some model guidance showing 12+ inches in spots). South Carolina declared a state of emergency ahead of possible effects [Weather Channel updates](https://x.com/weatherchannel/status/1971685713226711336) and [Volcaholic1 on the SC emergency](https://x.com/Volcaholic1/status/1971686656731426932). Forecasters emphasize flood risk over wind (see [US_Stormwatch concern](https://x.com/US_Stormwatch/status/1971686281638982079)).\n- Atlantic hurricane Humberto: continuing to strengthen and noted as reaching major-hurricane intensity (Category 3), monitored for further intensification and impacts near Bermuda/Atlantic [Volcaholic1 footage/alert](https://x.com/Volcaholic1/status/1971677437688967446) and Weather Channel updates on Humberto [Weather Channel](https://x.com/weatherchannel/status/1971413690617303490).\n- Regional flooding reports: major flooding reported in Algeria (Bordj Bou Arreridj and M'Sila provinces) [Volcaholic1](https://x.com/Volcaholic1/status/1971668887197581560) and in parts of the Dominican Republic (Cienfuegos, Santiago) [Volcaholic1](https://x.com/Volcaholic1/status/1971674180094742900).\n- U.S. convective hazards: Arizona hit by severe storms with golf-ball–size hail and widespread flash-flood warnings for Phoenix-area residents [US_Stormwatch](https://x.com/US_Stormwatch/status/1971681622333575567). A dramatic tornado over Torch Lake, Michigan was widely shared on social media [US_Stormwatch](https://x.com/US_Stormwatch/status/1970278879987409289).\n- Earthquake: a magnitude 6.3 quake in Venezuela disrupted a livestreamed video and was captured on camera; no broader damage update provided in the tweet [Weather Channel](https://x.com/weatherchannel/status/1971303696760754264).\n- Europe threat: a powerful post-tropical/hurricane system (Hurricane Gabrielle) is noted as tracking toward the Azores and possibly bringing tropical-storm conditions to parts of Spain and mainland Portugal [PGDynes](https://x.com/PGDynes/status/1971271149146472527).\n\nSignificant events (one-paragraph highlights)\n- Super Typhoon Ragasa (Western Pacific): This is the most severe single event reported this week. Ragasa intensified into a Category 4–5 super typhoon with sustained winds reported around 165 mph and catastrophic gusts up to ~200 mph in imagery and timelapses; it threatened the Babuyan Islands and nearby Philippine areas with catastrophic impact and forced large-scale evacuations in South China and the broader Greater Bay Area as the inner core passed near populated coasts [US_Stormwatch timelapse and impact posts](https://x.com/US_Stormwatch/status/1969887603869782200) and [impact threat to islands](https://x.com/US_Stormwatch/status/1969924132998619483). This event is being framed as an extreme, high-consequence tropical strike with immediate humanitarian and infrastructure risk.\n\n- Invest 94L / Potential Tropical Cyclone Nine (future Imelda) — Southeast U.S. flood threat: A rapidly organizing disturbance near the Bahamas is expected to become a tropical storm (Imelda) and could slow near the South Carolina coast, producing multi-day heavy rainfall and significant flooding risk for Georgia and the Carolinas; some model scenarios show localized 12+ inch totals. State officials preemptively declared emergencies and forecasters repeatedly emphasized flooding as the dominant hazard rather than wind, urging preparations and tropical-storm/hurricane readiness [Weather Channel coverage](https://x.com/weatherchannel/status/1971685713226711336), [Potential Tropical Cyclone Nine summary](https://x.com/weatherchannel/status/1971691460010578410), and the U.S. Stormwatch concerns on heavy rain/flooding [US_Stormwatch](https://x.com/US_Stormwatch/status/1971686281638982079).\n\nOther notable impacts and developments\n- Flooding events reported in Algeria and the Dominican Republic this week indicate widespread heavy-rain impacts beyond tropical basins [Algeria flooding](https://x.com/Volcaholic1/status/1971668887197581560) and [Dominican Republic flooding](https://x.com/Volcaholic1/status/1971674180094742900).\n- Severe thunderstorms with very large hail and flash-flood warnings affected Arizona (Phoenix metro) and a dramatic tornado was filmed on Torch Lake, Michigan, illustrating the broad range of convective hazards occurring this week [Arizona storms](https://x.com/US_Stormwatch/status/1971681622333575567) [Torch Lake tornado](https://x.com/US_Stormwatch/status/1970278879987409289).\n- The Atlantic/European connection: Hurricane Humberto strengthened to major hurricane status in the Atlantic, and another system (Gabrielle) is noted as a potential threat to the Azores and Iberia, highlighting a packed Atlantic basin this week [Humberto video](https://x.com/Volcaholic1/status/1971677437688967446) and [Gabrielle toward Europe](https://x.com/PGDynes/status/1971271149146472527).\n\nBottom line: This week is marked by very active, high-impact tropical activity across ocean basins (a catastrophic Western Pacific super typhoon and multiple Atlantic threats), widespread flood risk (both forecast and observed), and several violent convective events and one notable earthquake. The clearest immediate public hazards are catastrophic wind and surge risk in areas threatened by Ragasa and a multi-day flooding threat to the U.S. Southeast from Invest 94L/Potential Tropical Cyclone Nine; emergency declarations and evacuation notices are already in effect in several locations. Where possible, follow official local emergency products and trusted meteorological agencies for life-safety guidance and forecasts."
+    },
+    "completed_at": "2025-09-26T23:08:08.763776Z",
+    "processing_time_seconds": 69
+  }
+}

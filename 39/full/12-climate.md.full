@@ -1,0 +1,1918 @@
+{
+  "success": true,
+  "message": "Job results retrieved successfully",
+  "data": {
+    "job_id": "0d712bd7-d07f-41ce-a66b-c04c56d9dda3",
+    "status": "completed",
+    "results": {
+      "filtered_tweets": [
+        {
+          "tweet": {
+            "tweet_id": "1971691499961418061",
+            "text": "40 years of documenting vanishing glaciers.\n\nTake a hike with @benstracy to witness how one father/daughter team is blending science and art to tell a story of climate change, loss, and legacy.\n#ClimateMatters\nhttps://t.co/toEDb07Lnm",
+            "created_at": "2025-09-26T21:41:00Z",
+            "username": "ClimateCentral"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the documentation of vanishing glaciers and mentions how one father/daughter team uses science and art to address climate change, which indicates that it is indeed talking about a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971690709515489643",
+            "text": "Want to see how many risky heat days you've experienced in your lifetime?\n\nThen see how many extra risky heat days you've experienced that were added by human-caused climate change? \n\nCheck out &amp; show your family/friends this Generational Warming Tool 👇\nhttps://t.co/vl1NllzP1r",
+            "created_at": "2025-09-26T21:37:52Z",
+            "username": "ClimateCentral"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses topics directly related to climate change, specifically mentioning 'human-caused climate change' and 'risky heat days', which are related to climate development. Therefore, it is indeed talking about a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971690706231328979",
+            "text": "Because of climate change, kids today are growing up in a very different climate.\n\nAcross 247 U.S. cities:\n👶 A Gen Z child experienced 2x more extremely hot days than a millennial child.\n👧 Compared to Gen X, that’s 4x more days of extreme heat during childhood. https://t.co/WjmVUO9N23",
+            "created_at": "2025-09-26T21:37:51Z",
+            "username": "ClimateCentral"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the impacts of climate change on children's experiences with extreme heat, indicating a clear development in climate over time."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971678546608455963",
+            "text": "RT @osbornforne: https://t.co/LuSZMwMIlw",
+            "created_at": "2025-09-26T20:49:32Z",
+            "username": "dwallacewells"
+          },
+          "pass": false,
+          "reasoning": "The tweet contains a retweet link without any additional context or text. There is no indication or content in the tweet itself that relates to developments in climate, as it simply references another user's tweet."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971674395921027457",
+            "text": "The Trump administration has offered coal reserves on public lands in Wyoming in its latest move to reinvigorate the country’s coal industry.\nhttps://t.co/aGtBRK3kmM",
+            "created_at": "2025-09-26T20:33:02Z",
+            "username": "insideclimate"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a specific action taken by the Trump administration regarding coal reserves and the coal industry, which is related to energy policy rather than a direct development or event in climate change itself. Therefore, it does not explicitly talk about a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971669894585307266",
+            "text": "Guest post: How the role of carbon storage has been hugely overestimated | @mattgidden @JoeriRogelj\n\nRead here: https://t.co/yKRIG3yXZW https://t.co/0efge5EiXC",
+            "created_at": "2025-09-26T20:15:09Z",
+            "username": "CarbonBrief"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the role of carbon storage in relation to climate but emphasizes that it has been overestimated. While it is related to climate, it does not indicate a recent development or event in climate itself."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971667486044311839",
+            "text": "RT @bfurnas: Mayor Anne Hidalgo of Paris, on the importance of mayoral leadership on great streets for walking, biking, and public transit:…",
+            "created_at": "2025-09-26T20:05:35Z",
+            "username": "dwallacewells"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing mayoral leadership in Paris regarding streets for walking, biking, and public transit. While issues of urban planning can relate to climate discourse, the tweet does not directly reference a specific climate development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971665639510364281",
+            "text": "RT @rahmstorf: Die Dt. Meteorologischen und Physikalischen Gesellschaften warnen: \"Bereits bis 2050 besteht das Risiko einer Erwärmung um 3…",
+            "created_at": "2025-09-26T19:58:14Z",
+            "username": "dwallacewells"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a warning about potential warming impacts by 2050, which is directly related to climate development and change."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971664382309683270",
+            "text": "RT @David_J_Bier: Remember just a couple months ago when ICE claimed that there was NO RACIAL PROFILING in LA, and then a court banned raci…",
+            "created_at": "2025-09-26T19:53:15Z",
+            "username": "dwallacewells"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a legal ruling related to racial profiling by ICE in LA, which does not pertain to climate development or issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971664317520269525",
+            "text": "RT @chrislhayes: ICE has detained the superintendent of the Des Moines school system.\n\nhttps://t.co/gYCqLhSJWg",
+            "created_at": "2025-09-26T19:52:59Z",
+            "username": "dwallacewells"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the detention of a school superintendent, which is related to immigration enforcement rather than climate change. Therefore, it does not talk about a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971664147378327557",
+            "text": "\"These estimates correspond to preventing approximately 398 to 1,318 VLBW births annually.\"",
+            "created_at": "2025-09-26T19:52:19Z",
+            "username": "dwallacewells"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention climate or any related developments. It appears to focus on estimates related to low birth weight births, which is not directly connected to climate issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971664119779807602",
+            "text": "\"Based on our estimates, a one standard deviation increase in EV adoption (equivalent to 11.98 EVs per 1,000 vehicles) reduces the incidence of very low birth-weight births by about 0.79% in the TWFE specification and 2.63% in the IV specification.\" https://t.co/XzRd8OOQzB",
+            "created_at": "2025-09-26T19:52:12Z",
+            "username": "dwallacewells"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the impact of electric vehicle (EV) adoption on birth weights, which is related to environmental factors and public health. It implies that increasing EV usage could lead to a positive outcome for climate-related issues, such as air quality and its effects on health, thus tying it to climate development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971663489430114502",
+            "text": "\"...reflecting not only clinical influence but also the algorithmic logic of American platforms.\"",
+            "created_at": "2025-09-26T19:49:42Z",
+            "username": "dwallacewells"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention climate or any related topics. It appears to focus on clinical influence and algorithmic logic of platforms, which are unrelated to climate development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971663450784124966",
+            "text": "\"The same dynamic that has Americanised British political discourse has also reshaped how Britons understand their inner lives. Our distress is narrated less in native idioms and more through imported categories ...\" https://t.co/yMZz7NWCw6",
+            "created_at": "2025-09-26T19:49:33Z",
+            "username": "dwallacewells"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the influence of American political discourse on British self-perception and emotional expression, rather than addressing a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971662265410900341",
+            "text": "RT @DKThomp: New study: Research shows liberals have worse mental health than conservatives. But what if you ask about \"mood\" to avoid poss…",
+            "created_at": "2025-09-26T19:44:50Z",
+            "username": "dwallacewells"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions a study about mental health differences between liberals and conservatives, which is unrelated to climate developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971658710956364138",
+            "text": "Want to see how much your city has warmed (and compare it to your state &amp; the U.S.)?\n\n⬇️⬇️⬇️\nhttps://t.co/jn1sTzk2ek",
+            "created_at": "2025-09-26T19:30:42Z",
+            "username": "ClimateCentral"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses how much a city has warmed in relation to the state and the U.S., which indicates it is addressing climate change development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971658707110187502",
+            "text": "Average temperatures have been going up in many cities, including New Orleans...\n\n...but what does that warming trend SOUND like? \n@WAdrewhawkins walks you through the data using...music! 🎶 https://t.co/LEAKBbkjOC\n\n#ClimateMatters https://t.co/YQlioFLi5V",
+            "created_at": "2025-09-26T19:30:42Z",
+            "username": "ClimateCentral"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses average temperature trends in various cities, which is a direct reference to climate change and its impacts. It also mentions climate explicitly through hashtags and the context of the tweet."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971653005175816403",
+            "text": "Analysis: UK foreign aid for nature hits £800m record due to cash for carbon credits  | @Josh_Gabbatiss \n\nRead here: https://t.co/DVnmOvI9Tw https://t.co/97RkFY398M",
+            "created_at": "2025-09-26T19:08:02Z",
+            "username": "CarbonBrief"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses UK foreign aid for nature, which includes funding linked to carbon credits. This indicates a focus on environmental issues related to climate change and efforts to support sustainability, thus it can be considered a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971649808915222812",
+            "text": "Extreme heat presents dangerous risks to global maternal health and birth outcomes.\n\n@DavidSchechter reports on how climate change is raising those risks 👉\nhttps://t.co/bGCKZrGozH\n\n#ClimateMatters https://t.co/s7THo381oV",
+            "created_at": "2025-09-26T18:55:20Z",
+            "username": "ClimateCentral"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses extreme heat and its impacts on global maternal health, linking these issues directly to climate change. Therefore, it is discussing a development related to climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971648522593489117",
+            "text": "Just since 1970, 📍Albany, NY has warmed by 4.3°F.\n\nThere is a clear way of knowing that this is human-caused climate change. \n\n@CBS6Steve walks you through the data 🔽\n#ClimateMatters\n\nhttps://t.co/50xx2q4XJJ",
+            "created_at": "2025-09-26T18:50:13Z",
+            "username": "ClimateCentral"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the warming of Albany, NY by 4.3°F since 1970 and attributes it to human-caused climate change. This indicates that the tweet is indeed talking about a development related to climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971646459687682084",
+            "text": "Guest post: How adaptation has cut flood deaths and losses in Europe | Dr Dominik Paprotny\n\nRead here:  https://t.co/dpf9JIaOvh https://t.co/8Y1JPljbQ3",
+            "created_at": "2025-09-26T18:42:02Z",
+            "username": "CarbonBrief"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a guest post about adaptation measures that have successfully reduced flood deaths and losses in Europe, which relates to climate issues such as flood management and climate resilience."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971636228929081451",
+            "text": "RT @ReichlinMelnick: 🚨NEW: For the first time EVER, the largest group of people arrested in the interior and detained by ICE are people wit…",
+            "created_at": "2025-09-26T18:01:22Z",
+            "username": "dwallacewells"
+          },
+          "pass": false,
+          "reasoning": "The tweet focuses on a development related to immigration enforcement (ICE arrests) rather than climate issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971635966835093831",
+            "text": "Our founder @algore spoke with @dgelles of @nytimes' Climate Forward on advancing #ClimateAction even as the Trump Administration undermines progress. \n\nThis movement is bigger than any one administration because millions will continue to fight for a sustainable climate future. https://t.co/zsLVQFksjb",
+            "created_at": "2025-09-26T18:00:20Z",
+            "username": "ClimateReality"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses climate action and the impact of the Trump Administration on climate progress, indicating that it is indeed focused on developments in climate issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971631139296301389",
+            "text": "\"The average [Californian] born in 2024 will likely face up to $500,000 in additional lifetime costs from climate crisis, and those who experience more severe effects will see up to $1m in costs.\" https://t.co/3x1gQzGncp",
+            "created_at": "2025-09-26T17:41:09Z",
+            "username": "dwallacewells"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the expected financial impact related to climate change that future generations in California will face, indicating a clear focus on developments in the climate crisis."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971627029889216656",
+            "text": "RT @danrejto: Converting half of cropland to organic, as many in the MAHA movement wish to see, would require over 30 million more acres—ne…",
+            "created_at": "2025-09-26T17:24:49Z",
+            "username": "dwallacewells"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses converting cropland to organic farming, a topic that relates to agricultural practices and their impact on climate change. This implies a connection to climate developments, particularly in how agricultural methods affect climate outcomes."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971626762946990459",
+            "text": "RT @janrosenow: Those claiming there's no energy transition, only \"energy addition\" are wrong. \n\nAs I told the FT: We're not on track to cu…",
+            "created_at": "2025-09-26T17:23:45Z",
+            "username": "dwallacewells"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the energy transition rather than explicitly addressing developments in climate. It appears to focus on the argument regarding energy systems and transition rather than making a direct statement about climate developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971626373803385223",
+            "text": "“In Malibu, it took an average 126 days for approval of the first two rebuilding permits, but that compares with a typical six years in the beachfront town… Only 40% of the 488 homes that burned in the 2018 Woolsey Fire have completed reconstruction.” https://t.co/C8tdlE6So2",
+            "created_at": "2025-09-26T17:22:13Z",
+            "username": "dwallacewells"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the rebuilding process in Malibu after the 2018 Woolsey Fire, which is related to climate impacts such as wildfires. Therefore, it touches on issues pertinent to climate change and its effects on urban development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971623813704978526",
+            "text": "AI: Five charts that put data-centre energy use – and emissions – into context | @Josh_Gabbatiss\n\nRead here: https://t.co/9RyAghnVyy https://t.co/DchjIMZKWZ",
+            "created_at": "2025-09-26T17:12:02Z",
+            "username": "CarbonBrief"
+          },
+          "pass": true,
+          "reasoning": "The tweet references energy use related to data centers, which is relevant to the broader topic of climate, especially in terms of energy emissions and their impact on the environment."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971615057797882206",
+            "text": "#Humberto is officially a hurricane.\n#Imelda is expected to form -- potentially as early as late Friday\n\nHow can warmer-than-average Atlantic temperatures impact the intensity of storms? What about the rain they bring?\n\nLet's talk tropics ⤵️\n#ClimateMatters https://t.co/FswaYhmDv7",
+            "created_at": "2025-09-26T16:37:15Z",
+            "username": "ClimateCentral"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses hurricanes and their relationship to warmer-than-average Atlantic temperatures, which directly relates to climate change and its impact on storm intensity and rainfall. Therefore, it is indeed talking about a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971613498170871961",
+            "text": "Revealed: Use of heat ‘emergencies’ for rough sleepers hits record in England and Wales | @Josh_Gabbatiss\n\nRead here: https://t.co/3ToVu5ao20 https://t.co/jpsGhqQmmp",
+            "created_at": "2025-09-26T16:31:03Z",
+            "username": "CarbonBrief"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the increase in heat emergencies affecting rough sleepers in England and Wales, which is related to climate issues but focuses more on social implications rather than a direct development in climate policy or phenomena. Therefore, it does not directly answer the question about whether the tweet is discussing a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971613256138559712",
+            "text": "Mein Interview mit Dunja Hayali beim heute journal vom Extremwetterkongress in Hamburg. \nSteuern wir auf 3 Grad globale Erwärmung zu (das wären 5-6 Grad in Deutschland)? Und was würde das bedeuten? Haben die Klimaforscher klar genug kommuniziert?\nhttps://t.co/I9lS3N2TDy",
+            "created_at": "2025-09-26T16:30:05Z",
+            "username": "rahmstorf"
+          },
+          "pass": true,
+          "reasoning": "The tweet mentions an interview about extreme weather and questions if we are heading towards 3 degrees of global warming, indicating a clear discussion about climate developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971611242587684976",
+            "text": "🎥 At the #G20 in South Africa, @FAO showcased its work on #bioeconomy . \n\n🌎The #G20 Bioeconomy Initiative is boosting knowledge sharing, partnerships and global cooperation.\n\n👉 Learn more: https://t.co/yQR7TYvOxz https://t.co/tDQQXFu4lh",
+            "created_at": "2025-09-26T16:22:05Z",
+            "username": "FAOclimate"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the #G20 Bioeconomy Initiative, which is directly related to environmental issues, specifically the promotion of sustainable practices in response to climate change. The use of hashtags like #climate and #bioeconomy further indicates that the tweet is focused on developments in climate and environmental policy."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971609515905933624",
+            "text": "The Passaic River is the star of a New Jersey community play, a drama that follows the life of a Superfund site.\nhttps://t.co/vqSWejopql",
+            "created_at": "2025-09-26T16:15:13Z",
+            "username": "insideclimate"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a community play centered around the Passaic River and a Superfund site but does not explicitly mention recent developments or changes related to climate. It focuses more on local cultural activities rather than direct climate issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971607831934808199",
+            "text": "RT @stevemorris__: Amazing finding in the new Fox News mayoral poll: The only things New York City voters have net favorable views of are B…",
+            "created_at": "2025-09-26T16:08:32Z",
+            "username": "dwallacewells"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention any topic related to climate developments. It discusses polling data regarding public opinion in New York City, which is unrelated to climate issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971605801262281012",
+            "text": "@theNASEM Check out the link to the assesment: https://t.co/HRZFTCRMSm",
+            "created_at": "2025-09-26T16:00:28Z",
+            "username": "ClimateReality"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not provide specific details about a development in climate; it merely shares a link to an assessment without context or explanation of its contents. Therefore, it cannot be determined if it is discussing a relevant development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971605796057206972",
+            "text": "24 scientists, 136 pages, one clear message: the 2009 endangerment finding was right all along. \n\n@theNASEM’s assessment just threw a wrench in the Trump Administration’s repeal plans. With public pressure rising, it’ll be hard for them to deny what we all know – science and the public demand protection. \n\n#StandForScience https://t.co/2uOQT8CHSY",
+            "created_at": "2025-09-26T16:00:27Z",
+            "username": "ClimateReality"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a scientific assessment regarding climate change and its implications for public policy and protection measures. It highlights the importance of scientific findings in relation to climate issues, indicating that the tweet is indeed about a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971605725148319991",
+            "text": "🌐 The @FAO &amp; @UNDPClimate Climate Action Review (CAR) Tool, developed under the #SCALAprogramme, helps planners link climate policy goals with concrete adaptation measures in agriculture &amp; land use.\n\nDiscover more 👉 https://t.co/HQ3J6bOxDQ \n\n@‌IKI_germany https://t.co/o13wOu6DBZ",
+            "created_at": "2025-09-26T16:00:10Z",
+            "username": "FAOclimate"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the Climate Action Review Tool, which is related to linking climate policy with adaptation measures in agriculture and land use. This indicates that the tweet is indeed talking about a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971602674098307497",
+            "text": "IEA reiterates ‘no new oil and gas needed’ if global warming is limited to 1.5C | @DrSimEvans\n\nRead here: https://t.co/gELi56DpeM https://t.co/NRQcQU5P1R",
+            "created_at": "2025-09-26T15:48:02Z",
+            "username": "CarbonBrief"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a statement by the IEA (International Energy Agency) related to oil and gas production and its impact on limiting global warming to 1.5C. This indicates a direct connection to developments in climate policy and environmental concerns."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971600335027503177",
+            "text": "https://t.co/zMqEeT14Kv",
+            "created_at": "2025-09-26T15:38:45Z",
+            "username": "dwallacewells"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not provide any content or context that indicates it is discussing climate developments. The input only includes a Twitter handle and a link, which does not offer sufficient information to answer the question."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971593987229384861",
+            "text": "RT @g_shullenberger: A lot of what Taibbi et al denounced as totalitarian censorship under Biden is best understood as an expression of eli…",
+            "created_at": "2025-09-26T15:13:31Z",
+            "username": "dwallacewells"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention any specific developments related to climate. It seems to discuss topics related to censorship and political commentary instead."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971589224811098288",
+            "text": "RT @MichaelEMann: “I’m a climate scientist. Trump’s U.N. address is a fire hose of misinformation” | My new op-ed in the @SFChronicle:\nhttp…",
+            "created_at": "2025-09-26T14:54:36Z",
+            "username": "MichaelEMann"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a climate scientist's perspective on misinformation related to climate issues, indicating it directly addresses a development in climate, particularly in the context of political discourse."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971586221819539848",
+            "text": "RT @parismartineau: tuesday marked the 5th time in 5 weeks that shrimp was recalled for possible radioactive contamination  \n\nyesterday, tw…",
+            "created_at": "2025-09-26T14:42:40Z",
+            "username": "dwallacewells"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a shrimp recall due to possible radioactive contamination, which does not directly pertain to a development in climate. It focuses more on a food safety issue rather than climate change or environmental developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971584808192262372",
+            "text": "RT @ClimateCentral: What if better weather forecasts came from backyard balloon launches and AI?  @WindBorneWx balloons collect 30x more da…",
+            "created_at": "2025-09-26T14:37:03Z",
+            "username": "ClimateCentral"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a method involving backyard balloon launches and AI to improve weather forecasts, which relates more to weather forecasting technology than to a specific development in climate change. It does not directly address climate issues or changes."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971584305684959679",
+            "text": "Analysis: India’s power-sector CO2 falls for only second time in half a century \n\n✍️ @AggarwalAnubhaa @laurimyllyvirta Nandikesh Sivalingam \n\nRead here: https://t.co/6VVbwxjCG7 https://t.co/4kisbnVsIa",
+            "created_at": "2025-09-26T14:35:03Z",
+            "username": "CarbonBrief"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a significant development related to the reduction of CO2 emissions in India’s power sector, which is a direct indicator of changes and developments in climate-related issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971583696546517102",
+            "text": "RT @DrBobBullard: Climate Change May Have Killed 16,469 People in Europe This Summer - Eos https://t.co/jC6GR5rF64",
+            "created_at": "2025-09-26T14:32:38Z",
+            "username": "dwallacewells"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses climate change and its severe impact, including a specific statistic about deaths attributed to climate change in Europe. Therefore, it is indeed talking about a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971579262546399417",
+            "text": "RT @FAO: 🧺 Cultural heritage\n🌄 Stunning landscapes\n🐝 Resilient ecosystems\n👩‍🌾 Tradition &amp; innovation\n\nVisiting a Globally Important #Agricu…",
+            "created_at": "2025-09-26T14:15:01Z",
+            "username": "FAOclimate"
+          },
+          "pass": false,
+          "reasoning": "The tweet seems to be discussing cultural heritage, landscapes, ecosystems, and agriculture but does not explicitly mention a development in climate. It does touch on ecological resilience but lacks a clear focus on climate developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971576970275111251",
+            "text": "RT @janrosenow: Critics slam renewables for land use but ignore fossil fuels' huge impact. \n\nGermany's Hambach lignite mine: 85 sq km pit,…",
+            "created_at": "2025-09-26T14:05:54Z",
+            "username": "rahmstorf"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the environmental impact of fossil fuels, specifically in reference to a lignite mine in Germany. This aligns with the broader topic of climate development, particularly regarding the conversation around renewable energy versus fossil fuels and their respective land uses and environmental impacts."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971576833268424921",
+            "text": "RT @jrockstrom: This week at the @UN Climate Summit, I addressed world leaders: science is clear, we face a planetary crisis. Solutions exi…",
+            "created_at": "2025-09-26T14:05:21Z",
+            "username": "rahmstorf"
+          },
+          "pass": true,
+          "reasoning": "The tweet mentions the 'UN Climate Summit' and addresses 'world leaders' about a 'planetary crisis', which directly relates to climate and its developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971575577145491567",
+            "text": "Think of this as your #cleanenergy cheat sheet because missing deadlines means missing money - and nobody has time for that! See what you can do before December 31, 2025, and make it happen → https://t.co/6gvfxIvKj6 \n \n#ActOnClimate #renewableenergy #solarenergy #solarpower #sustainability #climatechange #America #renewables #gogreen #ecofriendly#climateaction #cleantech #greenliving #USA",
+            "created_at": "2025-09-26T14:00:22Z",
+            "username": "ClimateReality"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses clean energy and provides a call to action regarding deadlines for making changes, indicating it is related to climate initiatives. The presence of hashtags like #ActOnClimate and #renewableenergy further emphasizes its focus on climate issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971573846882070975",
+            "text": "“I’m a climate scientist. Trump’s U.N. address is a fire hose of misinformation” | My new op-ed in the @SFChronicle:\nhttps://t.co/cpvwL0xJhb\n#ScienceUnderSiege",
+            "created_at": "2025-09-26T13:53:29Z",
+            "username": "MichaelEMann"
+          },
+          "pass": true,
+          "reasoning": "The tweet is from a climate scientist discussing misinformation related to climate during Trump's address at the U.N., indicating a direct engagement with climate-related issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971572763535303145",
+            "text": "RT @jftaveira1993: .@MichaelEMann: \"Rather than championing science and supporting the work of scientists, the #Trump administration has do…",
+            "created_at": "2025-09-26T13:49:11Z",
+            "username": "MichaelEMann"
+          },
+          "pass": false,
+          "reasoning": "The tweet is a retweet discussing the actions of the Trump administration regarding science and scientists, but it does not specifically mention or discuss any developments in climate change."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971568220760076443",
+            "text": "💡 Spotlight | With hopes fading of keeping global warming below 1.5C, despite new pledges at a UN summit in New York, this spotlight looks at the road to COP30 in Brazil and how the climate talks might respond. \n\nRead here ⬇️\nhttps://t.co/MdEEuYu6Hw",
+            "created_at": "2025-09-26T13:31:08Z",
+            "username": "CarbonBrief"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses global warming, UN climate talks, and COP30, indicating a clear focus on climate-related developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971567693502550303",
+            "text": "In this issue: \n🌏 China led a group of nations announcing new 2035 climate pledges to the UN \n🌎 Donald Trump falsely called climate change the “greatest con job ever” \n🌎 Key dates for next week and pick of the job vacancies",
+            "created_at": "2025-09-26T13:29:02Z",
+            "username": "CarbonBrief"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses climate pledges made by China and includes mentions of climate change-related statements from Donald Trump. This indicates that the tweet is indeed addressing a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971567130240864266",
+            "text": "What’s happened this week in climate change? 🌎\n\nDeBriefed | China leads new climate pledges; Trump calls warming a ‘con job’; What comes next \n\n✍️ Written by @DrSimEvans \n💻 Edited by @daisydunnesci\n\nRead here ➡️ https://t.co/2WRElCA866 \nSign up ➡️ https://t.co/0oVPEMrJNZ https://t.co/JRwGe1L6bD",
+            "created_at": "2025-09-26T13:26:48Z",
+            "username": "CarbonBrief"
+          },
+          "pass": true,
+          "reasoning": "The tweet is explicitly about updates in climate change and mentions specific developments such as new climate pledges from China and remarks made by Trump regarding climate change. Therefore, it is indeed talking about a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971566699313873361",
+            "text": "Q&amp;A: What does deep-sea mining mean for climate change and biodiversity loss? | @aruna_sekhar @yaninequiroz @GAViglione w/ comment from @Duncan_Currie @diegolillog Dr Kerstin Kröger @JNCC_UK #CBarchive\n\n🎨 @joejgoodman @kerryanncleaver @antaraxbasu\n\n➡️ https://t.co/gfAYzCvR7Q https://t.co/2Jc0TKfbJl",
+            "created_at": "2025-09-26T13:25:05Z",
+            "username": "CarbonBrief"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses deep-sea mining and its implications for climate change and biodiversity loss, indicating that it is related to a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971565626926731433",
+            "text": "RT @DrSimEvans: Really thrilled to have been shortlisted for \"environmental journalism (national)\" by @EditorsUK Media Freedom Awards\n\nUp a…",
+            "created_at": "2025-09-26T13:20:50Z",
+            "username": "CarbonBrief"
+          },
+          "pass": false,
+          "reasoning": "The tweet is about a recognition received for environmental journalism, but it does not discuss a specific development or event related to climate change itself. It mentions an award and does not provide information on any recent climate developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971565558480212459",
+            "text": "RT @CtrGlobSust: CGS Research Director @RynaCui will discuss China's #NDC on a @CarbonBrief webinar next Monday. \n\nTo track the performance…",
+            "created_at": "2025-09-26T13:20:33Z",
+            "username": "CarbonBrief"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions a webinar discussing China's Nationally Determined Contribution (NDC) related to climate issues, but it does not address a specific development in climate itself. It is more about an upcoming event rather than a particular development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971549259968221503",
+            "text": "NEW – Analysis: Half of global emissions covered by 2035 climate pledges after UN summit in New York | @daisydunnesci Ho Woo Nam \n\nRead here: https://t.co/XqEItRu8ZB https://t.co/wsw6MVaqpZ",
+            "created_at": "2025-09-26T12:15:47Z",
+            "username": "CarbonBrief"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses analysis related to global emissions and climate pledges, indicating a development in climate related discussions or actions."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971548564628160550",
+            "text": "Q&amp;A: What does China’s new Paris Agreement pledge mean for climate action? | @_AN_Patel @DrSimEvans\n\nRead here: https://t.co/bT6F0kHI5M https://t.co/kNtI8sqpaF",
+            "created_at": "2025-09-26T12:13:02Z",
+            "username": "CarbonBrief"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses China's new Paris Agreement pledge, which is directly related to climate action. This indicates a recent development within the context of climate issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971545373056352410",
+            "text": "Students fought for solar panels, electric buses, and greener schools –and won. \n\nNow the Trump Administration’s clean energy credits rollback is forcing schools to choose between cutting projects or raising costs. \n\nChildren deserve better than politics that protect polluters. https://t.co/oTain88KSY",
+            "created_at": "2025-09-26T12:00:21Z",
+            "username": "ClimateReality"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a development related to climate by mentioning students advocating for solar panels and electric buses, as well as addressing the rollback of clean energy credits by the Trump Administration, which directly affects climate initiatives in schools."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971542322463617454",
+            "text": "Die Dt. Meteorologischen und Physikalischen Gesellschaften warnen: \"Bereits bis 2050 besteht das Risiko einer Erwärmung um 3 Grad.\"\nManche Medien dazu: Klimaforscher widersprechen sich.\nAber schon der IPCC-Bericht warnte bei mittleren Emissionen bis zu 3 Grad, bei hohen bis 3,4. https://t.co/JAghcSpqkw",
+            "created_at": "2025-09-26T11:48:13Z",
+            "username": "rahmstorf"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the warning from meteorological and physical societies regarding the risk of a 3 degree Celsius warming by 2050, which is a clear development in climate science and climate change discussions. It also references IPCC reports on emission scenarios and their projected temperature increases, indicating a focus on climate-related issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971532963717263522",
+            "text": "🎙️Carbon Brief is hosting a free webinar in which experts will discuss China’s first-ever pledge to cut its emissions\n\n🗓️ When? Monday 29 September at 15:00 (BST) \n\nRegister here: https://t.co/ySwskO6884 https://t.co/Q5rviJr55n",
+            "created_at": "2025-09-26T11:11:02Z",
+            "username": "CarbonBrief"
+          },
+          "pass": true,
+          "reasoning": "The tweet mentions a webinar discussing China's pledge to cut emissions, which is a significant development related to climate action and policy. Therefore, it is directly addressing a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971525163465273635",
+            "text": "Q&amp;A: Will China and the BRICS fill the ‘leadership gap’ on climate change? | @_AN_Patel w/ comment from @yixiansun James Norman @Kate_K_Logan Jennifer Allan and Beatriz Mattos \n\nRead here: https://t.co/HEXQtkV657 https://t.co/ws7PKYzT3H",
+            "created_at": "2025-09-26T10:40:02Z",
+            "username": "CarbonBrief"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a question about China's role and the BRICS nations in addressing climate change leadership, indicating it is indeed about a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971514590396620919",
+            "text": "Growing trees for shade has ‘enormous’ potential for cutting cocoa emissions | @YanineQuiroz \n\nRead here https://t.co/R8gCqyxvgy https://t.co/0HXCa7Nuez",
+            "created_at": "2025-09-26T09:58:01Z",
+            "username": "CarbonBrief"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the potential of growing trees for shade to reduce cocoa emissions, which is directly related to climate change and environmental impact. Therefore, it addresses a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971508987037421947",
+            "text": "RT @FAOnews: .@FAO is set to support the implementation of the new #UN #BBNJ Agreement entering into force in Jan 2026. \n\nThe Agreement aim…",
+            "created_at": "2025-09-26T09:35:46Z",
+            "username": "FAOclimate"
+          },
+          "pass": true,
+          "reasoning": "The tweet mentions the implementation of the new UN BBNJ Agreement, which is related to the sustainable use and conservation of marine biological diversity in areas beyond national jurisdiction. This falls under the broader context of climate action and its impact on marine ecosystems. Therefore, it can be considered a discussion about a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971497938581962836",
+            "text": "Daily Briefing: ‘Peak oil’ delay | China pledge ‘falls short’ | Warming intensified Ragasa \n\n➡️ Read today's full briefing here: https://t.co/CQcBXD6iR5 \n\n➡️ Sign up to our email briefings: https://t.co/7v0bS6mvSd https://t.co/ukdv6Mcq04",
+            "created_at": "2025-09-26T08:51:51Z",
+            "username": "CarbonBrief"
+          },
+          "pass": true,
+          "reasoning": "The tweet mentions 'warming intensified,' which directly relates to climate changes and developments. Additionally, it discusses issues related to 'peak oil' and China's pledge concerning environmental impact, both of which are significant topics in the climate discussion."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971495158312260041",
+            "text": "RT @FAOemergencies: Thanks to @MofaJapan_en’s generous funding, @FAO supported the recovery of small-scale coconut farmers, fishers, and co…",
+            "created_at": "2025-09-26T08:40:49Z",
+            "username": "FAOclimate"
+          },
+          "pass": false,
+          "reasoning": "The tweet primarily discusses funding for recovery support to small-scale farmers and fishers, but does not mention any specific development in climate. Therefore, it does not directly address a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971491188818804865",
+            "text": "🔊If we want #ClimateFinance for agrifood systems transformation, we need to mobilize it through different sources:\n\n✅bilateral cooperation\n✅multilateral cooperation\n✅carbon markets\n\nhttps://t.co/TteAUXO2fE \n\nListen to #FASTPartnership Member, #Senegal ⤵️ https://t.co/64s2sptFhL",
+            "created_at": "2025-09-26T08:25:02Z",
+            "username": "FAOclimate"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the need for #ClimateFinance and mentions climate finance in relation to agrifood systems transformation, which indicates it is addressing a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971475984378691606",
+            "text": "https://t.co/h3OUlfE3gb",
+            "created_at": "2025-09-26T07:24:37Z",
+            "username": "rahmstorf"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not provide any content or context related to climate development, as it only mentions a username and a URL, which doesn't give enough information to determine the topic."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971475337730220473",
+            "text": "This is why Trump is trying to squash the renewable energy development. It is outcompeting fossil fuels, threatening the profits of his friends.",
+            "created_at": "2025-09-26T07:22:03Z",
+            "username": "rahmstorf"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses renewable energy development and its effects on fossil fuels, which are directly related to climate change topics. Therefore, it is reasonable to conclude that the tweet is talking about a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971474532868423984",
+            "text": "RT @jrockstrom: More than 3/4 of Earth’s support systems are outside the safe zone. Ocean acidification is the latest boundary breached. Th…",
+            "created_at": "2025-09-26T07:18:51Z",
+            "username": "rahmstorf"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses ocean acidification and its implications for Earth's support systems, which are closely related to climate developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971413363256328212",
+            "text": "RT @MichaelEMann: #ScienceUnderSiege",
+            "created_at": "2025-09-26T03:15:47Z",
+            "username": "MichaelEMann"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not provide any information about a development in climate, as it only contains a retweet with the hashtag #ScienceUnderSiege and does not mention specific developments or topics related to climate change."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971413248282103937",
+            "text": "RT @DaniBeckman: May I suggest a book? #ScienceUnderSiege ⁦is a must-read for anyone interested in fighting back ideologically motivated op…",
+            "created_at": "2025-09-26T03:15:20Z",
+            "username": "MichaelEMann"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention any developments or issues related to climate change. It refers to a suggested book and does not provide any information about climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971374825936650438",
+            "text": "#ScienceUnderSiege",
+            "created_at": "2025-09-26T00:42:39Z",
+            "username": "MichaelEMann"
+          },
+          "pass": false,
+          "reasoning": "The tweet only includes a username and a hashtag without any specific content or context related to climate development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971356279856927080",
+            "text": "RT @AlexSteffen: If you get the urgency of planning for escalating climate risks in your own life, this 30-day workshop is for you. \n\nCheck…",
+            "created_at": "2025-09-25T23:28:57Z",
+            "username": "MichaelEMann"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the urgency of planning for escalating climate risks, which indicates a focus on climate-related developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971349076462424503",
+            "text": "Here is some big news for Climate Week 2025: our founder, former US VP @algore, was honored on @Independent’s Climate 100 List! \n\nLet’s keep pushing forward and celebrating the changemakers who drive bold action to #ActOnClimate. https://t.co/zKjRZu5FoZ",
+            "created_at": "2025-09-25T23:00:20Z",
+            "username": "ClimateReality"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a significant event related to Climate Week 2025 and acknowledges the founder of ClimateReality, who has been recognized for his contributions to climate action. It emphasizes the importance of bold actions regarding climate change, indicating that it is indeed focused on a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971340331166859534",
+            "text": "RT @AndrewDessler: On The Climate Brink, Kevin Trenberth writes about the undeniable science of extreme weather https://t.co/ndBI8iuUVD",
+            "created_at": "2025-09-25T22:25:35Z",
+            "username": "hausfath"
+          },
+          "pass": true,
+          "reasoning": "The tweet is discussing an article about extreme weather, which is directly related to climate issues. The phrase 'On The Climate Brink' indicates a focus on climate developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971333846189982051",
+            "text": "New research suggests that exposure to high heat and air pollution in the womb is altering brain development, affecting mental health and behavior years down the road.\nhttps://t.co/6XcZEePDny",
+            "created_at": "2025-09-25T21:59:49Z",
+            "username": "insideclimate"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses research that connects exposure to high heat and air pollution, which are both linked to climate change, to brain development issues. This implies a development in climate as it addresses the impact of environmental factors on health."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971320786779541929",
+            "text": "Spannender Bericht vom Extremwetterkongress in Hamburg!\nDas Klima müssen wir allerdings weniger retten als uns selbst, denn wir Menschen leiden vor allem selbst unter den immer schlimmeren Folgen der fossilen Energienutzung.\nhttps://t.co/XIRmmJxL3o",
+            "created_at": "2025-09-25T21:07:55Z",
+            "username": "rahmstorf"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a report from a weather conference and mentions the negative impacts of fossil fuel use on humanity. This directly relates to climate issues, as it highlights the consequences of climate change driven by fossil fuel consumption."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971318872339890607",
+            "text": "An EU draft doc shows the bloc will miss the UN climate deadline and offer only a vague 2035 “intent” instead of a real target. \n\nIf the EU wants to #ActOnClimate, now’s the time to prove it – not kick the can down the road. https://t.co/kF78Ne1zzA",
+            "created_at": "2025-09-25T21:00:19Z",
+            "username": "ClimateReality"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the EU's failure to meet a UN climate deadline and references climate action, indicating it is indeed about a development in climate policy."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971313373288726877",
+            "text": "🏞️ @NatlParkService welcomed 331.9M visitors in 2024.\n\nThese treasured sites are warming 2x faster than the U.S. as a whole -- w/ the 25 most-visited parks facing more extreme heat as climate change warms the planet\n\nYour favorite park 👉 https://t.co/5l13kKLf0i\n\n#ClimateMatters https://t.co/cdfH69L6lQ",
+            "created_at": "2025-09-25T20:38:28Z",
+            "username": "ClimateCentral"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the impact of climate change on national parks, specifically mentioning that the parks are warming at a rate twice as fast as the broader U.S. This indicates a development related to climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971311346689216635",
+            "text": "RT @EFEverde: El cambio climático provocó un calor «peligroso e inusual» en todo el mundo durante los meses de junio, julio y agosto de 202…",
+            "created_at": "2025-09-25T20:30:24Z",
+            "username": "ClimateCentral"
+          },
+          "pass": true,
+          "reasoning": "The tweet explicitly mentions 'cambio climático' (climate change) and discusses its impacts, specifically referencing unusual heat during certain months. This indicates that the tweet is indeed talking about a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971295706720895378",
+            "text": "RT @saludconlupa: Un reciente informe de @ClimateCentral revela que, entre el 1 de junio y el 31 de agosto de 2025, al menos 1,800 millones…",
+            "created_at": "2025-09-25T19:28:16Z",
+            "username": "ClimateCentral"
+          },
+          "pass": true,
+          "reasoning": "The tweet mentions a recent report from ClimateCentral, which indicates it is discussing a development in climate, particularly regarding climate data or events. Although the exact content of the report is not quoted, the reference to ClimateCentral implies it pertains to climate issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971294135530422282",
+            "text": "You may have noticed your electricity bills are going up by a lot. Here’s a look at how much household electricity prices have risen nationally and in each state.\nhttps://t.co/M5uO1pJOih",
+            "created_at": "2025-09-25T19:22:01Z",
+            "username": "insideclimate"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing rising electricity bills and how they have increased both nationally and by state. While electricity bills may be related to broader discussions of energy consumption and potentially climate issues, the tweet does not explicitly mention climate change or developments related to it. Therefore, it does not directly talk about a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971291191288439160",
+            "text": "🏈All 30 NFL cities have warmed during the regular season (September to December) -- by 2.8°F on average.\n\n♨️The @Raiders  and @Vikings home cities have warmed the most.\n\n@TIME details why this is important for both athletes &amp; fans▶️ https://t.co/biSErGnSJN\n\n#ClimateMatters",
+            "created_at": "2025-09-25T19:10:19Z",
+            "username": "ClimateCentral"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses how all NFL cities have experienced warming temperatures during the regular season, which relates directly to changes in climate. The mention of climate warming and its implications for athletes and fans highlights a clear development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971290034843287650",
+            "text": "Want to learn more? \n\nSee the data + check out the full attribution science report ▶️ https://t.co/1WAvVxroY2 https://t.co/kophRSaDdf",
+            "created_at": "2025-09-25T19:05:43Z",
+            "username": "ClimateCentral"
+          },
+          "pass": false,
+          "reasoning": "The tweet is promoting a report from Climate Central but does not specifically mention any recent development or news related to climate. It primarily contains a call to action to learn more and view a report, without details about any specific advancement or change in climate science."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971290031085191386",
+            "text": "🍫 Your chocolate treats are getting pricier.\n\nClimate change is bringing more extreme heat to West Africa’s cocoa belt—hurting cacao crops and raising costs.\n\n@WRAL’s @thatreporter explains 🔽 https://t.co/uEzLPUnP4W\n#ClimateMatters",
+            "created_at": "2025-09-25T19:05:42Z",
+            "username": "ClimateCentral"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses how climate change is impacting cacao crops in West Africa, which directly relates to the effects of climate on agriculture and prices. Therefore, it is indeed talking about a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971274006163550715",
+            "text": "In 🇸🇳 Senegal, #climatechange is stressing millet, groundnut &amp; vegetables. \n\nA new #SCALAprogramme policy brief shows how agroecological practices enhance resilience, adaptation, food security &amp; support low-emission growth.\n\n📘👉 https://t.co/XDdcUae1mn\n\n@IKI_germany https://t.co/E5p8LlPPpW",
+            "created_at": "2025-09-25T18:02:02Z",
+            "username": "FAOclimate"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the impact of climate change on agriculture in Senegal, specifically mentioning how climate change stresses certain crops. It also promotes a program aimed at improving resilience and adaptation to climate issues, indicating that it is explicitly focused on a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971271149146472527",
+            "text": "A hurricane is heading for Europe.\n#HurricaneGabrielle is on track for a direct hit on the Azores, with tropical storm conditions expected in Spain &amp; mainland Portugal.\nThis could be one of the most severe Atlantic systems to reach Iberia. https://t.co/2ngclARzt8",
+            "created_at": "2025-09-25T17:50:41Z",
+            "username": "PGDynes"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses Hurricane Gabrielle and its potential impact on Europe, specifically highlighting weather conditions related to climate phenomena. This indicates a connection to climate developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971269350138241256",
+            "text": "RT @MEERsrm: ”Our native trees are no longer native. They’re foreigners now.” An arborist’s words sparked Mike Tidwell’s book on how climat…",
+            "created_at": "2025-09-25T17:43:32Z",
+            "username": "PGDynes"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the impact of climate change on native trees, suggesting that their status has changed due to climatic factors. This indicates a clear connection to developments in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971269335403593761",
+            "text": "RT @MEERsrm: This week, Dr. Ye Tao visited Solthis in Freetown to explore how MEER’s passive cooling roofs could support healthcare centers…",
+            "created_at": "2025-09-25T17:43:28Z",
+            "username": "PGDynes"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a visit to explore passive cooling roofs for healthcare centers, which is related to architecture or construction rather than a specific development in climate. While it may touch on climate-related topics, it does not directly indicate a new development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971265111882072490",
+            "text": "RT @FAOKnowledge: Helping the most vulnerable thrive in a changing climate — what works?\n\n📗New @FAO – @theGCF study shows how climate finan…",
+            "created_at": "2025-09-25T17:26:41Z",
+            "username": "FAOclimate"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a study related to climate finance and how it helps vulnerable populations thrive amidst changing climate conditions. This indicates that it is directly addressing developments in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971234959034916896",
+            "text": "🔥As climate change fuels more intense and frequent wildfires, high-tech solutions are stepping in to meet the threat.\n\n@benstracy shows how AI is helping to detect wildfires before they become deadly megafires.\n\n#ClimateMatters\nhttps://t.co/OY7CxGRHyR",
+            "created_at": "2025-09-25T15:26:52Z",
+            "username": "ClimateCentral"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses climate change and its impact on wildfires, highlighting how technology like AI is being used as a response to this development. Therefore, it is indeed talking about a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971234233810387438",
+            "text": "At Climate Week in New York, a subtle shift in rhetoric begins to normalize the idea of overshoot, which means surpassing 1.5°C of global warming, with no surefire way of bringing the fever back down.\nhttps://t.co/O0EUJyZoXD",
+            "created_at": "2025-09-25T15:23:59Z",
+            "username": "insideclimate"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a shift in rhetoric at Climate Week regarding the concept of overshoot in relation to global warming and the 1.5°C threshold, indicating it is indeed addressing a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971233688466940345",
+            "text": "Sea surface temps in the western Pacific were 0.7–1.1°C above average as Super Typhoon Ragasa intensified, providing the extra heat energy that fueled its strength\n\nLearn more + see the Climate Shift Index: Ocean data + read the impacts ⤵️\n\n#ClimateMatters\nhttps://t.co/EmgfecpzHQ",
+            "created_at": "2025-09-25T15:21:49Z",
+            "username": "ClimateCentral"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the abnormal sea surface temperatures in the western Pacific, which are relevant to climate science and indicate a climate development, particularly in the context of its impact on the intensity of Super Typhoon Ragasa. Additionally, the hashtags and references to the Climate Shift Index reinforce its connection to climate change."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971233683622502557",
+            "text": "Sep 20- 21, Super Typhoon #Ragasa underwent extreme rapid intensification, strengthening 137kph (85mph) in ~24hrs.\n\nThe strongest tropical system on Earth (so far) this year.\n\nOne driver: unusually warm Philippine Sea waters, made 10–40x more likely by human-caused climate change https://t.co/Eung4g0Dyv",
+            "created_at": "2025-09-25T15:21:48Z",
+            "username": "ClimateCentral"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses Super Typhoon Ragasa, its rapid intensification, and links this to human-caused climate change, explicitly mentioning that the unusually warm Philippine Sea waters are a result of climate change. This clearly indicates that the tweet is talking about a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971228796394274962",
+            "text": "RT @FAO: 🌍 29 countries\n🌄 Over 100 systems\n⌛️ Centuries of knowledge, agrobiodiversity and resilience\n\nHave you ever heard of @FAO's Global…",
+            "created_at": "2025-09-25T15:02:23Z",
+            "username": "FAOclimate"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions 'FAO' and alludes to global knowledge and agrobiodiversity but does not directly discuss recent developments or specific events regarding climate. It focuses more on the FAO's initiatives broadly without explicitly addressing climate change developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971208602775060585",
+            "text": "RT @WeatherProf: This is arguably one of the most complex steering scenarios in recent memory!! Two hurricanes(?), a stalled cut-off upper…",
+            "created_at": "2025-09-25T13:42:08Z",
+            "username": "RARohde"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions hurricanes and weather scenarios but does not explicitly address climate developments or changes. It focuses on specific weather occurrences rather than discussing broader climate issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971146057406091320",
+            "text": "Around 100 Parties to the Paris Agreement representing 2/3 of global greenhouse gas emissions have now submitted or unveiled new national climate plan (NDC) targets — setting out their commitments to accelerate climate action ahead of #COP30. 💪\n\n👉 https://t.co/6RXHViV8q8 https://t.co/z2l2sCRCbV",
+            "created_at": "2025-09-25T09:33:36Z",
+            "username": "UNFCCC"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the actions taken by Parties to the Paris Agreement regarding new national climate plan (NDC) targets. This directly relates to climate action and development in climate policy, therefore, it is indeed talking about a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971130682270417281",
+            "text": "RT @FAOLivestock: 📢 OUT NOW!\n\nRwanda’s livestock sector is expanding rapidly, but faces climate risks and rising methane emissions.\n\nThis n…",
+            "created_at": "2025-09-25T08:32:31Z",
+            "username": "FAOclimate"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the expansion of Rwanda's livestock sector and mentions climate risks and rising methane emissions, which are directly related to climate change. This indicates that the tweet is indeed addressing a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971047186843697164",
+            "text": "thanks so much John! 🙏🙂",
+            "created_at": "2025-09-25T03:00:44Z",
+            "username": "MichaelEMann"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to climate change or any developments in that area. It appears to be a personal message of thanks between individuals."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971047082040733733",
+            "text": "🙏🙂",
+            "created_at": "2025-09-25T03:00:19Z",
+            "username": "MichaelEMann"
+          },
+          "pass": false,
+          "reasoning": "The tweet contains only emojis and does not provide any content or context that relates to climate development. Therefore, it does not address the question."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970994437842141478",
+            "text": "#ScienceDeniers #Projection #ScienceUnderSiege",
+            "created_at": "2025-09-24T23:31:07Z",
+            "username": "MichaelEMann"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything specific about climate developments. It refers to 'Science Deniers' and 'Science Under Siege' but lacks clear context related to climate change or developments in that field."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970994103786799544",
+            "text": "RT @PeterHotez: Many bots like this, following a tweet from one of the conspiracy sites. Obviously totally false, but why generate an army…",
+            "created_at": "2025-09-24T23:29:48Z",
+            "username": "MichaelEMann"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention climate or any development related to it. Instead, it discusses bots and conspiracy theories, which are not relevant to climate change."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970982676422328652",
+            "text": "Eating fruits and vegetables are critical to a healthy diet. But when you eat your spinach—or kale, strawberries, raisins or many other favorites—you’re likely to ingest a hefty dose of pesticides too, new research shows.\nhttps://t.co/FH9OAehqTe",
+            "created_at": "2025-09-24T22:44:23Z",
+            "username": "insideclimate"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the impact of pesticides on fruits and vegetables and their consumption but does not explicitly mention developments in climate. Its focus is more on health and agricultural practices rather than climate change or its related developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970972960090636555",
+            "text": "now outside the paywall!",
+            "created_at": "2025-09-24T22:05:47Z",
+            "username": "MichaelEMann"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to climate change or environmental issues. Instead, it refers to something being 'outside the paywall,' which likely pertains to content accessibility rather than climate developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970972846336901176",
+            "text": "Thanks so much Katie!",
+            "created_at": "2025-09-24T22:05:20Z",
+            "username": "MichaelEMann"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to climate issues or developments. It seems to be a personal thank you message addressed to someone named Katie, and it contains no relevant information about climate developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970961823685018070",
+            "text": "My co-author @PeterHotez discusses the current state of autism research, the attacks on science from the current administration and our new book #ScienceUnderSiege in an interview with @democracynow:\n\nhttps://t.co/DL1MYnqPFT",
+            "created_at": "2025-09-24T21:21:32Z",
+            "username": "MichaelEMann"
+          },
+          "pass": false,
+          "reasoning": "The tweet is focused on autism research, attacks on science from the current administration, and a related new book. It does not mention climate change or developments related to it, so it is not discussing a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970957654223901054",
+            "text": "A New Jersey bill awaiting the signature of Gov. Phil Murphy could reshape the relationship between the state and one of the fastest-growing industries amid the artificial intelligence boom: data centers.\nhttps://t.co/Xi7ertCVQj",
+            "created_at": "2025-09-24T21:04:58Z",
+            "username": "insideclimate"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a New Jersey bill related to data centers and artificial intelligence, which does not directly address a development in climate. While data centers have environmental implications, the tweet focuses on legislation regarding technology rather than climate change."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970941720511885379",
+            "text": "📊ADDITIONAL RESOURCES: \n\nA Decade of Growth for U.S. Solar and Wind | https://t.co/s9wM8jBi1p\n\n#ClimateMatters",
+            "created_at": "2025-09-24T20:01:39Z",
+            "username": "ClimateCentral"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a decade of growth for U.S. solar and wind energy, which are important developments in the context of climate change and renewable energy. The use of the hashtag #ClimateMatters further indicates that it is addressing issues related to climate. Therefore, the tweet is indeed talking about a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970941716011319508",
+            "text": "🌞💨 Curious how much solar &amp; wind power is being generated near you?\n\nCheck the WeatherPower tool for multi-day forecasts by state, county, or even congressional district: https://t.co/29grR9kVWv https://t.co/Z2XxqGUpzJ",
+            "created_at": "2025-09-24T20:01:38Z",
+            "username": "ClimateCentral"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses solar and wind power generation, which are both renewable energy sources directly related to climate change and environmental development. By promoting the WeatherPower tool, the tweet encourages awareness of energy production methods that can mitigate climate change impacts."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970941713305960747",
+            "text": "Imagine flipping a switch in 70 million American homes...that's how much electricity solar &amp; wind generated in 2024 alone (756,621 GWh). \n\nCoal, oil, &amp; natural gas, the biggest sources of heat-trapping pollution, fell from 72% of U.S. electricity in 2001 to just 58% in 2024.\n🧵/1 https://t.co/4fsZZtr0mh",
+            "created_at": "2025-09-24T20:01:37Z",
+            "username": "ClimateCentral"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the significant generation of electricity from solar and wind energy, along with a notable reduction in the use of coal, oil, and natural gas, which are major contributors to heat-trapping pollution. This indicates a development in climate-related energy production and pollution reduction."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970935605476589947",
+            "text": "Multi-day heat streaks worsen air quality &amp; raise heat illness risks.\n🧊 Cooling heat stroke victims “on ice” can drop body temps 3–6x faster &amp; preventing brain damage &amp; organ failure.\n\n@benstracy rides with @PHXFire to see how this works\n\n#ClimateMatters\n\nhttps://t.co/EnogdlPXGF",
+            "created_at": "2025-09-24T19:37:21Z",
+            "username": "ClimateCentral"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the impacts of multi-day heat streaks on air quality and health, which are directly related to climate change and its effects. The hashtag #ClimateMatters further supports that the tweet is addressing a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970933215969136965",
+            "text": "Nearly half a million school buses bring over 24 million K-12 students to and from school across the U.S.\n\nNationally, school bus fleets contribute an estimated 8.4 million metric tons of carbon pollution each year.\n\nData + details 🔽\n\n#ClimateMatters\nhttps://t.co/VfhimtyUN5",
+            "created_at": "2025-09-24T19:27:51Z",
+            "username": "ClimateCentral"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the carbon pollution contributed by school bus fleets, which is directly related to climate issues. It mentions the amount of carbon pollution and includes the hashtag #ClimateMatters, indicating a focus on climate-related topics. Therefore, it is relevant to the development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970933212777226267",
+            "text": "🚌Beep. Beep! More than 234,000 students across the country currently ride on electric school buses.\n\nThese buses mean better air quality as our kids get to school.\n\n@NBCVianeyArana reports on how this is working for one Bay area school district ▶️ https://t.co/VpQgkwsiEk https://t.co/Teh1vlX6Da",
+            "created_at": "2025-09-24T19:27:50Z",
+            "username": "ClimateCentral"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses electric school buses, which contribute to better air quality and can be seen as related to climate change and environmental development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970922212929741031",
+            "text": "RT @antonioguterres: It is still possible to limit global temperature rise to 1.5°C and avoid the worst of climate chaos.\n\nWe know it can b…",
+            "created_at": "2025-09-24T18:44:08Z",
+            "username": "UNFCCC"
+          },
+          "pass": true,
+          "reasoning": "The tweet mentions limiting global temperature rise to 1.5°C, which is directly related to climate change efforts and the implications of climate chaos. This indicates a clear discussion on a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970911186825732570",
+            "text": "When federal climate funding is rolled back, schools deserve better. @CTGreenBank proved what is possible by helping 80+ schools go solar. \n\nNow @PubRenewables, @Gen_180, and @ClimateReality share the blueprint for states nationwide. https://t.co/eSR9cMzoB2",
+            "created_at": "2025-09-24T18:00:19Z",
+            "username": "ClimateReality"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses federal climate funding, its rollback, and the impact on schools in relation to solar energy initiatives. It highlights efforts by organizations to provide a blueprint for advancing solar energy, which is directly related to climate developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970906895801266294",
+            "text": ".@FAO &amp; the Government of Iraq 🇮🇶 held a high-level workshop in Baghdad to kick off the country’s first-ever @theGCF SRVALI project \n\n🌱The $39M investment will enhance #water security and help rural communities adapt to #climatechange:\n\nhttps://t.co/j57ya5WS16 https://t.co/WN1x1ZpLCW",
+            "created_at": "2025-09-24T17:43:16Z",
+            "username": "FAOclimate"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a high-level workshop focused on a project related to climate adaptation and water security, explicitly mentioning 'climate change'. This indicates that the tweet is indeed talking about a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970904896078741709",
+            "text": "RT @PeterHotez: Except…I’m not a TV doctor, I’m not paid to do TV never have. I’m an MD PhD scientist who develops low cost vaccines for gl…",
+            "created_at": "2025-09-24T17:35:19Z",
+            "username": "MichaelEMann"
+          },
+          "pass": false,
+          "reasoning": "The tweet is a retweet discussing the speaker's credentials as a scientist and their work on low-cost vaccines. It does not mention climate or any developments related to climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970899506532319591",
+            "text": "RT @GeneticLiteracy: From troll farms to think tanks to cable news, anti-science networks are well-funded, profit-driven, and organized. Wh…",
+            "created_at": "2025-09-24T17:13:54Z",
+            "username": "MichaelEMann"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention any specific development in climate; instead, it discusses anti-science networks and their impact, which is a broader commentary on science communication rather than a direct development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970880283873599732",
+            "text": "RT @Adel_Almogren: @PeterHotez @MichaelEMann @public_affairs The deadly rise of anti-science by Prof. Hotez and now Science Under Siege By…",
+            "created_at": "2025-09-24T15:57:31Z",
+            "username": "MichaelEMann"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing anti-science sentiment and references individuals discussing their experiences with it, rather than specifically discussing a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970879419481997379",
+            "text": "RT @PeterHotez: Viewpoint: ‘An entire ecosystem of antiscience has taken hold and turned deadly' - from ⁦⁦@GeneticLiteracy⁩ based on our ne…",
+            "created_at": "2025-09-24T15:54:05Z",
+            "username": "MichaelEMann"
+          },
+          "pass": false,
+          "reasoning": "The tweet doesn't directly discuss a development in climate; it refers to antiscience and its impacts, which may relate to climate discussions, but it's not explicitly about climate development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970879342239682779",
+            "text": "RT @AngryDemdotcom: “An entire ecosystem of antiscience has taken hold and turned deadly” via @MichaelEMann and @PeterHotez https://t.co/Yh…",
+            "created_at": "2025-09-24T15:53:47Z",
+            "username": "MichaelEMann"
+          },
+          "pass": true,
+          "reasoning": "The tweet references a concerning development regarding the impact of anti-science sentiments on ecosystems, which connects to climate issues. It discusses the consequences of neglecting scientific understanding, particularly in relation to climate and environmental health."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970871067884548274",
+            "text": "Environmental scientists are using artificial intelligence to create “deepfake” animal images to aid conservation efforts.\nhttps://t.co/KWsZkNT1DO",
+            "created_at": "2025-09-24T15:20:54Z",
+            "username": "insideclimate"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the use of artificial intelligence to create deepfake animal images for conservation efforts, which is related to environmental science but does not specifically mention any developments in climate change."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970865910912070143",
+            "text": "Trump’s @ENERGY climate denial panel collapsed under pressure from scientists, lawsuits, and public outrage. A huge win for science, but DOE isn’t withdrawing the panel’s junk science report. \n\nMoral of the story: Keep standing for science. https://t.co/SqLKZG7IFb",
+            "created_at": "2025-09-24T15:00:24Z",
+            "username": "ClimateReality"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the collapse of a climate denial panel associated with Trump's administration and indicates that this is a significant win for science related to climate issues. The reference to 'climate denial' and 'science' clearly indicates that the tweet is discussing a development in the field of climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970833271467761787",
+            "text": "RT @theGCF: How can we ensure that climate finance reaches the most vulnerable?\n\n💡 Findings of new @FAO–@theGCF publication reviewing 23 GC…",
+            "created_at": "2025-09-24T12:50:42Z",
+            "username": "FAOclimate"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses climate finance and its impact on vulnerable populations, indicating a commitment to addressing climate change issues. This suggests that it is indeed talking about a development in the field of climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970832132911018019",
+            "text": "Watch world leaders step up climate ambition - live from #UNGA80 🔴\n\n@UN Secretary-General @antonioguterres invited Heads of State and Government to present their new national climate plans and detail the climate actions they will take.\n\n🎥2 p.m. ET: https://t.co/RJ9ctsDBCY https://t.co/HMxKBYiL11",
+            "created_at": "2025-09-24T12:46:11Z",
+            "username": "UNFCCC"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the UN Climate Change Conference (UNFCCC) and mentions world leaders presenting their new national climate plans and actions on climate. This indicates a clear focus on developments in climate initiatives."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970820558162932120",
+            "text": "Sustainable, resilient, efficient and inclusive agrifood systems can transform our world. Agrifood systems solutions are climate solutions!\n\nLearn how FAO supports:\n🌐 https://t.co/PG5YF7r0Wr\n\n#ClimateAction https://t.co/NKOxjqLItf",
+            "created_at": "2025-09-24T12:00:11Z",
+            "username": "FAOclimate"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses agrifood systems and describes them as solutions for climate issues, indicating a development related to climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970788478985101434",
+            "text": "RT @FAO: Food is life.\nFood is land.\nFood is roots.\nFood is memory.\nFood is a right, not a privilege.\n\nOn this #WorldFoodDay, as we mark #F…",
+            "created_at": "2025-09-24T09:52:43Z",
+            "username": "FAOclimate"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses food and its significance, especially in the context of World Food Day. While it mentions themes that could be tangentially related to climate issues (like food security and rights), it does not explicitly address a development in climate itself."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970785966169149747",
+            "text": "Investment in farmland🌎makes sense for:\n\n🏢 Businesses\n☀️ #Climate \n🌱#FoodSecurity\n\n@FAO's @Kavehzahedi2030 speaks at the COP Action Agenda on Regenerative Landscapes &amp; Landscape Accelerators Dialogue in New York\n\n@FAONorthAmerica @FAONewYork @FAOLandWater https://t.co/jaRszAJWwA",
+            "created_at": "2025-09-24T09:42:44Z",
+            "username": "FAOclimate"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses an investment in farmland in relation to climate, emphasizing the importance of climate and food security. The mention of the COP Action Agenda indicates a focus on climate action, suggesting that the tweet is indeed talking about a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970784533592318026",
+            "text": "RT @antonioguterres: My message to world leaders at #UNGA:\n\nNo matter the challenge or the hour, we must - and we will - overcome.\n\nWe must…",
+            "created_at": "2025-09-24T09:37:02Z",
+            "username": "UNFCCC"
+          },
+          "pass": false,
+          "reasoning": "The tweet contains a message directed at world leaders during the UN General Assembly (UNGA), but it does not explicitly mention any developments related to climate change. While the UNFCCC and the context of the UNGA may pertain to climate issues generally, the specific content of the tweet does not talk about a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970750636884111575",
+            "text": "Apparently Trump was shown the well-known forged Time Magazine cover about a coming Ice Age.\n“Deputy national security adviser K.T. McFarland reportedly presented the President with a print-out that included an image of a 1970s TIME cover…”\n\nhttps://t.co/4aZ0indyCw",
+            "created_at": "2025-09-24T07:22:21Z",
+            "username": "rahmstorf"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses an event where Trump was shown a forged Time Magazine cover about a coming Ice Age, but it does not address recent developments in climate change or climate science itself. The content is more about a political context rather than a scientific development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970747876281340204",
+            "text": "For example, if you enter “did scientists predict global cooling” in the search field the top hit is https://t.co/5VjfjxS1g7",
+            "created_at": "2025-09-24T07:11:23Z",
+            "username": "rahmstorf"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not specifically mention climate developments; rather, it references a discussion about whether scientists predicted global cooling, which is more about a past debate than a current climate development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970745593216545027",
+            "text": "What Trump said are the well-worn and often rebutted lies of the fossil fuel lobby, whose lies are the greatest con job ever perpetrated on the world.\nIf you hear such climate science denial tropes, the answers to all of those can be found at https://t.co/vvVbjVVGEi",
+            "created_at": "2025-09-24T07:02:18Z",
+            "username": "rahmstorf"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses climate science denial and mentions the fossil fuel lobby, implying that the topic is related to developments in climate issues and the misinformation surrounding them."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970743917701136781",
+            "text": "RT @PIK_Climate: Within-country inequality can reduce acceptance of #ClimatePolicy.\n\nStudy @PNASNews co-authored by PIK now explores how #C…",
+            "created_at": "2025-09-24T06:55:39Z",
+            "username": "rahmstorf"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses within-country inequality and its relationship to the acceptance of climate policy, which directly ties into developments in the climate sphere."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970729975771754654",
+            "text": "Are you interested in climate finance and agrifood systems?\n\n📩 Sign up to the Food and Agriculture for Sustainable Transformation (FAST) Partnership newsletter for updates!  \n\nSubscribe below ⤵️ \nhttps://t.co/sqSoVD3fYt\n\n#FASTPartnership https://t.co/LrBVUFISWB",
+            "created_at": "2025-09-24T06:00:15Z",
+            "username": "FAOclimate"
+          },
+          "pass": true,
+          "reasoning": "The tweet mentions climate finance and agrifood systems, indicating a focus on climate-related topics. The reference to the FAST Partnership newsletter suggests that it is aimed at addressing sustainable practices in relation to climate change, which constitutes a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970630422364332132",
+            "text": "RT @ryankatzrosene: “It used to be global cooling. If you look back years ago in the 1920s and 1930s they said, ‘Global cooling will kill t…",
+            "created_at": "2025-09-23T23:24:39Z",
+            "username": "hausfath"
+          },
+          "pass": false,
+          "reasoning": "The tweet refers to a historical perspective on climate change, mentioning 'global cooling' as a past concern. However, it does not discuss any current developments or actionable items related to climate change."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970622708347216191",
+            "text": "President Trump went to the U.N. to say climate change is not a major concern and warn against the “green new scam,” a message that seemed to come from a different reality than that of other leaders.\nhttps://t.co/7uPkSjE7Vi",
+            "created_at": "2025-09-23T22:54:00Z",
+            "username": "insideclimate"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses President Trump's remarks about climate change, specifically indicating that he does not view it as a major concern. This relates directly to a development in climate discussions, especially in the context of political discourse at the U.N. Therefore, it is indeed talking about a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970579805545603319",
+            "text": "Trump spreading fossil fuel propaganda lies at the UN - the credibility of the US is in free fall. https://t.co/HwKm178mJs",
+            "created_at": "2025-09-23T20:03:31Z",
+            "username": "rahmstorf"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses Trump and his actions related to fossil fuels at a UN event, which implies a connection to climate issues, particularly environmental policies and the impact of fossil fuel use on climate change."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970577222118371608",
+            "text": "RT @hausfath: In a UN speech today, President Trump said that \"all of these [climate] predictions were wrong\".\n\nBack in 2019 I led a resear…",
+            "created_at": "2025-09-23T19:53:15Z",
+            "username": "rahmstorf"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses President Trump's speech mentioning climate predictions, which indicates it is directly related to climate development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970561235168174133",
+            "text": "Pennsylvania’s governor says the state “will be forced to go in a different direction” if grid operator PJM Interconnection does not make “significant” changes.\nhttps://t.co/TshuSApQDS",
+            "created_at": "2025-09-23T18:49:44Z",
+            "username": "insideclimate"
+          },
+          "pass": true,
+          "reasoning": "The tweet mentions Pennsylvania's governor discussing the state's need to change direction if certain conditions regarding grid operation are not met. This implies a connection to climate development, as changes in energy grids are often linked to climate policy and environmental responses."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970560900999586124",
+            "text": "The leader of the world's largest oil and natural gas producer seems rather upset that many other countries are worried about climate change.",
+            "created_at": "2025-09-23T18:48:24Z",
+            "username": "RARohde"
+          },
+          "pass": true,
+          "reasoning": "The tweet mentions a leader of an oil and natural gas producer being 'upset' about other countries worrying about climate change, which suggests that it is indeed addressing a development related to climate concerns."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970540256031347001",
+            "text": "Recovering degraded agricultural land is a high impact solution with benefits for #climate and #foodsecurity.\n@FAO is delighted to support the @Cop30noBrasil Action Agenda, building on:\n\n🍃The FAST COP-to-COP Partnership\n🍃@COP29 Harmoniya Initiative\n\nhttps://t.co/EljbX4u2BT https://t.co/LucaKkUSwh",
+            "created_at": "2025-09-23T17:26:22Z",
+            "username": "FAOclimate"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses recovering degraded agricultural land as a solution that benefits climate, indicating a direct relevance to climate developments. It also includes hashtags related to climate (#climate) and mentions initiatives linked to international climate action (e.g., @COP30noBrasil). Therefore, it is indeed talking about a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970538631623516311",
+            "text": "🌳Agrifood system solutions; resilient crops, agroforestry, land restoration are vital in protecting food &amp; people in a changing #climate. \n\n@FAO delighted to support Alliance of Champions for Food Systems Transformation #ACF, I-CAN &amp; @GAINalliance on @Cop30noBrasil Action Agenda https://t.co/qDExP7BUXS",
+            "created_at": "2025-09-23T17:19:55Z",
+            "username": "FAOclimate"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses solutions related to agrifood systems, resilience, and food security in the context of a changing climate, indicating that it is about a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970535312297451660",
+            "text": "Its worth noting that when the first modern climate models were published in 1970 it was hardly clear that there was a warming trend; if anything there had been flat or slightly cooling global temperatures for the past three decades: https://t.co/pTy3qTylfT",
+            "created_at": "2025-09-23T17:06:43Z",
+            "username": "hausfath"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses early climate models from 1970 and references trends in global temperatures, indicating it is about developments in climate science."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970534061148983649",
+            "text": "Here is the (open access) scientific paper for folks interested in digging deeper: https://t.co/xxi1Bg12Ws",
+            "created_at": "2025-09-23T17:01:45Z",
+            "username": "hausfath"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not explicitly mention any development in climate; instead, it shares a link to a scientific paper without providing context about climate-related developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970534038466170889",
+            "text": "In a UN speech today, President Trump said that \"all of these [climate] predictions were wrong\".\n\nBack in 2019 I led a research effort to digitize old climate model projections and assess how well they did. Turns out they got future warming pretty spot on! https://t.co/LpFkDKm49F",
+            "created_at": "2025-09-23T17:01:40Z",
+            "username": "hausfath"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses President Trump's comments on climate predictions during a UN speech, and the author's reference to their research on climate model projections indicates a direct relation to developments in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970521104117891553",
+            "text": "Democrats charge that the Trump administration’s squeeze on clean energy supply is having an inevitable consequence: higher electricity prices. The energy debate has ramped up as a government shutdown looms.\nhttps://t.co/qluPYla7Hx",
+            "created_at": "2025-09-23T16:10:16Z",
+            "username": "insideclimate"
+          },
+          "pass": true,
+          "reasoning": "The tweet is discussing the impact of the Trump administration's policies on clean energy, which is directly related to climate change and environmental issues. It indicates that there are consequences of these policies on electricity prices, linking the topic to a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970519353528345030",
+            "text": "Big savings are still on the table through 2025, but only if we act now. \n\nLater will be too late. https://t.co/21Osc9UMXR \n\n#CleanEnergy #Solar #SaveMoney #BudgetFriendly #UseItorLoseIt https://t.co/Z4eKkNmBam",
+            "created_at": "2025-09-23T16:03:19Z",
+            "username": "ClimateReality"
+          },
+          "pass": true,
+          "reasoning": "The tweet mentions 'big savings' related to acting now on climate initiatives, alongside hashtags related to clean energy and solar power, indicating a focus on climate action and its economic implications."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970519339833930227",
+            "text": "Solar is awesome – for your wallet, your community, and our planet. But here’s the catch: the Trump Administration rolled back clean energy incentives, cutting the timeline short. https://t.co/pwLgHZOkEL",
+            "created_at": "2025-09-23T16:03:15Z",
+            "username": "ClimateReality"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses solar energy and its benefits, as well as the impact of the Trump Administration's actions on clean energy incentives. This indicates a focus on climate-related issues, particularly regarding renewable energy and policies affecting climate change."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970488409874403709",
+            "text": "The Trump Administration can throw roadblocks at wind and solar all it wants, but the numbers don’t lie: renewable energy is better for our climate, keeps breaking records, and continues to cut energy costs for families. https://t.co/s3jqvSiiqp",
+            "created_at": "2025-09-23T14:00:21Z",
+            "username": "ClimateReality"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses renewable energy's positive impact on the climate, specifically mentioning that it is better for the climate and that it continues to break records, indicating it is indeed about a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970486379932196905",
+            "text": "Biodiversity is crucial for more resilient &amp; productive agriculture.\n\n🇺🇬In Uganda, farmers use indigenous seeds, beekeeping &amp; agroforestry to protect crops, improve yields &amp; restore ecosystems.\n\nSee how @FAO helps scale up #biodiversity-friendly practices: https://t.co/4RIpe1FOXF https://t.co/uWRantgbM5",
+            "created_at": "2025-09-23T13:52:17Z",
+            "username": "FAOclimate"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses biodiversity and its importance to agriculture, particularly in the context of climate resilience. It mentions practices like using indigenous seeds and agroforestry, which are directly related to environmental sustainability and climate impacts."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970458201985315082",
+            "text": "It’s here! The #ClimateWeekNYC keynote kicks off today and the room is simply buzzing with (renewable) energy! \n\nJoin @ClimateReality CEO Phyllis Cuttino, Rep. @USRepKCastor, Dr. Ana Isabel Baptista, and more as they share how coalitions powered by communities are rewriting the future. It’s free and open to all, check it out now! https://t.co/mNaySWLt2h \n\n#TishmanCenter20 #EJisDemocracy #ClimateJustice #PoweredByCommunities",
+            "created_at": "2025-09-23T12:00:19Z",
+            "username": "ClimateReality"
+          },
+          "pass": true,
+          "reasoning": "The tweet is clearly discussing a climate-related event, specifically the kickoff of Climate Week NYC, which focuses on initiatives and discussions surrounding climate issues. The mention of renewable energy and community coalitions suggests that it is addressing developments in climate action and advocacy."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970436467047739766",
+            "text": "RT @MEERsrm: Ariana Ejupi, MEER’s Senior Project Officer, met with Mike Tidwell, Founder &amp; Director of the Chesapeake Climate Action Networ…",
+            "created_at": "2025-09-23T10:33:57Z",
+            "username": "PGDynes"
+          },
+          "pass": true,
+          "reasoning": "The tweet mentions a meeting with a representative from the Chesapeake Climate Action Network, which is an organization focused on advocacy for climate issues. This indicates that the tweet is related to developments in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970395350407225771",
+            "text": "What needs to happen from here for climate action? \n\n\"We need to step it up. Fast.\n\nThis new era of climate action must be about accelerating implementation and spreading the colossal benefits of climate action to billions more people.\" \n\n@SimonStiell speaking at #ClimateWeekNYC",
+            "created_at": "2025-09-23T07:50:34Z",
+            "username": "UNFCCC"
+          },
+          "pass": true,
+          "reasoning": "The tweet explicitly discusses climate action, emphasizing the need for accelerated implementation and highlighting the benefits of climate action. This clearly indicates a development in the context of climate change initiatives."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970382437722300535",
+            "text": "\"The added value of the #FASTPartnership is that it convenes capacity, finance &amp; policy under one roof. \n\n@YPARD really appreciates that #youth &amp; farmers are represented on the FAST Board.\" \n\n-- Edoardo Corriere, Global Programme Coordinator, YPARD\n\nhttps://t.co/TteAUXO2fE https://t.co/uucaMq1C2q",
+            "created_at": "2025-09-23T06:59:15Z",
+            "username": "FAOclimate"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the #FASTPartnership, which focuses on convening capacity, finance, and policy, along with representation of youth and farmers on the FAST Board. While it mentions climate through the hashtag #FAOclimate, the content is more about organizational structure and representation rather than a specific development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970294773522235595",
+            "text": "“Regenerative agriculture” is the latest buzzy marketing term in the food world, but without a clear, regulated definition or strong certification programs, it means little, critics say.\nhttps://t.co/MgeLCyyCrn",
+            "created_at": "2025-09-23T01:10:54Z",
+            "username": "insideclimate"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses 'regenerative agriculture' in the context of food marketing and critiques the lack of a clear definition or certification. While regenerative agriculture can have implications for climate, the tweet does not directly address whether a specific development in climate is being discussed. Therefore, it does not explicitly talk about a climate development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970276774677557621",
+            "text": "RT @isabelleboemeke: Standing in front of nuclear waste at the Indian Point nuclear power plant, which was shut down in 2021. \n\n127 of thes…",
+            "created_at": "2025-09-22T23:59:23Z",
+            "username": "hausfath"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a specific location (the Indian Point nuclear power plant) and an event related to its shutdown, but it does not specifically address climate change or global warming developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970261928678195587",
+            "text": "Our thoughts are with the families mourning after Indonesia’s deadly monsoon floods. https://t.co/5xC30C0uNl",
+            "created_at": "2025-09-22T23:00:24Z",
+            "username": "ClimateReality"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses Indonesia's deadly monsoon floods, which are related to climate events and their consequences. Therefore, it is indeed talking about a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970252898249605347",
+            "text": "In other words, this is weak sauce indeed upon which to make such a big public announcement: https://t.co/jFjhl0nKez",
+            "created_at": "2025-09-22T22:24:31Z",
+            "username": "hausfath"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention climate or any related development. It seems to be criticizing the significance of a public announcement, without context that relates to climate change or environmental issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970251958557851937",
+            "text": "We appear to already have reached the \"countries that don't take Tylenol don't have autism\" stage of the discourse. \n\nTruly the dumbest timeline...",
+            "created_at": "2025-09-22T22:20:47Z",
+            "username": "hausfath"
+          },
+          "pass": false,
+          "reasoning": "The tweet criticizes a current discourse around autism but does not mention climate change or related developments. Therefore, it does not talk about a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970251960176779545",
+            "text": "There may be a slight increase in the rate of autism associated with use of acetaminophen during pregnancy, though studies with more stringent sibling controls on genetics show no detectable effects in meta-analyses: https://t.co/86cwayIEj5",
+            "created_at": "2025-09-22T22:20:47Z",
+            "username": "hausfath"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a potential link between acetaminophen use during pregnancy and autism, which is related to health and medical studies. It does not address any points or developments regarding climate change."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970250776833597536",
+            "text": "Typhoon Ragasa was meant to be a once-in-50-year storm. Now, we’re seeing super typhoons like this every 3–4 years.\nThis isn’t anything normal — it’s the #ClimateCrisis and insurance for Hong Kong is just about to get even more expensive. https://t.co/8QUtKGOn35",
+            "created_at": "2025-09-22T22:16:05Z",
+            "username": "PGDynes"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses Typhoon Ragasa and the increasing frequency of super typhoons, which are linked to the climate crisis. This indicates a development in climate as it highlights the changing patterns of extreme weather events and their implications."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970243853006639463",
+            "text": "A toxic mining spill devastated Zambian farmers’ livelihoods, releasing millions of gallons of waste into the environment. The Chinese company responsible told shareholders the spill did not have “a significant impact.”\nhttps://t.co/NdntdtbmPJ",
+            "created_at": "2025-09-22T21:48:34Z",
+            "username": "insideclimate"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a toxic mining spill that resulted in environmental damage, which directly relates to climate issues, particularly concerning environmental degradation and impacts on livelihoods. Thus, it is talking about a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970234962579251544",
+            "text": "RT @simonstiell: Climate cooperation is working, but must work faster &amp; fairer. The world is aligning with Paris Agreement, but we must sca…",
+            "created_at": "2025-09-22T21:13:14Z",
+            "username": "UNFCCC"
+          },
+          "pass": true,
+          "reasoning": "The tweet references 'climate cooperation' and the 'Paris Agreement,' which are related to climate change and environmental policy. Therefore, it is indeed discussing a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970231712928972901",
+            "text": "What if every school could go solar with no upfront cost and start saving money right away? @CTGreenBank made it happen, turning it into a top state for solar-powered K-12 schools! \n\nNow @PubRenewables, @Gen_180 , and @ClimateReality are showing how your state can do it too. Check out the analysis ASAP! https://t.co/nDmcRM0TE8",
+            "created_at": "2025-09-22T21:00:20Z",
+            "username": "ClimateReality"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses solar energy initiatives for schools and highlights the efforts of organizations to promote renewable energy solutions, which directly relate to advancements in climate-related practices and sustainability."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970227904018583562",
+            "text": "RT @johnrhanger: Federal Judge rules Trump's order stopping work on Revolution Wind was \"arbitrary and capricious.\"  \n\nThe order caused 500…",
+            "created_at": "2025-09-22T20:45:12Z",
+            "username": "RARohde"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a legal ruling related to Trump's order on a specific wind project, but it does not explicitly mention climate developments or related changes. It focuses more on the judicial decision than on climate issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970217748333765114",
+            "text": "Pennsylvania was an early pioneer in renewable energy, but its progress stalled out in the early 2000s. Will the state ever catch up?\nhttps://t.co/aITY6uzVhw",
+            "created_at": "2025-09-22T20:04:50Z",
+            "username": "insideclimate"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses Pennsylvania's history with renewable energy and hints at its current status and future potential regarding energy development, which is directly related to climate issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970202752375574609",
+            "text": "The fight for climate justice is not easy. \n\nBut when we root ourselves in love, joy, music, and community, we find the strength to keep pushing against polluters. Mark Magaña of @GreenLatinos reminds us of this! #HispanicHeritageMonth https://t.co/qft8yKkQEI",
+            "created_at": "2025-09-22T19:05:15Z",
+            "username": "ClimateReality"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the fight for climate justice, which is a direct reference to climate issues. It mentions efforts against polluters, reinforcing its connection to developments in climate action and advocacy."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970171293132636550",
+            "text": "Climate protections are under attack. On Sept. 23 this #ClimateWeekNYC, leaders from the front lines, Congress and philanthropy show what it takes to fight back. \n\nDon’t just hear about it - be there. Free to all: https://t.co/J8j7h6CJ7f",
+            "created_at": "2025-09-22T17:00:14Z",
+            "username": "ClimateReality"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses climate protections being under attack and mentions an event during Climate Week NYC aimed at fighting back. It clearly involves a recent development related to climate issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970153272859390112",
+            "text": "The world’s top fossil fuel countries still plan to produce more than twice as much coal, gas and oil as would be consistent with climate goals. In fact, they’re planning even more than they were two years ago.\nhttps://t.co/sn57LVbIY2",
+            "created_at": "2025-09-22T15:48:38Z",
+            "username": "insideclimate"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the plans of fossil fuel countries in relation to climate goals, specifically mentioning the production of coal, gas, and oil, which directly relates to climate change and its implications."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970110912745918799",
+            "text": "A healthy climate for future generations to experience won’t wait – and neither can we. \n\nThat’s why our @ClimateReality CEO Phyllis Cuttino, Rep. Kathy Castor, Dr. Ana Isabel Baptista, and other changemakers are coming together at @NewSchoolTEDC’s Climate Week keynote. It’s free for you to join them on September 23.\n\nRegister now! https://t.co/mNaySWLt2h\n\n#ClimateWeekNYC #CenteringJustice #EJisDemocracy #ClimateJustice #EnvironmentalJustice #PoweredByCommunities",
+            "created_at": "2025-09-22T13:00:19Z",
+            "username": "ClimateReality"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses an upcoming event related to climate change and justice, featuring key figures in the climate movement. It emphasizes the urgency of addressing climate issues for future generations, which indicates a clear connection to developments in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970080719260029404",
+            "text": "It’s climate week and you know what you can right now celebrate? #StandForScience now by sending @EPA this message – protect the Endangerment Finding. https://t.co/ivdmfcBS2v",
+            "created_at": "2025-09-22T11:00:20Z",
+            "username": "ClimateReality"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses climate week and mentions the Endangerment Finding in relation to the EPA, indicating that it is about a development in climate policy or advocacy."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1969875834375934111",
+            "text": "RT @juniorkingpp: Can I ask a stupid question. What’s wrong with trees",
+            "created_at": "2025-09-21T21:26:12Z",
+            "username": "hausfath"
+          },
+          "pass": false,
+          "reasoning": "The tweet is a retweet that poses a question about trees without making any direct reference to climate change or developments in the climate. Therefore, it does not seem to be discussing a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1969869314611175845",
+            "text": "This is the #ClimateWeekNYC conversation you can’t miss.\n\nOn Sept. 23, frontline voices + leaders from Congress + beyond unite to defend climate progress + build thriving futures. Free + open to the public. \n\nRegister today: https://t.co/J8j7h6CJ7f",
+            "created_at": "2025-09-21T21:00:17Z",
+            "username": "ClimateReality"
+          },
+          "pass": true,
+          "reasoning": "The tweet is discussing the event 'ClimateWeekNYC', which focuses on climate issues involving frontline voices and leaders. It indicates a clear focus on climate progress and future actions related to climate development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1969864826068611519",
+            "text": "Dust storms can be deadly, and scientists warn that the Midwest may have to contend with more of them: “There’s no question that climate change is one of the major drivers of dust.”\nhttps://t.co/RmhfZ7phPE",
+            "created_at": "2025-09-21T20:42:27Z",
+            "username": "insideclimate"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses dust storms and explicitly mentions that climate change is a major driver of these events, indicating a direct connection to climate developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1969823982825435355",
+            "text": "*symptoms, not systems. Damn autocorrect 🙄",
+            "created_at": "2025-09-21T18:00:09Z",
+            "username": "hausfath"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention any developments related to climate. It seems to refer to a personal experience or a frustration with autocorrect rather than addressing climate issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1969788844183810292",
+            "text": "Natural gas companies argued that increasing production would lower Pennsylvanians’ electric bills. But in the last few years, residents’ bills have only gone up.\nhttps://t.co/pAUvsyvvqn",
+            "created_at": "2025-09-21T15:40:32Z",
+            "username": "insideclimate"
+          },
+          "pass": true,
+          "reasoning": "The tweet mentions natural gas companies and their argument regarding electric bills in Pennsylvania, which relates to energy production and its impact on consumers. Since natural gas is often discussed in the context of climate change and environmental impact, the content suggests a development related to the debate around energy sources and climate issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1969786209003069846",
+            "text": "But we should debate those bounds now, before heat waves, crop failures, or tipping-point fears goad governments into ill-considered action. The world stumbled into today’s accidental sulfur cooling without intention or oversight. We should not stumble into a replacement. https://t.co/54TcVhwcIf",
+            "created_at": "2025-09-21T15:30:03Z",
+            "username": "hausfath"
+          },
+          "pass": true,
+          "reasoning": "The tweet refers to potential future issues related to climate change, including heat waves and crop failures. It discusses the need for careful consideration of climate actions, indicating that it is indeed addressing a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1969786186999673175",
+            "text": "@nytopinion @DKeithClimate Geoengineering should not be a technocratic shortcut. If we ever need to use it, it should be as a narrow, temporary option to limit near-term warming while get to net-zero emissions. If it ever happens, it should be within strict bounds that make complacency harder, not easier.",
+            "created_at": "2025-09-21T15:29:58Z",
+            "username": "hausfath"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses geoengineering in the context of climate change, specifically addressing the need to limit warming and achieve net-zero emissions. It clearly relates to a development in climate policy."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1969785908342694166",
+            "text": "I have a new @nytopinion guest essay w/ @DKeithClimate about sunlight reflection. We note its not a solution for climate change and at best a band aid to treat systems, and suggest if its ever done it should only be to replace cooling from air pollution today.",
+            "created_at": "2025-09-21T15:28:52Z",
+            "username": "hausfath"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses sunlight reflection, which relates to climate issues, specifically mentioning that this method is not a solution to climate change. It indicates a development in ideas surrounding climate strategies."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1969670706716721482",
+            "text": "300,000 followers and such dangerous quackery as alkalinity kills cancer.\n\nThat's the death of expertise right there.",
+            "created_at": "2025-09-21T07:51:05Z",
+            "username": "RARohde"
+          },
+          "pass": false,
+          "reasoning": "The tweet addresses issues of misinformation regarding cancer treatment rather than discussing any developments in climate. It criticizes a specific claim without making any mention of climate change or related environmental topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1969640622026887463",
+            "text": "RT @extremetemps: EXTRAORDINARY HEAT WAVE IN EUROPE\n\nHundreds of records brutalized everywhere with up to 4/5c margins, it's arguably one t…",
+            "created_at": "2025-09-21T05:51:33Z",
+            "username": "rahmstorf"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses an extraordinary heat wave in Europe and mentions record temperatures, which are highly relevant to climate change and its impacts. Therefore, it can be concluded that the tweet is indeed talking about a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1969636356906258870",
+            "text": "Und Potsdamer Bürger können heute bei der OB-Wahl für eine klimafreundliche, zukunftsfähige und noch lebenswertere Stadt stimmen!",
+            "created_at": "2025-09-21T05:34:36Z",
+            "username": "rahmstorf"
+          },
+          "pass": true,
+          "reasoning": "The tweet mentions a climate-friendly voting option in the OB election, indicating a focus on climate-related issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1969540153783042294",
+            "text": "As utility costs rise nationwide, a small town in Iowa is seeing its heating and cooling costs steadily decline after installing one of the nation’s first geothermal networks.\nhttps://t.co/y2JzFRLoOE",
+            "created_at": "2025-09-20T23:12:19Z",
+            "username": "insideclimate"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the implementation of a geothermal network in a small town in Iowa, which is a development related to climate as it likely pertains to sustainable energy and reducing utility costs associated with heating and cooling. Geothermal energy is recognized for its potential to lower carbon emissions, thus contributing positively to climate change mitigation."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1969502641681051901",
+            "text": "Der Klimaschutz ist ein Wettlauf gegen die Zeit, den wir nicht verlieren dürfen. \nNur so können wir eine lebenswerte Zukunft für uns und unsere Kinder und Enkel ermöglichen.\nZehntausende Menschen sind dafür heute wieder auf die Straße gegangen.\n https://t.co/BSTIOqacZM",
+            "created_at": "2025-09-20T20:43:16Z",
+            "username": "rahmstorf"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses climate protection and the urgency of addressing climate issues for a sustainable future. It mentions a public demonstration for climate action, clearly indicating that it is about a development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1969445663596560499",
+            "text": "Pregnant women who lived closest to the Aliso Canyon disaster near Los Angeles during their final trimester were twice as likely to have low birth weight babies, a risk factor for childhood and adult disease, new research found.\nhttps://t.co/mQDjXqkY0N",
+            "created_at": "2025-09-20T16:56:51Z",
+            "username": "insideclimate"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses research related to pregnant women living near the Aliso Canyon disaster and its impact on low birth weight babies, which is connected to health risks. The Aliso Canyon disaster is an environmental incident linked to climate issues, thus the tweet can be interpreted as discussing an indirect development in climate."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1969388200817823879",
+            "text": "One of many many climate protests around the world today: in Potsdam with Luisa Neubauer! https://t.co/XU8MrWPUs3",
+            "created_at": "2025-09-20T13:08:31Z",
+            "username": "rahmstorf"
+          },
+          "pass": true,
+          "reasoning": "The tweet mentions 'climate protests' and specifies that it is taking place in Potsdam with an environmental activist. This indicates that the tweet is discussing a development related to climate issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1969362543597559954",
+            "text": "Funny thing, though, some of the first changes Musk made to the algorithm were to make the Twitter experience more uniform with less fragmentation into niche groups.",
+            "created_at": "2025-09-20T11:26:34Z",
+            "username": "RARohde"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing changes made by Musk to Twitter's algorithm, focusing on user experience rather than climate developments. There is no mention of climate-related topics, indicating that the tweet is not relevant to the question."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1969191628796535152",
+            "text": "A proposed gold mine in Nevada will be one of the first projects permitted under revised guidance for the National Environmental Policy Act under the Trump administration.\nhttps://t.co/OsBEkjfskl",
+            "created_at": "2025-09-20T00:07:24Z",
+            "username": "insideclimate"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a proposed gold mine in Nevada and mentions the National Environmental Policy Act, but it does not directly address a development specifically in climate change. Instead, it focuses on a mining project and regulatory changes related to environmental policy."
+        }
+      ],
+      "count": 190,
+      "filter_question": "Is this tweet talking about a development in climate?",
+      "summarization_question": "Summarize climate developments last week",
+      "summary": "Direct answer\nLast week’s climate developments centered on three connected threads: (1) high-profile diplomacy and new national pledges at UN/Climate Week events, (2) continued extreme-weather events tied to human-driven warming and growing evidence of health and economic harms, and (3) an intensifying political clash over U.S. climate policy and science — with defenders of climate research pushing back against federal rollbacks. Key news also highlighted renewable growth, finance for nature and agriculture, and new analyses showing how warming is already reshaping everyday life.\n\nKey themes and topics\n- International diplomacy and pledges: Multiple reports and briefings from UNFCCC and CarbonBrief noted significant new national commitments after the UN summit: around 100 Parties representing roughly two-thirds of global emissions submitted or unveiled new NDCs [see UNFCCC](https://x.com/UNFCCC/status/1971146057406091320) and CarbonBrief’s analysis that half of global emissions are now covered by 2035 pledges after the summit [see CarbonBrief](https://x.com/CarbonBrief/status/1971549259968221503). China also announced a new Paris-related pledge and became a focus of analysis and webinars by CarbonBrief [see CarbonBrief](https://x.com/CarbonBrief/status/1971548564628160550).\n\n- Extreme weather and attribution: Super Typhoon Ragasa underwent extreme rapid intensification (≈137 kph in ~24 hrs) and was linked to unusually warm ocean waters that were made much more likely by human-caused warming [see ClimateCentral](https://x.com/ClimateCentral/status/1971233683622502557) and related ocean temperature reporting [see ClimateCentral](https://x.com/ClimateCentral/status/1971233688466940345). Europe and other regions also experienced exceptional heat, and tropical systems (Humberto, potential Imelda, Hurricane Gabrielle threatening the Azores/Iberia) were highlighted by trackers and reporters [see ClimateCentral on Humberto/Imelda](https://x.com/ClimateCentral/status/1971615057797882206) and [PGDynes on Gabrielle](https://x.com/PGDynes/status/1971271149146472527).\n\n- Health, generational impacts, and socioeconomic costs: Several pieces drew attention to human impacts — from generational exposure to extreme heat (Climate Central: Gen Z children have experienced ~2x more extremely hot days than millennials and ~4x more than Gen X across 247 U.S. cities) [see ClimateCentral](https://x.com/ClimateCentral/status/1971690706231328979), to maternal and birth risks rising with extreme heat [see ClimateCentral](https://x.com/ClimateCentral/status/1971649808915222812). New research threads also tied EV adoption to reductions in very low birth-weight births (quoted study summary) and estimated enormous lifetime climate costs for Californians born today ($500k–$1M additional costs) [see dwallacewells](https://x.com/dwallacewells/status/1971631139296301389) and [see dwallacewells on EV study](https://x.com/dwallacewells/status/1971664119779807602).\n\n- Energy transition and clean tech momentum vs. policy pushback: Data and reporting showed strong growth in U.S. solar and wind generation (enough to power tens of millions of homes), expanding electric school buses, and continuing declines in coal/gas share for electricity [see ClimateCentral thread](https://x.com/ClimateCentral/status/1970941713305960747). At the same time, U.S. federal rollbacks and political attacks on clean-energy incentives and regulations (and on the EPA endangerment finding) drew criticism from scientists and advocacy groups [see ClimateReality on Endangerment Finding and DOE panel](https://x.com/ClimateReality/status/1971605796057206972) and multiple scientist responses to the President’s UN remarks [see MichaelEMann](https://x.com/MichaelEMann/status/1971573846882070975) and [rahmstorf](https://x.com/rahmstorf/status/1970745593216545027).\n\n- Climate finance, nature, and agriculture: FAO and partners highlighted tools and projects linking adaptation, agrifood systems, and climate finance (new CAR tool, projects in Senegal and Iraq, bioeconomy at G20) [see FAOclimate CAR tool](https://x.com/FAOclimate/status/1971605725148319991) and [FAOclimate Iraq SRVALI](https://x.com/FAOclimate/status/1970906895801266294). CarbonBrief flagged UK aid rising to record levels partly driven by carbon-credit funding and continued analysis of the role of finance and nature-based solutions [see CarbonBrief](https://x.com/CarbonBrief/status/1971653005175816403).\n\nNotable patterns and trends\n- Attribution and rapid intensification: Reports repeatedly connected exceptional storm intensification and unusually warm sea-surface temperatures to human-caused warming (e.g., Ragasa), indicating an ongoing pattern of stronger, faster-developing tropical systems where warm ocean anomalies exist [see ClimateCentral](https://x.com/ClimateCentral/status/1971233683622502557).\n\n- Normalization of overshoot/acceptance debates: Coverage at Climate Week and climate reporting noted a subtle rhetorical shift toward planning for “overshoot” (likely exceeding 1.5°C temporarily), a sign that policymakers and commentators are increasingly preparing for scenarios where 1.5°C is passed before mitigation or removal can bring temperatures down [see insideclimate on Climate Week rhetoric](https://x.com/insideclimate/status/1971234233810387438).\n\n- Increasing linkage between climate and public health/economics: Multiple tweets and articles highlighted growing evidence that climate change is already producing measurable health harms (birth outcomes, maternal health, mental health/brain development) and large economic burdens on current/future generations [see ClimateCentral on maternal health](https://x.com/ClimateCentral/status/1971649808915222812) and [dwallacewells on lifetime costs](https://x.com/dwallacewells/status/1971631139296301389).\n\nImportant mentions, interactions, and data points\n- Generational Warming Tool and findings: Climate Central’s generational analysis across 247 U.S. cities: Gen Z children experienced ~2× more extreme heat days than millennials and ~4× more than Gen X [see ClimateCentral generational tweet](https://x.com/ClimateCentral/status/1971690706231328979) and a tool link [see ClimateCentral tool](https://x.com/ClimateCentral/status/1971690709515489643).\n- City warming examples: Albany, NY warmed ~4.3°F since 1970 [see ClimateCentral](https://x.com/ClimateCentral/status/1971648522593489117); all 30 NFL cities warmed on average 2.8°F during regular season months [see ClimateCentral](https://x.com/ClimateCentral/status/1971291191288439160).\n- Super Typhoon Ragasa rapid intensification: ~137 kph strengthening in ~24 hrs, western Pacific SST anomalies +0.7–1.1°C, event made 10–40× more likely by human-caused warming [see ClimateCentral on Ragasa](https://x.com/ClimateCentral/status/1971233683622502557) and [ocean temps](https://x.com/ClimateCentral/status/1971233688466940345).\n- UN/NDC progress: ~100 Parties (≈2/3 emissions) submitted updated NDCs; CarbonBrief: pledges now cover ~half global emissions to 2035 [see UNFCCC](https://x.com/UNFCCC/status/1971146057406091320) and [CarbonBrief analysis](https://x.com/CarbonBrief/status/1971549259968221503).\n- Policy/administration conflict: Scientific community and advocacy groups mobilized against administration rollbacks and misinformation (NASEM assessment cited to defend the Endangerment Finding; multiple scientists rebutted the President’s UN statements) [see ClimateReality NASEM tweet](https://x.com/ClimateReality/status/1971605796057206972) and [MichaelEMann op-ed/tweet](https://x.com/MichaelEMann/status/1971573846882070975).\n\nSignificant events or announcements (each highlighted)\n1) UN/Climate Week outcomes and pledges: Climate Week/UNGA activity drove numerous national announcements and a wave of reporting about NDC updates. The UNFCCC reported ~100 Parties (covering ~2/3 of emissions) submitted or unveiled new climate plans; CarbonBrief’s follow-up analysis said new 2035 pledges now cover roughly half of global emissions — a meaningful step for COP30 prep, though analysts caution that many pledges still fall short of 1.5°C pathways [see UNFCCC](https://x.com/UNFCCC/status/1971146057406091320) and [CarbonBrief](https://x.com/CarbonBrief/status/1971549259968221503).\n\n2) Super Typhoon Ragasa and extreme storm attribution: Ragasa’s extreme rapid intensification and records as one of the year’s strongest tropical systems was explicitly linked to unusually warm sea-surface temperatures that were many times more likely because of human-driven warming; that event reinforced the week’s broader theme that storms and heat extremes are increasingly intensified by background warming [see ClimateCentral on Ragasa](https://x.com/ClimateCentral/status/1971233683622502557) and [ocean temp thread](https://x.com/ClimateCentral/status/1971233688466940345).\n\n3) U.S. political clashes over climate science and protections: The week featured public confrontation between the U.S. administration’s climate messaging and the scientific community. The President’s UN remarks denying mainstream climate warnings prompted multiple scientist rebuttals, while groups celebrated a legal/scientific pushback (NASEM assessment) that complicates efforts to rescind the EPA Endangerment Finding — a key piece in the administration’s regulatory agenda [see MichaelEMann](https://x.com/MichaelEMann/status/1971573846882070975) and [ClimateReality on NASEM](https://x.com/ClimateReality/status/1971605796057206972).\n\nBottom line\nLast week combined diplomatic momentum (new pledges and COP30 preparation) with stark reminders that warming is already changing weather, health, and economies now. Scientific attribution of extreme storms and extensive reporting on health and generational harms strengthened the evidence base; at the same time, political fights over U.S. climate policy and regulatory rollbacks intensified, making the policy outlook uneven even as international commitments and clean-energy deployment continue to advance."
+    },
+    "completed_at": "2025-09-26T23:06:52.271345Z",
+    "processing_time_seconds": 95
+  }
+}
