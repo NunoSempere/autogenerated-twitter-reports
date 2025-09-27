@@ -2,10 +2,250 @@
   "success": true,
   "message": "Job results retrieved successfully",
   "data": {
-    "job_id": "a78678d4-5d38-4b76-becd-de5a73587470",
+    "job_id": "1281fb5f-735c-4a9f-b1b3-aae3da666fca",
     "status": "completed",
     "results": {
       "filtered_tweets": [
+        {
+          "tweet": {
+            "tweet_id": "1971918884765831549",
+            "text": "Asheville in North Carolina one year ago.",
+            "created_at": "2025-09-27T12:44:33Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to solar flares or sun-related events. It only references Asheville in North Carolina and a time frame of one year ago, which is unrelated to the question asked."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971917636302000524",
+            "text": "Horseshoe Beach, Florida one year ago.",
+            "created_at": "2025-09-27T12:39:35Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention any solar flare or sun-related event. It refers to a location and a time but lacks any context about solar activity."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971914084531814592",
+            "text": "Polish climber Andrzej Bargiel has made history as the first to ski down Everest with no oxygen. \n\nHe spent 16 hours in the death zone during a snowstorm and still set the record. Respect!\nhttps://t.co/1cJKVGpm1L",
+            "created_at": "2025-09-27T12:25:28Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet talks about Polish climber Andrzej Bargiel's achievement of skiing down Everest without oxygen. It does not mention any solar flares or sun-related events."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971912216502063612",
+            "text": "🤣🤣🤣🤣🤣",
+            "created_at": "2025-09-27T12:18:03Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet contains only laughter emojis and does not provide any information or context regarding solar flares or sun-related events. Therefore, it does not indicate that the user is discussing a worrying solar flare."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971909687156314181",
+            "text": "There's always one!\n\n📍 Zhuhai, China, 24th Sept\nhttps://t.co/XNRilwFPNf",
+            "created_at": "2025-09-27T12:08:00Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything about a solar flare or any sun-related event. It includes a location and a link, but there is no context or wording that implies concern or discussion about solar activity."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971906194509123593",
+            "text": "Bird migration.",
+            "created_at": "2025-09-27T11:54:07Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions 'bird migration,' which is unrelated to solar flares or sun-related events. It does not indicate any worry or concern about such phenomena."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971905490331504981",
+            "text": "RT @LinnellLynsie: @volcaholic1 Blossoms in 🇳🇿 this week ♥️ https://t.co/j7i8I8DXCD",
+            "created_at": "2025-09-27T11:51:19Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything about a solar flare or sun-related event. It is about 'blossoms' in New Zealand, indicating a positive or neutral topic related to nature."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971902549968994799",
+            "text": "Future Tropical Storm Imelda could bring impacts to the Southeast U.S. Here's the latest forecast maps and tracking information to stay up-to-date on the storm's path and potential impacts. https://t.co/Q1DkSwT0TU",
+            "created_at": "2025-09-27T11:39:38Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet from weatherchannel discusses Tropical Storm Imelda and its potential impacts on the Southeast U.S., focusing on weather forecasts and tracking information. There is no mention of solar flares or sun-related events, which makes it clear that the tweet does not discuss these topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971879371347841226",
+            "text": "I work my bloody arse off JUST SO YOU KNOW… to give you FREE, up-to-date, valuable information JUST SO YOU KNOW. \n\nI’ll keep posting like this every now and then to make sure my posts stay in everyone's feed. JUST SO YOU KNOW!",
+            "created_at": "2025-09-27T10:07:32Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything about solar flares or sun-related events. Instead, it focuses on the user's effort to provide information and keep their posts visible."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971874541531189687",
+            "text": "RT @volcaholic1: When you get a spare minute, scroll down my timeline. I’ve shared a lot that many of you probably haven’t seen yet.\n\nBusy…",
+            "created_at": "2025-09-27T09:48:21Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything about solar flares or sun-related events. It focuses on the user's timeline and what they have shared, which is unrelated to solar activity."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971818884094169413",
+            "text": "Major flooding in the Chaderghat area in Hyderabad, India today...🌊🌊🌊\nhttps://t.co/mNE8b0VUPN",
+            "created_at": "2025-09-27T06:07:11Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing major flooding in Hyderabad and does not mention anything about a solar flare or a sun-related event."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971809893758681321",
+            "text": "Whoahh! Flash flooding in Globe, Arizona tonight  👀👀\nhttps://t.co/7fQ8Tp2i6J",
+            "created_at": "2025-09-27T05:31:27Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses flash flooding in Globe, Arizona, and does not mention solar flares or any sun-related events. Therefore, it is not concerned with a new worrying solar flare."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971805975134065122",
+            "text": "RT @volcaholic1: Little reminder  🥰\n\nHate to do this, but here we are… If you’re seeing this, drop a quick comment so my posts don’t disapp…",
+            "created_at": "2025-09-27T05:15:53Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to solar flares or sun-related events. It seems to be a personal reminder or request for engagement rather than a discussion about any scientific phenomenon."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971788565030871263",
+            "text": "A state of emergency has been issued in South Carolina in anticipation of a potential landfalling tropical system next week. Meanwhile, Humberto went from a tropical storm to a category 4 hurricane in less than a day. Here's the latest:\nhttps://t.co/KF6No3OAcj https://t.co/oGz6XoTv2M",
+            "created_at": "2025-09-27T04:06:42Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a tropical storm and hurricane, not a solar flare or sun-related event."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971757181935514003",
+            "text": "When you get a spare minute, scroll down my timeline. I’ve shared a lot that many of you probably haven’t seen yet.\n\nBusy day  🥰",
+            "created_at": "2025-09-27T02:02:00Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything about solar flares or sun-related events. It talks about sharing content on a timeline and having a busy day, which is unrelated to any solar activity."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971752199266165187",
+            "text": "RT @wxunfiltered: Meteorologist @mikebettes has a closer look at Hurricane Humberto and Potential Tropical Cyclone Nine. Keep checking back…",
+            "created_at": "2025-09-27T01:42:12Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Hurricane Humberto and Potential Tropical Cyclone Nine, which are weather events related to storms and hurricanes, not specifically about solar flares or sun-related events."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971738539730915360",
+            "text": "Hurricane expert @DrRickKnabb analyzes what the models are showing for future Imelda's growing threat to the U.S. East Coast. Watch: https://t.co/sBlzlR2gcz",
+            "created_at": "2025-09-27T00:47:55Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing hurricane forecasting and the threat of Hurricane Imelda to the U.S. East Coast, not a solar flare or sun-related event."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971714597972496675",
+            "text": "El Rosario, in the municipality of Rafael Lucio, Mexico  👀\nhttps://t.co/CfVfhRw6Ig",
+            "created_at": "2025-09-26T23:12:47Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything about a solar flare or sun-related event. It appears to be related to a location in Mexico without discussing any astronomical phenomena."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971711128603410811",
+            "text": "Little reminder  🥰\n\nHate to do this, but here we are… If you’re seeing this, drop a quick comment so my posts don’t disappear from your feed. Say whatever you like!",
+            "created_at": "2025-09-26T22:59:00Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is a reminder to engage with the posts by commenting, indicating a focus on social media interaction rather than discussing solar flares or any sun-related events."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971709522831200747",
+            "text": "Here is a video of the M4.5 earthquake that occurred in Tanggamus, Lampung in Indonesia, on September 26, 2025, at 21:55:07 WIB. \n\nBased on the video, the earthquake appears to have a strike-slip mechanism, though further analysis is still needed regarding its characteristics.\n\nCredit: Info Gempa Dunia",
+            "created_at": "2025-09-26T22:52:37Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses an earthquake event and its characteristics, mentioning a specific location and time. It does not reference solar flares or any sun-related events."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971703167072276581",
+            "text": "RT @volcaholic1: Awful flooding in Ibajay, Philippines due to Tropical Cyclone Bualoi (Opong)....🌊🌊🌊 https://t.co/s95ojXQNQL",
+            "created_at": "2025-09-26T22:27:22Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing flooding in the Philippines caused by a tropical cyclone, not a solar flare or sun-related event. Therefore, it does not address the question."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971701229014376569",
+            "text": "This is amazing news. \n\nA strong late-September storm could drop 0.5 to 3 inches of rain and has the potential to end fire season in Northern California north of I-80. https://t.co/JRIXLm6JxX",
+            "created_at": "2025-09-26T22:19:40Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything about a solar flare or any sun-related event. It discusses a late-September storm and its potential impact on fire season."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971699764036358379",
+            "text": "Parts of the Southeast U.S. coast are in the cone for what could become Imelda. Forecast: https://t.co/BTrNd58JCj",
+            "created_at": "2025-09-26T22:13:50Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet refers to a weather forecast regarding a potential tropical storm (Imelda), and does not mention solar flares or sun-related events."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971698535285641405",
+            "text": "San Cristóbal, Chiapas in Mexico now!  🌊👀\nhttps://t.co/1OBQYlcyJf",
+            "created_at": "2025-09-26T22:08:57Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to a solar flare or any sun-related event. It appears to focus on a location in Mexico, possibly indicating an observation (e.g., of water or an event) but provides no information about a solar flare."
+        },
         {
           "tweet": {
             "tweet_id": "1971696476956000468",
@@ -14,7 +254,7 @@
             "username": "Volcaholic1"
           },
           "pass": false,
-          "reasoning": "The tweet does not mention anything about a solar flare or any sun-related events. It refers to a location (Cuernavaca, Mexico) and includes an emoji, but there is no indication of discussing concerns about solar activity or related events."
+          "reasoning": "The tweet does not mention anything about a solar flare or any sun-related event. Instead, it references Cuernavaca, Mexico, and includes an emoji and a link, which does not imply concern about solar activity."
         },
         {
           "tweet": {
@@ -24,7 +264,7 @@
             "username": "weatherchannel"
           },
           "pass": false,
-          "reasoning": "The tweet does not mention anything about a solar flare or any sun-related event. It discusses weather news and features a discussion with a hurricane expert."
+          "reasoning": "The tweet does not mention a solar flare or any sun-related event. It is discussing weather news and features a former director of the National Hurricane Center, implying a focus on hurricanes rather than solar activity."
         },
         {
           "tweet": {
@@ -34,7 +274,7 @@
             "username": "Volcaholic1"
           },
           "pass": false,
-          "reasoning": "The input provided does not include the actual content of the tweet. Therefore, it is impossible to determine whether the tweet discusses a new worrying solar flare or sun-related event."
+          "reasoning": "The tweet does not mention anything about a solar flare or a sun-related event. It may be discussing other topics unrelated to solar activity."
         },
         {
           "tweet": {
@@ -44,7 +284,7 @@
             "username": "weatherchannel"
           },
           "pass": false,
-          "reasoning": "The tweet is discussing Potential Tropical Cyclone Nine and weather-related information, not a solar flare or sun-related event."
+          "reasoning": "The tweet discusses Potential Tropical Cyclone Nine and updates regarding tracking this weather system. It does not mention solar flares or any sun-related events."
         },
         {
           "tweet": {
@@ -54,7 +294,7 @@
             "username": "weatherchannel"
           },
           "pass": false,
-          "reasoning": "The tweet discusses PTC 9, which is related to weather forecasting and potentially a hurricane, rather than a solar flare or sun-related event. There is no mention of solar activity in the content of the tweet."
+          "reasoning": "The tweet is not discussing a solar flare or sun-related event; it is mentioning PTC 9, which is likely a weather system or storm update. There is no indication or mention of solar activity."
         },
         {
           "tweet": {
@@ -64,7 +304,7 @@
             "username": "weatherchannel"
           },
           "pass": false,
-          "reasoning": "The tweet is discussing the issuance of a cone for a tropical system, likely related to weather events, rather than mentioning a solar flare or sun-related event. There is no indication in the text about solar activity or concerns related to the Sun."
+          "reasoning": "The tweet is focused on a weather event related to a tropical depression (PTC 9) and its potential impact on certain locations. It does not mention anything about solar flares or sun-related events."
         },
         {
           "tweet": {
@@ -74,7 +314,7 @@
             "username": "Volcaholic1"
           },
           "pass": false,
-          "reasoning": "The tweet discusses a state of emergency declared by the governor in response to Tropical Disturbance 94L, which is a weather event related to a disturbance in the atmosphere, not related to solar flares or sun-related events. Therefore, it does not mention any solar activity."
+          "reasoning": "The tweet discusses a state of emergency related to Tropical Disturbance 94L, which is related to weather and possibly tropical storms or hurricanes. There is no mention of a solar flare or any sun-related event in the content."
         },
         {
           "tweet": {
@@ -84,7 +324,7 @@
             "username": "US_Stormwatch"
           },
           "pass": false,
-          "reasoning": "The tweet discusses a potential tropical cyclone and its impact, specifically focusing on significant flooding and rainfall. It does not mention any solar flare or sun-related events."
+          "reasoning": "The tweet is discussing a weather-related event specifically about a tropical cyclone and potential flooding, not about a solar flare or sun-related event."
         },
         {
           "tweet": {
@@ -94,7 +334,7 @@
             "username": "weatherchannel"
           },
           "pass": false,
-          "reasoning": "The tweet discusses a tropical storm forming in the Bahamas and mentions hurricane activity near Bermuda, which is related to weather events rather than solar flares or sun-related events."
+          "reasoning": "The tweet discusses a tropical storm forming in the Bahamas and its potential impacts on the Southeast coast, along with information about a major hurricane. It does not mention a solar flare or any sun-related event, thus it does not address the question."
         },
         {
           "tweet": {
@@ -104,7 +344,7 @@
             "username": "US_Stormwatch"
           },
           "pass": false,
-          "reasoning": "The tweet mentions severe thunderstorms and hail in Arizona, not a solar flare or sun-related event. It focuses on weather phenomena related to storms, rather than solar activity."
+          "reasoning": "The tweet discusses severe thunderstorms and hail in Arizona, as well as flash flood warnings. It does not mention any solar flares or sun-related events, so it is not talking about that topic."
         },
         {
           "tweet": {
@@ -114,7 +354,7 @@
             "username": "Volcaholic1"
           },
           "pass": false,
-          "reasoning": "The tweet does not mention anything about a solar flare or sun-related event. Instead, it appears to be referencing an event in Culiacán, Mexico, without any context related to solar activity."
+          "reasoning": "The tweet does not mention anything about a solar flare or a sun-related event. It appears to be about a location in Mexico and includes a link, but lacks any direct reference to solar activity."
         },
         {
           "tweet": {
@@ -124,7 +364,7 @@
             "username": "Volcaholic1"
           },
           "pass": false,
-          "reasoning": "The tweet does not contain any information or context regarding a solar flare or any sun-related event. It only includes a username and a link."
+          "reasoning": "The tweet does not contain any information or context that describes a solar flare or any sun-related event. It only includes a handle and a link, which does not provide relevant information about the topic in question."
         },
         {
           "tweet": {
@@ -134,7 +374,7 @@
             "username": "Volcaholic1"
           },
           "pass": false,
-          "reasoning": "The tweet is discussing a hurricane (Humberto) and includes a video link related to storm activity, not a solar flare or sun-related event."
+          "reasoning": "The tweet is discussing Hurricane Humberto, which is a weather event related to hurricanes and not about a solar flare or sun-related event. Therefore, it does not pass the question."
         },
         {
           "tweet": {
@@ -144,7 +384,7 @@
             "username": "Volcaholic1"
           },
           "pass": false,
-          "reasoning": "The tweet does not mention anything about solar flares or sun-related events. Instead, it seems to focus on a location (Culiacán, Mexico) along with an emoji representation of waves, which could indicate weather or ocean-related content rather than solar activity."
+          "reasoning": "The tweet does not mention anything related to solar flares or sun-related events. It appears to be discussing a location (Culiacán, Mexico) and includes emojis of waves, which do not convey any concern about solar activity."
         },
         {
           "tweet": {
@@ -154,7 +394,7 @@
             "username": "Volcaholic1"
           },
           "pass": false,
-          "reasoning": "The tweet discusses major flooding in Cienfuegos, Santiago, in the Dominican Republic, which is unrelated to solar flares or sun-related events. Instead, it focuses on weather-related issues."
+          "reasoning": "The tweet discusses major flooding in a specific location (Cienfuegos, Santiago, Dominican Republic) and does not mention anything related to solar flares or sun-related events."
         },
         {
           "tweet": {
@@ -164,7 +404,7 @@
             "username": "weatherchannel"
           },
           "pass": false,
-          "reasoning": "The tweet does not mention anything about a solar flare or a sun-related event. It discusses a weather system (Invest 94L) and its potential impacts, which is related to meteorology, not solar activity."
+          "reasoning": "The tweet is about Invest 94L and its potential impact, which is related to a weather system and not about a solar flare or any sun-related event. Therefore, it does not discuss a worrying solar flare."
         },
         {
           "tweet": {
@@ -174,7 +414,7 @@
             "username": "Volcaholic1"
           },
           "pass": false,
-          "reasoning": "The tweet discusses hurricane John and mentions it in relation to hurricane Helene. It does not provide any information about solar flares or sun-related events."
+          "reasoning": "The tweet discusses the anniversary of hurricane John hitting Mexico and mentions Helene, but it does not mention anything related to a solar flare or any sun-related events. Therefore, the tweet is not talking about a new worrying solar flare or sun-related event."
         },
         {
           "tweet": {
@@ -184,7 +424,7 @@
             "username": "Volcaholic1"
           },
           "pass": false,
-          "reasoning": "The tweet does not mention anything about a solar flare or sun-related event. Instead, it refers to the Ryder Cup, which is related to golf, and uses emojis that do not indicate a worrying event about the sun."
+          "reasoning": "The tweet does not mention a solar flare or any sun-related event. It is about the Ryder Cup and includes emojis that could imply excitement but do not relate to solar activity."
         },
         {
           "tweet": {
@@ -194,7 +434,7 @@
             "username": "Volcaholic1"
           },
           "pass": false,
-          "reasoning": "The tweet discusses major flooding in specific provinces of Algeria, with no mention of a solar flare or any sun-related event. It is focused on weather conditions resulting from flooding rather than solar activity."
+          "reasoning": "The tweet is discussing major flooding in specific provinces of Algeria and does not mention anything about solar flares or sun-related events."
         },
         {
           "tweet": {
@@ -204,7 +444,7 @@
             "username": "weatherchannel"
           },
           "pass": false,
-          "reasoning": "The tweet discusses hurricanes that start with the letter 'I' and their destructiveness, but it does not mention anything about solar flares or sun-related events. Therefore, it does not talk about a new worrying solar flare or sun-related event."
+          "reasoning": "The tweet discusses destructive hurricanes and their correlation with the letter 'I', but it does not mention or imply a solar flare or any sun-related event."
         },
         {
           "tweet": {
@@ -214,7 +454,7 @@
             "username": "Volcaholic1"
           },
           "pass": false,
-          "reasoning": "The tweet consists only of popcorn emojis, which do not provide any information about a solar flare or sun-related event. Therefore, it does not imply any concern or discussion regarding such events."
+          "reasoning": "The tweet does not mention anything about a solar flare or any sun-related event. The use of popcorn emojis suggests anticipation or entertainment, likely indicating enjoyment of something else, rather than concern over a solar event."
         },
         {
           "tweet": {
@@ -224,7 +464,7 @@
             "username": "Volcaholic1"
           },
           "pass": false,
-          "reasoning": "The tweet does not contain any information about a new solar flare or sun-related event. It may discuss other topics that are not relevant to solar activity."
+          "reasoning": "The tweet does not provide sufficient information about a solar flare or any sun-related event. The link included in the tweet may contain additional context but is not visible in the provided input to determine the subject matter accurately."
         },
         {
           "tweet": {
@@ -234,7 +474,7 @@
             "username": "Volcaholic1"
           },
           "pass": false,
-          "reasoning": "The tweet does not mention anything about a solar flare or any sun-related event. It talks about a 'box phone farm' used for managing fake accounts, which is unrelated to solar activity."
+          "reasoning": "The tweet does not mention anything about solar flares or sun-related events. It discusses a phone farm used for disinformation and scams, which is unrelated to solar activity."
         },
         {
           "tweet": {
@@ -244,7 +484,7 @@
             "username": "Volcaholic1"
           },
           "pass": false,
-          "reasoning": "The tweet discusses ocean health and the need to curb fossil fuels, with no mention of solar flares or sun-related events. It focuses on environmental issues related to marine life rather than solar activity."
+          "reasoning": "The tweet discusses the health of the world's oceans and the acidity levels related to marine life, as well as a global effort to address fossil fuel impacts. It does not mention solar flares or any sun-related events."
         },
         {
           "tweet": {
@@ -254,7 +494,7 @@
             "username": "weatherchannel"
           },
           "pass": false,
-          "reasoning": "The tweet is discussing tropical storm alerts and weather disturbances in the Bahamas, rather than a solar flare or sun-related event."
+          "reasoning": "The tweet discusses tropical storm alerts in the Bahamas and does not mention any solar flares or sun-related events."
         },
         {
           "tweet": {
@@ -264,7 +504,7 @@
             "username": "Volcaholic1"
           },
           "pass": false,
-          "reasoning": "The tweet is discussing a severe tropical cyclone that has affected the Philippines. It does not mention anything about solar flares or sun-related events, so it does not meet the criteria of talking about a new worrying solar flare."
+          "reasoning": "The tweet is discussing a severe tropical cyclone named Opong and its impact on the Philippines, rather than referencing a solar flare or sun-related event. Therefore, it does not relate to the question about solar flares."
         },
         {
           "tweet": {
@@ -274,7 +514,7 @@
             "username": "weatherchannel"
           },
           "pass": false,
-          "reasoning": "The tweet is discussing preparation for a tropical storm or hurricane, not a solar flare or any solar-related event. Therefore, it does not relate to the question about a worrying solar flare."
+          "reasoning": "The tweet discusses preparing for tropical storms or hurricanes, not a solar flare or sun-related event."
         },
         {
           "tweet": {
@@ -284,7 +524,7 @@
             "username": "Volcaholic1"
           },
           "pass": false,
-          "reasoning": "The tweet describes a murmuration of birds in Essentuki, Russia, and mentions the lights of the city. It does not mention solar flares or any sun-related events."
+          "reasoning": "The tweet discusses a murmuration of birds in Essentuki, Russia, and mentions the changing patterns of the birds in the sky. It does not mention any solar flare or sun-related event."
         },
         {
           "tweet": {
@@ -294,7 +534,7 @@
             "username": "Volcaholic1"
           },
           "pass": false,
-          "reasoning": "The tweet discusses the issue of satellite congestion and space debris, particularly focusing on the implications of increased satellite launches. There is no mention of solar flares or any sun-related events, making it clear that the tweet is not about such topics."
+          "reasoning": "The tweet discusses concerns about satellite congestion in Earth's orbit and potential collisions, but it does not mention solar flares or sun-related events."
         },
         {
           "tweet": {
@@ -304,7 +544,7 @@
             "username": "Volcaholic1"
           },
           "pass": false,
-          "reasoning": "The tweet expresses excitement about something related to nature (emojis of trees and plants) and does not mention or imply any solar flare or sun-related event."
+          "reasoning": "The tweet does not mention anything about a solar flare or any sun-related event. It appears to express excitement about something that involves nature, as indicated by the plants emoji and the lack of any reference to solar activity."
         },
         {
           "tweet": {
@@ -314,7 +554,7 @@
             "username": "Volcaholic1"
           },
           "pass": false,
-          "reasoning": "The tweet does not mention anything about a solar flare or a sun-related event. Instead, it references 'Hepatitis,' which is unrelated to solar activity."
+          "reasoning": "The tweet does not mention anything about solar flares or sun-related events. The only word present is 'Hepatitis', which is unrelated to solar activity."
         },
         {
           "tweet": {
@@ -324,7 +564,7 @@
             "username": "Volcaholic1"
           },
           "pass": false,
-          "reasoning": "The tweet discusses Hurricane Helene, its impact, and statistics related to it. It does not mention solar flares or sun-related events, so it is not relevant to the question."
+          "reasoning": "The tweet discusses Hurricane Helene and its effects, which pertain to a natural disaster event rather than a solar flare or sun-related event. Therefore, it does not address the question about solar flares."
         },
         {
           "tweet": {
@@ -334,7 +574,7 @@
             "username": "Volcaholic1"
           },
           "pass": false,
-          "reasoning": "The tweet does not mention anything related to solar flares or sun-related events. It discusses fatalities due to bootleg alcohol consumption in Russia, which is unrelated to solar activity."
+          "reasoning": "The tweet discusses fatalities related to bootleg alcohol consumption in Russia, and does not mention anything about solar flares or sun-related events. Thus, it is not talking about a new worrying solar flare."
         },
         {
           "tweet": {
@@ -344,7 +584,7 @@
             "username": "weatherchannel"
           },
           "pass": false,
-          "reasoning": "The tweet is discussing the Ryder Cup and the gameday forecast, which is related to weather for the event. There is no mention of solar flares or sun-related events."
+          "reasoning": "The tweet from @weatherchannel is about the Ryder Cup event and the gameday forecast, which is related to weather and does not mention any solar flares or sun-related events."
         },
         {
           "tweet": {
@@ -354,7 +594,7 @@
             "username": "Volcaholic1"
           },
           "pass": false,
-          "reasoning": "The tweet is about pediatric patients and their transport, mentioning the use of edibles, which has no relation to solar flares or any sun-related events."
+          "reasoning": "The tweet mentions pediatric patients and a transportation scenario, with a reference to 'edibles,' which suggests a context related to medical transports rather than solar flares or sun-related events. There is no mention or implication of solar activity."
         },
         {
           "tweet": {
@@ -364,7 +604,7 @@
             "username": "Volcaholic1"
           },
           "pass": false,
-          "reasoning": "The tweet does not provide any content or information regarding a solar flare or sun-related event. It simply contains an emoji response, which does not indicate concern or relevance to solar activity."
+          "reasoning": "The tweet from Volcaholic1 only contains emojis ('👀👀') and does not provide any information or context regarding a solar flare or any sun-related event. Therefore, it does not address the question."
         },
         {
           "tweet": {
@@ -374,7 +614,7 @@
             "username": "weatherchannel"
           },
           "pass": false,
-          "reasoning": "The tweet discusses a wildfire caused by lightning and the reopening of portions of the North Rim by the National Park Service. It does not mention solar flares or any sun-related events."
+          "reasoning": "The tweet does not mention anything about a solar flare or sun-related event. It discusses a wildfire caused by lightning and the reopening of parts of the North Rim."
         },
         {
           "tweet": {
@@ -384,7 +624,7 @@
             "username": "weatherchannel"
           },
           "pass": false,
-          "reasoning": "The tweet does not mention anything about a solar flare or any sun-related event. It is focused on reporting about a weather event related to Hurricane Imelda."
+          "reasoning": "The tweet does not mention a solar flare or any sun-related event; instead, it discusses reporting on Hurricane Imelda and its anniversary."
         },
         {
           "tweet": {
@@ -394,7 +634,7 @@
             "username": "weatherchannel"
           },
           "pass": false,
-          "reasoning": "The tweet is primarily a retweet that discusses a sitdown interview related to Hurricane Helene and does not mention any solar flares or sun-related events."
+          "reasoning": "The tweet is a retweet about a discussion on Hurricane Helene, which is related to weather but does not mention solar flares or any sun-related events. Therefore, it does not talk about a new worrying solar flare or sun-related event."
         },
         {
           "tweet": {
@@ -404,7 +644,7 @@
             "username": "weatherchannel"
           },
           "pass": false,
-          "reasoning": "The tweet is primarily discussing a live report related to the anniversary of Hurricane Helene, not a new solar flare or sun-related event. There is no mention of solar activity in the tweet."
+          "reasoning": "The tweet is discussing a live coverage event related to Hurricane Helene, and does not mention solar flares or any sun-related events. The focus is on a weather event rather than solar activity."
         },
         {
           "tweet": {
@@ -414,7 +654,7 @@
             "username": "weatherchannel"
           },
           "pass": false,
-          "reasoning": "The tweet discusses recovery efforts from Hurricane Helene and does not mention any solar flare or sun-related event. It is focused on a weather event from the past rather than current or future solar activity."
+          "reasoning": "The tweet discusses recovery efforts after Hurricane Helene and does not mention any solar flares or sun-related events. Therefore, it does not meet the criteria of talking about a worrying solar flare."
         },
         {
           "tweet": {
@@ -424,7 +664,7 @@
             "username": "weatherchannel"
           },
           "pass": false,
-          "reasoning": "The tweet discusses Hurricane Humberto and another developing storm named Imelda, which are both weather-related events, but it does not mention any solar flares or sun-related events."
+          "reasoning": "The tweet discusses Hurricane Humberto and another weather system forecasted to become Imelda. It does not mention a solar flare or any sun-related event."
         },
         {
           "tweet": {
@@ -434,7 +674,7 @@
             "username": "weatherchannel"
           },
           "pass": false,
-          "reasoning": "The tweet discusses a multiday flood threat and potential rainfall, but it does not mention any solar flares or sun-related events."
+          "reasoning": "The tweet discusses a multiday flood threat and heavy rain impacting the Southeast, with no mention or reference to solar flares or sun-related events."
         },
         {
           "tweet": {
@@ -444,7 +684,7 @@
             "username": "weatherchannel"
           },
           "pass": false,
-          "reasoning": "The tweet discusses a potential tropical storm named Imelda and its expected impacts on Georgia and the Carolinas, but there is no mention of solar flares or any sun-related events. Therefore, it does not address the question about new worrying solar activity."
+          "reasoning": "The tweet from weatherchannel discusses the potential development of a tropical storm named Imelda and its possible impacts on Georgia and the Carolinas. It does not mention or imply anything about a solar flare or any sun-related event."
         },
         {
           "tweet": {
@@ -454,7 +694,7 @@
             "username": "weatherchannel"
           },
           "pass": false,
-          "reasoning": "The tweet is discussing Humberto becoming a hurricane in the central Atlantic, which is related to weather events and hurricanes, not specifically to solar flares or sun-related events. Therefore, it does not talk about a new worrying solar flare."
+          "reasoning": "The tweet is about Hurricane Humberto and does not mention anything related to solar flares or sun-related events. Therefore, it does not address the question."
         },
         {
           "tweet": {
@@ -464,7 +704,7 @@
             "username": "weatherchannel"
           },
           "pass": false,
-          "reasoning": "The tweet is discussing the strengthening of Hurricane Humberto and a weather event related to Invest 94L. It does not mention anything about a solar flare or sun-related event."
+          "reasoning": "The tweet is discussing Hurricane Humberto and an ongoing weather event (Invest 94L), but it does not mention any solar flare or sun-related event. Therefore, it does not address the question."
         },
         {
           "tweet": {
@@ -474,7 +714,7 @@
             "username": "weatherchannel"
           },
           "pass": false,
-          "reasoning": "The tweet does not mention anything about solar flares or sun-related events. It talks about a documentary related to a storm and its aftermath."
+          "reasoning": "The tweet is about revisiting areas affected by a storm and promoting a show on The Weather Channel, not discussing solar flares or sun-related events."
         },
         {
           "tweet": {
@@ -484,7 +724,7 @@
             "username": "weatherchannel"
           },
           "pass": false,
-          "reasoning": "The tweet discusses a weather-related event (Invest 94L) and mentions a risk for the east coast, but does not reference a solar flare or sun-related event. There is no indication in the tweet that it relates to solar activities."
+          "reasoning": "The tweet does not mention a solar flare or any sun-related event. It focuses on a storm system (Invest 94L) and its organization, which is related to weather conditions rather than solar activity."
         },
         {
           "tweet": {
@@ -494,7 +734,7 @@
             "username": "weatherchannel"
           },
           "pass": false,
-          "reasoning": "The tweet discusses a visual phenomenon experienced by skydivers, specifically a circular rainbow, and does not mention anything about solar flares or sun-related events. Therefore, it does not talk about a worrying solar flare."
+          "reasoning": "The tweet describes an event involving skydivers witnessing a circular rainbow, which is a meteorological phenomenon. It does not mention solar flares or any sun-related events, so it does not relate to the question about worrying solar activities."
         },
         {
           "tweet": {
@@ -504,7 +744,7 @@
             "username": "weatherchannel"
           },
           "pass": false,
-          "reasoning": "The tweet discusses an earthquake event in Venezuela and its impact on a gamer's session, without any mention of solar flares or sun-related events."
+          "reasoning": "The tweet refers to a gamer whose session is interrupted by an earthquake in Venezuela. It does not mention anything about solar flares or sun-related events, thus it does not talk about a new worrying solar flare or sun-related event."
         },
         {
           "tweet": {
@@ -514,7 +754,7 @@
             "username": "weatherchannel"
           },
           "pass": false,
-          "reasoning": "The tweet discusses tropical weather events, specifically hurricanes and tropical storms, rather than solar flares or sun-related phenomena. Therefore, it does not talk about a new worrying solar flare or sun-related event."
+          "reasoning": "The tweet discusses the potential impacts of tropical storms and hurricanes, specifically Humberto and Imelda, but does not mention any solar flares or sun-related events."
         },
         {
           "tweet": {
@@ -524,7 +764,7 @@
             "username": "PGDynes"
           },
           "pass": false,
-          "reasoning": "The tweet discusses a hurricane (Hurricane Gabrielle) heading for Europe, specifically the Azores, Spain, and Portugal. It does not mention a solar flare or any sun-related event. Therefore, it does not talk about concerns related to solar activity."
+          "reasoning": "The tweet is discussing a hurricane (Hurricane Gabrielle) and its expected impact on Europe, specifically mentioning its trajectory and severity. There is no mention of solar flares or any sun-related events."
         },
         {
           "tweet": {
@@ -534,7 +774,7 @@
             "username": "PGDynes"
           },
           "pass": false,
-          "reasoning": "The tweet does not mention anything about solar flares or sun-related events. It discusses native trees and climate-related themes, suggesting a focus on environmental issues rather than specifically solar activities."
+          "reasoning": "The tweet does not mention anything about a solar flare or a sun-related event; it is discussing trees, climate change, and a book by Mike Tidwell."
         },
         {
           "tweet": {
@@ -544,7 +784,7 @@
             "username": "PGDynes"
           },
           "pass": false,
-          "reasoning": "The tweet does not mention anything related to a solar flare or a sun-related event. It discusses a visit by Dr. Ye Tao to explore passive cooling roofs for healthcare centers."
+          "reasoning": "The tweet does not mention a solar flare or any sun-related event. It discusses Dr. Ye Tao's visit to explore passive cooling roofs for healthcare centers, which is unrelated to solar activity."
         },
         {
           "tweet": {
@@ -554,7 +794,7 @@
             "username": "US_Stormwatch"
           },
           "pass": false,
-          "reasoning": "The tweet is focused on a thunderstorm outbreak occurring in California, mentioning numerous lightning strikes and weather patterns. It does not mention solar flares or sun-related events, making it irrelevant to the question."
+          "reasoning": "The tweet discusses thunderstorms occurring in California's Central Coast and mentions weather-related phenomena, but it does not reference solar flares or any sun-related events. Therefore, it does not pass the question about whether the tweet talks about a worrying solar flare."
         },
         {
           "tweet": {
@@ -564,7 +804,7 @@
             "username": "US_Stormwatch"
           },
           "pass": false,
-          "reasoning": "The tweet is about Super Typhoon Ragasa affecting Hong Kong and does not mention anything about solar flares or sun-related events. Therefore, it does not address the question."
+          "reasoning": "The tweet from US_Stormwatch is retweeting content about Super Typhoon Ragasa in Hong Kong, which does not mention a solar flare or any sun-related event. Therefore, it does not relate to the question asked."
         },
         {
           "tweet": {
@@ -574,7 +814,7 @@
             "username": "US_Stormwatch"
           },
           "pass": false,
-          "reasoning": "The tweet discusses a rare thunderstorm outbreak in the Central Coast and SF Bay Area, focusing on weather conditions rather than solar flares or sun-related events. There is no mention of solar activity or concerns about solar flares."
+          "reasoning": "The tweet discusses a possible thunderstorm outbreak in the Central Coast and Bay Area, and does not mention solar flares or any sun-related events. Therefore, it does not address the concern about a worrying solar flare."
         },
         {
           "tweet": {
@@ -584,7 +824,7 @@
             "username": "US_Stormwatch"
           },
           "pass": false,
-          "reasoning": "The tweet does not mention a solar flare or any sun-related event. It is focused on the impact of Typhoon Ragasa on the Greater Hong Kong Area."
+          "reasoning": "The tweet focuses on Typhoon Ragasa and its impact on the Hong Kong area, discussing the storm's strength and the evacuation of residents. There is no mention of solar flares or sun-related events."
         },
         {
           "tweet": {
@@ -594,7 +834,7 @@
             "username": "PGDynes"
           },
           "pass": false,
-          "reasoning": "The tweet does not mention anything related to solar flares or sun-related events. It discusses a meeting between Ariana Ejupi and Mike Tidwell, which is not relevant to solar activity."
+          "reasoning": "The tweet does not mention any solar flare or sun-related event. It talks about a meeting involving Ariana Ejupi and Mike Tidwell related to climate action, which is not related to solar activity."
         },
         {
           "tweet": {
@@ -604,7 +844,7 @@
             "username": "US_Stormwatch"
           },
           "pass": false,
-          "reasoning": "The tweet discusses a tornado event in Michigan and does not mention any solar flares or sun-related phenomena."
+          "reasoning": "The tweet is discussing a tornado in Northern Michigan and does not mention anything about solar flares or sun-related events."
         },
         {
           "tweet": {
@@ -614,7 +854,7 @@
             "username": "US_Stormwatch"
           },
           "pass": false,
-          "reasoning": "The tweet discusses a tornado event in Michigan and does not mention anything related to solar flares or sun-related events. Therefore, it does not address the question about a worrying solar flare."
+          "reasoning": "The tweet discusses a tornado event in Michigan and does not mention anything related to solar flares or sun-related events."
         },
         {
           "tweet": {
@@ -624,7 +864,7 @@
             "username": "PGDynes"
           },
           "pass": false,
-          "reasoning": "The tweet discusses the frequency of super typhoons and connects it to the climate crisis, but it does not mention solar flares or any sun-related events."
+          "reasoning": "The tweet discusses the increasing frequency of super typhoons and links it to the climate crisis, but it does not mention solar flares or any sun-related events. It focuses on weather patterns and their implications rather than solar activity."
         },
         {
           "tweet": {
@@ -634,7 +874,7 @@
             "username": "US_Stormwatch"
           },
           "pass": false,
-          "reasoning": "The tweet discusses the impacts of extreme heat and air conditioning issues in Europe, but it does not mention solar flares or any sun-related events. Instead, it focuses on climate change and the consequences of rising temperatures."
+          "reasoning": "The tweet discusses the issue of extreme heat in Europe and the lack of air conditioning, as well as the associated mortality risks. It does not mention solar flares or any sun-related events, so it does not talk about a worrying solar flare or sun-related event."
         },
         {
           "tweet": {
@@ -644,7 +884,7 @@
             "username": "US_Stormwatch"
           },
           "pass": false,
-          "reasoning": "The tweet is discussing an impending catastrophic strike by a Category 5 Super Typhoon Ragasa, not a solar flare or sun-related event. Therefore, it does not pertain to the question."
+          "reasoning": "The tweet discusses a catastrophic super typhoon, not a solar flare or sun-related event. It focuses on the impact of the typhoon on the Babuyan Islands in the Philippines."
         },
         {
           "tweet": {
@@ -654,7 +894,7 @@
             "username": "US_Stormwatch"
           },
           "pass": false,
-          "reasoning": "The tweet discusses humidity levels and the impact of a marine heatwave, but it does not mention a solar flare or any sun-related event."
+          "reasoning": "The tweet discusses increased humidity and a marine heatwave in Southern California, but does not mention a solar flare or any sun-related event. It focuses on weather conditions rather than solar activity."
         },
         {
           "tweet": {
@@ -664,7 +904,7 @@
             "username": "US_Stormwatch"
           },
           "pass": false,
-          "reasoning": "The tweet discusses a super typhoon and its wind speeds, which are related to storm activity, not solar flares or sun-related events. Therefore, it does not address a worrying solar flare."
+          "reasoning": "The tweet is discussing a super typhoon and its wind speeds, which is a weather-related event. It does not mention anything about solar flares or sun-related events."
         },
         {
           "tweet": {
@@ -674,7 +914,7 @@
             "username": "US_Stormwatch"
           },
           "pass": false,
-          "reasoning": "The tweet discusses wildfire smoke and its impact on health, referencing a study related to air quality and death rates. It does not mention solar flares or any sun-related events, making it irrelevant to the question."
+          "reasoning": "The tweet discusses the impact of wildfire smoke on health and its comparison to car crashes, but it does not mention solar flares or any sun-related events. Therefore, it does not address the question about a worrying solar flare."
         },
         {
           "tweet": {
@@ -684,15 +924,15 @@
             "username": "US_Stormwatch"
           },
           "pass": false,
-          "reasoning": "The tweet discusses San Francisco's drought-free status and does not mention solar flares or any sun-related events. It focuses on local weather conditions and their history."
+          "reasoning": "The tweet discusses San Francisco's drought history and does not mention solar flares or any sun-related events."
         }
       ],
-      "count": 68,
+      "count": 92,
       "filter_question": "Is this tweet talking about a new worrying solar flare or sun-related event?",
       "summarization_question": "Summarize the state of the sun last week",
       "summary": "No tweets passed the filter"
     },
-    "completed_at": "2025-09-26T23:08:58.861315Z",
-    "processing_time_seconds": 17
+    "completed_at": "2025-09-27T13:18:30.557378Z",
+    "processing_time_seconds": 23
   }
 }

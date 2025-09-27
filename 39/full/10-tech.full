@@ -1,0 +1,2488 @@
+{
+  "success": true,
+  "message": "Job results retrieved successfully",
+  "data": {
+    "job_id": "0e17f7e4-aa31-4266-b0b8-583c59083dd4",
+    "status": "completed",
+    "results": {
+      "filtered_tweets": [
+        {
+          "tweet": {
+            "tweet_id": "1971917441199431743",
+            "text": "After most of a week air-frying Factor’s delivery high-protein meals, I realize I could probably live like this. https://t.co/fL0RtqNGWI",
+            "created_at": "2025-09-27T12:38:49Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the author's experience with a meal delivery service and air-frying meals, which does not denote a significant technological development. Instead, it focuses on personal dietary choices rather than innovations in technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971916527658992023",
+            "text": "The magnetic field swirling around an enormous black hole, located about 55 million light-years from Earth, has unexpectedly switched directions. This dramatic reversal challenges theories of black hole physics and provides scientists with new clues about the dynamic nature of these shadowy giants.\n\nhttps://t.co/KyimqyrgbO",
+            "created_at": "2025-09-27T12:35:11Z",
+            "username": "ScienceNews"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the unexpected reversal of the magnetic field around a black hole, which represents a significant scientific finding related to black hole physics. This development could lead to new insights into the nature of black holes and their behaviors, thus qualifying as a significant technological or scientific development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971914608450453976",
+            "text": "Hormone replacement therapy used within five years of the onset of menopause is associated with a lower risk of Alzheimer’s disease, while starting it later in life is associated with an increased risk https://t.co/cMjyjUHxaN",
+            "created_at": "2025-09-27T12:27:33Z",
+            "username": "Newscientist"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses hormone replacement therapy and its association with Alzheimer's disease risk, which is primarily a medical and health-related topic rather than a technological development. Therefore, it does not address a significant technological advancement."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971914589609562281",
+            "text": "What parents need to know about Tylenol, autism and the difference between finding a link and finding a cause in scientific research ⬇️ https://t.co/reGGE4rFnw",
+            "created_at": "2025-09-27T12:27:29Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing the relationship between Tylenol and autism, particularly focusing on the difference between a correlation and causation in scientific research. While this topic touches on health and medical research, it does not pertain to a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971909437800546372",
+            "text": "Why a study claiming vaccines cause chronic illness is severely flawed – a biostatistician explains the biases and unsupported conclusions\n\nhttps://t.co/cHoF8QqKhL",
+            "created_at": "2025-09-27T12:07:00Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a study related to vaccines and chronic illness rather than a technological development. It focuses on biases and conclusions within the context of epidemiology and public health, not on technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971908802472542608",
+            "text": "Companies are going to great lengths to protect the infrastructure that provides the backbone of the world’s digital services—by burying their data deep underground. https://t.co/McbLy6WgdQ",
+            "created_at": "2025-09-27T12:04:29Z",
+            "username": "WIRED"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses efforts by companies to protect infrastructure essential for digital services, and mentions a significant action of burying data underground. This indicates a technological development focused on security, making it a relevant topic."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971904661188661479",
+            "text": "Good news! Environmental engineers are making progress in a new method to clean up PCBs, a dangerous ‘forever chemical’ that lingers in the water, using bacteria attached to biochar made from corn kernels. \n\nhttps://t.co/R2BXgeIyFm https://t.co/l4YjwDueOp",
+            "created_at": "2025-09-27T11:48:02Z",
+            "username": "ConversationUS"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a new method for cleaning up PCBs, which is a significant advancement in environmental engineering and technology, utilizing bacteria and biochar, indicating a notable technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971902703337971765",
+            "text": "To be truly fit in older age, you need to work on specific aspects of your fitness – and research shows that it’s never too late to reap the benefits https://t.co/pXr75J5E5J",
+            "created_at": "2025-09-27T11:40:15Z",
+            "username": "Newscientist"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses fitness and the associated benefits of maintaining it in older age, which pertains more to health and wellness rather than significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971900177746206984",
+            "text": "A global study comparing defensive coloration in insects shows how camouflage and warning colors each excel under certain environmental conditions.\n\nhttps://t.co/9OHfgVkvah",
+            "created_at": "2025-09-27T11:30:13Z",
+            "username": "ScienceNews"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a study on defensive coloration in insects, which is more related to biological science and ecology rather than a significant technological development. There is no mention of new technologies or innovations."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971893221375475889",
+            "text": "Nicholas Spada is one of the only scientists in the world using a nuclear x-ray process to study deadly nanoparticles in wildfire smoke. What he’s uncovered in California is a nightmare. https://t.co/SymGhOXivr",
+            "created_at": "2025-09-27T11:02:34Z",
+            "username": "WIRED"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a scientist using a novel nuclear x-ray process, which indicates a significant technological development in the field of environmental science. This technology is being applied in a critical context, studying deadly nanoparticles in wildfire smoke, highlighting its importance and potential impact."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971892512827531374",
+            "text": "Steven Pinker’s new book When Everyone Knows That Everyone Knows makes a compelling case for common knowledge. Shame the politics muddies the waters https://t.co/NgbPFG2nYJ",
+            "created_at": "2025-09-27T10:59:45Z",
+            "username": "Newscientist"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Steven Pinker's book and its arguments about common knowledge, but it does not mention any technological advancements or developments. Hence, it is not talking about a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971889556078141869",
+            "text": "Trump’s dip into the Nile waters dispute didn’t settle the conflict between Egypt, Sudan and Ethiopia. In fact, it may have caused more ripples, an international relations scholar explains: \n\nhttps://t.co/hE5iXh4B03",
+            "created_at": "2025-09-27T10:48:00Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses an international relations issue regarding the Nile waters dispute between Egypt, Sudan, and Ethiopia. It does not mention any technological developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971885943205265712",
+            "text": "Plus: Withings collabs with Clue to offer advanced women’s cycle tracking, there’s a new Balmuda toaster, and Shokz shows off Dolby Audio–powered open earbuds. https://t.co/EfVxNLlC9K",
+            "created_at": "2025-09-27T10:33:39Z",
+            "username": "WIRED"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses several new products, including advanced women’s cycle tracking technology and Dolby Audio–powered open earbuds, which indicate significant technological developments in their respective fields."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971884581193199683",
+            "text": "It's awfully different than the mating signal hypothesis. https://t.co/RLqU1Y0eXb https://t.co/D0GzmrG35o",
+            "created_at": "2025-09-27T10:28:14Z",
+            "username": "PopSci"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention any technological development. It refers to a comparison with the mating signal hypothesis, which seems to be related to biology or behavioral science rather than technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971882925487456617",
+            "text": "For the first time, researchers have mathematically proven that a quantum computer can solve a particular task faster than an ordinary computer, in a way that can never be beaten https://t.co/1VolyIDAUQ",
+            "created_at": "2025-09-27T10:21:39Z",
+            "username": "Newscientist"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a mathematical proof related to quantum computing, indicating a significant advancement in technology that allows quantum computers to outperform classical computers in a specific task. This represents a notable development in the field of technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971878138020859998",
+            "text": "On today's episode of \"Uncanny Valley,\" we cover everything from what exactly the DHS is doing with Americans' DNA, to the rising influence of Nick Fuentes. https://t.co/c6u5ZqPelA",
+            "created_at": "2025-09-27T10:02:38Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the DHS and the influence of an individual but does not specifically mention any significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971872752878416309",
+            "text": "Taking vitamin D2 supplements seems to reduce levels of vitamin D3 in our body https://t.co/xFSbeakCH2",
+            "created_at": "2025-09-27T09:41:14Z",
+            "username": "Newscientist"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the effects of vitamin D2 supplements on vitamin D3 levels, which pertains to health and nutrition rather than a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971860927642288139",
+            "text": "For at least 10,000 years, humans across South-East Asia were being carefully preserved after death by being smoke-dried – a tradition that continues to this day in some cultures https://t.co/skYZExeuWv",
+            "created_at": "2025-09-27T08:54:15Z",
+            "username": "Newscientist"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a cultural practice related to the preservation of human remains, rather than a technological development. It refers to a traditional method that has been used for thousands of years, which does not signify a significant technological advancement."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971850365201944870",
+            "text": "Although narcissistic personality disorder is rarer than you might think, psychological research suggests it can come in two different types, one of which may be underdiagnosed https://t.co/Er0Ep6fjNp",
+            "created_at": "2025-09-27T08:12:16Z",
+            "username": "Newscientist"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses psychological research on narcissistic personality disorder and its types, which falls under the area of psychology rather than significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971848787787161876",
+            "text": "CBS News, under Bari Weiss—currently Free Press editor and CEO—could look radically different. But research suggests that viewers might not care, because many in the public already assume that media companies are pandering to audiences for profit. \n\nhttps://t.co/Mjhm89Djoo",
+            "created_at": "2025-09-27T08:06:00Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the potential changes at CBS News under Bari Weiss and the perception of media companies rather than a specific technological development. It focuses on audience attitudes towards media rather than any technological advancements."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971838850759606567",
+            "text": "It is almost impossible to make cement without emissions, but carbon-capture-and-storage technology is finally being deployed to decarbonise the sector https://t.co/GzkKmlBuXU",
+            "created_at": "2025-09-27T07:26:31Z",
+            "username": "Newscientist"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the deployment of carbon-capture-and-storage technology in cement production, which highlights a significant technological development aimed at reducing emissions and addressing climate change. Therefore, it can be categorized as a discussion about a significant technological advancement."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971831218778902600",
+            "text": "Evidence shows that eating a longevity diet can dramatically lengthen your lifespan – and the sooner you start, the more of a difference it makes https://t.co/H7DyDzZS1T",
+            "created_at": "2025-09-27T06:56:12Z",
+            "username": "Newscientist"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a longevity diet and its potential impact on lifespan, but it does not mention any technological development. It focuses on dietary practices rather than technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971829157211288003",
+            "text": "Despite soaring profits, U.S. companies now reinvest only 12 cents per dollar, down from 25 cents in 1975. An economist explains why excess capacity is more important than tax rates in explaining business investment decisions: \n\nhttps://t.co/7C9MrJsCh7",
+            "created_at": "2025-09-27T06:48:00Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the reinvestment rates of U.S. companies and their business investment decisions, but it does not mention any specific technological development or progress in technology. Instead, it focuses on economic factors and comparisons across time."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971827561576484973",
+            "text": "Comparing a map of the neurons in a nematode worm - the connectome - with a map of how signals travel across those neurons has revealed a surprising number of differences, suggesting that the structure of the brain alone doesn't explain how it works https://t.co/YY7AWnDnfL",
+            "created_at": "2025-09-27T06:41:40Z",
+            "username": "Newscientist"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the findings from comparing the neuronal structure (connectome) of a nematode worm with how signals travel through these neurons. This highlights a significant development in understanding brain function, suggesting that structure alone doesn't fully account for functionality. Such insights contribute to advancements in neuroscience and technology related to brain mapping and understanding neurological processes."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971817481758298227",
+            "text": "Why a study claiming vaccines cause chronic illness is severely flawed – a biostatistician explains the biases and unsupported conclusions https://t.co/46PABASLzJ",
+            "created_at": "2025-09-27T06:01:36Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses flaws in a study related to vaccines and chronic illness, rather than focusing on a significant technological development. It addresses a health-related topic rather than advancements in technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971813838233247827",
+            "text": "Some things we see in space appear to outpace light. Now we are learning to harness these bizarre optical illusions to understand the mysteries of neutron stars, gamma ray bursts and more https://t.co/P2VjVIMtED",
+            "created_at": "2025-09-27T05:47:08Z",
+            "username": "Newscientist"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses advancements in our understanding of space phenomena, such as neutron stars and gamma-ray bursts, through the utilization of optical illusions that appear to outpace light. This implies a significant technological development in astronomical research and observation techniques."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971795686455747013",
+            "text": "Sea star wasting disease wiped out 90% of sunflower sea stars on North America's west coast, leading to a 10,000% increase in purple sea urchins that devastated kelp forests and transformed the marine economy. \n\nhttps://t.co/HIIggpyGs2",
+            "created_at": "2025-09-27T04:35:00Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the ecological impact of sea star wasting disease on marine life and the economy, but it does not focus on a technological development. The significant changes mentioned pertain to environmental and biological consequences rather than advancements in technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971793807860441232",
+            "text": "Identifying as a ‘STEM person’ makes you more likely to pursue a STEM job – and caregivers may unknowingly shape kids’ self-identity https://t.co/lLxJJDt4JV",
+            "created_at": "2025-09-27T04:27:32Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the relationship between identifying as a 'STEM person' and pursuing STEM careers, but it does not mention a specific technological development. It focuses more on self-identity and career alignment rather than new technological advancements."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971783858149347816",
+            "text": "The death of Charlie Kirk has sparked a wave of AI-generated images depicting him as a martyr. This phenomenon highlights how digital culture transforms public figures into modern-day saints, a sociologist explains. \n\nhttps://t.co/Ji4H9cnAs7",
+            "created_at": "2025-09-27T03:48:00Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses AI-generated images related to the death of Charlie Kirk, but it focuses more on cultural and sociological implications rather than a significant technological development in AI itself."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971779790450397453",
+            "text": "Since the 1970s, astronomers have predicted that Sagittarius A*, the supermassive black hole at the centre of the Milky Way, should be sending out hot wind – they have just caught the first glimpse of it https://t.co/TYgLZSvBkE",
+            "created_at": "2025-09-27T03:31:50Z",
+            "username": "Newscientist"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the observation of Sagittarius A*, a supermassive black hole, and its associated hot wind, which represents a significant advancement in astronomical research and our understanding of black holes. This is a notable technological development in the field of astrophysics as it indicates progress in observational technology and scientific discovery."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971779356729987556",
+            "text": "Cochlear implants give deaf kids unprecedented access to sound. But insisting they avoid using sign language may be risky.\n\nLearn more during #InternationalWeekOfDeafPeople: https://t.co/qt8bZp28br https://t.co/DMTdrCsz80",
+            "created_at": "2025-09-27T03:30:07Z",
+            "username": "NewsfromScience"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses cochlear implants, which are a significant technological development that allows deaf children to access sound in a way that was not possible before. This highlights advancements in medical technology aimed at improving the lives of deaf individuals."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971771821360927172",
+            "text": "Researchers have discovered a signaling mechanism that prevents T helper 17 cells from adopting pathogenic states linked to #autoimmunity, potentially informing future efforts to treat autoimmune diseases such as multiple sclerosis. @SciSignal https://t.co/cGYBFxB3ow https://t.co/S6Sc1YVyKL",
+            "created_at": "2025-09-27T03:00:10Z",
+            "username": "ScienceMagazine"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a discovery related to a signaling mechanism in immune cells that has implications for treating autoimmune diseases. This indicates a significant advancement in scientific understanding and potential therapeutic approaches, which qualifies as a technological development in medical research."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971766291296846075",
+            "text": "In 2013, the World Health Organization set a goal to cut suicide rates by a third by 2030. While the world is on its way to meeting that goal, the US is an outlier with its rate increasing almost 30 per cent since 2000 https://t.co/8S7MAcz9S7",
+            "created_at": "2025-09-27T02:38:12Z",
+            "username": "Newscientist"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses suicide rates and a goal set by the World Health Organization, which is related to public health rather than technological development. Therefore, it does not address a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971764247571931409",
+            "text": "Tibetan Buddhist nuns are breaking barriers in religious education. A record 161 nuns gathered in India this year to take exams for the geshema degree, equivalent to a doctorate in Buddhist philosophy. \nhttps://t.co/T4O1zpRQix",
+            "created_at": "2025-09-27T02:30:04Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Tibetan Buddhist nuns achieving educational milestones, specifically in religious studies, rather than a significant technological development. It focuses on education and religious advancements, which do not qualify as technological."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971759951329513690",
+            "text": "Taking care of your body’s nutritional needs after training doesn't have to be a headache. Grace Wade sums up three key pillars she uses to refuel with confidence https://t.co/7T0N4HFgkD",
+            "created_at": "2025-09-27T02:13:00Z",
+            "username": "Newscientist"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses nutritional needs after training, which is more about health and wellness rather than a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971757941142269978",
+            "text": "Outdoor gear is made from the most high-tech fabric in the world. We explain how Dyneema, silpoly, and X-Pac keep you dry in the wilderness. https://t.co/OCpXrKldn3",
+            "created_at": "2025-09-27T02:05:01Z",
+            "username": "WIRED"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses high-tech fabrics such as Dyneema, silpoly, and X-Pac, which are considered significant technological developments in the field of outdoor gear. These materials enhance performance by keeping users dry in wilderness conditions, indicating a notable advancement in technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971754413229330585",
+            "text": "Feedback is delighted to learn that researchers have discovered what Taylor Swift is accidentally doing to rescue the science of plants from mid-ness. Just take a look at her videos – sorry, botany teaching aids https://t.co/MgQtKeXVQ6",
+            "created_at": "2025-09-27T01:51:00Z",
+            "username": "Newscientist"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Taylor Swift's influence on botany education, but it does not mention any significant technological development. Instead, it focuses on a cultural aspect rather than a technological advancement."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971753770309521714",
+            "text": "The automaker wanted to make its popular family SUV suitable for quite a bit of off-roading. https://t.co/E7bhqadf8D https://t.co/qZxrqmhawV",
+            "created_at": "2025-09-27T01:48:26Z",
+            "username": "PopSci"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing the automaker's desire to make a family SUV more suitable for off-roading, but it does not indicate a significant technological development. It focuses more on product modification for a specific use rather than a breakthrough or innovative technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971750607384961287",
+            "text": "Samples retrieved from asteroid Ryugu indicate that it once had flowing water in far greater volumes than previously thought possible, suggesting that similar objects may have played a role in delivering vast quantities of water to Earth https://t.co/hDUt1u9ZuV",
+            "created_at": "2025-09-27T01:35:52Z",
+            "username": "Newscientist"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses findings related to asteroid Ryugu that suggest the presence of flowing water, indicating a significant discovery in astrophysics and how it relates to the origins of water on Earth. This points to a technological development in the method of analyzing extraterrestrial samples, thus making it a notable advancement."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971749142679494823",
+            "text": "U.S. court orders NIH to restore killed grants to California researchers. https://t.co/8Ffmq3Lvdd",
+            "created_at": "2025-09-27T01:30:03Z",
+            "username": "NewsfromScience"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a U.S. court ruling regarding the restoration of grants, which is related to funding for scientific research. This implies a significant development in the technological and scientific funding landscape, as it affects researchers and potentially advances in technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971748857714180551",
+            "text": "Tibetan Buddhist nuns are getting advanced degrees − and the Dalai Lama played a major role in that shift https://t.co/wZTmx24Irp",
+            "created_at": "2025-09-27T01:28:55Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the educational advancements of Tibetan Buddhist nuns and the role of the Dalai Lama. While this indicates a shift in education and empowerment, it does not specifically address a technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971748626687746260",
+            "text": "Based on their research into #AI on screen, scholars spotlight 4 films that reveal key human–AI dynamics:\n\n🎥Blade Runner (1982)\n🎥Moon (2009)\n🎥Resident Evil (2002)\n🎥Free Guy (2021)\n\nhttps://t.co/Znakqvch2l",
+            "created_at": "2025-09-27T01:28:00Z",
+            "username": "ConversationUS"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses films that explore the dynamics between humans and artificial intelligence (AI), which indicates a focus on significant technological development, specifically in the context of AI and its implications in society."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971746693952454993",
+            "text": "Needle-free vaccines could be made possible by stretching the skin to stimulate immune cells and increase its permeability, then applying a lotion that contains the vaccine dose. https://t.co/BbDxnLngYS",
+            "created_at": "2025-09-27T01:20:19Z",
+            "username": "Newscientist"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a method for needle-free vaccines, which represents an innovative approach to vaccine administration. This indicates a significant development in vaccine technology, especially considering the growing focus on making immunization less invasive and more widely accessible."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971744600386568295",
+            "text": "Keep your iPhone, Apple Watch, and AirPods topped up with these WIRED-tested docking systems. https://t.co/WWsnKZcdRx",
+            "created_at": "2025-09-27T01:12:00Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is promoting docking systems for existing Apple products rather than discussing a new or significant technological development. It focuses on enhancing the usage of current technology rather than introducing any groundbreaking advancements."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971743343861227726",
+            "text": "The First Amendment shields protesters, critics and even offensive voices (even at funerals).. \n\nIt doesn’t protect threats, incitement or defamation. \n\nA legal scholar explains the line: \n\nhttps://t.co/FCGThESDLU",
+            "created_at": "2025-09-27T01:07:01Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the First Amendment and its implications for free speech and legal protections. It does not mention any significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971741641301012678",
+            "text": "Event Horizon Telescope data reveal the magnetic field around M87* shifted, weakened and then flipped, defying theoretical expectations.\n\nhttps://t.co/9qUeI1WKee",
+            "created_at": "2025-09-27T01:00:15Z",
+            "username": "ScienceNews"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the Event Horizon Telescope's data regarding the magnetic field around a black hole (M87*) which has shown unexpected behavior. This involves new observational findings that could change theoretical understanding in astrophysics, which is a significant technological development in the field of astronomy and space science."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971736329911181334",
+            "text": "Pi Day looks downright ordinary compared to this. https://t.co/i7G91tnyfr https://t.co/RFVN91jZoU",
+            "created_at": "2025-09-27T00:39:08Z",
+            "username": "PopSci"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not explicitly mention a significant technological development. It compares Pi Day to something else but lacks details on any technological advancements."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971729042635096424",
+            "text": "Reconstruction of a damaged 1-million-year-old skull suggests a surprising link to H. sapiens.\n\nhttps://t.co/AmmaAU1Sh3",
+            "created_at": "2025-09-27T00:10:11Z",
+            "username": "ScienceNews"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the reconstruction of a 1-million-year-old skull and its implications for human evolution. While this is related to scientific research, it does not explicitly mention a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971728250566062128",
+            "text": "Defiance isn’t always loud. Sometimes it’s the small choices –– a pause, a question, a quiet “no.” \n\nThese 3 questions can help you zero in on whether the time is right to resist ⬇️\n\nA psychologist unpacks why people comply, and what it takes to resist: https://t.co/CXGmGve3OV https://t.co/NlCfThUQ0R",
+            "created_at": "2025-09-27T00:07:02Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses personal choices related to resistance and compliance, not a significant technological development. It focuses on psychological insights rather than technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971727488662286389",
+            "text": "Religious groups may be the loudest against #abortion rights — but when facing an unplanned pregnancy, women’s personal choices often tell a more complicated story. \n\nhttps://t.co/HaUbnnQppW",
+            "created_at": "2025-09-27T00:04:00Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses women's choices regarding abortion rights and unplanned pregnancies, which are related to sociopolitical and ethical issues rather than significant technological developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971726695758512346",
+            "text": "Protect your home against dust, pets, allergies, and more with air purifiers tested firsthand by WIRED. https://t.co/1moCI9MYov",
+            "created_at": "2025-09-27T00:00:51Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses air purifiers and their benefits in protecting homes against dust, pets, and allergies, but it does not mention any significant technological development. It seems to promote a product rather than highlighting a technological advancement."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971722718329381221",
+            "text": "Palantir Technologies sells software that immigration authorities use to identify and arrest people, militaries use to organize drone strikes, and corporations use to manage their supply chains. Now, it also sells tote bags. https://t.co/BPvy2ZAMbY",
+            "created_at": "2025-09-26T23:45:03Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not discuss a significant technological development; rather, it highlights the various applications of software from Palantir Technologies and mentions a product (tote bags) that is not related to technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971716464072602054",
+            "text": "Defensive coloring's effectiveness may depend on light, prey populations and other factors.\n\nhttps://t.co/9OHfgVkvah",
+            "created_at": "2025-09-26T23:20:12Z",
+            "username": "ScienceNews"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses defensive coloring in the context of biological adaptation rather than a technological development. It does not address any advancements or changes in technology, so it does not meet the criteria of speaking about a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971713648339919187",
+            "text": "NSF today released instructions for the next round of applicants to its Graduate Research Fellowship Program. A key group—second-year Ph.D. students—is no longer eligible, and students who are still able to apply will face an unusually narrow timeframe. https://t.co/UVo7FSWeon",
+            "created_at": "2025-09-26T23:09:01Z",
+            "username": "NewsfromScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the NSF's Graduate Research Fellowship Program and changes in eligibility criteria for applicants. While it pertains to academic research funding, it does not specifically highlight a significant technological development. Instead, it focuses on administrative updates related to the fellowship application process."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971711887751414164",
+            "text": "Civil society is the web of nonprofits, unions, churches and community groups that protect democratic life.\n\nWhen governments attack or control these groups, it’s a red flag for authoritarianism –– and Americans are noticing. \n\nhttps://t.co/dUdYK6jXZZ",
+            "created_at": "2025-09-26T23:02:01Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses civil society and its role in protecting democratic life, specifically in the context of government control and authoritarianism. It does not mention any technological developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971711674341016026",
+            "text": "A rare blanket of flowers has transformed Chile’s Atacama Desert, the driest in the world, and drawn tourists and scientists to marvel at the fleeting blaze of colour. https://t.co/8WQu7f7axL https://t.co/8WQu7f7axL",
+            "created_at": "2025-09-26T23:01:10Z",
+            "username": "ReutersScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet primarily discusses a natural phenomenon (a rare blanket of flowers in a desert) and does not mention or imply any significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971707659913982199",
+            "text": "Understanding what people remember — and forget — could help students retain information or therapists treat trauma patients, one researcher suggests.\n\nhttps://t.co/k8kJVgIkAh",
+            "created_at": "2025-09-26T22:45:13Z",
+            "username": "ScienceNews"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses memory and learning processes, focusing on the potential benefits for students and therapists. While it hints at research, it does not explicitly describe a significant technological development. Thus, it does not qualify as discussing a significant technological advancement."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971707627336798365",
+            "text": "Polar bears have taken over an abandoned Soviet polar research station on small island off Russia's far northeastern cost. https://t.co/8n3D2Vsf22 https://t.co/8n3D2Vsf22",
+            "created_at": "2025-09-26T22:45:05Z",
+            "username": "ReutersScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses polar bears occupying a research station, which is more about wildlife behavior and environmental changes rather than a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971707618667200626",
+            "text": "These 2-in-1 computers upgrade the norm with touchscreen displays, 360-degree hinges, and detachable keyboards. https://t.co/EzND2ly2YH",
+            "created_at": "2025-09-26T22:45:03Z",
+            "username": "WIRED"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the features of 2-in-1 computers, which are clearly a significant technological development as they indicate innovation in computer design and functionality."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971703921610477927",
+            "text": "The death toll from a tropical storm that swept across the central Philippines and southern Luzon has risen to 10, disaster officials said on Friday, as the country's north continued to recover from the impact of a super typhoon. https://t.co/Saj3cjpTrt https://t.co/Saj3cjpTrt",
+            "created_at": "2025-09-26T22:30:22Z",
+            "username": "ReutersScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the impact of a tropical storm and its death toll, which is related to a natural disaster rather than a technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971699491473440947",
+            "text": "It weighs the equivalent of three snickers bars. https://t.co/2aVZK6pw7e https://t.co/NW2YYGWtSv",
+            "created_at": "2025-09-26T22:12:45Z",
+            "username": "PopSci"
+          },
+          "pass": false,
+          "reasoning": "The tweet provides a humorous comparison of weight using candy bars but does not give any information about technological advancements or developments. It lacks context or details that would indicate it is discussing significant technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971698296700768437",
+            "text": "The U.S. government is days from a possible shutdown on Oct. 1. \n\nAnd even short government shutdowns do lasting damage, research shows. They sap morale, drive federal workers to quit, raise costs and weaken agencies for years.\n\nhttps://t.co/DFJxEmtEn3",
+            "created_at": "2025-09-26T22:08:00Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a potential government shutdown and its consequences on federal workers and agencies, which is a political and administrative issue rather than a technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971697041932710269",
+            "text": "From extracting drugs from tortoise shells to calculating antacid doses for goats, here’s a peek behind the scenes to experience a day in the life of a veterinary pharmacologist. \nhttps://t.co/Dhzvkqxqre  🦑🩺",
+            "created_at": "2025-09-26T22:03:01Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet describes the daily life of a veterinary pharmacologist, focusing on their work with animals and pharmaceuticals, rather than a significant technological development. Although pharmacology may involve technology, the context of the tweet does not emphasize any major technological advancements."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971693817251123510",
+            "text": "Top U.S. health officials announced a cause and a treatment — though neither is on solid scientific footing.\n\nhttps://t.co/mbNu2IGRjO",
+            "created_at": "2025-09-26T21:50:12Z",
+            "username": "ScienceNews"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a cause and treatment announced by health officials, but it emphasizes that neither is on solid scientific footing. This suggests that it is more about health policy or public health rather than a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971692521827737666",
+            "text": "New research reveals the oldest known examples of a human mummification process anywhere in the world. https://t.co/gKwPDm6M2Q @NewsfromScience",
+            "created_at": "2025-09-26T21:45:04Z",
+            "username": "ScienceMagazine"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses new research about human mummification, which is more related to archaeological or historical studies rather than a significant technological development. Therefore, it does not pass the criteria."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971692353086730501",
+            "text": "Many of us know people who live into their 90s, but hardly anyone makes it to 100. Studies are now revealing that factors that really make a difference https://t.co/R8I18sTtsN",
+            "created_at": "2025-09-26T21:44:23Z",
+            "username": "Newscientist"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses studies related to longevity but does not mention any significant technological development. It focuses on human lifespans and factors affecting them, which is more biological and sociological rather than technological."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971683744261017648",
+            "text": "The fossil is the first of its kind found with skin and partially webbed feet.\n\nhttps://t.co/SC7xPfmce5",
+            "created_at": "2025-09-26T21:10:11Z",
+            "username": "ScienceNews"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a fossil discovery, which relates to paleontology rather than a technological development. It does not mention any new technology or advancements in technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971683701382635555",
+            "text": "Corsair's latest gaming mouse is unimaginably lightweight for fast-paced gamers who need every gram to count. https://t.co/RKnnvJw8pM",
+            "created_at": "2025-09-26T21:10:01Z",
+            "username": "WIRED"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses Corsair's latest gaming mouse, highlighting its lightweight design which is beneficial for fast-paced gamers. This suggests a development in gaming technology that may impact performance, thus it qualifies as a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971682190405603632",
+            "text": "Some people are tying Tylenol use in pregnancy to autism, but association isn’t causation. \n\nA statistician and parent of an autistic child explains why the science is far from settled, and why your doctors (not politicians) are the best guide: https://t.co/kDjJXJ2O6J",
+            "created_at": "2025-09-26T21:04:00Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the association of Tylenol use in pregnancy with autism, but it does not mention any significant technological development. Instead, it focuses on a debate regarding medical guidance and scientific understanding."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971681253406515677",
+            "text": "Beer drinkers were 44% more attractive to mosquitoes than people who had abstained for at least 12 hours, cannabis users were 35% more attractive, and those who had slept with someone else the night before were 46% more attractive, new research finds. https://t.co/YcxZEhAS8i",
+            "created_at": "2025-09-26T21:00:17Z",
+            "username": "NewsfromScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a study on the attractiveness of certain groups of people to mosquitoes, which is a specific research finding rather than a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971673716766462265",
+            "text": "Cyclone Gabrielle hit Portugal's mid-Atlantic Azores Islands on Friday with less intense winds and rains than expected, but still toppled trees and collapsed roofs, authorities said. https://t.co/WP5D29hxM7 https://t.co/WP5D29hxM7",
+            "created_at": "2025-09-26T20:30:20Z",
+            "username": "ReutersScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the impact of Cyclone Gabrielle on Portugal's Azores Islands, focusing on its effects such as toppled trees and collapsed roofs. It does not mention or indicate any significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971671162590556291",
+            "text": "Atomic-scale imaging of ice shows that the crystals can trap and tolerate nanoscale bubbles without losing structural stability.\n\nhttps://t.co/urKnK8607u",
+            "created_at": "2025-09-26T20:20:11Z",
+            "username": "ScienceNews"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses atomic-scale imaging of ice, which implies an advanced understanding of materials at the nanoscale. This represents a significant technological development in the field of materials science and imaging techniques."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971669876105191582",
+            "text": "The Netherlands returns major fossil collection, including 'Java Man', to Indonesia https://t.co/pX55FGfASy https://t.co/pX55FGfASy",
+            "created_at": "2025-09-26T20:15:04Z",
+            "username": "ReutersScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the return of a fossil collection to Indonesia, which is related to historical artifacts rather than a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971665329714499746",
+            "text": "Ready to cut the cord? These are our favorite buds that will never, ever get tangled. https://t.co/8Ee5YwlHO5",
+            "created_at": "2025-09-26T19:57:01Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is promoting a product (earbuds) and focuses on the convenience of a wireless design without tangles. While it mentions technology (wireless earbuds), it does not discuss a significant technological development or advancement."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971664064381128872",
+            "text": "By inflating numbers and narrowing definitions, Heritage promotes a false link between transgender identity and violence in its push for the FBI to create a new terrorism category. https://t.co/ugtMs3DWVL",
+            "created_at": "2025-09-26T19:51:59Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a political and social issue related to transgender identity and violence rather than a technological development. It focuses on the actions of the Heritage organization and their influence on law enforcement rather than any form of technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971662356594753554",
+            "text": "A new 3-D map provides the most detailed chart of nearby stellar nurseries yet, revealing the predicted glowing gas in and around all the star-forming regions within about 4,000 light-years of the sun.\n\nhttps://t.co/Uh9GyfQYfr",
+            "created_at": "2025-09-26T19:45:12Z",
+            "username": "ScienceNews"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a new 3-D map that provides detailed information about nearby stellar nurseries. This represents a significant advancement in our understanding of star formation and the structure of the universe, which are key aspects of technological and scientific development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971661706590921110",
+            "text": "Severe lung inflammation has been linked to symptoms resembling post-traumatic stress disorder in mice, which could help us better treat and prevent the mental health condition https://t.co/J02LzGSaVX",
+            "created_at": "2025-09-26T19:42:37Z",
+            "username": "Newscientist"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a medical study related to lung inflammation and its link to PTSD symptoms, which pertains more to health and medical research rather than a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971659059846656151",
+            "text": "A digital reconstruction of the nearly 1-million-year-old Yunxian 2 cranium from China, which corrected previous distortions inherent in the fossil, suggests it belonged to the Asian Homo longi clade.\n\nRead more in Science: https://t.co/STeDAMu6XS https://t.co/XiPaSrsuCy",
+            "created_at": "2025-09-26T19:32:06Z",
+            "username": "ScienceMagazine"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a significant scientific achievement, specifically a digital reconstruction of a nearly 1-million-year-old cranium, which provides new insights into human evolution. This constitutes a technological development in the fields of paleontology and archaeology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971658643247374823",
+            "text": "Humans learn as toddlers how to extend labels to new items based on their functions, such as applying the word “cup” to both a teacup and a sippy cup even though they look different.\n\nBut finding this skill in dogs—a species much more evolutionarily distant from humans—suggests “the roots of these capacities are widespread in the evolutionary tree.” Learn more: https://t.co/Jw2s6IDT1w",
+            "created_at": "2025-09-26T19:30:26Z",
+            "username": "NewsfromScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses research on how dogs extend labels based on functions, which relates to cognitive development and evolutionary biology rather than a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971658627321667655",
+            "text": "US investigators are using AI to detect child abuse images made by AI https://t.co/bQwKvb4BQZ",
+            "created_at": "2025-09-26T19:30:23Z",
+            "username": "techreview"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the use of AI technology by US investigators to detect child abuse images, indicating a significant technological development in the field of artificial intelligence and its application in law enforcement."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971657362663448828",
+            "text": "Why a study claiming vaccines cause chronic illness is severely flawed – a biostatistician explains the biases and unsupported conclusions ⬇️ https://t.co/iMOAQOkIok",
+            "created_at": "2025-09-26T19:25:21Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a study about vaccines and chronic illness, focusing on its flaws and biases rather than any technological development. Therefore, it does not relate to significant technological advancements but rather to public health and vaccine safety."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971656309842850219",
+            "text": "At long last, we have a strong theory for exactly how iron rose to prominence. https://t.co/WLpNHPIR8L https://t.co/s5yoJmketV",
+            "created_at": "2025-09-26T19:21:10Z",
+            "username": "PopSci"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a strong theory about how iron rose to prominence, which relates to a significant advancement or development in materials science and technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971652424549978346",
+            "text": "Novels need a gripping story to stay popular as the decades pass, but it seems that other less-obvious factors may also contribute to their lasting success https://t.co/COkl8NBBIt",
+            "created_at": "2025-09-26T19:05:44Z",
+            "username": "Newscientist"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the elements that contribute to the lasting success of novels, focusing on storytelling rather than technological developments. There is no mention of technology or significant advancements in this context."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971651708943225195",
+            "text": "RT @Katitagn: @lindaguaman and @XimenaAbarcaD fought bravely through humiliation, ignorance, and threats of a 10-year prison sentence to de…",
+            "created_at": "2025-09-26T19:02:53Z",
+            "username": "NewsfromScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the experiences of individuals facing humiliation and threats, which does not convey any significant technological development. Instead, it appears to focus on personal and social issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971651489488835069",
+            "text": "RT @wfigueroac3: Thrilled to share our latest paper now out in @ScienceMagazine 🎉🤩 We investigated a century of plasmid evolution 🧬 and unc…",
+            "created_at": "2025-09-26T19:02:01Z",
+            "username": "ScienceMagazine"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the release of a scientific paper focused on plasmid evolution, which is a significant topic in the field of genetics and biotechnology. This aligns with advancements in technology and scientific understanding."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971651303454789984",
+            "text": "RT @cazares_adr: I'm over the moon to see our study on the historical spread of #AMR out in First Release at @ScienceMagazine \n\n🔗https://t.…",
+            "created_at": "2025-09-26T19:01:16Z",
+            "username": "ScienceMagazine"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the release of a study on the historical spread of antimicrobial resistance (AMR), which is important in the context of health and science, but it does not explicitly indicate a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971651267064734086",
+            "text": "Pasteurization completely inactivates the H5N1 bird flu virus in milk — even if viral proteins linger.\nhttps://t.co/sX1U9PXVZ7",
+            "created_at": "2025-09-26T19:01:08Z",
+            "username": "ScienceNews"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the process of pasteurization in relation to the H5N1 bird flu virus, which is a significant technological development in food safety and public health. By highlighting the effectiveness of pasteurization in inactivating a dangerous virus, it indicates advancements in food processing technology that enhance safety."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971650674153898439",
+            "text": "RT @TheHongLab: We are excited to share our latest work in @ScienceMagazine studying cooperative behavior in both biological and artificial…",
+            "created_at": "2025-09-26T18:58:46Z",
+            "username": "ScienceMagazine"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a study related to cooperative behavior in biological and artificial entities. While it mentions research published in a scientific journal, it does not specifically indicate a significant technological development. Instead, it seems to focus more on scientific findings than on new technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971650601005322528",
+            "text": "RT @IanRHum: Thrilled to share that today we report our human protein interactome in @ScienceMagazine! Predicting which pairs of proteins i…",
+            "created_at": "2025-09-26T18:58:29Z",
+            "username": "ScienceMagazine"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the report of the human protein interactome, which is a significant technological development in the field of protein research and bioinformatics. This type of research advances our understanding of protein interactions, which has implications for biomedical studies and drug development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971650556071759957",
+            "text": "RT @Westlake_Uni: We are proud to share a paradigm-shifting publication from Westlake University in the journal @ScienceMagazine . The stud…",
+            "created_at": "2025-09-26T18:58:18Z",
+            "username": "ScienceMagazine"
+          },
+          "pass": true,
+          "reasoning": "The tweet mentions a 'paradigm-shifting publication,' which implies that the published work represents a significant shift in knowledge or technology. This indicates that the tweet is discussing a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971648827074429198",
+            "text": "On this special episode of \"Uncanny Valley\" recorded in front of a live audience in San Francisco, our hosts discuss Silicon Valley's history and future. https://t.co/tGLKNaJ6Uj",
+            "created_at": "2025-09-26T18:51:26Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions a podcast episode discussing Silicon Valley's history and future but does not specifically indicate a significant technological development currently being discussed. It focuses more on the cultural context rather than technological advancements."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971647226498687111",
+            "text": "A rare blanket of flowers has transformed Chile’s Atacama Desert, the driest in the world, and drawn tourists and scientists to marvel at the fleeting blaze of colour. https://t.co/7L29Sdx5l0 https://t.co/7L29Sdx5l0",
+            "created_at": "2025-09-26T18:45:04Z",
+            "username": "ReutersScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet is about a rare occurrence in nature, specifically regarding flowers blooming in the Atacama Desert, which is an environmental event rather than a technological development. It does not mention any technology or advancements related to technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971646860231106749",
+            "text": "Upgrade your whole house to Wi-Fi 7 for just $130. https://t.co/N1robupnRk",
+            "created_at": "2025-09-26T18:43:37Z",
+            "username": "WIRED"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses upgrading to Wi-Fi 7, which is a significant technological development in wireless communication technology. Wi-Fi 7 is expected to bring improvements in speed, capacity, and efficiency, making it a noteworthy advancement in home networking."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971643533489537291",
+            "text": "Polar bears have taken over an abandoned Soviet polar research station on small island off Russia's far northeastern cost. https://t.co/IwjVxZMqwd https://t.co/IwjVxZMqwd",
+            "created_at": "2025-09-26T18:30:24Z",
+            "username": "ReutersScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses polar bears taking over a research station, which is more related to wildlife behavior and environmental changes rather than a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971643531002298838",
+            "text": "In a small clinical trial, brain injections of a virus that codes for a tiny segment of RNA may have prevented the formation of the rogue proteins that make Huntington’s so devastating. \n\nhttps://t.co/fpjzD4ABmt",
+            "created_at": "2025-09-26T18:30:23Z",
+            "username": "ScienceNews"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a clinical trial involving brain injections of a virus that targets RNA to potentially prevent rogue proteins linked to Huntington's disease. This represents a significant technological development in the field of medical science and gene therapy."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971643483543810184",
+            "text": "These cushy cans are great for critical listening but sacrifice a lot of handy features for portable listening. https://t.co/9xv5nSLNWz",
+            "created_at": "2025-09-26T18:30:12Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses cushy cans, which likely refers to headphones, mentioning their suitability for critical listening and the trade-offs for portability. However, it does not indicate a significant technological development; instead, it focuses on user experience and product features."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971642590714822974",
+            "text": "The constant temperature and low humidity of a cave network in Saudi Arabia turned cheetahs, some of which died thousands of years ago, into mummies https://t.co/F6IOTOejmm",
+            "created_at": "2025-09-26T18:26:39Z",
+            "username": "Newscientist"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the preservation of cheetahs in a cave network due to specific environmental conditions, which is related to archeology and paleontology rather than a significant technological development. It does not refer to any new technology or advancements that would qualify as a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971640310876000479",
+            "text": "RT @NerdyChristie: There’s more to sighing than simply forcing open any of the little air sacs in your lungs that have collapsed—the act ac…",
+            "created_at": "2025-09-26T18:17:36Z",
+            "username": "ScienceMagazine"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the physiological action of sighing, specifically mentioning how it relates to the air sacs in the lungs. While it contains scientific information, it does not address or indicate a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971639693033824633",
+            "text": "The death toll from a tropical storm that swept across the central Philippines and southern Luzon has risen to 10, disaster officials said on Friday, as the country's north continued to recover from the impact of a super typhoon. https://t.co/7IS6WhR73y https://t.co/7IS6WhR73y",
+            "created_at": "2025-09-26T18:15:08Z",
+            "username": "ReutersScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the effects of a tropical storm and the resulting death toll, which is related to a natural disaster rather than a technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971638638229303635",
+            "text": "A device made from superconducting qubits is a new kind of quantum router. It could prove a powerful technology for enabling practical quantum computing or more experimental propositions like quantum machine learning. https://t.co/qhs5M4ZvpN",
+            "created_at": "2025-09-26T18:10:57Z",
+            "username": "Newscientist"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a device made from superconducting qubits, describing it as a new kind of quantum router that has potential implications for practical quantum computing and quantum machine learning. This indicates a significant technological development in the field of quantum technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971636462052618409",
+            "text": "AI in Africa: 5 issues that must be tackled for digital equality https://t.co/Tq7Y8Q6dJQ",
+            "created_at": "2025-09-26T18:02:18Z",
+            "username": "ConversationUS"
+          },
+          "pass": true,
+          "reasoning": "The tweet highlights the topic of AI in Africa specifically addressing issues related to digital equality, which signifies a notable technological development in the context of artificial intelligence and its impact on society."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971636410865131592",
+            "text": "This hybrid songbird is a harbinger of environmental change. Blue jays and greens were once separated by 7 million years of evolution and thousands of kilometers. Now at least one pair made a baby.\n\nhttps://t.co/hml88JsENx",
+            "created_at": "2025-09-26T18:02:06Z",
+            "username": "ScienceNews"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a hybrid songbird and its implications for environmental change, but it does not mention a significant technological development. It relates more to environmental science and biology than to technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971635983750668344",
+            "text": "A new @ScienceAdvances study found a correlation between menstrual periods and the Moon’s cycles—and observed that the strength of this relationship waned from 2010 onward, potentially due to the spread of artificial LED light. https://t.co/zO4LMULaxV https://t.co/oxcQaMkwxc",
+            "created_at": "2025-09-26T18:00:24Z",
+            "username": "ScienceMagazine"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a study about the correlation between menstrual cycles and the Moon's cycles, along with the influence of artificial LED light. While it talks about a scientific observation, it does not highlight a significant technological development. Instead, it discusses a correlation that may be affected by existing technologies rather than introducing new technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971635769531126177",
+            "text": "South African men may now take their wife’s surname – why traditional leaders are upset https://t.co/OXSHhwgKKn",
+            "created_at": "2025-09-26T17:59:33Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a change in naming conventions regarding South African men taking their wife's surname and the reaction from traditional leaders, rather than a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971635161839358280",
+            "text": "Tibetan Buddhist nuns are getting advanced degrees − and the Dalai Lama played a major role in that shift https://t.co/77uWI2wPbG",
+            "created_at": "2025-09-26T17:57:08Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Tibetan Buddhist nuns obtaining advanced degrees and the involvement of the Dalai Lama, which pertains to education and social progress rather than a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971633960372593134",
+            "text": "Network states are a crazy idea—hubristic, irrational, expensive, both utopian and a direct affront to the ideal that a just society should strive to leave no one behind. But the conditions are ripe for at least some of these projects to move forward.\nhttps://t.co/K0h4zw4ov9",
+            "created_at": "2025-09-26T17:52:21Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the concept of 'network states' and critiques their feasibility and implications, but it does not explicitly mention a new technological development. Instead, it focuses on the philosophical and societal implications of such projects. Therefore, it does not pass as talking about a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971633956996227129",
+            "text": "From Montenegro to northern California, the tech elite dream of building “network states”—cities where they make the rules. Is this, finally, their moment?\nhttps://t.co/K0h4zw4ov9",
+            "created_at": "2025-09-26T17:52:21Z",
+            "username": "WIRED"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the concept of 'network states,' which implies a significant technological development as it reflects on how the tech elite envision and create new societal structures through technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971633958610952337",
+            "text": "“This is a colonial project, aimed at tech empire,” says Gil Duran, a former political consultant. “It sounds like colonization 2.0. When you go to another person's country and create your own country there.”\nhttps://t.co/K0h4zw4ov9",
+            "created_at": "2025-09-26T17:52:21Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the concept of colonialism and its implications in the context of technology but does not explicitly mention or identify a specific technological development or breakthrough. The focus is more on a political and social critique rather than a significant technological advancement."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971633861059641558",
+            "text": "Trump’s dip into the Nile waters dispute didn’t settle the conflict – in fact, it may have caused more ripples https://t.co/x8KRNoreCg",
+            "created_at": "2025-09-26T17:51:58Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a political situation related to the Nile waters dispute involving Trump, rather than focusing on a technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971632108235076088",
+            "text": "Tylenol does not cause autism 💊\n\nAs Donald Trump and Robert F Kennedy Jr call for pregnant women to avoid Tylenol (also known as paracetamol) - what does the science really say?\n\nhttps://t.co/kzzN2JUv47 https://t.co/Qe2wBldb3A",
+            "created_at": "2025-09-26T17:45:00Z",
+            "username": "Newscientist"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a concern about the use of Tylenol (paracetamol) during pregnancy and references public figures calling for caution. However, it doesn't mention a new technological development or innovation; rather, it explores a health-related issue surrounding an existing medication."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971627284806132170",
+            "text": "It has long been claimed that only one mammal – the golden mole – has fur that shimmers with rainbow colours, but it now turns out that at least a dozen more mammals have iridescent fur too https://t.co/71VC3OanFb",
+            "created_at": "2025-09-26T17:25:50Z",
+            "username": "Newscientist"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the discovery of iridescent fur in multiple mammals, which is an interesting biological finding, but it does not refer to a significant technological development. The focus is on a natural phenomenon rather than a technological advancement."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971627147061055492",
+            "text": "If you’ve ever run out of breath before a dandelion runs out of fluff, don’t blame your lungs.\n\nNew research shows that depending on the wind’s direction, the force required to free a seed can vary by more than a factor of 100: https://t.co/Tgy5y0jF6m https://t.co/FZ6PrpfkSR",
+            "created_at": "2025-09-26T17:25:17Z",
+            "username": "NewsfromScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses research related to the dispersion of dandelion seeds and how wind affects it, which is a scientific study but not a significant technological development. It does not mention any technology, innovation, or advancement."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971626533505692150",
+            "text": "And committed several other attacks. https://t.co/8uKGaonbEL https://t.co/foFkU0ukpO",
+            "created_at": "2025-09-26T17:22:51Z",
+            "username": "PopSci"
+          },
+          "pass": false,
+          "reasoning": "The tweet appears to discuss attacks but does not mention any technological developments or advancements."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971625067839635855",
+            "text": "These beard tools deliver an excellent trim for all types of facial hair. https://t.co/rdkTIt5sOp",
+            "created_at": "2025-09-26T17:17:01Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses beard tools that provide trims for facial hair, which does not qualify as a significant technological development. It is more of a consumer product feature than a groundbreaking technological advancement."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971624595137380715",
+            "text": "A senior official from the European Space Agency said mergers could be needed to reach the scale to compete with U.S. and Chinese rivals, but that too much concentration could limit choice. https://t.co/JdyGBlCeNi https://t.co/JdyGBlCeNi",
+            "created_at": "2025-09-26T17:15:09Z",
+            "username": "ReutersScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses mergers in the aerospace industry and competition with U.S. and Chinese rivals, but it does not mention any specific technological development or innovation. Therefore, it does not indicate a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971622832514675020",
+            "text": "The genetics, microbiome and lifestyle that could make you a supercentenarian, according to a woman who died aged 117. https://t.co/GG7SSjvdI9",
+            "created_at": "2025-09-26T17:08:08Z",
+            "username": "Newscientist"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses genetics and lifestyle factors related to longevity, specifically referencing a person who lived to 117 years old. While genetics is a field of scientific research, the tweet does not highlight a significant technological development; it focuses more on human biology and lifestyle rather than technological innovations."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971622061882712217",
+            "text": "From Montenegro to northern California, the tech elite dream of building cities where they make the rules. Is this, finally, their moment? https://t.co/J9L69yp6Nz",
+            "created_at": "2025-09-26T17:05:05Z",
+            "username": "WIRED"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the ambitions of the tech elite to create new cities where they can establish their own rules, suggesting a significant shift in urban development linked to technology. This indicates a noteworthy technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971620992112898174",
+            "text": "More than 2 billion kilometers farther from the sun than Pluto, a frigid world named Makemake sports the most distant gas ever seen in our solar system, new observations reveal.\n\nhttps://t.co/6AlyfeqF5t",
+            "created_at": "2025-09-26T17:00:50Z",
+            "username": "ScienceNews"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a scientific observation regarding a distant celestial body (Makemake) and its gas, but it does not mention a technological development. It focuses on astronomical findings rather than advancements in technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971619074078548276",
+            "text": "Our friendly – and not so friendly – gut bacteria lie at the core of healthy ageing. Research is now revealing what it takes to maintain a youthful microbiome https://t.co/V3rZiAWSlX",
+            "created_at": "2025-09-26T16:53:12Z",
+            "username": "Newscientist"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses gut bacteria and their role in healthy aging, which is related to biology and health research rather than a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971610702688166281",
+            "text": "A set of 29 stone tools, including blades and points for hunting, butchering and cutting wood, were found neatly arranged as if carried in a leather pouch that decayed https://t.co/ZRKI1BnTEp",
+            "created_at": "2025-09-26T16:19:56Z",
+            "username": "Newscientist"
+          },
+          "pass": false,
+          "reasoning": "The tweet describes the discovery of ancient stone tools, which are archaeological artifacts rather than contemporary technological developments. It does not pertain to any recent or significant advancements in technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971609488470774114",
+            "text": "Cyclone Gabrielle hit Portugal's mid-Atlantic Azores Islands on Friday with less intense winds and rains than expected, but still toppled trees and collapsed roofs, authorities said. https://t.co/4j6dpxpNkZ https://t.co/4j6dpxpNkZ",
+            "created_at": "2025-09-26T16:15:07Z",
+            "username": "ReutersScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a weather event (Cyclone Gabrielle) and its effects in Portugal, which is not related to significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971609274112495865",
+            "text": "Glucose isn’t the only molecule in the body that can be monitored in real time; proteins can be, too.\n\nIn the latest #SciencePodcast🎙️, researcher Jane Donnelly shares what we could learn from the live monitoring of key proteins. https://t.co/yngQ9bzL2B https://t.co/t2SwOWVvbe",
+            "created_at": "2025-09-26T16:14:16Z",
+            "username": "ScienceMagazine"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the real-time monitoring of proteins, which indicates a significant technological development in the field of health and science. The mention of a podcast featuring a researcher implies that this could be an advancement in medical monitoring technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971608255009845741",
+            "text": "Until now, scientists thought vertebrate teeth occurred exclusively in the mouth.\n\nhttps://t.co/Z6hSqUzTER",
+            "created_at": "2025-09-26T16:10:13Z",
+            "username": "ScienceNews"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a scientific finding related to vertebrate teeth and does not mention any specific technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971606067843919971",
+            "text": "Chamkaur Ghag is on a mission to find the 85 per cent of the universe’s matter that we haven’t yet identified. He details his hopes for the major scientific experiment – and what the future could hold https://t.co/5gYhtU9LCt",
+            "created_at": "2025-09-26T16:01:31Z",
+            "username": "Newscientist"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a significant scientific experiment related to identifying a large portion of the universe's matter, which indicates a major technological or scientific development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971606028887134465",
+            "text": "The Netherlands returns major fossil collection, including 'Java Man', to Indonesia https://t.co/EYDMeI6XvD https://t.co/EYDMeI6XvD",
+            "created_at": "2025-09-26T16:01:22Z",
+            "username": "ReutersScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the return of a fossil collection to Indonesia, specifically mentioning 'Java Man', which pertains to paleontology rather than a significant technological development. Therefore, it does not address a technological advancement."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971602723435938135",
+            "text": "Jim Pollard is bringing bison bones, fossilized mammoth poop, and more to the 3,000 residents of his small town. https://t.co/LVz0PWxgE9 https://t.co/eg8KLFUXUu",
+            "created_at": "2025-09-26T15:48:14Z",
+            "username": "PopSci"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Jim Pollard bringing fossils to a small town, which is related to archeology and paleontology rather than a significant technological development. There are no elements in the tweet that indicate advancements in technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971599447072067679",
+            "text": "People with ADHD may be inefficient in the workplace. They also may expand their\nteam’s universe of ideas.\n\nhttps://t.co/JGUzZeyNux",
+            "created_at": "2025-09-26T15:35:13Z",
+            "username": "ScienceNews"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses ADHD in the workplace and its potential impact on creativity, rather than focusing on a specific technological development. The content relates more to psychology and social dynamics than to advancements in technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971598170674061666",
+            "text": "Far beyond the magnet on your refrigerator door, out past the magnetic fields of Earth, the Sun, and the Milky Way, are invisible field lines that permeate the barren voids between galaxies. #ScienceMagArchives https://t.co/p3u5DVqF7Y",
+            "created_at": "2025-09-26T15:30:09Z",
+            "username": "NewsfromScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses magnetic fields and their presence in space but does not mention a specific technological development or innovation. It primarily focuses on scientific phenomena rather than technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971596248953102744",
+            "text": "A litany of studies links reading with good physical and mental health. But using audiobooks or e-readers can subtly change how your brain responds to a book. https://t.co/AKO17JMM7h",
+            "created_at": "2025-09-26T15:22:30Z",
+            "username": "Newscientist"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses studies on reading and the impact of audiobooks or e-readers on the brain, but it does not indicate a significant technological development. Instead, it focuses on the effects of existing technologies on reading."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971592338687300047",
+            "text": "Stratospheric temperatures in Antarctica are spiking, which could see strange weather unfold across the southern hemisphere in the coming months https://t.co/iqUlGqgbgm",
+            "created_at": "2025-09-26T15:06:58Z",
+            "username": "Newscientist"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses unusual weather patterns in Antarctica, focusing on temperature changes and their potential impact on the southern hemisphere. This topic is related to climate science rather than a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971591777044869196",
+            "text": "After Sinclair and Nexstar pulled Jimmy Kimmel off air, the old affiliate model looks shakier than ever. Even Disney might do better without broadcast. https://t.co/acvRLQ7QWq",
+            "created_at": "2025-09-26T15:04:44Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the challenges faced by the traditional affiliate broadcasting model and mentions the implications for companies like Disney and Nexstar. However, it does not explicitly talk about a significant technological development; rather, it focuses on changes and potential shifts in the broadcasting landscape."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971590787621093569",
+            "text": "New findings in @SciSignal reveal how a co-receptor named TIM3 on T cells functions differently depending on its cellular context—a discovery that could aid in the development of drugs that target this co-receptor. https://t.co/u5n6Y6ixuS https://t.co/ehhyS8HNAv",
+            "created_at": "2025-09-26T15:00:48Z",
+            "username": "ScienceMagazine"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses new findings regarding a co-receptor on T cells, which indicates a significant advancement in understanding immune responses. This understanding can potentially lead to the development of new drugs targeting this co-receptor, signifying a technological development in the field of immunology and therapeutics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971590586432979441",
+            "text": "Scientists at the University of Leicester are enlisting animals at Dudley Zoo and West Midlands Safari Park to hunt for new ways to fight drug‑resistant infections by harvesting bacteriophages from zoo feces https://t.co/nuX0Trf11s",
+            "created_at": "2025-09-26T15:00:00Z",
+            "username": "ReutersScience"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses scientists' efforts to fight drug-resistant infections by employing bacteriophages sourced from zoo animals. This represents a significant technological development in the field of medical research and antibiotic resistance treatment, indicating an innovative approach to combating a pressing healthcare issue."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971588431416365314",
+            "text": "There are signs deep beneath the Pacific Ocean that an exploding star once sent cosmic rays blasting out towards Earth, and now we have an idea of which stars may be to blame. https://t.co/vG7k2lC4AP",
+            "created_at": "2025-09-26T14:51:27Z",
+            "username": "Newscientist"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses cosmic rays and their potential origins from exploding stars, which may be related to astrophysics rather than a significant technological development. It does not mention any technological advancements or innovations."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971586557787136251",
+            "text": "An ancient skull discovered in China may have just rewritten the story of human evolution 💀\n\nDiscover how a new reconstruction of the Yunxian fossil skull could push back human origins by 400,000 years\n\nhttps://t.co/kzzN2JTXez https://t.co/YQmdIzWvzV",
+            "created_at": "2025-09-26T14:44:00Z",
+            "username": "Newscientist"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the discovery of an ancient skull and its implications for human evolution, which is more related to anthropology and history rather than a significant technological development. Technological developments typically refer to advancements in tools, methods, or systems that enhance capabilities or efficiencies."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971583121062551553",
+            "text": "A rare blanket of flowers has transformed Chile’s Atacama Desert, the driest in the world, and drawn tourists and scientists to marvel at the fleeting blaze of colour. https://t.co/ImYAcx7n19 https://t.co/ImYAcx7n19",
+            "created_at": "2025-09-26T14:30:20Z",
+            "username": "ReutersScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a natural phenomenon of flowers blooming in the Atacama Desert, which is primarily about a unique environmental event rather than a technological development. There is no mention of new technology or advancements in technology in this tweet."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971582340892639308",
+            "text": "You can get your hands on flashlights, headphones, miscellaneous electronics, and something that’s available in a humongous quantity. https://t.co/1SfcUYzyjr https://t.co/NlvMbTIAc2",
+            "created_at": "2025-09-26T14:27:14Z",
+            "username": "PopSci"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions various electronic items available in large quantities, but it does not discuss a specific technological development or breakthrough. The items listed are common consumer electronics rather than a significant advancement in technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971580198291161364",
+            "text": "The global health and economic benefits of covid-19 vaccines came to between $5 trillion and $38 trillion in their first year, showing an incredible return on investment https://t.co/oYspa0nmU6",
+            "created_at": "2025-09-26T14:18:44Z",
+            "username": "Newscientist"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the economic and health benefits of covid-19 vaccines, but it does not specifically mention a technological development. Instead, it focuses on the outcomes and impact of the vaccines, which are an application of existing technology rather than a new significant technological advancement."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971579284826312760",
+            "text": "Polar bears have taken over an abandoned Soviet polar research station on small island off Russia's far northeastern cost. https://t.co/7dXCMyxmCO https://t.co/7dXCMyxmCO",
+            "created_at": "2025-09-26T14:15:06Z",
+            "username": "ReutersScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing polar bears occupying an abandoned research station, which pertains to wildlife and environmental issues rather than a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971578057145151667",
+            "text": "When over 1,200 earthquakes rattled Santorini earlier this year, no eruption followed. But the unrest revealed that Santorini and Kolumbo volcanoes share magma plumbing — a first-of-its-kind observation.\n\nhttps://t.co/oLzmJiS9Rn",
+            "created_at": "2025-09-26T14:10:13Z",
+            "username": "ScienceNews"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses geological activity related to earthquakes and volcanic behavior, but it does not mention a significant technological development. Instead, it describes a scientific observation about magma plumbing between volcanoes."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971575795198861361",
+            "text": "The death toll from a tropical storm that swept across the central Philippines and southern Luzon has risen to 10, disaster officials said on Friday, as the country's north continued to recover from the impact of a super typhoon. https://t.co/AQkeCaiJS6 https://t.co/AQkeCaiJS6",
+            "created_at": "2025-09-26T14:01:14Z",
+            "username": "ReutersScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a tragic event related to a tropical storm and its aftermath in the Philippines. It does not mention any technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971575700193673378",
+            "text": "We are quick to place ourselves on the extremes of the social spectrum, but the truth is that personality is more malleable than you think, says Claudia Canavan https://t.co/GtWemyw9tm",
+            "created_at": "2025-09-26T14:00:51Z",
+            "username": "Newscientist"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses personality traits and societal perspectives rather than a technological development. It references an article related to psychology and personal development rather than technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971572063610527811",
+            "text": "A baby's brain \"ticks\" more than an adult's does, which may put them in constant learning mode. https://t.co/O0r8EKUwB9",
+            "created_at": "2025-09-26T13:46:24Z",
+            "username": "Newscientist"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the difference in brain activity between babies and adults, focusing on learning capabilities rather than a specific technological development. It does not mention technology or any related advancements."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971570464217592228",
+            "text": "In a case that had drawn international attention, an Ecuadorian court has acquitted two scientists of criminal charges related to the purchase of 100,000 allegedly subpar COVID-19 tests in 2020. https://t.co/jkYvJfEDTj",
+            "created_at": "2025-09-26T13:40:03Z",
+            "username": "NewsfromScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a legal case involving scientists accused of purchasing subpar COVID-19 tests, but it does not highlight a significant technological development. Instead, it focuses on legal outcomes rather than technological advancements."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971568420815589708",
+            "text": "Rivers are heating up faster than the air − that’s a problem for aquatic life and people https://t.co/k5XOM6kJ7P",
+            "created_at": "2025-09-26T13:31:56Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the issue of rising temperatures in rivers and its impact on aquatic life and humans, but it does not mention any technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971566723946938460",
+            "text": "Staphylococcus aureus, a species of bacteria that can cause staph infections, binds to human skin proteins with super strength, a new study shows. Figuring out how to break that bond apart could help researchers craft new treatments.\n\nhttps://t.co/iNtqtb4qQ9",
+            "created_at": "2025-09-26T13:25:11Z",
+            "username": "ScienceNews"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a new study on Staphylococcus aureus, which involves understanding its strong binding mechanism to human skin proteins. This research could lead to new treatments, indicating a significant advancement in the field of medical technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971566476705341548",
+            "text": "When a key protein regulator dials down DNA repair mechanisms, our cells accumulate more mutations, which may cause us to age faster https://t.co/IyKOrYMhGT",
+            "created_at": "2025-09-26T13:24:12Z",
+            "username": "Newscientist"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a key protein regulator that affects DNA repair mechanisms, which relates to biological and technological advancements in understanding cellular aging. This topic signifies a significant technological development in the fields of genetics and biotechnology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971566241048641900",
+            "text": "Could the future of Alzheimer's diagnosis be a simple blood test? Cheaper and less invasive than scans, these tests could give a precise diagnosis much sooner. \nFind out more at https://t.co/GCb9n5SUC5\n\nSponsored by @AlzheimersSoc https://t.co/8jDnCWk9DX",
+            "created_at": "2025-09-26T13:23:16Z",
+            "username": "Newscientist"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a potential advancement in the diagnosis of Alzheimer's disease through a blood test, which is a significant technological development in the medical field. It highlights the benefits of being cheaper and less invasive than current methods, thus indicating a noteworthy innovation."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971565694899671165",
+            "text": "Science is publishing an Erratum for the October 2013 Report “Fungal small RNAs suppress plant immunity by hijacking host RNA interference pathways.” https://t.co/zZbC8gfCkV https://t.co/w3nanFsPw2",
+            "created_at": "2025-09-26T13:21:06Z",
+            "username": "ScienceMagazine"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses an Erratum for a previous report on fungal small RNAs and their effects on plant immunity. While it pertains to a scientific topic, it does not present a new technological development; instead, it addresses a correction of prior scientific findings."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971564186422419475",
+            "text": "Rescue workers in Taiwan battled through thick mud on Friday, looking for seven people still missing after Super Typhoon Ragasa this week sent a wall of water into a small town on the east coast. https://t.co/eQuOK9RWE5 https://t.co/eQuOK9RWE5",
+            "created_at": "2025-09-26T13:15:06Z",
+            "username": "ReutersScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a natural disaster (Super Typhoon Ragasa) and rescue operations in Taiwan, rather than a significant technological development. It focuses on the impact of the typhoon and rescue efforts, not on technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971562050376634655",
+            "text": "The revelation that endometriosis is linked to autoimmune disorders is opening up a whole new way to treat this painful and poorly understood condition https://t.co/FPumybCtSK",
+            "created_at": "2025-09-26T13:06:37Z",
+            "username": "Newscientist"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a medical revelation regarding endometriosis and its link to autoimmune disorders, which pertains to healthcare and medical science, but it does not specifically mention a significant technological development. Therefore, it does not pass the criteria for discussing a technological advancement."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971560698778878250",
+            "text": "A senior official from the European Space Agency said mergers could be needed to reach the scale to compete with U.S. and Chinese rivals, but that too much concentration could limit choice. https://t.co/5lX89lGhtQ https://t.co/5lX89lGhtQ",
+            "created_at": "2025-09-26T13:01:15Z",
+            "username": "ReutersScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the potential need for mergers in the European Space Agency to compete with rivals, which implies a strategic move in the space industry but does not explicitly mention a significant technological development. It focuses more on industry structure rather than new technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971558248718246307",
+            "text": "The Download: shoplifter-chasing drones, and Trump’s TikTok deal https://t.co/zHWGVKmxEe",
+            "created_at": "2025-09-26T12:51:30Z",
+            "username": "techreview"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a significant technological development related to shoplifter-chasing drones, which is an innovative use of technology in security and retail, and mentions Trump's TikTok deal, both of which reflect noteworthy advancements or changes in the tech landscape."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971556657428672963",
+            "text": "A new type of computer chip recycles energy. If this scales up, it could help make AI cheaper.\n\nhttps://t.co/64gmcjGewR",
+            "created_at": "2025-09-26T12:45:11Z",
+            "username": "ScienceNews"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a new type of computer chip that has the potential to recycle energy and implies that it could make AI cheaper if it scales up. This indicates a significant technological development, particularly in the field of computing and artificial intelligence."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971545586777182435",
+            "text": "Cyclone Gabrielle hit Portugal's mid-Atlantic Azores Islands on Friday with less intense winds and rains than expected, but still toppled trees and collapsed roofs, authorities said. https://t.co/D8hj04jMrH https://t.co/D8hj04jMrH",
+            "created_at": "2025-09-26T12:01:12Z",
+            "username": "ReutersScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Cyclone Gabrielle and its impact on Portugal's Azores Islands, focusing on weather conditions and natural disaster effects rather than technological developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971541539500286429",
+            "text": "The Netherlands returns major fossil collection, including 'Java Man', to Indonesia https://t.co/vEr4KaIjVx https://t.co/vEr4KaIjVx",
+            "created_at": "2025-09-26T11:45:07Z",
+            "username": "ReutersScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the return of a fossil collection to Indonesia, which is more related to archaeology and cultural heritage than a significant technological development. It does not mention any advancements in technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971538689227399578",
+            "text": "Before your next flight, read up on airline rules and restrictions about traveling with power banks. https://t.co/2a3eYG0o5U",
+            "created_at": "2025-09-26T11:33:47Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses airline rules and restrictions regarding traveling with power banks, which is a practical issue rather than a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971536529072726310",
+            "text": "“We need to be careful when we’re thinking about Enceladus’ habitability, because it may not necessarily originate from the subsurface ocean,” says planetary scientist Grace Richards.\n\nhttps://t.co/ZsSAxYPRXO",
+            "created_at": "2025-09-26T11:25:12Z",
+            "username": "ScienceNews"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses caution regarding the habitability of Enceladus, which is a scientific topic relating to planetary science rather than a specific technological development. It does not mention any advancements or changes in technology itself."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971531200964534732",
+            "text": "The company’s FSD tech doesn’t actually self-drive. Experts say that advising customers to switch in on when they're drifting between lanes is exactly the wrong move. https://t.co/UtbEezh2LA",
+            "created_at": "2025-09-26T11:04:02Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the limitations of a company's Full Self-Driving (FSD) technology and warns against a specific use of that technology. While it pertains to technology, it critiques rather than highlights a significant development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971531195771941373",
+            "text": "These five equations should be part of your mental toolkit. They might even improve your bowling score. https://t.co/dQnofD5wjp",
+            "created_at": "2025-09-26T11:04:01Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses equations that could improve a bowling score, which pertains more to a recreational activity rather than a significant technological development. It does not mention or imply any advancements in technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971531195704897965",
+            "text": "To really speak and understand a new language, you need to interact with humans. https://t.co/NnofCOs4iX",
+            "created_at": "2025-09-26T11:04:00Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses language acquisition and the importance of human interaction, rather than a significant technological development. It does not mention any technology or advancements related to technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971526467927367766",
+            "text": "The relationship between cancer and the nervous system is deep and mysterious.\n\nhttps://t.co/MU2BHwvRjA",
+            "created_at": "2025-09-26T10:45:13Z",
+            "username": "ScienceNews"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the relationship between cancer and the nervous system but does not mention any specific technological developments. It focuses more on a scientific relationship rather than a significant advancement in technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971507545891123525",
+            "text": "Large language models could help reduce a backlog of study proposals, but critics are wary of entrusting ethics to machines. https://t.co/XfVXMqopXO",
+            "created_at": "2025-09-26T09:30:02Z",
+            "username": "NewsfromScience"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the potential of large language models in addressing a backlog of study proposals, highlighting their significance in the realm of technological advancement. It indicates a notable development in the use of AI technologies, particularly in how they can assist in managing research efficiency. Additionally, the mention of ethical concerns demonstrates a complexity in the conversation around technological progress."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971500561322131828",
+            "text": "Trials of vision-improving substances are showing good results, though so far only two have been authorized for use in the United States. https://t.co/73b8vgOuaQ",
+            "created_at": "2025-09-26T09:02:17Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses trials of vision-improving substances, which may imply some advancements in medical technology, but it does not explicitly mention significant technological development. The focus is more on the results of trials and authorization rather than a breakthrough technology itself."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971500065475751945",
+            "text": "Rescue workers in Taiwan battled through thick mud on Friday, looking for seven people still missing after Super Typhoon Ragasa this week sent a wall of water into a small town on the east coast. https://t.co/CCb5yhmDZB https://t.co/CCb5yhmDZB",
+            "created_at": "2025-09-26T09:00:18Z",
+            "username": "ReutersScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a natural disaster (Super Typhoon Ragasa) and its effects, specifically the rescue efforts for missing individuals in Taiwan. It does not mention any significant technological developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971496244443848935",
+            "text": "Why do cats insist on eating grass, when it only seems to make them throw up? Scientists have proposed many theories over the years, but the latest may be the one that sticks—literally. https://t.co/5myzxoHe2K @NewsfromScience https://t.co/dWb5NCbyJE",
+            "created_at": "2025-09-26T08:45:07Z",
+            "username": "ScienceMagazine"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a scientific inquiry into a specific behavior of cats rather than a significant technological development. It highlights theories about why cats eat grass, which does not qualify as a technological advancement."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971496236860498183",
+            "text": "A senior official from the European Space Agency said mergers could be needed to reach the scale to compete with U.S. and Chinese rivals, but that too much concentration could limit choice. https://t.co/3ZBinZxhkc https://t.co/3ZBinZxhkc",
+            "created_at": "2025-09-26T08:45:06Z",
+            "username": "ReutersScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the potential for mergers within the European Space Agency's approach to compete against U.S. and Chinese rivals, but does not mention a specific technological development. Instead, it focuses on organizational strategy and market competition, which are not classified as significant technological advancements."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971481138834071983",
+            "text": "Can #ChatGPT help science writers? \n\nIn a new Editor's Blog post, Abigail Eisenstadt reports the results of a year-long analysis that explored whether a #LLM had the potential to help the writers on the @scipak team clearly and accurately convey information about upcoming research to the media. https://t.co/dWAaE1KsZ9",
+            "created_at": "2025-09-26T07:45:06Z",
+            "username": "ScienceMagazine"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a year-long analysis regarding the potential of a language model (ChatGPT) to assist science writers, which qualifies as a significant technological development in the field of communication and journalism."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971477345958531413",
+            "text": "In giving researchers access to confidential data on more than 110,000 manuscripts submitted to Science and @ScienceAdvances, Holden Thorp, editor-in-chief of the journals, says he and his colleagues aimed to be “willing to look in the mirror and try to analyze things that we can do better.” https://t.co/VisZBW7GQB",
+            "created_at": "2025-09-26T07:30:02Z",
+            "username": "NewsfromScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the availability of confidential data on manuscripts and the intention to improve research practices, but it does not specifically mention a technological development. Therefore, it does not meet the criteria for a 'significant technological development'."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971454488654577997",
+            "text": "Civil society helps uphold democracy and provides built-in resistance to authoritarianism https://t.co/8tkH0B3Dqa",
+            "created_at": "2025-09-26T05:59:12Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the role of civil society in democracy and resistance to authoritarianism, but does not mention any technological developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971453730546647148",
+            "text": "What parents need to know about Tylenol, autism and the difference between finding a link and finding a cause in scientific research https://t.co/Nq0tFOqOMJ",
+            "created_at": "2025-09-26T05:56:11Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses research related to Tylenol and its potential link to autism, but it does not mention any significant technological development. Instead, it seems to focus on scientific research and parental guidance rather than technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971452981158858855",
+            "text": "Even a brief government shutdown might hamper morale, raise costs and reduce long-term efficiency in the federal workforce https://t.co/jKqK579NdR",
+            "created_at": "2025-09-26T05:53:13Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the effects of a potential government shutdown on morale, costs, and efficiency within the federal workforce. It does not mention any technological developments or innovations."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971447143530389619",
+            "text": "U.S. President Donald Trump hopes to boost opportunities for domestic scientists by making it prohibitively expensive for universities to hire international faculty and staff. https://t.co/Flq3pr2zyC",
+            "created_at": "2025-09-26T05:30:01Z",
+            "username": "NewsfromScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses U.S. President Donald Trump's policies regarding hiring practices for scientists, particularly in relation to international faculty and staff. However, it does not mention any specific technological development or advancement. Therefore, it does not talk about a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971439654873313318",
+            "text": "JBS, the world's largest meat company, has indirectly bought cattle raised illegally on indigenous land in Brazil, according to a Greenpeace investigation released on Thursday. https://t.co/0gM0Lkbpnl https://t.co/0gM0Lkbpnl",
+            "created_at": "2025-09-26T05:00:15Z",
+            "username": "ReutersScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a report about illegal cattle purchasing by JBS in Brazil, which relates to ethical concerns in the meat industry rather than a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971434658874171828",
+            "text": "Naming and categorizing objects is part of how young kids develop executive function skills – new research https://t.co/UPZTLwxPTS",
+            "created_at": "2025-09-26T04:40:24Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the relationship between naming and categorizing objects and the development of executive function skills in young children. While it refers to 'new research', it does not indicate that this constitutes a significant technological development. Instead, it focuses on early childhood development rather than technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971432106434703449",
+            "text": "Rescue workers in Taiwan battled through thick mud on Friday, looking for 11 people still missing after Super Typhoon Ragasa this week sent a wall of water into a small town on the east coast. https://t.co/r2Ea1Ln8yO https://t.co/r2Ea1Ln8yO",
+            "created_at": "2025-09-26T04:30:16Z",
+            "username": "ReutersScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a natural disaster (Super Typhoon Ragasa) and rescue efforts in Taiwan, but does not mention any technological development or advancements."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971430552889696433",
+            "text": "A new #SciencePolicyArticle challenges conventional wisdom about partisan support for U.S. science funding, finding that Republican control of the House or presidency has often coincided with higher federal science appropriations. https://t.co/fxqZIEikbR https://t.co/IX70NBC0Wx",
+            "created_at": "2025-09-26T04:24:05Z",
+            "username": "ScienceMagazine"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a political analysis related to science funding rather than a technological development. It focuses on the relationship between partisan support and federal appropriations, which does not constitute a technological advancement."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971416949398663418",
+            "text": "Enamel is tough enough to resist dents, yet elastic enough not to crack during decades of jaw smashing.\n\nIt’s so incredible that scientists haven’t created a substitute that can match it—until 2022. #ScienceMagArchives https://t.co/HeofjUQVsA",
+            "created_at": "2025-09-26T03:30:02Z",
+            "username": "NewsfromScience"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a significant technological development regarding the creation of a substitute for tooth enamel, which has been a challenge for scientists until 2022. This indicates a breakthrough in materials science, thus qualifying it as a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971411678190272856",
+            "text": "Maintaining a ketogenic diet for a long time may have a negative impact on metabolic health, a new yearlong @ScienceAdvances study in mice suggests. https://t.co/nngWCdywM4 https://t.co/Jfzqjye6jQ",
+            "created_at": "2025-09-26T03:09:05Z",
+            "username": "ScienceMagazine"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a study on the effects of a ketogenic diet on metabolic health, which relates to health and dietary practices rather than a significant technological development. The focus is on a scientific study, but it does not imply a technological advancement."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971409437161124339",
+            "text": "A new @SciImmunology study demonstrates that neutralizing antibodies against chitinase-like proteins Ym1 and Ym2 can reverse airway remodeling in mouse models of #allergic #asthma, which could inform future therapeutics. https://t.co/0WprLke9z6 https://t.co/BovKVnDx6I",
+            "created_at": "2025-09-26T03:00:11Z",
+            "username": "ScienceMagazine"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a study that uses neutralizing antibodies to potentially reverse airway remodeling, which represents a significant development in medical technology related to treating allergic asthma."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971395279778713662",
+            "text": "Why you seriously need to stop trying to be funny at work https://t.co/CDltAV7nvK",
+            "created_at": "2025-09-26T02:03:56Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet appears to be addressing workplace behavior and possibly humor, rather than discussing any significant technological development. There is no indication of technology being mentioned or implied in the tweet."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971393056592040179",
+            "text": "Although El Niño suppresses overall monsoon season rainfall across India, a new Science study finds that it also, counterintuitively, sharply increases the likelihood of extreme daily downpours in the country’s wetter regions. \n\nThe findings suggest that the processes that drive this intensification may play an important role in driving extreme rainfall variability under climate change in other tropical locations. https://t.co/A63KeWXwiA",
+            "created_at": "2025-09-26T01:55:06Z",
+            "username": "ScienceMagazine"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the effects of El Niño on monsoon rainfall and does not focus on a technological development. Instead, it highlights a scientific study related to climate change and rainfall patterns."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971386820601471280",
+            "text": "Head-banging bumble bees bite flowers to shake loose more pollen. \n\nLearn more: https://t.co/ZnfQrMQmkj https://t.co/yy9hhSJiSJ",
+            "created_at": "2025-09-26T01:30:19Z",
+            "username": "NewsfromScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses bumble bees and their behavior in shaking loose pollen, which is a natural phenomenon rather than a significant technological development. It does not mention any technology or technological advancements."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971382213712158724",
+            "text": "The weird, wonderful world of MagSafe accessories (Qi2 included) can make your phone feel modular. These are our favorites. https://t.co/To2IYUYSyB",
+            "created_at": "2025-09-26T01:12:00Z",
+            "username": "WIRED"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses MagSafe accessories and Qi2 technology, which are related to advancements in smartphone technology and wireless charging. This implies a significant technological development in terms of modular phone capabilities and convenient charging solutions."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971374205619900623",
+            "text": "An analysis of a 240-million-year-old fossil offers clues to how a reptile similar to those that evolved into the Mesozoic’s iconic and long-necked “sea monsters” — plesiosaurs — adapted to life underwater. The specimen is the first of its kind with fossilized skin and scales.\n\nhttps://t.co/ugsqlj9HrF",
+            "created_at": "2025-09-26T00:40:11Z",
+            "username": "ScienceNews"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the discovery of a fossil and its implications for understanding prehistoric reptiles, but it does not address a current significant technological development. Instead, it focuses on paleontology and ancient life, which is not the same as technological advancements."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971365855796605091",
+            "text": "Research says trying to be funny at work usually backfires. Except for you, of course. You’re hilarious.  \n\nhttps://t.co/FSoROBdMiC",
+            "created_at": "2025-09-26T00:07:00Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing humor in the workplace and how it can backfire, but it does not mention any technological developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971365105100095584",
+            "text": "Banks are ditching climate pledges, not just from political pressure, but because fossil fuels still make lots of money.\n\nhttps://t.co/KXwrBgNDbG",
+            "created_at": "2025-09-26T00:04:01Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses banks moving away from climate pledges primarily due to financial motivations related to fossil fuels, rather than highlighting a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971364694507008338",
+            "text": "Following the 15 Ultra, the new Xiaomi 17 Pro Max sounds and looks very familiar to a certain iPhone, but with a twist. https://t.co/YJjICp39Fr",
+            "created_at": "2025-09-26T00:02:24Z",
+            "username": "WIRED"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the release of the new Xiaomi 17 Pro Max smartphone, which implies a significant technological development in the smartphone industry, especially in relation to its comparison with the iPhone."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971364207300837519",
+            "text": "If you're trying to decide between a Chromebook and a Windows laptop, some recent changes have shaken up how these two platforms compare. https://t.co/8KoHWaoguK",
+            "created_at": "2025-09-26T00:00:27Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses changes in comparison between a Chromebook and a Windows laptop but does not indicate a significant technological development. It focuses more on consumer choice than on any groundbreaking technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971360312470245679",
+            "text": "Religion often shapes someone’s view of abortion – but what about a woman’s actual decision? https://t.co/z2ugNeO6p6",
+            "created_at": "2025-09-25T23:44:59Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the influence of religion on abortion views and a woman's decision regarding abortion. It does not mention any technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971353823424684375",
+            "text": "After going almost undetected for 277 years, the vessel was spotted by two disoriented grad students. https://t.co/ltT5Msbrba https://t.co/GvRJcTDD7O",
+            "created_at": "2025-09-25T23:19:12Z",
+            "username": "PopSci"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the spotting of a vessel that had gone undetected for 277 years, but does not address any technological development. It focuses more on an event and observation rather than on advancements in technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971352809627914715",
+            "text": "Scientists have long puzzled over why people remember some everyday moments and not others. A new study shows that weak memories can attach themselves to more exciting ones.\n\nhttps://t.co/k8kJVgIkAh",
+            "created_at": "2025-09-25T23:15:10Z",
+            "username": "ScienceNews"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a study related to memory in psychology, which is not a technological development. It focuses on cognitive science rather than technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971349499281875277",
+            "text": "Rising global temperatures are pushing river waters to heat up, and human activities such as deforestation and urban development are making the trend worse. \n\nThe consequences for aquatic ecosystems are dire.\n\nhttps://t.co/Qe8AW1gKY1",
+            "created_at": "2025-09-25T23:02:01Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses environmental issues related to rising global temperatures and their impact on aquatic ecosystems, but it does not address a significant technological development. Instead, it focuses on the consequences of climate change and human activities."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971346518427759076",
+            "text": "A test chip, called Ice River, recycles energy that typical computer chips waste as heat. One goal of creating it is to make artificial intelligence more energy efficient.\n\nhttps://t.co/64gmcjGewR",
+            "created_at": "2025-09-25T22:50:10Z",
+            "username": "ScienceNews"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the development of a test chip, Ice River, which aims to improve energy efficiency in artificial intelligence by recycling waste heat from computer chips. This technology represents a significant advancement in the field, as it addresses energy consumption challenges associated with AI, making it a notable technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971345230868697391",
+            "text": "Forget the wads of paper maps—AllTrails keeps everything you need to plan your outdoor trip on your phone. https://t.co/jElfTsi3dp",
+            "created_at": "2025-09-25T22:45:03Z",
+            "username": "WIRED"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses AllTrails, a technology application that allows users to plan outdoor trips using their phones instead of traditional paper maps. This indicates a significant development in how technology enhances outdoor experiences."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971335908541558961",
+            "text": "Argentina has asked the U.S. for help before – in the 1990s and 2000s during past crises. Now President Milei is seeking up to $20B from Trump to stabilize a shaky economy. \n\nhttps://t.co/yi34wN4QAr",
+            "created_at": "2025-09-25T22:08:00Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a political and economic situation involving Argentina and the U.S., specifically regarding financial assistance amidst economic instability. It does not mention any technological developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971334652569821456",
+            "text": "CEOs are more likely to lose their jobs over personal scandals than financial fraud, new research finds — exits happen 5x more often when misconduct involves private lives rather than corporate finances. \n\nhttps://t.co/I9RiPKQlq2",
+            "created_at": "2025-09-25T22:03:01Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the frequency of CEOs losing their jobs due to personal scandals compared to financial fraud, which is more about corporate governance and personal responsibility than a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971333961587540364",
+            "text": "Termites enlist microbes to defend their crops from undesirable fungi. https://t.co/nNCbM3vpMY",
+            "created_at": "2025-09-25T22:00:16Z",
+            "username": "NewsfromScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses termites and their use of microbes to protect crops from fungi, which is related to biology and ecology rather than a significant technological development. There is no mention of new technology or advancements in this field."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971329381147529392",
+            "text": "Personal scandals sink CEOs faster than financial fraud, research shows https://t.co/3MOrMd0jnD",
+            "created_at": "2025-09-25T21:42:04Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses how personal scandals impact CEOs' careers, which is related to corporate governance and public perception rather than a technological development. Therefore, it does not talk about a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971327046925320327",
+            "text": "Join us in the fight against misinformation. \n\nIf you can, please support our fall fundraising campaign. As a thank-you, you’ll receive an e-book of bold ideas for tackling the housing crisis \n\nhttps://t.co/gc6O4r8BDG https://t.co/AtFbQrCu8a",
+            "created_at": "2025-09-25T21:32:48Z",
+            "username": "ConversationUS"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a fundraising campaign to tackle misinformation and promote ideas for the housing crisis. It does not mention or indicate any technological developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971321539120464289",
+            "text": "RT @EricTopol: In the new issue @ScienceMagazine,  what continuous protein monitoring via a wearable biosensor can bring us, by @ShanaOKell…",
+            "created_at": "2025-09-25T21:10:54Z",
+            "username": "ScienceMagazine"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses continuous protein monitoring via a wearable biosensor, which indicates a significant technological development in the area of health technology and biosensors."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971321353706901699",
+            "text": "When harmful fungi invade their carefully cultivated crops, fungus-farming termites fight back with the precision of skilled gardeners, a new Science study reveals, smothering them in soil clumps enriched with microbial allies that inhibit fungal growth. \n\nLearn more: https://t.co/ZQmdF4dxnp",
+            "created_at": "2025-09-25T21:10:10Z",
+            "username": "ScienceMagazine"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the behavior of fungus-farming termites in response to harmful fungi, focusing on their method of fighting back rather than introducing or discussing a technological development. It highlights a biological process rather than a technological advancement."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971318984159948869",
+            "text": "The first atomic-scale images of ice reveal how it accommodates tiny bubbles. The findings could inform research on icing prevention, cryopreservation and glacier dynamics.\n\nhttps://t.co/urKnK8607u",
+            "created_at": "2025-09-25T21:00:45Z",
+            "username": "ScienceNews"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses atomic-scale images of ice and potential applications in icing prevention and cryopreservation, which are significant areas of technological development in material science and environmental studies."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971316156385435928",
+            "text": "A ‘tornado in space’ and the ISS shine in these inspiring examples of the best in astrophotography. https://t.co/MyX9FIHO32",
+            "created_at": "2025-09-25T20:49:31Z",
+            "username": "PopSci"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses astrophotography and mentions a 'tornado in space' and the ISS, which are related to astronomy and photography rather than a significant technological development. There is no indication of new technology being discussed."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971308739249512737",
+            "text": "President Donald Trump is expected to tap Anthony Letai, a highly regarded Harvard Medical School oncologist and basic scientist, to lead the $7.2 billion National Cancer Institute, the largest cancer research funding agency in the world. https://t.co/1jctkzShJE",
+            "created_at": "2025-09-25T20:20:03Z",
+            "username": "NewsfromScience"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the appointment of a prominent scientist to lead a major cancer research fund, which can be considered a significant development in the field of medical technology and research."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971307519663366172",
+            "text": "Boasting the most distant gas ever seen in our solar system, Makemake huddles with its moon in the frigid depths of space, beyond the orbits of Neptune and Pluto.\n\nhttps://t.co/6AlyfeqF5t",
+            "created_at": "2025-09-25T20:15:12Z",
+            "username": "ScienceNews"
+          },
+          "pass": false,
+          "reasoning": "The tweet describes an astronomical observation related to the dwarf planet Makemake and its moon, not a technological development. It focuses on space exploration rather than advancements in technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971296196858699943",
+            "text": "Between the eyes of a spotted ratfish lies a retractable tooth-tipped structure used during mating.\n\nhttps://t.co/Z6hSqUzTER",
+            "created_at": "2025-09-25T19:30:12Z",
+            "username": "ScienceNews"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a biological feature of a ratfish, which is a natural phenomenon rather than a technological development. It does not mention or imply any significant advancements in technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971293668544790653",
+            "text": "The authors of a 2022 Science Research Article, “In vivo direct imaging of neuronal activity at high temporospatial resolution,” are retracting their paper based on new findings that do not support the study’s original conclusions. https://t.co/NT30I8VVQ4 https://t.co/xXBVGARWxj",
+            "created_at": "2025-09-25T19:20:10Z",
+            "username": "ScienceMagazine"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a retraction of a scientific paper due to new findings, but it does not highlight a significant technological development. Instead, it focuses on the implications of the retraction rather than introducing or explaining any new technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971287802106065177",
+            "text": "“They’re not huge divergences, but they are meaningful.\" https://t.co/72t815vMlN https://t.co/RuAAYTqGO0",
+            "created_at": "2025-09-25T18:56:51Z",
+            "username": "PopSci"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions 'meaningful' divergences, which could imply some level of significance; however, it does not provide any explicit context or details that indicate a significant technological development. Without more information about what is being compared or discussed, it's unclear if this tweet addresses a technological advancement."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971284877032006110",
+            "text": "Ancient Asian hominids had a surprisingly close link to ancestors of people today.\n\nhttps://t.co/AmmaAU1Sh3",
+            "created_at": "2025-09-25T18:45:14Z",
+            "username": "ScienceNews"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the genetic link between ancient Asian hominids and modern humans, which relates to anthropology and evolution rather than a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971276153231974689",
+            "text": "Shoplifters could soon be chased down by drones https://t.co/MLNiz51SmA",
+            "created_at": "2025-09-25T18:10:34Z",
+            "username": "techreview"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the use of drones to chase down shoplifters, which indicates a significant technological development in the application of drone technology for law enforcement purposes."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971270588594315570",
+            "text": "Surgeons are giving it high marks. https://t.co/9KSPFrzpYI https://t.co/zjZrVu7XXC",
+            "created_at": "2025-09-25T17:48:27Z",
+            "username": "PopSci"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not explicitly mention a significant technological development. It refers to surgeons giving something high marks, but does not specify what the subject is, nor does it indicate that it is a technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971256029108175194",
+            "text": "Focusing on the body's longest nerve really can help you—from treating seizures to managing anxiety. https://t.co/2JZmVEb8XF https://t.co/luO862F6qD",
+            "created_at": "2025-09-25T16:50:36Z",
+            "username": "PopSci"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses research related to the body's longest nerve and its potential health benefits, but it does not mention a significant technological development. Instead, it focuses on biological and medical applications."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971252117152166215",
+            "text": "Data centers could recover 8% of their energy needs from capturing waste heat with solar technology. https://t.co/7mKJmCT6Mx",
+            "created_at": "2025-09-25T16:35:03Z",
+            "username": "NewsfromScience"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the use of solar technology in data centers to recover energy, which indicates a significant technological development in energy efficiency and sustainability."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971227958380536132",
+            "text": "Behold the global square date. https://t.co/EAyIw8kkIN https://t.co/qBCkfz2kRX",
+            "created_at": "2025-09-25T14:59:03Z",
+            "username": "PopSci"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions a 'global square date' but does not provide any context or information that explicitly relates to a significant technological development. It lacks details or references to innovations, advancements, or technology-related discussions."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971222662341968035",
+            "text": "The evolution of the jaw helped mammals to thrive. Fossil discoveries shed light on the diverse evolutionary journeys taken by joints between the skull and lower jaw\n\nhttps://t.co/aQz35tcHDy",
+            "created_at": "2025-09-25T14:38:00Z",
+            "username": "NatureNV"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses evolutionary biology and fossil discoveries related to mammals and their jaws, but it does not address technological development. Therefore, it does not talk about a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971206830765334799",
+            "text": "Cochlear implants give deaf kids unprecedented access to sound. But insisting they avoid using sign language may be risky.\n\nLearn more during #InternationalWeekOfDeafPeople: https://t.co/qt8bZp28br https://t.co/CJayjK8gjs",
+            "created_at": "2025-09-25T13:35:06Z",
+            "username": "NewsfromScience"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses cochlear implants which are a significant technological development that provides improved access to sound for deaf children. It highlights the impact of this technology on communication and learning, indicating its importance in the context of hearing and speech development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971191788661510591",
+            "text": "The Download: growing threats to vulnerable languages, and fact-checking Trump’s medical claims https://t.co/sxFY5ZZJGK",
+            "created_at": "2025-09-25T12:35:20Z",
+            "username": "techreview"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses threats to vulnerable languages and fact-checking claims but does not specifically mention any significant technological development. The focus is more on linguistic and political issues rather than technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971158360322892041",
+            "text": "Fusion power plants don’t exist yet, but they’re making money anyway https://t.co/VBtkv7zyZW",
+            "created_at": "2025-09-25T10:22:30Z",
+            "username": "techreview"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses fusion power plants, which represent a significant technological development in the field of energy. Although these plants do not yet exist, the mention of their financial viability indicates a noteworthy advancement in technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971141958052491631",
+            "text": "How AI and Wikipedia have sent vulnerable languages into a doom spiral https://t.co/18K9BmVWgS",
+            "created_at": "2025-09-25T09:17:19Z",
+            "username": "techreview"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the impact of AI and Wikipedia on vulnerable languages, which indicates a significant technological development. The reference to AI suggests advancements in technology that could affect language preservation and accessibility."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971119733723324908",
+            "text": "Finding the tick-borne encephalitis cellular gateway could transform prevention and treatment\n\nhttps://t.co/k2hMldADLL",
+            "created_at": "2025-09-25T07:49:00Z",
+            "username": "NatureNV"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the discovery of a 'cellular gateway' for tick-borne encephalitis, which implies a significant technological or scientific advancement that could have major implications for prevention and treatment."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971114958269059462",
+            "text": "Long-buried layers of saline permafrost seem to be accelerating climate change’s transformation of the Arctic. https://t.co/HyNR0JFzig",
+            "created_at": "2025-09-25T07:30:02Z",
+            "username": "NewsfromScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses climate change and permafrost in the Arctic, which relates to environmental science rather than a specific technological development. It does not mention any significant technological advancements."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971084762312741317",
+            "text": "Trump directives have undermined a 75-year history of independence and threaten the agency’s vaunted track record for excellence. #LongReads https://t.co/kxMN4M6b30",
+            "created_at": "2025-09-25T05:30:02Z",
+            "username": "NewsfromScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses political directives and their impact on an agency, which is related to governance rather than technological development. There is no mention or indication of a significant technological advancement."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971054565458903216",
+            "text": "At the Berlin node of a global hackathon, teams raced to develop artificial intelligence tools to accelerate the design of drugs and materials. https://t.co/OTOzdXpg5r",
+            "created_at": "2025-09-25T03:30:03Z",
+            "username": "NewsfromScience"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a hackathon focused on developing artificial intelligence tools aimed at enhancing the design of drugs and materials. This involvement of AI in drug and materials design indicates a significant technological development, especially considering the implications for healthcare and manufacturing."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971024367317287042",
+            "text": "New data suggests that after the yellow fever mosquito reached the Americas, it went through important changes that allowed it to better adapt to life with humans—and ultimately flourish. https://t.co/oLm3a4g51m",
+            "created_at": "2025-09-25T01:30:03Z",
+            "username": "NewsfromScience"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses adaptations of the yellow fever mosquito in relation to human life, but does not specifically mention a significant technological development. Instead, it pertains to biological changes and environmental adaptations."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970985245185839587",
+            "text": "The previous ID had the region right but the people very wrong. https://t.co/anqz2ZXbXs https://t.co/0tPnaLqs2Q",
+            "created_at": "2025-09-24T22:54:36Z",
+            "username": "PopSci"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a previous ID and its issues with the region and people, but it does not mention any technological advancements or significant developments. Therefore, it does not address a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970974038374707496",
+            "text": "“This is an immensely exciting development for the Huntington’s field.” https://t.co/jiKcKknWAL",
+            "created_at": "2025-09-24T22:10:04Z",
+            "username": "NewsfromScience"
+          },
+          "pass": true,
+          "reasoning": "The tweet mentions an 'immensely exciting development' in the context of Huntington's, which suggests it is referring to a noteworthy advance or breakthrough in technology or research related to Huntington's disease."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970954380103786788",
+            "text": "Four different materials could provide help to surfers, divers, and swimmers. https://t.co/HeHgnZiMix https://t.co/BUZOwbABSK",
+            "created_at": "2025-09-24T20:51:57Z",
+            "username": "PopSci"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses different materials that may aid surfers, divers, and swimmers, but it does not indicate a significant technological development. It seems more about applications of existing materials rather than a breakthrough in technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970951090850979847",
+            "text": "Roundtables: The Future of Birth Control https://t.co/q26JUMojTD",
+            "created_at": "2025-09-24T20:38:53Z",
+            "username": "techreview"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions a roundtable discussion about birth control, which may involve discussions of technology related to reproductive health. However, it does not clearly indicate a significant technological development itself, but rather a discussion of future possibilities in that field."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970924671185904065",
+            "text": "\"Our brains decide what matters,\" the author of a new study said, and one type of event is often on that list. https://t.co/AJWV54ljuf https://t.co/ZINNfP9dkA",
+            "created_at": "2025-09-24T18:53:54Z",
+            "username": "PopSci"
+          },
+          "pass": false,
+          "reasoning": "The tweet appears to be discussing a study related to brain function and decision making, but it does not indicate a significant technological development. Instead, it seems more focused on a psychological or neuroscientific topic."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970916140189667744",
+            "text": "Mouse studies show that depriving neuroblastoma of certain amino acids causes a switch in protein synthesis to suppress tumour growth and promote cell differentiation\n\nhttps://t.co/GiPaQwYD3z",
+            "created_at": "2025-09-24T18:20:00Z",
+            "username": "NatureNV"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a finding from mouse studies regarding neuroblastoma and the impact of amino acids on tumor growth and cell differentiation. This research represents a significant advancement in understanding cancer biology, which can lead to new therapeutic approaches, thus qualifying as a notable technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970911519001993498",
+            "text": "These boats start with their “paint”—and proceed from there. https://t.co/6hQmjcuE10 https://t.co/9dH0Y4nBz4",
+            "created_at": "2025-09-24T18:01:38Z",
+            "username": "PopSci"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions boats and a type of 'paint', but it does not provide any specific information about a significant technological development. The mention of paint and boats does not imply a discussion of an advancement in technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970893625006440696",
+            "text": "You probably don't know about the kind of archaeology that began with digging through literal garbage—and now examines skate parks. https://t.co/CcwvmDwkCU https://t.co/RbRTKOOZPd",
+            "created_at": "2025-09-24T16:50:32Z",
+            "username": "PopSci"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a specific method of archaeology that involves examining skate parks and garbage. While it mentions a technique that may be considered innovative within that field, it does not imply a significant technological development in technology at large. Instead, it focuses on a niche approach to archaeology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970873235777441943",
+            "text": "Ninety-five percent of people in a trial said their zits were gone within a week. https://t.co/SEqqyzUNba https://t.co/NMtwPFm8n2",
+            "created_at": "2025-09-24T15:29:31Z",
+            "username": "PopSci"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the results of a trial regarding acne treatment, but it does not mention any significant technological development. It focuses on a health-related outcome rather than innovative technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970825911902539958",
+            "text": "The Download: accidental AI relationships, and the future of contraception https://t.co/XJBu6udhDf",
+            "created_at": "2025-09-24T12:21:28Z",
+            "username": "techreview"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses topics related to AI and contraception, which are significant fields within technological development. Accidental AI relationships indicate a development in AI technology, and discussions about contraception relate to advancements in technology impacting healthcare. Therefore, it addresses technological developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970791991819514243",
+            "text": "The AI Hype Index: Cracking the chatbot code https://t.co/ar49ywyGpN",
+            "created_at": "2025-09-24T10:06:41Z",
+            "username": "techreview"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a topic related to AI and specifically mentions the 'AI Hype Index' and 'chatbot code,' which indicates a focus on advancements and innovations in technology. This suggests that it is indeed talking about a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970783464984080632",
+            "text": "It’s surprisingly easy to stumble into a relationship with an AI chatbot https://t.co/2gl1YcLbKC",
+            "created_at": "2025-09-24T09:32:48Z",
+            "username": "techreview"
+          },
+          "pass": false,
+          "reasoning": "The tweet references the ease of forming a relationship with an AI chatbot, which may indicate an interaction with existing technology rather than a significant new technological development. The focus seems to be more on the experience rather than a breakthrough in technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970629795231707402",
+            "text": "Doctors say there's truth to this idea—but not to another one making the rounds on TikTok. https://t.co/Fobb0mvAyh https://t.co/tFRDA3hbhn",
+            "created_at": "2025-09-23T23:22:10Z",
+            "username": "PopSci"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses doctors' opinions regarding an idea circulating on TikTok, but it does not mention or allude to any significant technological development. It primarily addresses a social media trend and its validity, lacking any reference to advancements in technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970571059918262349",
+            "text": "Roundtables: Meet the 2025 Innovator of the Year https://t.co/1ao6tDQrpl",
+            "created_at": "2025-09-23T19:28:46Z",
+            "username": "techreview"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the '2025 Innovator of the Year,' suggesting it pertains to notable advancements or developments in technology, which typically involves significant technological progress."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970568869988208661",
+            "text": "Researchers tested a less-intense-than-industrial-grade burst of light and created a much cleaner environment in just 30 minutes. https://t.co/SAIkoSZkr9 https://t.co/t30b4hXSzU",
+            "created_at": "2025-09-23T19:20:04Z",
+            "username": "PopSci"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses researchers testing a new method involving a burst of light that leads to a much cleaner environment. This indicates a significant technological development in the context of environmental science and clean technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970542368840380558",
+            "text": "As recently as 2 million years ago, scientists say, our ancestor \"was still more of a prey than a predator.\" https://t.co/scy954Wrha https://t.co/vjfZZiPEMJ",
+            "created_at": "2025-09-23T17:34:46Z",
+            "username": "PopSci"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses human ancestors and their predatory behavior in relation to evolution, but it does not mention any significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970530041839706203",
+            "text": "It was 23 feet long—and maybe not fully grown. https://t.co/1uDSuyf2tU https://t.co/sFz6jL2xNb",
+            "created_at": "2025-09-23T16:45:47Z",
+            "username": "PopSci"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions a specific measurement (23 feet long) but does not provide context that relates to a technological development. It seems to discuss something that could be a physical entity or discovery, but without more context, it doesn't indicate a significant technological advancement. Thus, it does not pass the criteria."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970463484220514383",
+            "text": "The Download: AI’s retracted papers problem https://t.co/v1RJrZ3k6R",
+            "created_at": "2025-09-23T12:21:18Z",
+            "username": "techreview"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses AI's retracted papers problem, which is a significant issue in the field of artificial intelligence and technology. This indicates a notable development and concern within the technological community."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970422703887642664",
+            "text": "AI models are using material from retracted scientific papers https://t.co/SazK4Xoc23",
+            "created_at": "2025-09-23T09:39:15Z",
+            "username": "techreview"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses AI models using material from retracted scientific papers, which indicates a significant development in the field of artificial intelligence and raises ethical questions about the use of potentially unreliable data. This suggests that it is indeed talking about a significant technological development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970105617005072483",
+            "text": "The Download: the LLM will see you now, and a new fusion power deal https://t.co/FLqzSg6voC",
+            "created_at": "2025-09-22T12:39:16Z",
+            "username": "techreview"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a significant technological development regarding large language models (LLMs) and a new fusion power deal, both of which represent important advancements in technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970089159017513274",
+            "text": "An oil and gas giant signed a $1 billion deal with Commonwealth Fusion Systems https://t.co/CbT57pphHx",
+            "created_at": "2025-09-22T11:33:52Z",
+            "username": "techreview"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a significant financial deal involving Commonwealth Fusion Systems, which is known for its work in fusion energy—a groundbreaking technology in the energy sector. This indicates a significant technological development in energy production, and the involvement of a major oil and gas company suggests a noteworthy shift towards innovative energy solutions."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970055743102386677",
+            "text": "This medical startup uses LLMs to run appointments and make diagnoses https://t.co/WUe9LAsOOh",
+            "created_at": "2025-09-22T09:21:05Z",
+            "username": "techreview"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a medical startup utilizing large language models (LLMs) for appointments and diagnoses, which indicates an advancement in technology in the field of healthcare. This suggests a significant development in how medical services are provided, leveraging artificial intelligence."
+        }
+      ],
+      "count": 247,
+      "filter_question": "Is this tweet talking about a significant technological development?",
+      "summarization_question": "Summarize reported technological developments last week",
+      "summary": "Direct answer\nLast week’s reported technological developments centered on major advances in computing (quantum and energy-efficient chips), emerging energy investments (fusion and carbon-capture deployment), AI capability and integrity issues, and notable progress in environmental and biomedical technologies. Several high-profile astrophysics and observational findings also made headlines.\n\nKey themes and topics\n- Quantum computing: theoretical and hardware progress — a first mathematical proof of a quantum speed-up for a specific task and new superconducting-qubit hardware acting as a quantum router (https://x.com/Newscientist/status/1971882925487456617; https://x.com/Newscientist/status/1971638638229303635).\n- Energy efficiency for computing and infrastructure: a test chip called Ice River that recycles waste heat to reduce AI energy costs, data-center waste-heat recovery ideas, and broader moves to decarbonize heavy industry such as cement via carbon-capture deployment (https://x.com/ScienceNews/status/1971556657428672963; https://x.com/NewsfromScience/status/1971252117152166215; https://x.com/Newscientist/status/1971838850759606567).\n- Fusion and investment: private-sector financing and partnerships continue to bring fusion closer to commercialization, including large deals that show investor confidence (https://x.com/techreview/status/1970089159017513274; https://x.com/techreview/status/1971158360322892041).\n- AI safety, integrity, and deployment: growing concern about LLMs ingesting flawed or retracted science, efforts to use AI to detect AI-generated child-abuse imagery, and debate over using LLMs in administrative/ethics roles (https://x.com/techreview/status/1970422703887642664; https://x.com/techreview/status/1971658627321667655; https://x.com/NewsfromScience/status/1971507545891123525).\n- Environmental and biomedical tech: promising remediation of PCBs with bacteria on biochar, progress on needle-free vaccine approaches, new therapeutic and diagnostic advances (Huntington’s gene-therapy/viral-RNA work, neutralizing antibodies for asthma, continuous protein monitoring wearables) (https://x.com/ConversationUS/status/1971904661188661479; https://x.com/Newscientist/status/1971746693952454993; https://x.com/ScienceNews/status/1971643531002298838; https://x.com/ScienceMagazine/status/1971409437161127172; https://x.com/ScienceMagazine/status/1971609274112495865).\n- Infrastructure and data resilience: companies investing in hardened, subterranean data facilities and discussions about new governance models for tech-centric communities (https://x.com/WIRED/status/1971908802472542608; https://x.com/WIRED/status/1971622061882712217).\n- Astrophysics and observational discoveries: dramatic magnetic-field flips around M87* and further discoveries about the Milky Way’s center and nearby stellar nurseries (https://x.com/ScienceNews/status/1971916527658992023; https://x.com/Newscientist/status/1971779790450397453; https://x.com/ScienceNews/status/1971662356594753554).\n\nNotable patterns and trends\n- Convergence of efficiency and scale: multiple stories emphasize making compute and data infrastructure both more powerful and less wasteful (energy-recycling chips, waste-heat capture for data centers, Wi‑Fi 7 home upgrades), indicating a strong industry push to lower the environmental and financial cost of ML workloads.\n- Rapid commercialization and funding of long‑sought technologies: fusion and other deep-tech ventures are attracting large, visible deals and corporate partners, signaling investor belief that near-term commercialization pathways are credible.\n- AI maturity and governance tension: enthusiasm for using LLMs to speed workflows (healthcare scheduling, research triage) is tempered by concerns over data quality, model hallucinations, and ethical risks — several pieces highlight both promise and pitfalls.\n- Broad R&D momentum in life sciences: week’s coverage included therapeutics (Huntington’s, asthma targets), diagnostics (continuous protein sensors, blood tests for Alzheimer’s), and new vaccine delivery concepts, showing simultaneous advances across translational research stages.\n\nImportant mentions, interactions, and data points (selected)\n- Quantum proofs and hardware: a mathematical proof that a quantum computer can outperform classical machines for a particular task (https://x.com/Newscientist/status/1971882925487456617) and a superconducting‑qubit device demonstrated as a quantum router (https://x.com/Newscientist/status/1971638638229303635).\n- Energy-recycling chip: a test chip named Ice River that recycles energy otherwise lost as heat, aimed at lowering AI compute costs if scaled (https://x.com/ScienceNews/status/1971556657428672963; https://x.com/ScienceNews/status/1971346518427759076).\n- Fusion financing: a $1 billion deal between an oil and gas giant and Commonwealth Fusion Systems (and broader coverage of fusion attracting capital) highlights major private-public financing moves (https://x.com/techreview/status/1970089159017513274; https://x.com/techreview/status/1971158360322892041).\n- AI data integrity: reporting that AI models are ingesting material from retracted scientific papers, raising reproducibility and reliability concerns for downstream uses (https://x.com/techreview/status/1970422703887642664).\n- AI safety tools: US investigators and others are turning to AI tools to detect child-abuse images created by AI, signaling both the rise of harmful synthetic content and attempts to build defenses (https://x.com/techreview/status/1971658627321667655).\n- PCB bioremediation: engineers using bacteria attached to biochar from corn kernels show progress toward breaking down persistent waterborne PCBs (https://x.com/ConversationUS/status/1971904661188661479).\n- Carbon-capture for cement: deployment of carbon‑capture‑and‑storage to decarbonize cement manufacturing, a sector hard to electrify, marks a pragmatic emissions-reduction step (https://x.com/Newscientist/status/1971838850759606567).\n- Astrophysics surprises: Event Horizon Telescope data show a magnetic-field reversal around M87*, challenging expectations about black-hole environs (https://x.com/ScienceNews/status/1971916527658992023; https://x.com/ScienceNews/status/1971741641301012678).\n\nSignificant events/developments (one-paragraph summaries)\n- First mathematical proof of quantum advantage: Researchers reported a formal mathematical proof that a quantum computer can solve a particular task faster than any classical computer in an unbeatable way, a milestone that strengthens theoretical foundations for quantum advantage and gives experimentalists clearer targets (https://x.com/Newscientist/status/1971882925487456617).\n\n- Energy-recycling chip (Ice River): A test chip called Ice River demonstrated the ability to reclaim energy typically lost as heat, aimed specifically at reducing the steep energy costs of AI workloads; if scaled, this could materially lower the operating cost and carbon footprint of training and inference clusters (https://x.com/ScienceNews/status/1971556657428672963; https://x.com/ScienceNews/status/1971346518427759076).\n\n- Major fusion financing and partnerships: High-profile deals, including a reported $1 billion partnership between an oil and gas firm and Commonwealth Fusion Systems, show substantial private-sector capital flowing into fusion ventures, signaling investor confidence and accelerating commercialization efforts (https://x.com/techreview/status/1970089159017513274).\n\n- AI model/data-integrity concerns and countermeasures: Reports highlighted that AI models are training on material from retracted scientific papers and other poor-quality sources, while law‑enforcement and investigators are developing AI tools to detect AI‑generated child‑abuse images — together these stories point to urgent needs for provenance, dataset curation, and defensive tooling (https://x.com/techreview/status/1970422703887642664; https://x.com/techreview/status/1971658627321667655).\n\n- Environmental remediation breakthrough (PCBs): Environmental engineers reported progress using bacteria attached to corn‑kernel–derived biochar to break down persistent PCBs in water, a promising and lower‑cost remediation approach for long‑lived contaminants (https://x.com/ConversationUS/status/1971904661188661479).\n\n- Unexpected astrophysics discovery (M87* magnetic flip): Event Horizon Telescope observations revealed that the magnetic field around the giant black hole M87* weakened and flipped direction, defying prior theoretical expectations and offering new constraints for models of black-hole accretion and jet formation (https://x.com/ScienceNews/status/1971916527658992023; https://x.com/ScienceNews/status/1971741641301012678).\n\nOther notable items (brief)\n- Consumer and connectivity updates: Wi‑Fi 7 home upgrades, new 2‑in‑1 laptops, and fresh phone and accessory launches were covered (https://x.com/WIRED/status/1971646860231106749; https://x.com/WIRED/status/1971707618667200626).\n- Biomedical advances: early clinical and preclinical progress for Huntington’s, asthma antibody targets, real‑time protein monitoring wearables, and needle‑free vaccine concepts were reported (https://x.com/ScienceNews/status/1971643531002298838; https://x.com/ScienceMagazine/status/1971409437161127172; https://x.com/ScienceMagazine/status/1971609274112495865; https://x.com/Newscientist/status/1971746693952454993).\n\nBottom line\nLast week showed a mix of foundational breakthroughs (quantum theory and hardware), practical engineering advances aimed at efficiency (energy‑recycling chips, data‑center heat recovery, carbon capture), major commercial momentum for fusion, and a continuing dual narrative for AI — powerful new uses and worrying data-integrity and safety challenges. Environmental remediation and life‑science translational work also featured prominently, indicating sustained cross‑disciplinary innovation across computing, energy, biotech, and space science."
+    },
+    "completed_at": "2025-09-27T13:12:25.783509Z",
+    "processing_time_seconds": 127
+  }
+}

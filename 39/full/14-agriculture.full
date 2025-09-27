@@ -1,0 +1,938 @@
+{
+  "success": true,
+  "message": "Job results retrieved successfully",
+  "data": {
+    "job_id": "aff19209-aebe-450e-9cbc-8c8a0f912987",
+    "status": "completed",
+    "results": {
+      "filtered_tweets": [
+        {
+          "tweet": {
+            "tweet_id": "1971918884765831549",
+            "text": "Asheville in North Carolina one year ago.",
+            "created_at": "2025-09-27T12:44:33Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to agricultural developments. It only states a location and a time without any context regarding agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971917636302000524",
+            "text": "Horseshoe Beach, Florida one year ago.",
+            "created_at": "2025-09-27T12:39:35Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention any agricultural developments. It simply provides a location and a time reference without any context related to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971914084531814592",
+            "text": "Polish climber Andrzej Bargiel has made history as the first to ski down Everest with no oxygen. \n\nHe spent 16 hours in the death zone during a snowstorm and still set the record. Respect!\nhttps://t.co/1cJKVGpm1L",
+            "created_at": "2025-09-27T12:25:28Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing the achievement of climber Andrzej Bargiel in skiing down Everest, particularly focusing on his record-setting attempt and the challenges he faced during the climb. It does not mention agricultural developments at all."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971912216502063612",
+            "text": "🤣🤣🤣🤣🤣",
+            "created_at": "2025-09-27T12:18:03Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet consists solely of laughter emojis and does not mention or imply anything related to agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971909687156314181",
+            "text": "There's always one!\n\n📍 Zhuhai, China, 24th Sept\nhttps://t.co/XNRilwFPNf",
+            "created_at": "2025-09-27T12:08:00Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to agricultural developments. It seems more like a personal comment or observation, possibly about a location, rather than discussing any topics related to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971906194509123593",
+            "text": "Bird migration.",
+            "created_at": "2025-09-27T11:54:07Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions 'bird migration', which is related to wildlife and environmental changes rather than agricultural developments. Therefore, it does not talk about agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971905490331504981",
+            "text": "RT @LinnellLynsie: @volcaholic1 Blossoms in 🇳🇿 this week ♥️ https://t.co/j7i8I8DXCD",
+            "created_at": "2025-09-27T11:51:19Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention agricultural developments. It refers to 'blossoms' which could imply flowers, but there is no direct mention of agricultural practices or developments in this context. The focus appears to be on the visual or aesthetic aspect of the blossoms rather than any agricultural advancements."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971902549968994799",
+            "text": "Future Tropical Storm Imelda could bring impacts to the Southeast U.S. Here's the latest forecast maps and tracking information to stay up-to-date on the storm's path and potential impacts. https://t.co/Q1DkSwT0TU",
+            "created_at": "2025-09-27T11:39:38Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a future tropical storm and its potential impacts on the Southeast U.S., which is related to weather and meteorological conditions rather than agricultural developments. There is no mention of agricultural advancements, practices, or issues in the content of the tweet."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971879371347841226",
+            "text": "I work my bloody arse off JUST SO YOU KNOW… to give you FREE, up-to-date, valuable information JUST SO YOU KNOW. \n\nI’ll keep posting like this every now and then to make sure my posts stay in everyone's feed. JUST SO YOU KNOW!",
+            "created_at": "2025-09-27T10:07:32Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to agricultural developments. It focuses on the speaker's efforts to provide information and maintain visibility in social media feeds, without referencing agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971874541531189687",
+            "text": "RT @volcaholic1: When you get a spare minute, scroll down my timeline. I’ve shared a lot that many of you probably haven’t seen yet.\n\nBusy…",
+            "created_at": "2025-09-27T09:48:21Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to agricultural developments. It appears to be about sharing content on a personal timeline rather than discussing agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971818884094169413",
+            "text": "Major flooding in the Chaderghat area in Hyderabad, India today...🌊🌊🌊\nhttps://t.co/mNE8b0VUPN",
+            "created_at": "2025-09-27T06:07:11Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses major flooding in a specific location (Chaderghat, Hyderabad, India) and shares an image indicating the severity of the flooding. There is no mention of agricultural developments or topics related to agriculture. Therefore, it does not pass the criteria of talking about agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971809893758681321",
+            "text": "Whoahh! Flash flooding in Globe, Arizona tonight  👀👀\nhttps://t.co/7fQ8Tp2i6J",
+            "created_at": "2025-09-27T05:31:27Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses flash flooding in Globe, Arizona, but does not mention agricultural developments. It focuses on a weather event rather than any agricultural issues or advancements."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971805975134065122",
+            "text": "RT @volcaholic1: Little reminder  🥰\n\nHate to do this, but here we are… If you’re seeing this, drop a quick comment so my posts don’t disapp…",
+            "created_at": "2025-09-27T05:15:53Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to agricultural developments. It seems to be more of a social media engagement reminder rather than a discussion about agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971788565030871263",
+            "text": "A state of emergency has been issued in South Carolina in anticipation of a potential landfalling tropical system next week. Meanwhile, Humberto went from a tropical storm to a category 4 hurricane in less than a day. Here's the latest:\nhttps://t.co/KF6No3OAcj https://t.co/oGz6XoTv2M",
+            "created_at": "2025-09-27T04:06:42Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a weather-related event, specifically about a tropical storm and hurricane, and does not mention agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971757181935514003",
+            "text": "When you get a spare minute, scroll down my timeline. I’ve shared a lot that many of you probably haven’t seen yet.\n\nBusy day  🥰",
+            "created_at": "2025-09-27T02:02:00Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to agricultural developments. It talks about taking a break to scroll through the user's timeline and having a busy day, which are not relevant to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971752199266165187",
+            "text": "RT @wxunfiltered: Meteorologist @mikebettes has a closer look at Hurricane Humberto and Potential Tropical Cyclone Nine. Keep checking back…",
+            "created_at": "2025-09-27T01:42:12Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet focuses on meteorological aspects concerning hurricanes and tropical cyclones, not on agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971738539730915360",
+            "text": "Hurricane expert @DrRickKnabb analyzes what the models are showing for future Imelda's growing threat to the U.S. East Coast. Watch: https://t.co/sBlzlR2gcz",
+            "created_at": "2025-09-27T00:47:55Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Hurricane Imelda and its impact on the U.S. East Coast, which is related to meteorological events rather than specific agricultural developments. There is no mention of agriculture or agricultural technology in the content."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971714597972496675",
+            "text": "El Rosario, in the municipality of Rafael Lucio, Mexico  👀\nhttps://t.co/CfVfhRw6Ig",
+            "created_at": "2025-09-26T23:12:47Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions a location (El Rosario, Rafael Lucio, Mexico) but does not provide any specific information or context about agricultural developments. It simply shares a tweet with a location, which does not imply a discussion on agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971711128603410811",
+            "text": "Little reminder  🥰\n\nHate to do this, but here we are… If you’re seeing this, drop a quick comment so my posts don’t disappear from your feed. Say whatever you like!",
+            "created_at": "2025-09-26T22:59:00Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is asking followers to engage with it to prevent it from disappearing from feeds; it does not mention or discuss agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971709522831200747",
+            "text": "Here is a video of the M4.5 earthquake that occurred in Tanggamus, Lampung in Indonesia, on September 26, 2025, at 21:55:07 WIB. \n\nBased on the video, the earthquake appears to have a strike-slip mechanism, though further analysis is still needed regarding its characteristics.\n\nCredit: Info Gempa Dunia",
+            "created_at": "2025-09-26T22:52:37Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses an earthquake event in Tanggamus, Lampung, Indonesia, and does not mention agricultural developments. It focuses on seismic activity and video evidence, without any reference to agriculture or related topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971703167072276581",
+            "text": "RT @volcaholic1: Awful flooding in Ibajay, Philippines due to Tropical Cyclone Bualoi (Opong)....🌊🌊🌊 https://t.co/s95ojXQNQL",
+            "created_at": "2025-09-26T22:27:22Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses flooding in the Philippines caused by Tropical Cyclone Bualoi, which does not relate to agricultural developments. Instead, it focuses on weather-related impacts."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971701229014376569",
+            "text": "This is amazing news. \n\nA strong late-September storm could drop 0.5 to 3 inches of rain and has the potential to end fire season in Northern California north of I-80. https://t.co/JRIXLm6JxX",
+            "created_at": "2025-09-26T22:19:40Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a weather forecast related to a storm and its potential impact on fire season, but it does not mention agricultural developments. The focus is on weather conditions, rather than agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971699764036358379",
+            "text": "Parts of the Southeast U.S. coast are in the cone for what could become Imelda. Forecast: https://t.co/BTrNd58JCj",
+            "created_at": "2025-09-26T22:13:50Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet from the Weather Channel discusses a weather forecast related to a potential storm, specifically Imelda. It does not mention agricultural developments or any topics related to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971698535285641405",
+            "text": "San Cristóbal, Chiapas in Mexico now!  🌊👀\nhttps://t.co/1OBQYlcyJf",
+            "created_at": "2025-09-26T22:08:57Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions a location (San Cristóbal, Chiapas in Mexico) and includes an emoji but does not discuss anything related to agricultural developments. It appears to be more about travel or a personal update rather than agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971696476956000468",
+            "text": "Cuernavaca, Mexico now...🌊👀\nhttps://t.co/jzTT8xACUi",
+            "created_at": "2025-09-26T22:00:47Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to agricultural developments. It appears to be more focused on a location update or possibly a personal observation about Cuernavaca, Mexico, evidenced by the emojis used."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971695980585406834",
+            "text": "RT @TWCAlexWilson: We've got the very latest tonight on @wxunfiltered with THE guy - former director of the NHC and our Hurricane Expert, @…",
+            "created_at": "2025-09-26T21:58:48Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention agricultural developments. It discusses weather updates and features a hurricane expert, which is not related to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971693606307353042",
+            "text": "https://t.co/uSJHeF8DAm",
+            "created_at": "2025-09-26T21:49:22Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not provide any content that indicates it is discussing agricultural developments. The provided link does not include any information, and without additional context or content, we cannot infer a connection to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971691460010578410",
+            "text": "Here’s what we know about Potential Tropical Cyclone Nine. Stay with The Weather Channel for all the latest information as we track this system through the weekend. https://t.co/NXDd1CabCF",
+            "created_at": "2025-09-26T21:40:50Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is focused on tracking a potential tropical cyclone and weather updates, not on agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971690193372827903",
+            "text": "RT @mikebettes: Here's your initial heads up on PTC 9(future #Imelda). There is A LOT of uncertainty after day 3, so please check back on t…",
+            "created_at": "2025-09-26T21:35:48Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a weather update regarding PTC 9 and future weather events. It does not mention agricultural developments despite the potential impacts of weather on agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971690184174707192",
+            "text": "RT @TWCChrisBruin: 1st cone for PTC 9 now being issued. Jacksonville, FL to Wrightsville Beach, NC needs to start preparing! Still opportun…",
+            "created_at": "2025-09-26T21:35:46Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a weather alert related to a tropical storm or system (PTC 9) and advising preparation for affected areas. It does not mention agricultural developments directly, focusing instead on weather impacts."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971686656731426932",
+            "text": "COLUMBIA, S.C. (FOX Carolina) - Gov. Henry McMaster declared a state of emergency ahead of possible effects of Tropical Disturbance 94L.",
+            "created_at": "2025-09-26T21:21:45Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet reports on a state of emergency declared by the governor due to a tropical disturbance, which is related to weather and potential natural disasters rather than agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971686281638982079",
+            "text": "Getting increasingly worried about significant flooding from Potential Tropical Cyclone Nine in the Carolinas.\n\nThe storm is forecast to slow down dramatically off the South Carolina coast, with some models showing 12+ inches of rain in spots.\n\nWith tropical cyclones, it’s usually not the wind that kills, it’s the water.",
+            "created_at": "2025-09-26T21:20:16Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": false,
+          "reasoning": "The tweet focuses on a weather-related issue, specifically the flooding caused by a tropical cyclone. It does not discuss agricultural developments or any topics related to farming or agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971685713226711336",
+            "text": "A new tropical storm is forming in the Bahamas and could become a rain and wind threat to the Southeast coast while a major hurricane recurves near Bermuda through early next week. Here's the latest.\nhttps://t.co/KF6No3OAcj https://t.co/kI8HQQsiTH",
+            "created_at": "2025-09-26T21:18:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is focused on a tropical storm and its potential impact on the weather, particularly for the Southeast coast. It does not mention agricultural developments, which would typically involve topics related to farming, crops, or land management. Therefore, it is not discussing agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971681622333575567",
+            "text": "Arizona is being slammed by severe thunderstorms today, dropping hail up to the size of golf balls, with millions under flash flood warnings across the Phoenix metro area. https://t.co/0fHzAbkKNJ",
+            "created_at": "2025-09-26T21:01:45Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses severe thunderstorms and their impact in Arizona, focusing on weather conditions and warnings, rather than agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971679687194890336",
+            "text": "Culiacán, Mexico now...🌊👀\nhttps://t.co/xYuahM4pK6",
+            "created_at": "2025-09-26T20:54:04Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet contains a location (Culiacán, Mexico) and an emoji, but it does not provide any information or context related to agricultural developments. Therefore, it cannot be determined that the tweet is talking about agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971678411493200288",
+            "text": "@zoom_earth https://t.co/m1ckjI77Qh",
+            "created_at": "2025-09-26T20:48:59Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not provide any information or context about agricultural developments. It seems to be a Twitter handle reference (@zoom_earth) and a link, which does not give insights into agricultural topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971677437688967446",
+            "text": "Humberto is now a major category 3 hurricane....\n\n📹 @zoom_earth \nhttps://t.co/1MBGLNA7TO",
+            "created_at": "2025-09-26T20:45:07Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a hurricane, specifically Humberto, which is a meteorological event rather than an agricultural development. It does not mention any farming practices, crops, or related agricultural topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971675480362570084",
+            "text": "Culiacán, Mexico now!...🌊🌊🌊\nhttps://t.co/W8h1hEF2DO",
+            "created_at": "2025-09-26T20:37:21Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions 'Culiacán, Mexico' and includes an emoji related to water, but it does not specifically discuss agricultural developments. Without further context or content directly related to agriculture, it is not possible to conclude that this tweet is about agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971674180094742900",
+            "text": "Major flooding in Cienfuegos, Santiago, in Dominican republic today...🌊🌊🌊\nhttps://t.co/FpOXFhbaYZ",
+            "created_at": "2025-09-26T20:32:11Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses major flooding in a specific location in the Dominican Republic. It does not mention agricultural developments or related topics, focusing instead on a natural disaster and its immediate effects."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971673292869456343",
+            "text": "RT @FeliciaCombsTWC: We're breaking down Invest 94L - what will likely be Imelda - Currently most models have the system impacting the sout…",
+            "created_at": "2025-09-26T20:28:39Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a weather system (Invest 94L) and its potential impact, which is related to meteorology rather than agricultural developments. There is no mention of agricultural advancements or topics typically associated with agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971672329043550537",
+            "text": "It's also one year ago since hurricane John hit Mexico but everyone was to focussed on Helene...\nhttps://t.co/wDTPE4lIE6",
+            "created_at": "2025-09-26T20:24:49Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses hurricanes, specifically mentioning hurricane John and Helene, but it does not mention any agricultural developments or topics related to agriculture. Therefore, it does not pass the criteria of talking about agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971670871460008435",
+            "text": "Bethepage where the Ryder cup is being held  💥⚡️",
+            "created_at": "2025-09-26T20:19:02Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet references the Ryder Cup, which is a golf tournament, and does not mention agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971668887197581560",
+            "text": "Major flooding in Bordj Bou Arreridj and M'Sila Provinces of Algeria over the past couple of days...🌊🌊🌊 https://t.co/inUWXpgjJ0",
+            "created_at": "2025-09-26T20:11:09Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses recent flooding in specific provinces of Algeria, which is a weather-related event rather than a direct commentary on agricultural developments. While flooding can impact agriculture, the tweet does not mention agricultural practices, improvements, or developments explicitly."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971666082936045689",
+            "text": "Have you noticed how many hurricanes starting with the letter \"I\" have been terribly destructive lately? It turns out there's a simple explanation. \nhttps://t.co/501lyIr1h8",
+            "created_at": "2025-09-26T20:00:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses hurricanes and their destructive nature, but it does not mention agricultural developments or related topics. Therefore, it does not focus on agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971664435933769964",
+            "text": "🍿🍿🍿",
+            "created_at": "2025-09-26T19:53:27Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet from Volcaholic1 consists only of popcorn emojis, which are typically used to indicate excitement or anticipation, possibly related to an event or conversation. There is no mention or implication of agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971657539185266786",
+            "text": "https://t.co/WqDssx8jpY",
+            "created_at": "2025-09-26T19:26:03Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not contain any information or context related to agricultural developments, as it only includes a username and a link that does not provide visible content."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971654210061324539",
+            "text": "RT @volcaholic1: Ladies and gents, I give you a box phone farm. \n\nThese create and manage fake accounts for disinformation, trolling, scams…",
+            "created_at": "2025-09-26T19:12:49Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not discuss agricultural developments. Instead, it refers to a 'box phone farm' which is related to creating and managing fake accounts for disinformation and scams, rather than any agricultural topic."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971641679141908480",
+            "text": "World’s oceans fail key health check as acidity crosses critical threshold for marine life.\n\nScientists call for renewed global effort to curb fossil fuels as seven of nine planetary boundaries now transgressed.\nhttps://t.co/rT4D8zAyo2",
+            "created_at": "2025-09-26T18:23:02Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses ocean health and the impact of fossil fuel consumption on planetary boundaries. It does not mention agricultural developments or anything related to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971640773163503655",
+            "text": "Tropical storm alerts are expected to be issued in the Bahamas later today as a disturbance continues to organize. There is still significant uncertainty as to the details of how this will all shake out into next week. Here's the latest:\nhttps://t.co/KF6No3OAcj https://t.co/NgAdaaVwRI",
+            "created_at": "2025-09-26T18:19:26Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a weather-related event, specifically tropical storm alerts in the Bahamas, rather than agricultural developments. There is no mention of farming, crops, or advancements related to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971640263425905130",
+            "text": "RT @volcaholic1: Severe Tropical Cyclone Opong has battered the Philippines, making landfall in Oriental Mindoro after tearing through Masb…",
+            "created_at": "2025-09-26T18:17:24Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a severe tropical cyclone affecting the Philippines, which does not pertain to agricultural developments. It focuses on climate events rather than agricultural advancements or practices."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971629735940915242",
+            "text": "It's never too early to start getting prepared for a tropical storm or hurricane. Watch meteorologist @jordansteele show what you need to do during the countdown to landfall ⬇️",
+            "created_at": "2025-09-26T17:35:34Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is primarily discussing preparedness for a tropical storm or hurricane, not directly related to agricultural developments. While agricultural impacts can result from weather events, the focus here is on storm preparation."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971627196843479195",
+            "text": "Residents of Essentuki, Russia, captured a murmuration of birds tonight. \n\nLarge groups moved together in changing patterns across the sky illuminated by the city’s greenhouse lights. https://t.co/hxvCb9QFkm",
+            "created_at": "2025-09-26T17:25:29Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet describes a visual event involving birds and mentions greenhouse lights, but it does not discuss agricultural developments or practices related to farming or cultivation."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971622293408244196",
+            "text": "Space is filling fast with Starlink and other satellites. \n\nWill orbit turn into a junkyard in 20 years? \n\nHow long before collisions create more debris?\n\nAre we taking this seriously enough?",
+            "created_at": "2025-09-26T17:06:00Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing space-related topics, specifically the presence of satellites in orbit and the potential for orbital debris and collisions. It does not mention agricultural developments or related issues, making the answer to the question negative."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971621320258724347",
+            "text": "How cool is this!  🌳🌴🌱\nhttps://t.co/WMY3YiVN9G",
+            "created_at": "2025-09-26T17:02:08Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not explicitly mention agricultural developments or provide any information related to farming or agriculture. It contains emojis representing trees and plants, but these do not necessarily indicate a discussion of agricultural advancements."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971614351401640053",
+            "text": "*Hepatitis",
+            "created_at": "2025-09-26T16:34:26Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet contains only the term 'Hepatitis', which is a medical term referring to the inflammation of the liver. There is no mention of agricultural developments or related topics in the tweet."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971610237435039802",
+            "text": "One year ago today, Hurricane Helene struck Florida’s Big Bend as a Category 4 storm, bringing catastrophic damage across the southeastern United States. \n\nThe hurricane caused severe inland flooding, left at least 250 people dead, and inflicted an estimated $78.7 billion in damages, making it one of the deadliest U.S. hurricanes in recent years.",
+            "created_at": "2025-09-26T16:18:06Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Hurricane Helene and its impacts, including fatalities and financial damages, but does not mention agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971602661909950869",
+            "text": "At least 19 people have died this month after consuming bootleg alcohol in northwestern Russia’s Leningrad region near the border with Estonia, authorities said Friday.",
+            "created_at": "2025-09-26T15:47:59Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses fatalities related to bootleg alcohol consumption and does not mention agricultural developments or anything related to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971599948753129891",
+            "text": "It’s time for the @rydercupusa. Here's a look at the gameday forecast. https://t.co/1cs63dkELg",
+            "created_at": "2025-09-26T15:37:12Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet from weatherchannel is discussing the weather forecast related to the Ryder Cup event, which is a golf tournament. There is no mention of agricultural developments in the tweet."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971599734159839648",
+            "text": "5 PEDIATRIC RED ADVANCED LIFE SUPPORT PATIENTS TRANSPORTED TO KENDALL. ALL PATIENTS TOOK EDIBLES https://t.co/MhkK6QQn78",
+            "created_at": "2025-09-26T15:36:21Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses pediatric patients being transported after taking edibles, which relates to medical and health issues rather than agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971598508294820191",
+            "text": "👀👀",
+            "created_at": "2025-09-26T15:31:29Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not contain any information or context related to agricultural developments. It only consists of the user name and eye emojis, which do not suggest any agricultural topic."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971595499384783162",
+            "text": "A wildfire sparked by lightning in July forced evacuations and closures as it destroyed dozens of structures. Now the National Park Service has announced when portions of the North Rim will reopen.\nhttps://t.co/NXYQ4s9Uae",
+            "created_at": "2025-09-26T15:19:32Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a wildfire caused by lightning and its impact on evacuations and closures, particularly regarding the National Park Service's announcement about the North Rim's reopening. This does not pertain to agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971593953574273034",
+            "text": "RT @CharlesPeekWX: Heading east with the SC coast in my GPS, for reporting on what could be Imelda. With the anniversary of Hurricane Helen…",
+            "created_at": "2025-09-26T15:13:23Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing weather reporting and a hurricane event, which is not directly related to agricultural developments. The focus is on meteorological conditions rather than agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971591264194932825",
+            "text": "RT @smFISHMAN: Check out the first part of my sitdown with @JimCantore as @weatherchannel looks back at the impacts of #HurricaneHelene one…",
+            "created_at": "2025-09-26T15:02:42Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is primarily discussing a retrospective on the impacts of Hurricane Helene, which is related to weather events rather than agricultural developments. There is no mention of farming techniques, crop yields, or agricultural advancements."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971579324424946084",
+            "text": "RT @LaFemmePhojo: We’re live from WNC with @weatherchannel this morning on the anniversary of Hurricane Helene. https://t.co/n4NCKKKaxi",
+            "created_at": "2025-09-26T14:15:15Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a weather report related to the anniversary of Hurricane Helene and does not mention or imply anything about agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971577248231911566",
+            "text": "Recovery efforts are ongoing one year after Hurricane Helene devastated Western North Carolina. Senior National Correspondent @JMichaelsNews reports in Chimney Rock this morning. https://t.co/cBqIfpHGNg",
+            "created_at": "2025-09-26T14:07:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses recovery efforts after Hurricane Helene in Western North Carolina, focusing on the aftermath of a natural disaster rather than agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971548459867250715",
+            "text": "RT @kellycass: Not only do we have Hurricane Humberto, but another area that is forecast to develop &amp; become Imelda. This one has the poten…",
+            "created_at": "2025-09-26T12:12:37Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet primarily discusses weather events, specifically hurricanes, rather than agricultural developments. Although weather can have implications for agriculture, the focus of this tweet is on storm development and potential impacts, not on agricultural advancements or developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971548310088352032",
+            "text": "The Southeast should prepare for a multiday flood threat beginning today. Several inches of rain could lead to flooding, and this is before any potential impacts from future Imelda next week. See the video for more. https://t.co/NUX8U23sp0 https://t.co/HqTUXrTeiJ",
+            "created_at": "2025-09-26T12:12:01Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a weather-related event focused on flooding and rainfall rather than agricultural developments. It does not mention agriculture directly or indirectly."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971533966277566921",
+            "text": "Future Imelda will likely develop Friday or Saturday, and could bring potential impacts to Georgia and the Carolinas next week. Watch this video for the latest track and timing. https://t.co/DmxhKd53ci https://t.co/gohU08qM4r",
+            "created_at": "2025-09-26T11:15:01Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the development of a weather system (Imelda) and its potential impacts on Georgia and the Carolinas, which is related to meteorological events rather than agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971523139239555308",
+            "text": "Humberto has officially become a hurricane in the central Atlantic. Here's the latest.  https://t.co/KF6No3OAcj",
+            "created_at": "2025-09-26T10:32:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a weather event, specifically the hurricane Humberto, and does not mention agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971413690617303490",
+            "text": "Humberto continues to strengthen and is expected to become a major hurricane by the weekend. We are still watching Invest 94L. Here's the latest:\nhttps://t.co/KF6No3OAcj https://t.co/LjZlhILDYm",
+            "created_at": "2025-09-26T03:17:05Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is primarily discussing weather events related to Hurricane Humberto and tropical storm Invest 94L. It does not mention or imply any agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971380449575604703",
+            "text": "Tonight, we revisit areas that were at the center of the storm’s devastation. Watch \"Helene: One Year Later\" at 10/9c on The Weather Channel and streaming on The Weather Channel TV app: https://t.co/Feaf8zTBxX https://t.co/oWq5W8SANG",
+            "created_at": "2025-09-26T01:05:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is about revisiting areas affected by a storm and does not discuss agricultural developments. It focuses on a documentary related to the aftermath of a storm, which does not indicate any agricultural context."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971338240163733851",
+            "text": "RT @wxunfiltered: \"The risks for the east coast are going up\" - @DrRickKnabb \n\nInvest 94L (future #Imelda) is getting better organized this…",
+            "created_at": "2025-09-25T22:17:16Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a weather update related to a tropical system and its risks for the east coast, but it does not mention agricultural developments specifically. Therefore, it does not pass as talking about agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971333894419972570",
+            "text": "Two skydivers got the view of a lifetime when they saw a fully circular rainbow on their way back down to Earth. Our meteorologist Caitlin Kaiser explains how this was all possible. https://t.co/4jIe6iixzN https://t.co/N7FQuYL0QR",
+            "created_at": "2025-09-25T22:00:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses an event involving skydivers witnessing a rainbow and includes a meteorologist's explanation, but it does not mention agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971303696760754264",
+            "text": "Watch as this gamer's session is interrupted by a 6.3 magnitude earthquake in Venezuela. Hopefully he got to pause his game. 🎮 https://t.co/Dr5oP4oBc3 https://t.co/URQuq14f2a",
+            "created_at": "2025-09-25T20:00:01Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses an earthquake in Venezuela and the impact it had on a gamer's session, which is unrelated to agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971298477343711324",
+            "text": "Humberto could become the season's next major hurricane, but the next system, which is set to become Tropical Storm Imelda, could be a threat to the Bahamas and U.S. Here's what you need to know:\nhttps://t.co/KF6No3OAcj https://t.co/cW9hUk4sLV",
+            "created_at": "2025-09-25T19:39:16Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses tropical storms and hurricanes, which are not related to agricultural developments. It focuses on weather and storms rather than farming or agricultural advancements."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971271149146472527",
+            "text": "A hurricane is heading for Europe.\n#HurricaneGabrielle is on track for a direct hit on the Azores, with tropical storm conditions expected in Spain &amp; mainland Portugal.\nThis could be one of the most severe Atlantic systems to reach Iberia. https://t.co/2ngclARzt8",
+            "created_at": "2025-09-25T17:50:41Z",
+            "username": "PGDynes"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a hurricane and its potential impact on Europe, specifically the Azores, Spain, and Portugal. It does not mention agricultural developments or any related topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971269350138241256",
+            "text": "RT @MEERsrm: ”Our native trees are no longer native. They’re foreigners now.” An arborist’s words sparked Mike Tidwell’s book on how climat…",
+            "created_at": "2025-09-25T17:43:32Z",
+            "username": "PGDynes"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses native trees and their relationship to climate change, rather than agricultural developments. It focuses more on ecological concerns and biodiversity rather than farming or agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971269335403593761",
+            "text": "RT @MEERsrm: This week, Dr. Ye Tao visited Solthis in Freetown to explore how MEER’s passive cooling roofs could support healthcare centers…",
+            "created_at": "2025-09-25T17:43:28Z",
+            "username": "PGDynes"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention agricultural developments; it discusses healthcare and passive cooling roofs."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970752946238562809",
+            "text": "A prolific thunderstorm outbreak is ongoing across California’s Central Coast, with thousands of strikes recorded over the past 12 hours.\n\nThunderstorms are much further north than was expected by this time near Carmel and could reach the Bay Area soon. https://t.co/fUfmA0OrXE",
+            "created_at": "2025-09-24T07:31:31Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a thunderstorm outbreak and its location, focusing on weather conditions rather than agricultural developments. There is no mention of agriculture, farming, or related topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970618277450887423",
+            "text": "RT @bclemms: Super Typhoon Ragasa is ripping in Hong Kong. https://t.co/BcuyYCRm8Y",
+            "created_at": "2025-09-23T22:36:24Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": false,
+          "reasoning": "The tweet refers to a weather event, specifically a super typhoon in Hong Kong, and does not mention any agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970603236651659709",
+            "text": "A rare thunderstorm outbreak is possible along the Central Coast and into the SF Bay Area tonight into tomorrow. \n\nThunderstorms are a big deal in this part of the world because the Bay Area sees some of the fewest thunderstorms of any place on Earth outside the polar regions. https://t.co/m8hbkdCtB7",
+            "created_at": "2025-09-23T21:36:38Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a weather event (thunderstorm outbreak) in the Central Coast and SF Bay Area, focusing on the rarity of thunderstorms in that region. It does not mention anything related to agricultural developments, such as farming practices, crop yields, or agricultural technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970591857735606340",
+            "text": "The greater Hong Kong area (GBA), home to 86 million people, is dodging a bullet as the inner core of Category 4 Typhoon Ragasa passes just south of the region with sustained winds of 130 mph and gusts up to 160 mph.\n\nMore than 750,000 people in South China have been forced to evacuate as the typhoon nears landfall, while Hong Kong has essentially been shut down due to the storm.",
+            "created_at": "2025-09-23T20:51:25Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a natural disaster, specifically Typhoon Ragasa, and its impact on the Greater Hong Kong area. It mentions evacuations and weather conditions but does not refer to agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970436467047739766",
+            "text": "RT @MEERsrm: Ariana Ejupi, MEER’s Senior Project Officer, met with Mike Tidwell, Founder &amp; Director of the Chesapeake Climate Action Networ…",
+            "created_at": "2025-09-23T10:33:57Z",
+            "username": "PGDynes"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions a meeting between Ariana Ejupi and Mike Tidwell, but does not reference any specific agricultural developments. The focus appears to be on climate action networking rather than agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970278879987409289",
+            "text": "Insane video of a tornado roaring across Torch Lake in Northern Michigan, the same lake where I have family vacationed every summer for the last 10 years! \n\nhttps://t.co/pMrU6c44Op",
+            "created_at": "2025-09-23T00:07:45Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": false,
+          "reasoning": "The tweet describes a tornado event and mentions personal experiences related to a lake in Michigan. It does not discuss agricultural developments or issues related to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970272162109100397",
+            "text": "RT @PappenheimWx: Speechless. Unreal tornado just occurred on Torch Lake in Michigan. I was watching the webcam when it initially touched d…",
+            "created_at": "2025-09-22T23:41:03Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a tornado event in Michigan, which is related to severe weather and not agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970250776833597536",
+            "text": "Typhoon Ragasa was meant to be a once-in-50-year storm. Now, we’re seeing super typhoons like this every 3–4 years.\nThis isn’t anything normal — it’s the #ClimateCrisis and insurance for Hong Kong is just about to get even more expensive. https://t.co/8QUtKGOn35",
+            "created_at": "2025-09-22T22:16:05Z",
+            "username": "PGDynes"
+          },
+          "pass": false,
+          "reasoning": "The tweet is focused on climate change and the financial implications for insurance in Hong Kong due to increased frequency of super typhoons. It does not address agricultural developments specifically."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970191726456512878",
+            "text": "Europe has an air conditioning problem.\n\nAn estimated 175,000 people die from extreme heat every year in Europe, compared with just over 2,000 in the U.S. last year.\n\nOnly 20% of European homes have AC, versus 90% in the U.S.\n\nYou are nearly 4× more likely to die of extreme heat in Europe than to be fatally shot in the United States.\n\nIn Europe, future energy demands from installing AC will increasingly be supplied by clean energy sources.\n\nBut with rising temperatures driven by climate change, not having AC in Europe is becoming downright dangerous.\n\nIn Barcelona for example, the number of tropical nights has quadrupled since the 1950s.\n\nDespite having similar climates, Barcelona faces a 400% higher mortality risk than Los Angeles when temperatures climb above 30 °C (86 °F).\n\nGlobally, nights are warming faster than days due to climate change, and this is when mortality risk is highest, because the body cannot recover from daytime heat.\n\nWill Europe widely adopt AC, or continue sweating through brutal summers that are only getting worse?",
+            "created_at": "2025-09-22T18:21:26Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the issue of air conditioning in Europe and its implications regarding extreme heat and climate change. While it touches on environmental factors, it does not specifically address agricultural developments, which typically refer to practices or advancements related to farming and agriculture. Therefore, the tweet is not talking about agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1969924132998619483",
+            "text": "The Philippines’ Babuyan Islands are just hours away from a catastrophic strike by Category 5 Super Typhoon Ragasa, packing sustained winds of 165 mph and gusts up to 200 mph.\n\nThe remote islands are home to about 20,000 people, many of whom live in poverty. https://t.co/EmP7mAFmqW",
+            "created_at": "2025-09-22T00:38:07Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": false,
+          "reasoning": "The tweet is focused on the imminent threat of a Category 5 typhoon impacting the Babuyan Islands in the Philippines, highlighting the potential disaster for the residents. It does not mention any agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1969891829702353172",
+            "text": "A lot of my friends in SoCal have been talking about how much more humid it’s felt over the last 10 years. and many of them have had to get AC because of it.\n\nHave you noticed the same thing living along the coast?\n\nIt's very humid today along the SoCal coast, with a marine heatwave offshore adding extra mugginess and tropical moisture streaming in from the south.",
+            "created_at": "2025-09-21T22:29:45Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": false,
+          "reasoning": "The tweet is focused on weather conditions in Southern California, specifically discussing humidity and marine heatwaves. It does not mention agricultural developments or farming-related topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1969887603869782200",
+            "text": "30 hour timelapse of the strongest storm on the planet, Category 5 Super Typhoon Ragasa in the Western Pacific. \n\nThe storm is packing 165 mph winds with catastrophic wind gusts up to 200 mph. https://t.co/PcQiBW6C0y",
+            "created_at": "2025-09-21T22:12:58Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a severe weather event, specifically a Category 5 Super Typhoon, and does not mention any agricultural developments or topics related to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1969577085829333268",
+            "text": "Wildfire smoke kills more people in the US each year than car crashes, 41,000 deaths annually, per a new Stanford study in Nature.",
+            "created_at": "2025-09-21T01:39:04Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the impact of wildfire smoke on health and mentions statistics about deaths caused by smoke compared to car crashes, which is unrelated to agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1969567922696921466",
+            "text": "San Francisco has been drought-free for over 900 days, its longest stretch without drought in nearly 20 years. https://t.co/FflsNz3Gtb",
+            "created_at": "2025-09-21T01:02:40Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the duration of drought-free conditions in San Francisco, which relates to weather and climate rather than direct agricultural developments. It does not explicitly mention any developments or innovations in agriculture."
+        }
+      ],
+      "count": 92,
+      "filter_question": "Is this tweet talking about agricultural developments?",
+      "summarization_question": "Summarize aggricultural developments, across production, but also commodities trade &c last week.",
+      "summary": "No tweets passed the filter"
+    },
+    "completed_at": "2025-09-27T13:18:00.500469Z",
+    "processing_time_seconds": 22
+  }
+}

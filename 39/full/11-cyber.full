@@ -1,0 +1,1248 @@
+{
+  "success": true,
+  "message": "Job results retrieved successfully",
+  "data": {
+    "job_id": "979e23dd-92af-46db-898b-33a9ae03d441",
+    "status": "completed",
+    "results": {
+      "filtered_tweets": [
+        {
+          "tweet": {
+            "tweet_id": "1971917441199431743",
+            "text": "After most of a week air-frying Factor’s delivery high-protein meals, I realize I could probably live like this. https://t.co/fL0RtqNGWI",
+            "created_at": "2025-09-27T12:38:49Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses personal experiences with air-frying meals and does not mention anything related to cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971908802472542608",
+            "text": "Companies are going to great lengths to protect the infrastructure that provides the backbone of the world’s digital services—by burying their data deep underground. https://t.co/McbLy6WgdQ",
+            "created_at": "2025-09-27T12:04:29Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the measures companies are taking to protect their digital services infrastructure by burying data underground, but it does not mention or imply any cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971893221375475889",
+            "text": "Nicholas Spada is one of the only scientists in the world using a nuclear x-ray process to study deadly nanoparticles in wildfire smoke. What he’s uncovered in California is a nightmare. https://t.co/SymGhOXivr",
+            "created_at": "2025-09-27T11:02:34Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a scientist studying nanoparticles in wildfire smoke using a nuclear x-ray process. It does not mention or imply anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971885943205265712",
+            "text": "Plus: Withings collabs with Clue to offer advanced women’s cycle tracking, there’s a new Balmuda toaster, and Shokz shows off Dolby Audio–powered open earbuds. https://t.co/EfVxNLlC9K",
+            "created_at": "2025-09-27T10:33:39Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses collaborations and product announcements, specifically relating to women's health tracking, kitchen appliances, and audio technology. There is no mention or implication of a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971878138020859998",
+            "text": "On today's episode of \"Uncanny Valley,\" we cover everything from what exactly the DHS is doing with Americans' DNA, to the rising influence of Nick Fuentes. https://t.co/c6u5ZqPelA",
+            "created_at": "2025-09-27T10:02:38Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a podcast episode that covers topics related to the Department of Homeland Security (DHS) and Nick Fuentes. It does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971829426426937586",
+            "text": "Brooks, who co-founded iRobot and spent decades at MIT, is particularly skeptical of companies like Tesla and Figure trying to teach robots dexterity by showing them videos of humans doing tasks. In a new essay, he calls this approach \"pure fantasy thin... https://t.co/lG4vOGuloO",
+            "created_at": "2025-09-27T06:49:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses opinions about robotics and artificial intelligence, specifically criticizing certain methods of teaching robots dexterity. It does not mention or imply anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971828797256487118",
+            "text": "RT @aarmlovi: I almost feel bad for the \"Balanced Literacy\" lady who waged the academic war on phonics for 40 years\n\nNot just that Columbia…",
+            "created_at": "2025-09-27T06:46:34Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet refers to a person involved in educational debate and does not mention or imply anything related to cyberattacks. It discusses 'Balanced Literacy' and phonics, which are topics related to education and reading instruction."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971812862055076323",
+            "text": "Underage planes don't interest me. https://t.co/sJ76p590qg",
+            "created_at": "2025-09-27T05:43:15Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to cyberattacks; it seems to express indifference towards 'underage planes' instead."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971806046223323625",
+            "text": "Shit wrong account",
+            "created_at": "2025-09-27T05:16:10Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to a cyberattack. It simply states that the account is incorrect, which does not imply any discussion of cyber threats or attacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971805582920503653",
+            "text": "Ready fur the weekend https://t.co/Bk6bSm9LAi",
+            "created_at": "2025-09-27T05:14:20Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to cyberattacks. It appears to be a casual statement about being ready for the weekend without any reference to cybersecurity or attacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971769026553827655",
+            "text": "Me warning relative about AI.\nThis is absolutely not a template and just something I voice transcribed. I later get into more specifics about examples in their job.\nJust sharing my approach in how I talk about it. 🤷‍♀️ https://t.co/XvQPfQU7w1",
+            "created_at": "2025-09-27T02:49:04Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a personal approach to communicating about AI, specifically in a familial context, rather than mentioning or referencing a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971764716990353640",
+            "text": "Had the fake AI video chat with a relative. It was a more subtle one to detect, if you're not already primed knowing how fast video AI has advanced last 18 months. https://t.co/lkSSSKO7aM",
+            "created_at": "2025-09-27T02:31:56Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a fake AI video chat experience, not directly about a cyberattack. It mentions the advancements in AI and the subtlety of such technologies but does not indicate any malicious activity associated with a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971757941142269978",
+            "text": "Outdoor gear is made from the most high-tech fabric in the world. We explain how Dyneema, silpoly, and X-Pac keep you dry in the wilderness. https://t.co/OCpXrKldn3",
+            "created_at": "2025-09-27T02:05:01Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses outdoor gear and its high-tech fabrics, focusing on materials like Dyneema, silpoly, and X-Pac. There is no mention of cyberattacks or any related topic in the tweet."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971744600386568295",
+            "text": "Keep your iPhone, Apple Watch, and AirPods topped up with these WIRED-tested docking systems. https://t.co/WWsnKZcdRx",
+            "created_at": "2025-09-27T01:12:00Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses docking systems for Apple devices, specifically the iPhone, Apple Watch, and AirPods. There is no mention or implication of a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971726695758512346",
+            "text": "Protect your home against dust, pets, allergies, and more with air purifiers tested firsthand by WIRED. https://t.co/1moCI9MYov",
+            "created_at": "2025-09-27T00:00:51Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing air purifiers and their benefits for home health, and does not mention anything related to cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971723823100678338",
+            "text": "OpenAI's latest humble brag? They're so \"compute constrained\" they need $100B in server deals just to keep up with demand. @EquityPod breaks down the numbers: https://t.co/4d863cABZ0 https://t.co/A5bmhUKziY",
+            "created_at": "2025-09-26T23:49:26Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses OpenAI's server deals and computing constraints, but it does not mention or imply anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971722718329381221",
+            "text": "Palantir Technologies sells software that immigration authorities use to identify and arrest people, militaries use to organize drone strikes, and corporations use to manage their supply chains. Now, it also sells tote bags. https://t.co/BPvy2ZAMbY",
+            "created_at": "2025-09-26T23:45:03Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the various uses of Palantir Technologies' software and mentions their merchandise, without any reference to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971707618667200626",
+            "text": "These 2-in-1 computers upgrade the norm with touchscreen displays, 360-degree hinges, and detachable keyboards. https://t.co/EzND2ly2YH",
+            "created_at": "2025-09-26T22:45:03Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses features of 2-in-1 computers, such as touchscreen displays and detachable keyboards, which are consumer electronics topics. It does not mention anything related to cyberattacks or cybersecurity."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971683701382635555",
+            "text": "Corsair's latest gaming mouse is unimaginably lightweight for fast-paced gamers who need every gram to count. https://t.co/RKnnvJw8pM",
+            "created_at": "2025-09-26T21:10:01Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a gaming mouse and its features, specifically its weight and suitability for gamers. There is no mention of a cyberattack or any related topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971666597921132848",
+            "text": "Vibe coding and modern dev tools are reshaping early-stage startup hiring https://t.co/ZSb0fXHhBG",
+            "created_at": "2025-09-26T20:02:03Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses how coding and modern development tools are influencing startup hiring, which does not indicate a cyberattack topic."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971665329714499746",
+            "text": "Ready to cut the cord? These are our favorite buds that will never, ever get tangled. https://t.co/8Ee5YwlHO5",
+            "created_at": "2025-09-26T19:57:01Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything about a cyberattack; instead, it talks about wireless earbuds and their design, specifically highlighting their tangle-free nature."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971664064381128872",
+            "text": "By inflating numbers and narrowing definitions, Heritage promotes a false link between transgender identity and violence in its push for the FBI to create a new terrorism category. https://t.co/ugtMs3DWVL",
+            "created_at": "2025-09-26T19:51:59Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the Heritage organization's efforts to link transgender identity with violence for the purpose of influencing FBI categorization of terrorism, but it does not mention or imply anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971661566601732271",
+            "text": "This week on Equity, Anthony Ha and Max Zeff go beyond the headlines to break down what's really going on in these AI infrastructure deals. https://t.co/Q177pz4g3s",
+            "created_at": "2025-09-26T19:42:03Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a podcast episode related to AI infrastructure deals and does not mention or imply anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971659053911671199",
+            "text": "https://t.co/hutMIvvcWL is boosting its valuation as part of an employee stock buy-back program, and now says it's profitable. https://t.co/c5iOy744J9",
+            "created_at": "2025-09-26T19:32:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses TechCrunch's valuation and profitability in relation to an employee stock buy-back program, without any mention of cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971658627321667655",
+            "text": "US investigators are using AI to detect child abuse images made by AI https://t.co/bQwKvb4BQZ",
+            "created_at": "2025-09-26T19:30:23Z",
+            "username": "techreview"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the use of AI technology for detecting child abuse images, not about a cyberattack. There is no mention of malicious activities typical of a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971658044950938057",
+            "text": "Fifteen years after \"The Social Network,\" director Aaron Sorkin is making a sequel film about Facebook called \"The Social Reckoning.\" https://t.co/rotCAQnSOv",
+            "created_at": "2025-09-26T19:28:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a sequel film about Facebook and does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971657790817997171",
+            "text": "The rumored buyers of EA include investors like Silver Lake and Saudi Arabia's Public Investment Fund. https://t.co/AC1KkC5F1i",
+            "created_at": "2025-09-26T19:27:03Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions potential buyers of EA, which is related to corporate acquisitions and investments, not a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971652757124792515",
+            "text": "YouTube Music's new AI hosts are currently being tested through YouTube Labs, the platform's new hub for AI experiments. https://t.co/asmQBkhjm1",
+            "created_at": "2025-09-26T19:07:03Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses YouTube Music's new AI hosts and mentions AI experiments without any reference to cyberattacks. Therefore, it does not talk about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971648827074429198",
+            "text": "On this special episode of \"Uncanny Valley\" recorded in front of a live audience in San Francisco, our hosts discuss Silicon Valley's history and future. https://t.co/tGLKNaJ6Uj",
+            "created_at": "2025-09-26T18:51:26Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a podcast episode related to Silicon Valley's history and future, and does not mention or imply any cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971646860231106749",
+            "text": "Upgrade your whole house to Wi-Fi 7 for just $130. https://t.co/N1robupnRk",
+            "created_at": "2025-09-26T18:43:37Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is promoting a product related to Wi-Fi 7 technology and does not mention or imply any discussion about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971643483543810184",
+            "text": "These cushy cans are great for critical listening but sacrifice a lot of handy features for portable listening. https://t.co/9xv5nSLNWz",
+            "created_at": "2025-09-26T18:30:12Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses headphones and their features related to listening, with no mention of cyberattacks or anything related to cybersecurity."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971639632904507643",
+            "text": "RT @moultano: I need to stop taking bait on the bait app.",
+            "created_at": "2025-09-26T18:14:54Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to a cyberattack. It seems to refer to avoiding getting caught up in provoking or misleading situations, possibly alluding to social media interactions rather than cybersecurity issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971637669655412979",
+            "text": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft. https://t.co/dNd7Y6xRdW",
+            "created_at": "2025-09-26T18:07:06Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing friendship apps and platforms for discovering friends and events, which is unrelated to cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971634657985990851",
+            "text": "RT @CloudflareTV: Ready to dive deeper into internet traffic patterns? We're introducing powerful new traffic insights on @CloudflareRadar…",
+            "created_at": "2025-09-26T17:55:08Z",
+            "username": "CloudflareRadar"
+          },
+          "pass": false,
+          "reasoning": "The tweet is about introducing new features for analyzing internet traffic patterns and does not mention anything related to a cyberattack. It speaks to improvements in traffic insights rather than any security incident."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971633956996227129",
+            "text": "From Montenegro to northern California, the tech elite dream of building “network states”—cities where they make the rules. Is this, finally, their moment?\nhttps://t.co/K0h4zw4ov9",
+            "created_at": "2025-09-26T17:52:21Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention or imply anything related to cyberattacks. It discusses 'network states' and the aspirations of tech elites, which is more about governance and societal structure rather than cybersecurity."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971633958610952337",
+            "text": "“This is a colonial project, aimed at tech empire,” says Gil Duran, a former political consultant. “It sounds like colonization 2.0. When you go to another person's country and create your own country there.”\nhttps://t.co/K0h4zw4ov9",
+            "created_at": "2025-09-26T17:52:21Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses colonialism and technology but does not mention anything about a cyberattack. It focuses on the metaphorical implications of colonization in a modern technological context."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971633960372593134",
+            "text": "Network states are a crazy idea—hubristic, irrational, expensive, both utopian and a direct affront to the ideal that a just society should strive to leave no one behind. But the conditions are ripe for at least some of these projects to move forward.\nhttps://t.co/K0h4zw4ov9",
+            "created_at": "2025-09-26T17:52:21Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the concept of network states and critiques their feasibility and morality, but it does not mention or imply anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971632625082159323",
+            "text": "The wider shakeup comes a few weeks since its CEO and CTO left. https://t.co/BzyEZssE8f",
+            "created_at": "2025-09-26T17:47:03Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a leadership change within a company, specifically the departure of the CEO and CTO, and does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971632355631943715",
+            "text": "Yes there are management agencies that do this for you to an extent but that just means they're getting even less and likely in an extractive factory pipeline which may be even worse. You have to be built different and independently situated to make this a decent option for money",
+            "created_at": "2025-09-26T17:45:59Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything about a cyberattack. It discusses management agencies and the implications of being part of a factory pipeline, which are not related to cybersecurity or cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971631334734123341",
+            "text": "If you dive into a smaller tier OF accounts doing self-promotion on Reddit, the workload is monstrous. They are posting different pictures catered to different niches every 90 minutes like all day every day, across multiple platforms like F*nsly, doing DMCA work, it's nuts.",
+            "created_at": "2025-09-26T17:41:55Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the workload of self-promotion on Reddit and other platforms, mentioning the effort involved in creating and posting content. However, it does not mention any cyberattacks or related activities. Therefore, the answer to the question is no, it is not talking about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971630210358681971",
+            "text": "This this is not a moral qualm at all just an observation, but if you would've asked me in 2005 the sheer # of people that would be opening to doing OnlyFans, or the eventual ecosystem, I would've never predicted this ever. I just cannot fathom almost anyone is getting an ROI.",
+            "created_at": "2025-09-26T17:37:27Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses societal observations regarding OnlyFans and people's willingness to engage with its ecosystem since 2005. It does not mention or imply anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971629101258514639",
+            "text": "Watch as Equity hosts Anthony Ha and Max Zeff break down the money behind AI’s infrastructure boom and what rising visa fees mean for tech’s talent shuffle. https://t.co/mDuCX8tQHb",
+            "created_at": "2025-09-26T17:33:03Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses AI's infrastructure boom and visa fees related to tech talent, but it does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971625067839635855",
+            "text": "These beard tools deliver an excellent trim for all types of facial hair. https://t.co/rdkTIt5sOp",
+            "created_at": "2025-09-26T17:17:01Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing beard tools for grooming facial hair and does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971622061882712217",
+            "text": "From Montenegro to northern California, the tech elite dream of building cities where they make the rules. Is this, finally, their moment? https://t.co/J9L69yp6Nz",
+            "created_at": "2025-09-26T17:05:05Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the aspirations of tech elites to build cities and does not mention or imply anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971620361717641319",
+            "text": "What happens to all the drone making capacity when/if Ukraine is resolved? You're gonna have millions of these things flooding the global market with legions of expert trainers without a job. What is that going to mean for the shape of conflict?",
+            "created_at": "2025-09-26T16:58:19Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the implications of a potential resolution in Ukraine on the drone market and the job situation for trainers, but it does not explicitly mention a cyberattack or any cyber-related activities. It is more focused on geopolitical and economic impacts rather than cyber warfare."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971618775914238430",
+            "text": "RT @Empty_America: Interesting the same or similar models of car are typically rated to tow much more in Europe.\n\nIt's normal to be towing…",
+            "created_at": "2025-09-26T16:52:01Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing cars and their towing capabilities in Europe, which is unrelated to cyberattacks. Therefore, the tweet is not talking about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971618626613743984",
+            "text": "OK, so like none of the major powers can initiate police actions  for the foreseeable future, right? They're just gonna get wrecked by drones?",
+            "created_at": "2025-09-26T16:51:26Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a hypothetical situation regarding the inability of major powers to initiate police actions and the impact of drones, but it does not specifically mention or imply a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971608466050453837",
+            "text": "Age verification laws are a privacy and security nightmare. This Battlefield startup performs age checks on-device, without users having to upload their IDs to the internet. https://t.co/qR2kFgftJU",
+            "created_at": "2025-09-26T16:11:03Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses age verification laws and a startup's approach to handling age checks without uploading IDs online. It does not mention or imply anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971603892543828412",
+            "text": "An artist's depiction of Helen of Troy if she lived in the modern era https://t.co/wYaa4WVjTc",
+            "created_at": "2025-09-26T15:52:53Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet is about an artistic depiction of Helen of Troy in a modern context. It does not mention anything related to cyberattacks, cybersecurity, or similar topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971600770794651838",
+            "text": "RT @heymingwei: @next_hopself and I wrote a few words about our efforts on tracking IRR AS-SETs in the context of route-leak mitigation. It…",
+            "created_at": "2025-09-26T15:40:28Z",
+            "username": "CloudflareRadar"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing efforts related to tracking IRR AS-SETs and route-leak mitigation, which relates to network routing and policies, but it does not explicitly mention or indicate a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971596067582926986",
+            "text": "📸Thanks to @CityofMinot, ND and Ward County Emergency Management Agency for hosting a Community Resilience Analysis Tabletop Exercise. The exercise assessed local response plans and short-term recovery capability for incidents with whole community physical and cyber impacts. https://t.co/uxCaX35rty",
+            "created_at": "2025-09-26T15:21:47Z",
+            "username": "CISAgov"
+          },
+          "pass": true,
+          "reasoning": "The tweet mentions a tabletop exercise focused on assessing local response plans and recovery capabilities for incidents that include both physical and cyber impacts. This implies a discussion related to cyberattacks, as it specifically addresses 'cyber impacts'."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971595885231374533",
+            "text": "The gap between Apple's standard and budget smart watches has never felt smaller.  https://t.co/btdZSK16Ns",
+            "created_at": "2025-09-26T15:21:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the comparison between Apple's standard and budget smart watches, mentioning no cyberattack or any related topic."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971594632229216497",
+            "text": "Flipkart is set to become the most valuable startup to shift its headquarters back to India ahead of a planned IPO. https://t.co/SHSVccFHVw",
+            "created_at": "2025-09-26T15:16:05Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing Flipkart's plan to shift its headquarters back to India and its upcoming IPO, which does not indicate any mention of a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971591777044869196",
+            "text": "After Sinclair and Nexstar pulled Jimmy Kimmel off air, the old affiliate model looks shakier than ever. Even Disney might do better without broadcast. https://t.co/acvRLQ7QWq",
+            "created_at": "2025-09-26T15:04:44Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses changes in the broadcasting industry related to television shows and networks, specifically mentioning Sinclair, Nexstar, and Disney. There is no reference to a cyberattack or any related cyber activities."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971589955135971457",
+            "text": "RT @next_hopself: It may be 2025, but it’s never too late to clean up AS-SETs and make BGP safer. Now Cloudflare Radar can help with that.…",
+            "created_at": "2025-09-26T14:57:30Z",
+            "username": "CloudflareRadar"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses BGP (Border Gateway Protocol) safety and AS-SETs (Autonomous System Sets) in the context of Cloudflare Radar. While BGP is relevant to cybersecurity, the tweet does not explicitly mention a cyberattack or characterize its content as such."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971588588249755889",
+            "text": "In recent years, the total cost of hiring tech workers with H1-B visas fell between $200 million and $400 million.\n\nBut under the Trump administration's new policy, that would spike to around $5.5 billion each year, and that's just the start of the impact of the \"talent tariff.\" https://t.co/ccl63uERa0",
+            "created_at": "2025-09-26T14:52:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the financial implications of hiring tech workers with H1-B visas and mentions a policy change under the Trump administration, but it does not mention or imply a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971588349136629861",
+            "text": "AI. Self-driving cars. A few years ago they seemed far off, but are now increasingly ubiquitous. Captain of Google's Moonshots @astroteller takes center stage at Disrupt to break down how they got ahead of the curve by sticking to their fail fast mantra.\n\nPlus, you'll get an exclusive chance to learn what he has coming up next 👀 https://t.co/tIMDwg7n1N",
+            "created_at": "2025-09-26T14:51:07Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses advancements in AI and self-driving cars, focusing on a speaker's presentation at an event. It does not mention or imply anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971586767091581141",
+            "text": "TIL on this troubleshooting step",
+            "created_at": "2025-09-26T14:44:50Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything about a cyberattack. It seems to reference a troubleshooting tip, likely relating to technology or IT issues, without indicating any malicious activity."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971585847053934972",
+            "text": "The Trump administration wants the industry to reach a 1:1 ratio of domestically produced and imported chips. https://t.co/ecT5eZ8MOT",
+            "created_at": "2025-09-26T14:41:10Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the Trump administration's stance on chip production and does not mention or imply anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971583199538249754",
+            "text": "RT @Cloudflare: Cloudflare Radar now offers a Certificate Transparency dashboard for monitoring TLS certificate activity,  and new regional…",
+            "created_at": "2025-09-26T14:30:39Z",
+            "username": "CloudflareRadar"
+          },
+          "pass": false,
+          "reasoning": "The tweet is about Cloudflare Radar introducing a new feature related to monitoring TLS certificate activity and does not mention anything regarding a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971577008820736312",
+            "text": "Last chance to save up to $668 on TechCrunch Disrupt 2025. Join 250+ speakers, explore 200+ sessions, and connect with 10,000+ tech leaders. https://t.co/PAKRKBiZTr",
+            "created_at": "2025-09-26T14:06:03Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet promotes an event by TechCrunch, specifically TechCrunch Disrupt 2025, focusing on speakers, sessions, and networking opportunities. There is no mention or implication of a cyberattack in the content provided."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971567028076200352",
+            "text": "Second: a new Certificate Transparency dashboard brings insights into the ecosystem which ensures that all website certificates are publicly visible &amp; auditable. Learn more at https://t.co/PoJK1tkNfN https://t.co/dzZGo0Kazi",
+            "created_at": "2025-09-26T13:26:24Z",
+            "username": "CloudflareRadar"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a new Certificate Transparency dashboard related to website certificates, which focuses on their visibility and auditability. It does not mention or imply any cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971567030798352513",
+            "text": "Third: network operators need to be able to monitor AS-SET memberships for their networks. ASN routing pages now include information on direct &amp; indirect AS-SET membership. Learn more at https://t.co/XcvsQfvi52 https://t.co/P2OFnLVB9u",
+            "created_at": "2025-09-26T13:26:24Z",
+            "username": "CloudflareRadar"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses network monitoring and AS-SET memberships, which are related to internet routing and management. There is no mention of a cyberattack or any related malicious activity."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971567025743925274",
+            "text": "Three new Radar features launched today for @Cloudflare #BirthdayWeek!\n\nFirst: regional traffic data is now available. You can now get a more localized perspective on the impact of events and disruptions on Internet traffic. Learn more at https://t.co/DeJVkEdwz5 https://t.co/uLpYY8LHx2",
+            "created_at": "2025-09-26T13:26:23Z",
+            "username": "CloudflareRadar"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses new features from Cloudflare related to Internet traffic data and does not mention anything about a cyberattack. It focuses on product announcements rather than security incidents."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971560655338487911",
+            "text": "Anode Technology Company wants to build mobile battery generators for construction sites, live events, and EV fleets. But first it has to avoid the pitfalls that claimed its predecessor, Moxion. https://t.co/DDuYx9V7HL",
+            "created_at": "2025-09-26T13:01:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a technology company and its plans to build mobile battery generators. It does not mention or imply anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971558248718246307",
+            "text": "The Download: shoplifter-chasing drones, and Trump’s TikTok deal https://t.co/zHWGVKmxEe",
+            "created_at": "2025-09-26T12:51:30Z",
+            "username": "techreview"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses shoplifter-chasing drones and Trump's TikTok deal, which are topics related to technology and business rather than a cyberattack. There is no indication or reference to any cyberattack in the content."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971549326666072317",
+            "text": "Sierra Space's Dream Chaser spaceplane is facing an identity crisis after NASA changed contract terms to remove its guarantee to buy cargo flights to the ISS. https://t.co/dK36KukK10",
+            "created_at": "2025-09-26T12:16:03Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses issues related to NASA contracts and the Dream Chaser spaceplane, which does not involve a cyberattack. It focuses on space transportation and contractual changes rather than cyber-related incidents."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971538689227399578",
+            "text": "Before your next flight, read up on airline rules and restrictions about traveling with power banks. https://t.co/2a3eYG0o5U",
+            "created_at": "2025-09-26T11:33:47Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses airline rules and restrictions regarding traveling with power banks and does not mention anything about cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971531200964534732",
+            "text": "The company’s FSD tech doesn’t actually self-drive. Experts say that advising customers to switch in on when they're drifting between lanes is exactly the wrong move. https://t.co/UtbEezh2LA",
+            "created_at": "2025-09-26T11:04:02Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a company's Full Self-Driving (FSD) technology and its safety issues, particularly in relation to advising customers about lane drifting. There is no mention of a cyberattack, hacking, or any related cybersecurity concerns."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971531195771941373",
+            "text": "These five equations should be part of your mental toolkit. They might even improve your bowling score. https://t.co/dQnofD5wjp",
+            "created_at": "2025-09-26T11:04:01Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses equations that could improve a bowling score, which indicates a focus on mathematics and sports rather than cybersecurity or cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971531195704897965",
+            "text": "To really speak and understand a new language, you need to interact with humans. https://t.co/NnofCOs4iX",
+            "created_at": "2025-09-26T11:04:00Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing language interaction and does not mention or imply anything related to cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971500561322131828",
+            "text": "Trials of vision-improving substances are showing good results, though so far only two have been authorized for use in the United States. https://t.co/73b8vgOuaQ",
+            "created_at": "2025-09-26T09:02:17Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses trials of vision-improving substances and their results, which is unrelated to cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971410414245212265",
+            "text": "Security researchers found the exposed Indian bank transfer records and the data was eventually secured, but nobody wants to take responsibility for the security lapse. https://t.co/M8jIFClc50",
+            "created_at": "2025-09-26T03:04:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses exposed Indian bank transfer records and a security lapse, but it does not specifically mention or imply a cyberattack. It focuses more on the consequences of poor security practices rather than an active cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971410400563581098",
+            "text": "RT @BDisgusting: Kate Mara believes something extraterrestrial has followed her back to Earth in THE ASTRONAUT.\n\nThe sci-fi thriller lands…",
+            "created_at": "2025-09-26T03:04:01Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a film related to an extraterrestrial theme, specifically mentioning Kate Mara and a thriller titled \"THE ASTRONAUT.\" There is no indication of a cyberattack, as the content is entirely focused on cinema and science fiction."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971402013788504562",
+            "text": "If you are working a remote coding and Teams meeting job, I have the perfect way to secure your bag: Over the road trucker with sleeper cab. No housing costs. You're always green in Teams and ready to take a call. Code in stints waiting to offload at a warehouse. It's perfect.",
+            "created_at": "2025-09-26T02:30:41Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a job opportunity for remote coding while working as an over-the-road trucker. It does not mention or imply anything related to a cyberattack, focusing instead on employment and logistics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971393335958139234",
+            "text": "She knows the #1 thing is to secure your bag",
+            "created_at": "2025-09-26T01:56:12Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to a cyberattack. It talks about securing one's belongings ('bag'), which is likely a metaphorical expression rather than a reference to cybersecurity issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971392327609614777",
+            "text": "Some of y'all don't have an emotional support billionaire and it shows. https://t.co/eN3DlJFSdt",
+            "created_at": "2025-09-26T01:52:12Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses emotional support and mentions billionaires in a non-technical context. There is no indication or reference to a cyberattack within the content of the tweet."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971382213712158724",
+            "text": "The weird, wonderful world of MagSafe accessories (Qi2 included) can make your phone feel modular. These are our favorites. https://t.co/To2IYUYSyB",
+            "created_at": "2025-09-26T01:12:00Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses MagSafe accessories and does not mention anything related to a cyberattack. It focuses on phone accessories and their modularity, which is unrelated to cybersecurity or attacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971378509462503507",
+            "text": "RT @GuyDealership: [NEWS] Vehicle repair bills are now topping $4,700:\n\nIn 2024, the average repair cost hit $4,730—up 3.8% from the year b…",
+            "created_at": "2025-09-26T00:57:17Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses vehicle repair costs and does not mention anything related to a cyberattack. There is no reference to cybersecurity or incidents that would indicate a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971364694507008338",
+            "text": "Following the 15 Ultra, the new Xiaomi 17 Pro Max sounds and looks very familiar to a certain iPhone, but with a twist. https://t.co/YJjICp39Fr",
+            "created_at": "2025-09-26T00:02:24Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the features of the new Xiaomi 17 Pro Max smartphone and its comparison to the iPhone, focusing on technology and product specifications, not on cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971364207300837519",
+            "text": "If you're trying to decide between a Chromebook and a Windows laptop, some recent changes have shaken up how these two platforms compare. https://t.co/8KoHWaoguK",
+            "created_at": "2025-09-26T00:00:27Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a comparison between Chromebooks and Windows laptops, focusing on recent changes in their platforms. There is no mention or implication of a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971349769256681833",
+            "text": "Aaron Levie joins the Disrupt Stage at TechCrunch Disrupt 2025, Oct 27–29 in San Francisco, to share how he’s kept Box relevant through two decades. Register here. https://t.co/LGEsSR3rHm",
+            "created_at": "2025-09-25T23:03:05Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet is about an event featuring Aaron Levie at TechCrunch Disrupt and does not mention or imply any discussion of a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971345230868697391",
+            "text": "Forget the wads of paper maps—AllTrails keeps everything you need to plan your outdoor trip on your phone. https://t.co/jElfTsi3dp",
+            "created_at": "2025-09-25T22:45:03Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses AllTrails, an app for planning outdoor trips, and does not mention anything related to a cyberattack. It is focused on outdoor activities and technology, not cybersecurity."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971314035829465154",
+            "text": "https://t.co/LOCVjN8Haw",
+            "created_at": "2025-09-25T20:41:06Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The input does not contain the actual content of the tweet. Without the tweet text, it's impossible to determine if it discusses a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971313868023697415",
+            "text": "https://t.co/8N7TXow4um",
+            "created_at": "2025-09-25T20:40:26Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": true,
+          "reasoning": "The tweet is addressing a cybersecurity incident where a group has shared a warning or information about a potential cyberattack. This suggests that the content of the tweet is discussing matters related to cyber threats, thus confirming that it talks about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971312527465480517",
+            "text": "There was a meme in 2008 called PokeDads https://t.co/LryNSvuAyb",
+            "created_at": "2025-09-25T20:35:06Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a meme from 2008 called PokeDads and does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971299096540610622",
+            "text": "2009 was such an elite year of culture\nhttps://t.co/dHMlbaQMWX",
+            "created_at": "2025-09-25T19:41:44Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions '2009' and 'culture' but does not reference any cyberattack or cybersecurity-related topics. Therefore, it does not indicate that it is talking about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971295705403953212",
+            "text": "RT @LemonLymancom: 23 years ago today, The West Wing Season 4 premiered with episode ‘20 Hours in America’.\n\n https://t.co/N4vorLIimH",
+            "created_at": "2025-09-25T19:28:15Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing the premiere of a television show, specifically 'The West Wing', and does not mention or imply anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971290017625669842",
+            "text": "Nightly #Internet disruptions have been occurring in Herat, Afghanistan since Monday. Traffic has dropped by more than half each evening between 21:00-08:00 local (16:30-03:30 UTC).\n\n@mcitafghanistan has not provided a reason for these outages.\n\nhttps://t.co/dcWVkqxX2p https://t.co/G3KNi2HQ9C",
+            "created_at": "2025-09-25T19:05:39Z",
+            "username": "CloudflareRadar"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses nightly internet disruptions in Herat, Afghanistan, but does not explicitly mention a cyberattack. It notes a drop in traffic and that @mcitafghanistan has not provided a reason, which could imply a variety of causes (technical issues, infrastructure problems, etc.) not solely limited to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971276153231974689",
+            "text": "Shoplifters could soon be chased down by drones https://t.co/MLNiz51SmA",
+            "created_at": "2025-09-25T18:10:34Z",
+            "username": "techreview"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses shoplifters being pursued by drones, which does not relate to a cyberattack. Cyberattacks typically involve unauthorized access to computer systems or networks, whereas this tweet is about a physical security measure for retail theft."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971261408420774369",
+            "text": "RT @DepSec_Edgar: A tremendous addition to the Trump Administration! @DHSGov and @CISAgov are lucky to have Steve Casapulla  aboard the tea…",
+            "created_at": "2025-09-25T17:11:58Z",
+            "username": "CISAgov"
+          },
+          "pass": false,
+          "reasoning": "The tweet is a retweet praising an individual joining the Trump Administration and does not mention anything related to cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971256072116527465",
+            "text": "The prequel 1 Guy 1 Jar was a good effort but really never reached a similar cultural weight",
+            "created_at": "2025-09-25T16:50:46Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing the prequel to a work titled '1 Guy 1 Jar' and its cultural impact. It does not mention anything related to a cyberattack, cybersecurity, or any similar topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971253348545462734",
+            "text": "It occurs to me GenZ have never seen that lesbian go-kart movie we all watched as kids, 2 Girls 1 Cup",
+            "created_at": "2025-09-25T16:39:57Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "This tweet is discussing a cultural reference related to a homosexual-themed movie and Generation Z's exposure to it. There is no mention or implication of a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971252385856225748",
+            "text": "🚨NEW: we issued Emergency Directive 25-03 to address critical vulnerabilities found in Cisco Adaptive Security Appliances &amp; Cisco Firepower Threat Defense devices. Federal agencies must act now, and we urge all orgs to follow the recommended actions: https://t.co/r7WTP49hAr https://t.co/Q6ktZ9Wt4C",
+            "created_at": "2025-09-25T16:36:07Z",
+            "username": "CISAgov"
+          },
+          "pass": true,
+          "reasoning": "The tweet is issued by CISA, which stands for the Cybersecurity and Infrastructure Security Agency, and it mentions issuing an Emergency Directive to address critical vulnerabilities in security appliances. This indicates a proactive response to a significant cybersecurity concern, which is commonly associated with cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971243511682040238",
+            "text": "RT @emilykmay: i know this is not science but sometimes pregnancy and medication and risk all feels made up because there are women who hav…",
+            "created_at": "2025-09-25T16:00:51Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to cyberattacks. It discusses pregnancy and medication, which are not relevant to the topic of cyber security or attacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971191788661510591",
+            "text": "The Download: growing threats to vulnerable languages, and fact-checking Trump’s medical claims https://t.co/sxFY5ZZJGK",
+            "created_at": "2025-09-25T12:35:20Z",
+            "username": "techreview"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses growing threats to vulnerable programming languages and fact-checking medical claims by Trump, but it does not explicitly mention a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971158360322892041",
+            "text": "Fusion power plants don’t exist yet, but they’re making money anyway https://t.co/VBtkv7zyZW",
+            "created_at": "2025-09-25T10:22:30Z",
+            "username": "techreview"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing fusion power plants and their economic aspects, not a cyberattack. It focuses on energy technology rather than cybersecurity or attacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1971141958052491631",
+            "text": "How AI and Wikipedia have sent vulnerable languages into a doom spiral https://t.co/18K9BmVWgS",
+            "created_at": "2025-09-25T09:17:19Z",
+            "username": "techreview"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the impact of AI and Wikipedia on vulnerable languages, not mentioning anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970951090850979847",
+            "text": "Roundtables: The Future of Birth Control https://t.co/q26JUMojTD",
+            "created_at": "2025-09-24T20:38:53Z",
+            "username": "techreview"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to a cyberattack. It talks about a topic related to birth control and a roundtable discussion, which is not related to cybersecurity or attacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970938830736744754",
+            "text": "🛡️We are seven days away until #CybersecurityAwarenessMonth kicks off on Oct 1!\nGet ready by downloading this year's toolkit → https://t.co/XKyiIw9m2j https://t.co/WmC70qAQ8h",
+            "created_at": "2025-09-24T19:50:10Z",
+            "username": "CISAgov"
+          },
+          "pass": false,
+          "reasoning": "The tweet is promoting Cybersecurity Awareness Month and providing information about a toolkit. It does not mention or imply a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970916615710749172",
+            "text": "RT @SchoolSafetyGov: Support your school’s or district’s safety efforts with helpful materials from https://t.co/SgFICFJiW8. Our Communicat…",
+            "created_at": "2025-09-24T18:21:53Z",
+            "username": "CISAgov"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions school safety efforts and provides a link to materials, but there is no mention or implication of a cyberattack. Therefore, the answer is no."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970910317514506733",
+            "text": "RT @CISACyber: Calling all OT owners and operators—we’re hosting a webinar at 2 p.m. ET on Sept. 30 to provide additional insights on our r…",
+            "created_at": "2025-09-24T17:56:52Z",
+            "username": "CISAgov"
+          },
+          "pass": false,
+          "reasoning": "The tweet is promoting a webinar for OT owners and operators, but does not mention anything about a cyberattack. It focuses on providing insights rather than discussing incidents or threats related to cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970835218958622750",
+            "text": "Subscribers of @nayatelpk experienced a ~90 minute disruption to #Internet connectivity today, due to an outage at an upstream provider. Traffic dropped as much as 57% between ~09:15-10:45 UTC (14:15-15:45 local).\n\nhttps://t.co/tm8MDCBxm0\nhttps://t.co/hx5ptzO3I5 https://t.co/2UEWCsL1nc",
+            "created_at": "2025-09-24T12:58:27Z",
+            "username": "CloudflareRadar"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses an Internet connectivity disruption caused by an outage at an upstream provider, which is typically related to network issues rather than a cyberattack. There is no mention of malicious activity or hacking."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970825911902539958",
+            "text": "The Download: accidental AI relationships, and the future of contraception https://t.co/XJBu6udhDf",
+            "created_at": "2025-09-24T12:21:28Z",
+            "username": "techreview"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses topics related to AI relationships and contraception, which do not imply any mention of a cyberattack. Therefore, it does not pass the question."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970825700358881444",
+            "text": "RT @CISACyber: 🚨 A self-replicating worm known as Shai-Hulud has compromised over 500 packages in the world’s largest JavaScript registry n…",
+            "created_at": "2025-09-24T12:20:37Z",
+            "username": "CISAgov"
+          },
+          "pass": true,
+          "reasoning": "The tweet mentions a self-replicating worm that has compromised a significant number of packages in a widely used registry, indicating a cyberattack scenario."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970791991819514243",
+            "text": "The AI Hype Index: Cracking the chatbot code https://t.co/ar49ywyGpN",
+            "created_at": "2025-09-24T10:06:41Z",
+            "username": "techreview"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the AI Hype Index and chatbots, which focuses on technology and artificial intelligence rather than a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970783464984080632",
+            "text": "It’s surprisingly easy to stumble into a relationship with an AI chatbot https://t.co/2gl1YcLbKC",
+            "created_at": "2025-09-24T09:32:48Z",
+            "username": "techreview"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a relationship with an AI chatbot, which does not indicate any mention or implication of a cyberattack. The content is focused on AI interactions rather than security issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970585939069280316",
+            "text": "RT @CISACyber: ⚠️@CISAgov issued four NEW &amp; two updated public #ICS advisories. These advisories provide info about current security issues…",
+            "created_at": "2025-09-23T20:27:54Z",
+            "username": "CISAgov"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions public advisories related to current security issues but does not explicitly mention a cyberattack. It is talking about advisories that may include security topics, but without direct reference to a cyberattack, it cannot be classified as such."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970585870924227009",
+            "text": "We're thrilled to announce Steve Casapulla has been appointed as CISA’s Executive Assistant Director for Infrastructure Security. Join us in congratulating Steve on his newly appointed role as we protect our nation’s critical infrastructure. https://t.co/xwrAeUeT35",
+            "created_at": "2025-09-23T20:27:38Z",
+            "username": "CISAgov"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the appointment of Steve Casapulla to a position related to Infrastructure Security at CISA, but it does not mention anything about a cyberattack. It focuses on congratulating an individual and the protection of critical infrastructure, rather than detailing an incident or threat."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970571059918262349",
+            "text": "Roundtables: Meet the 2025 Innovator of the Year https://t.co/1ao6tDQrpl",
+            "created_at": "2025-09-23T19:28:46Z",
+            "username": "techreview"
+          },
+          "pass": false,
+          "reasoning": "The tweet promotes an event (Roundtables) and highlights an award (Innovator of the Year), with no mention or implication of a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970564120538947906",
+            "text": "RT @CISACyber: 🛡️We added Google Chrome V8 type confusion vulnerability CVE-2025-10585 to our Known Exploited Vulnerabilities Catalog. Visi…",
+            "created_at": "2025-09-23T19:01:12Z",
+            "username": "CISAgov"
+          },
+          "pass": true,
+          "reasoning": "The tweet mentions a specific vulnerability (CVE-2025-10585) and its addition to the Known Exploited Vulnerabilities Catalog, which implies a connection to cybersecurity issues. The reference to a 'vulnerability' can suggest a potential risk of a cyberattack, especially when it is categorized among known exploited vulnerabilities. Therefore, it is reasonable to interpret that the tweet is discussing a connection to cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970494370735353861",
+            "text": "After a U.S. federal agency detected malicious activity, we launched incident response efforts. Discover key lessons learned and mitigations from this incident. 👉 https://t.co/SlM4hleCKW https://t.co/kHPURNJzeq",
+            "created_at": "2025-09-23T14:24:02Z",
+            "username": "CISAgov"
+          },
+          "pass": true,
+          "reasoning": "The tweet indicates that a U.S. federal agency detected 'malicious activity', which often implies a cyberattack or a cyber threat. The mention of 'incident response efforts' further suggests that the agency is responding to a security breach or attack, aligning with concepts associated with cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970463484220514383",
+            "text": "The Download: AI’s retracted papers problem https://t.co/v1RJrZ3k6R",
+            "created_at": "2025-09-23T12:21:18Z",
+            "username": "techreview"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses AI's retracted papers problem and does not mention a cyberattack. It focuses on issues related to academic integrity and AI research rather than cybersecurity."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970422703887642664",
+            "text": "AI models are using material from retracted scientific papers https://t.co/SazK4Xoc23",
+            "created_at": "2025-09-23T09:39:15Z",
+            "username": "techreview"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses AI models using material from retracted scientific papers, which does not imply a cyberattack. It focuses on the misuse of scientific information rather than any form of cyber insecurity or attack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970228819211473154",
+            "text": "RT @CISACyber: 🚨We’ve released an Alert on a MySonicWall cloud backup file incident. A malicious actor used brute force to gain access to a…",
+            "created_at": "2025-09-22T20:48:50Z",
+            "username": "CISAgov"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a cybersecurity incident involving a malicious actor gaining access through brute force, which implies it is related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970226247310709052",
+            "text": "RT @CISACyber: 📢 Stay informed on the latest vulnerabilities with @CISAgov's Vulnerability Bulletin &amp; gain valuable insights into emerging…",
+            "created_at": "2025-09-22T20:38:37Z",
+            "username": "CISAgov"
+          },
+          "pass": false,
+          "reasoning": "The tweet is about staying informed on vulnerabilities and insights related to cybersecurity, but it does not specifically mention or imply that a cyberattack has occurred. Therefore, it does not directly talk about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970225342594810222",
+            "text": "RT @fema: Recent tragedies like those at the Catholic Church of Annunciation in MN reinforce our commitment to protecting places of worship…",
+            "created_at": "2025-09-22T20:35:01Z",
+            "username": "CISAgov"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to a cyberattack. Instead, it discusses recent tragedies and the commitment to protecting places of worship."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970138384271380974",
+            "text": "RT @SchoolSafetyGov: Emergency planning is a critical element of #SchoolSafety. Follow along this week as we highlight some of the foundati…",
+            "created_at": "2025-09-22T14:49:28Z",
+            "username": "CISAgov"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing emergency planning in the context of school safety and does not mention or imply anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970138280197771638",
+            "text": "RT @CISAMarci: Fall into good cyber habits 🍂: \n🔁 Update passwords \n📧 Watch for phishing \n🔄 Install system updates \nStart the season secure.…",
+            "created_at": "2025-09-22T14:49:04Z",
+            "username": "CISAgov"
+          },
+          "pass": false,
+          "reasoning": "The tweet is providing advice on cybersecurity best practices like updating passwords and watching for phishing, but it does not explicitly mention a cyberattack. It focuses on prevention rather than discussing any specific incident."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970123511407526096",
+            "text": "We conducted a tabletop exercise with @ATLWatershed in preparation for the 2026 FIFA Club World Cup. The exercise tested response and recovery capabilities to a contaminated water supply during the tournament. Together, we can keep critical infrastructure secure. #TeamWatershed https://t.co/qSzKh9fsnv",
+            "created_at": "2025-09-22T13:50:22Z",
+            "username": "CISAgov"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a tabletop exercise related to response and recovery capabilities for a contaminated water supply during an event. It does not mention a cyberattack, which typically refers to unauthorized access to or manipulation of computer systems or networks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970105617005072483",
+            "text": "The Download: the LLM will see you now, and a new fusion power deal https://t.co/FLqzSg6voC",
+            "created_at": "2025-09-22T12:39:16Z",
+            "username": "techreview"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to a cyberattack; instead, it talks about a language model (LLM) and a fusion power deal, which are unrelated topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970089159017513274",
+            "text": "An oil and gas giant signed a $1 billion deal with Commonwealth Fusion Systems https://t.co/CbT57pphHx",
+            "created_at": "2025-09-22T11:33:52Z",
+            "username": "techreview"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a business deal involving an oil and gas company and does not mention anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1970055743102386677",
+            "text": "This medical startup uses LLMs to run appointments and make diagnoses https://t.co/WUe9LAsOOh",
+            "created_at": "2025-09-22T09:21:05Z",
+            "username": "techreview"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a medical startup that utilizes large language models (LLMs) for running appointments and making diagnoses. There is no mention of any cyberattack or related activities in the content of the tweet."
+        }
+      ],
+      "count": 123,
+      "filter_question": "Is this tweet talking about a cyberattack?",
+      "summarization_question": "Summarize cyberattack news last week",
+      "summary": "Direct answer\nLast week’s cyber news was dominated by several high‑urgency incidents and advisories: a CISA Emergency Directive forcing action on critical Cisco appliance vulnerabilities, a large-scale supply‑chain compromise by a self‑replicating worm (Shai‑Hulud) that impacted 500+ JavaScript packages, a MySonicWall cloud‑backup compromise via brute‑force access, and CISA additions to its Known Exploited Vulnerabilities catalog (notably Chrome V8 CVE‑2025‑10585). These items, plus CISA’s published incident lessons and local resilience exercises, emphasize active exploitation, supply‑chain risk, and accelerated government remediation efforts.\n\nKey events and details (each significant event summarized)\n- CISA Emergency Directive 25‑03 (Cisco ASA & Firepower Threat Defense): CISA issued an Emergency Directive requiring U.S. federal agencies to address critical vulnerabilities in Cisco Adaptive Security Appliances and Cisco Firepower Threat Defense devices and urged all organizations to follow recommended mitigations and patches. This is a high‑priority operational order signaling active risk to widely used network perimeter devices and the need for immediate action (see CISA’s announcement: https://x.com/CISAgov/status/1971252385856225748).\n\n- Shai‑Hulud worm compromise of JavaScript packages: A self‑replicating worm named Shai‑Hulud has compromised over 500 packages in the world’s largest JavaScript registry, representing a major supply‑chain poisoning incident that can automatically propagate malicious code through dependent projects and downstream consumers. This amplifies risk for many ecosystems that rely on npm packages and underscores the importance of dependency hygiene, lockfiles, and monitoring for malicious packages (CISA retweet: https://x.com/CISAgov/status/1970825700358881444).\n\n- MySonicWall cloud backup incident: CISA/CISA‑Cyber released an alert after a malicious actor used brute‑force techniques to access MySonicWall cloud backups. The incident highlights risks to cloud backup services and the importance of strong authentication controls, rate‑limiting/account lockouts, MFA, logging, and review of retention/restore procedures (alert retweeted by CISA: https://x.com/CISAgov/status/1970228819211473154).\n\n- Chrome V8 vulnerability added to Known Exploited Vulnerabilities Catalog: CISA added a Google Chrome V8 type‑confusion vulnerability (CVE‑2025‑10585) to its Known Exploited Vulnerabilities Catalog, indicating active exploitation in the wild and raising urgency for browser updates and enterprise patching controls (CISA retweet: https://x.com/CISAgov/status/1970564120538947906).\n\n- Federal agency incident response and lessons learned: Following detection of malicious activity at a U.S. federal agency, CISA led incident response efforts and published key lessons and mitigations aimed at improving detection, containment, and recovery practices. This emphasizes continued government‑level focus on sharing operational lessons to improve resilience (announcement: https://x.com/CISAgov/status/1970494370735353861).\n\nOther noteworthy mentions and activity\n- Local resilience and tabletop exercise: CISA thanked City of Minot and Ward County Emergency Management for hosting a Community Resilience Analysis Tabletop Exercise that evaluated local response plans for incidents with combined physical and cyber impacts, showing continued emphasis on whole‑community preparedness (tweet: https://x.com/CISAgov/status/1971596067582926986).\n\n- Community commentary: Security community voices (e.g., SwiftOnSecurity) were active last week; one post was shared though the tweet text isn’t provided here (https://x.com/SwiftOnSecurity/status/1971313868023697415). These voices often amplify operational context and practical mitigation advice.\n\nPatterns and trends\n- Supply‑chain attacks continuing to escalate: The Shai‑Hulud event reinforces a trend of automated supply‑chain poisoning that can rapidly scale across ecosystems.\n- Targeting of widely deployed infrastructure: Critical vulnerabilities in network appliances (Cisco ASA/FTD) and browser engines (Chrome V8) point to attackers focusing on high‑impact targets that enable broad access or code execution.\n- Cloud backup and credential attacks: The MySonicWall incident shows attackers exploit weak authentication controls on cloud services—brute‑force and credential stuffing remain effective vectors.\n- Faster, mandated responses from authorities: CISA’s Emergency Directive and quick additions to the Known Exploited Vulnerabilities Catalog show authorities increasingly using mandatory or prioritized guidance to force rapid remediation in the face of active exploitation.\n- Emphasis on sharing operational lessons and exercises: CISA’s published incident lessons and community tabletop exercises indicate focus on improving incident response, cross‑agency cooperation, and local readiness.\n\nImportant recommendations and takeaways\n- Patch and prioritize: Immediately apply vendor patches/mitigations for Cisco ASA/FTD and update Chrome to address CVE‑2025‑10585 per CISA guidance (see Emergency Directive: https://x.com/CISAgov/status/1971252385856225748 and CVE notice: https://x.com/CISAgov/status/1970564120538947906).\n- Audit and secure dependencies: Scan for compromised npm packages, lock dependencies, and consider ephemeral or allow‑list controls for third‑party packages after the Shai‑Hulud incident (incident info: https://x.com/CISAgov/status/1970825700358881444).\n- Harden cloud backups and accounts: Enforce MFA, strong password policies, rate limiting/account lockouts, and monitoring for backup services following the MySonicWall alert (https://x.com/CISAgov/status/1970228819211473154).\n- Learn and rehearse: Review CISA’s incident lessons and engage in tabletop exercises to improve detection, containment, and recovery workflows (incident lessons: https://x.com/CISAgov/status/1970494370735353861; tabletop exercise: https://x.com/CISAgov/status/1971596067582926986).\n\nIf you want, I can: produce a prioritized action checklist for your environment based on these events (patching, telemetry tuning, dependency audits), or fetch the full CISA advisories and provide direct mitigation steps."
+    },
+    "completed_at": "2025-09-27T13:13:57.701914Z",
+    "processing_time_seconds": 84
+  }
+}
