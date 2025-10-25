@@ -58,5 +58,5 @@ mkdir -p $WEEK/full
 
 curl "https://tweets.nunosempere.com/api/filter-job/$JOB_ID/results" | jq | tee "$WEEK/full/$filename.full"
 
-cat "$WEEK/$filename.full" | jq -r .data.results.summary > "$WEEK/$filename.md"
+cat "$WEEK/full/$filename.full" | jq -r .data.results.summary > "$WEEK/$filename.md"
 

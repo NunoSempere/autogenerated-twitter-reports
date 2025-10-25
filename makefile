@@ -1,3 +1,6 @@
+reports-parallel:
+	parallel < jobs.txt
+
 reports:
 	./commission-job.sh "Is this tweet talking about an important economics development" "What are the key economics events this week?" "econ" "01-econ"
 	./commission-job.sh "Is this tweet talking about a development in shipping/freight/trucking, or about a new statistic or economic indicator?" "Summarize shipping/freight/trucking and related economic indicators this week" "freight" "02-freight"
