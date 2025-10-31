@@ -1,11 +1,20 @@
 #!/bin/bash
 
-filter_question="$1"
-summarization_question="$2"
-list="$3"
-filename="$4"
+FILTER_QUESTION="$1"
+SUMMARIZATION_QUESTION="$2"
+LIST="$3"
+FILENAME="$4"
+WEEK=$(date +%V)
+LOGS="$WEEK/full/$FILENAME.log"
+OUTPUT_FULL="$WEEK/full/$FILENAME.full"
+OUTPUT_MD="$WEEK/$FILENAME.md"
 
-if [ -z "$filter_question" ] || [ -z "$summarization_question" ] || [ -z "$list" ]; then
+mkdir -p $WEEK
+mkdir -p $WEEK/full
+
+# Instructions
+
+if [ -z "$FILTER_QUESTION" ] || [ -z "$SUMMARIZATION_QUESTION" ] || [ -z "$LIST" ]; then
     echo "Usage: $0 <filter_question> <summarization_question> <list_name>"
     echo "Example: $0 'Does this tweet discuss AI?' 'What are the main AI developments?' 'ai-og'"
     exit 1
@@ -13,9 +22,9 @@ fi
 
 # Create JSON payload using jq to properly escape values
 JSON_PAYLOAD=$(jq -n \
-  --arg filter_question "$filter_question" \
-  --arg summarization_question "$summarization_question" \
-  --arg list "$list" \
+  --arg filter_question "$FILTER_QUESTION" \
+  --arg summarization_question "$SUMMARIZATION_QUESTION" \
+  --arg list "$LIST" \
   '{
     "filter_question": $filter_question,
     "summarization_question": $summarization_question,
@@ -52,11 +61,8 @@ while true; do
 done
 
 # 3. Get results
-WEEK=$(date +%V)
-mkdir -p $WEEK
-mkdir -p $WEEK/full
 
-curl "https://tweets.nunosempere.com/api/filter-job/$JOB_ID/results" | jq | tee "$WEEK/full/$filename.full"
+curl "https://tweets.nunosempere.com/api/filter-job/$JOB_ID/results" | jq | tee "$OUTPUT_FULL"
 
-cat "$WEEK/full/$filename.full" | jq -r .data.results.summary > "$WEEK/$filename.md"
+cat "$OUTPUT_FULL" | jq -r .data.results.summary > "$OUTPUT_MD"
 
