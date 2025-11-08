@@ -1,0 +1,2658 @@
+{
+  "success": true,
+  "message": "Job results retrieved successfully",
+  "data": {
+    "job_id": "6edab7f8-ba86-4606-88c6-f8f5ca8f30cb",
+    "status": "completed",
+    "results": {
+      "filtered_tweets": [
+        {
+          "tweet": {
+            "tweet_id": "1987128451950674083",
+            "text": "Plus: Motorola has new Moto G phones, Canon’s R6 III mirrorless has a 32-MP sensor, and Teenage Engineering’s Riddim n’ Ting looks gorgeous. https://t.co/ODBA5sW5qN",
+            "created_at": "2025-11-08T12:01:56Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing new technology products, including phones and a camera. It does not mention anything related to cyberattacks or security incidents."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1987128446942683176",
+            "text": "Trump’s anti-climate agenda is making it more expensive to own a car, period. https://t.co/teXLcBMWLO",
+            "created_at": "2025-11-08T12:01:55Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing Trump's anti-climate agenda and its impact on car ownership costs, which is related to climate policy and economic issues rather than a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1987120727003136204",
+            "text": "If you’re going to suffer, make sure it’s worth the effort. We consulted fitness experts to help you maximize your ice bath. https://t.co/pDHQpEtPGL",
+            "created_at": "2025-11-08T11:31:14Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses fitness and ice baths, which are related to health and wellness, not cyberattacks. There is no mention of cybersecurity, hacking, or technology-related threats."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1987120723253469367",
+            "text": "Two mathematicians have proved that a straightforward question—how hard is it to untie a knot?—has a complicated answer. https://t.co/FAaSvJ9oeQ",
+            "created_at": "2025-11-08T11:31:13Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a mathematicians' proof related to the complexity of untangling knots, which does not pertain to a cyberattack. There are no references or indications of cyber threats, hacking, or digital security issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1987114701835153570",
+            "text": "Even though you can’t see it, fine particulate matter from woodsmoke and industrial pollution can cause everything from heart attacks and diabetes to brain damage. https://t.co/M5V2v3ANMS",
+            "created_at": "2025-11-08T11:07:18Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses health effects of particulate matter from woodsmoke and industrial pollution, but it does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1987098269311262928",
+            "text": "Ford wants you to stash it in your belt buckle, but there’s absolutely no need to be lugging around a bulky fob. Trouble is, phone-as-a-key tech could be superseded before it even gets going. https://t.co/VTDm8extMf",
+            "created_at": "2025-11-08T10:02:00Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a technology-related concept about keyless entry systems for vehicles and the potential obsolescence of this technology. It does not mention anything related to cyberattacks or any malicious digital activities."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986990921217372378",
+            "text": "Is the AI hype cycle eating itself?\n\n@EquityPod is taking a closer look at SoftBank and OpenAI's new joint venture on our latest episode.\n\nListen here: https://t.co/swiNPDxunC https://t.co/jeM5GSnjhn",
+            "created_at": "2025-11-08T02:55:26Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the AI hype cycle and mentions a joint venture between SoftBank and OpenAI. There is no indication or mention of a cyberattack in the content of the tweet."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986985206436536368",
+            "text": "getting older scares me to death\nhttps://t.co/ePMQ8vyfrx",
+            "created_at": "2025-11-08T02:32:44Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet expresses a personal fear about aging and does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986973061674115488",
+            "text": "RT @mattjay: Matthew McConaughey? The Cybersecurity Investor? https://t.co/ISTqzDwZ6v",
+            "created_at": "2025-11-08T01:44:28Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing Matthew McConaughey in relation to cybersecurity investing, but it does not explicitly mention a cyberattack or indicate any events related to a cyberattack. Therefore, it is not talking about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986961950740234556",
+            "text": "We tested leading filtered showerheads, from Rorra to Canopy to Jolie. The winners were clear. https://t.co/AKbf54d8rf",
+            "created_at": "2025-11-08T01:00:19Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses filtered showerheads and their testing results, which has no relation to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986943023301754890",
+            "text": "Sleep is the one thing every giftee needs, and you can help them get it. These are our favorite giftable sleep aids, from masks to melatonin. https://t.co/jEHlVzPjso",
+            "created_at": "2025-11-07T23:45:07Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses giftable sleep aids and does not mention anything related to cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986943022890729554",
+            "text": "Everyone is obsessed with artificial general intelligence—the stage when AI can match all feats of human cognition. The guy who named it saw it as a threat. https://t.co/cESZQjpQXY",
+            "created_at": "2025-11-07T23:45:06Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses artificial general intelligence (AGI) and mentions a perceived threat by the person who coined the term, but it does not specifically mention or imply a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986926449861747096",
+            "text": "Many critical systems are still being maintained, and the cloud provides some security cover. But experts say that any lapses in protections like patching and monitoring could expose government systems. https://t.co/JO916dNnAW",
+            "created_at": "2025-11-07T22:39:15Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the maintenance of critical systems and security measures in relation to government systems, but it does not explicitly mention a cyberattack. Instead, it highlights concerns about potential vulnerabilities."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986919090405969945",
+            "text": "Whether you’re doing ab crunches or pressing play on the next episode, these leggings are built for every kind of marathon. https://t.co/iOvIdzo4Rh",
+            "created_at": "2025-11-07T22:10:00Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses leggings and physical activities such as ab crunches and marathons, with no mention or implication of a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986908687542169654",
+            "text": "Upgrade your sleep setup with up to 20 percent off some of our favorite bedding essentials. https://t.co/ddmw28g6h5",
+            "created_at": "2025-11-07T21:28:40Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is promoting bedding essentials and a sale on sleep products. It does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986908517983191341",
+            "text": "RT @Cloudflare: 🌐 New #ThisWeekInNET episode:\nWhy the Internet Works (Most of the Time)\nCloudflare’s Principal Network Engineer Tom Strickx…",
+            "created_at": "2025-11-07T21:28:00Z",
+            "username": "CloudflareRadar"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything about a cyberattack. Instead, it refers to a new episode of a series about how the Internet works, which is unrelated to cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986907227580420547",
+            "text": "Branch is offering up to 15 percent off sitewide now through December 3. https://t.co/0LW77qIGGR",
+            "created_at": "2025-11-07T21:22:52Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is promoting a sale from a company called Branch, mentioning a discount on products. There is no mention or implication of a cyberattack in the content."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986900718532329793",
+            "text": "The best college laptops are portable, come with great battery life, and have enough performance for schoolwork of any kind. https://t.co/cmr96hIdKD",
+            "created_at": "2025-11-07T20:57:00Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses college laptops, focusing on their portability, battery life, and performance for schoolwork. There is no mention or implication of a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986891288440889681",
+            "text": "You could save hundreds on Razer's sleek gaming laptop with an OLED upgrade. https://t.co/pPYKYRkbdJ",
+            "created_at": "2025-11-07T20:19:32Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a gaming laptop and a potential discount on it, with no mention of a cyberattack or any related topic. The focus is on a product promotion rather than cybersecurity."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986888497622311179",
+            "text": "I don't say a lot in fear of alienating you but I work a place where my entire reporting chain up to the top are like smarter than me.\nThey could absolutely best me in a lot of defcon challenges. Because they fucking run them.\n\nIt's so good fam. I'm sorry I found god.",
+            "created_at": "2025-11-07T20:08:27Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to cyberattacks. It discusses the speaker's work environment, their respect for their colleagues, and a personal reflection on finding 'god', which does not relate to cybersecurity or cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986887092140663199",
+            "text": "One of the most joyous things I've sent in a workplace group chat https://t.co/sGBhnFcc3U",
+            "created_at": "2025-11-07T20:02:52Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet appears to be discussing a positive experience or joyful moment shared in a workplace group chat, which does not indicate any mention of a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986886649679413707",
+            "text": "Ome of the most joyous things I've sent in a workplace group chat https://t.co/J9JivZBRuQ",
+            "created_at": "2025-11-07T20:01:06Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to a cyberattack. It seems to be sharing a personal experience or emotion about something joyous sent in a workplace group chat, which does not indicate any discussion about cybersecurity issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986878958894203165",
+            "text": "This Acer laptop straddles the line between creators and gamers, and it mostly works. https://t.co/fOaA1qGihI",
+            "created_at": "2025-11-07T19:30:32Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a laptop by Acer, focusing on its suitability for creators and gamers. There is no mention of a cyberattack or any related themes. Therefore, it does not talk about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986873247015538779",
+            "text": "In his new book, antitrust scholar and former White House adviser Tim Wu argues that tech giants are bleeding you dry—and lays out a plan to stop them. https://t.co/XWg4J82wEh",
+            "created_at": "2025-11-07T19:07:51Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a book by Tim Wu about antitrust issues related to tech giants, but it does not mention a cyberattack or imply any discussion of cybersecurity."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986870810460471612",
+            "text": "“People are coming to me saying they cannot put gas in their car and they cannot afford to come to work anymore and they'll need to get other jobs,” said one employee on the call. “Pretty soon they won't be able to afford to work at the agency.”\n\nRead the full story: https://t.co/YWWcfttBC3",
+            "created_at": "2025-11-07T18:58:10Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses employees struggling to afford commuting costs and potentially losing jobs, but it does not mention a cyberattack or anything related to cybersecurity. Instead, it focuses on financial difficulties related to gas prices and employment."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986870808241705124",
+            "text": "During the call, managers spoke candidly about staffers who can no longer afford to drive to work and a crisis of confidence in the agency. https://t.co/1RmGCQjixA",
+            "created_at": "2025-11-07T18:58:09Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses issues related to staff affordability and confidence in the agency, but it does not mention anything about a cyberattack or any form of cyber-related incidents."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986870806291300684",
+            "text": "SCOOP: WIRED obtained notes from a Social Security Administration management meeting, where employees grilled leadership on plans for the agency. https://t.co/1RmGCQjixA",
+            "created_at": "2025-11-07T18:58:09Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing internal meeting notes from the Social Security Administration about management and employee concerns, rather than mentioning or implying a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986869108663603306",
+            "text": "WIRED obtained notes from a Social Security Administration management meeting, where employees pressed leadership on plans for the agency. https://t.co/oeQ703Uw4d",
+            "created_at": "2025-11-07T18:51:24Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a management meeting at the Social Security Administration and does not mention anything related to a cyberattack. It focuses on employee concerns about agency plans."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986860454006681729",
+            "text": "Whether you’re layering up for winter cold or looking for an ultralight summer system, we’ve tested and found the best base layers for all your outdoor adventures. https://t.co/0qRmNEJCCu",
+            "created_at": "2025-11-07T18:17:00Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing outdoor clothing systems for different seasons and does not mention or imply anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986842169345224934",
+            "text": "TikTok’s ecommerce arm has kept growing steadily, despite tariffs and never-ending debates over whether the platform should be banned. https://t.co/dXTZpLyUAx",
+            "created_at": "2025-11-07T17:04:21Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses TikTok's ecommerce growth and related political issues, but it does not mention anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986835314254750166",
+            "text": "RT @SwiftOnSecurity: Nooo Zohran, don't chart a pathway to electoral success for leftist politics, ahah, you're so sexy... https://t.co/OHS…",
+            "created_at": "2025-11-07T16:37:07Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to cyberattacks. It appears to be a humorous comment regarding electoral politics and does not reference any cybersecurity issues, attacks, or threats."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986789998637560147",
+            "text": "The Download: a new home under the sea, and cloning pets https://t.co/LZH3eeK1kr",
+            "created_at": "2025-11-07T13:37:03Z",
+            "username": "techreview"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a new home under the sea and cloning pets, which are topics not related to cyberattacks. Therefore, the tweet is not talking about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986779942563008813",
+            "text": "RT @celso: If you love data at scale, engineering, and you're a determined, creative problem solver, the Cloudflare Radar team is looking f…",
+            "created_at": "2025-11-07T12:57:05Z",
+            "username": "CloudflareRadar"
+          },
+          "pass": false,
+          "reasoning": "The tweet is referencing a job opportunity at Cloudflare Radar and does not mention or imply anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986768004437229927",
+            "text": "Most household pets are overweight. I talked to experts to find the best ways to get your furry friend to shed a few pounds. https://t.co/W2VcubiBaM",
+            "created_at": "2025-11-07T12:09:39Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing household pets and their weight, specifically how to help them lose weight. There is no mention of a cyberattack or any related topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986767996140863896",
+            "text": "The Big Apple has had a tech boom in the past few years—here’s where to stay, play, eat, and work in the city’s tech-dense Dumbo neighborhood. https://t.co/S0Gz7wSq9F",
+            "created_at": "2025-11-07T12:09:37Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses New York City's tech boom and provides information about activities in the Dumbo neighborhood. It does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986758521241690388",
+            "text": "Other big tech companies including Amazon, Apple, and Nvidia have continued their annual disclosures this year even as the Trump administration cracks down on DEI. https://t.co/xbOyu7wiKe",
+            "created_at": "2025-11-07T11:31:58Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses tech companies making annual disclosures and the Trump administration's stance on DEI (Diversity, Equity, and Inclusion). There is no mention of a cyberattack or related cybersecurity topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986750844683837915",
+            "text": "Despite 83,000 public cameras, crime in Mexico City remains high—and widespread surveillance raises myriad ethical issues. https://t.co/NcxHRlIPM1",
+            "created_at": "2025-11-07T11:01:28Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the high crime rates in Mexico City and the ethical issues surrounding surveillance but does not mention any cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986740712260452467",
+            "text": "The first new subsea habitat in 40 years is about to launch https://t.co/N47SwqNDuZ",
+            "created_at": "2025-11-07T10:21:12Z",
+            "username": "techreview"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the launch of a new subsea habitat and does not mention anything related to a cyberattack. The content is focused on technology and marine habitats, which are unrelated to cybersecurity issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986736491419034062",
+            "text": "The interstellar comet 3I/Atlas reached its closest point to the sun. Here's how to follow the rest of its journey away from our solar system. https://t.co/14bzSwNlDg",
+            "created_at": "2025-11-07T10:04:25Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the interstellar comet 3I/Atlas and its journey in relation to the sun. There is no mention of a cyberattack or any related activities, so the answer is no."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986617602660020467",
+            "text": "’Tis the gifting season. Shop the best gifts for frequent travelers who are always catching flights. https://t.co/IEG9SmbYwF",
+            "created_at": "2025-11-07T02:12:00Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is promoting gifts for travelers and does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986599525448860146",
+            "text": "You could fill a stadium or two with all the cheap headphones out there. We tested a ton of the best headphones under $100 to help you pick the right pair. https://t.co/oq4l6GW61G",
+            "created_at": "2025-11-07T01:00:10Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing headphones and testing them for quality and price, which has no mention or implication of a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986585508630118468",
+            "text": "The unprecedented payday will go into full effect by 2035—as long as Tesla hits ambitious financial and production targets. \nhttps://t.co/OtrIirw4WX https://t.co/2EXKvwYDwq",
+            "created_at": "2025-11-07T00:04:28Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Tesla's financial and production targets related to a payday by 2035. It does not mention or imply anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986580628846805267",
+            "text": "LG’s design-focused Studio fridge checks a lot of boxes, but you’ll have to contend with the company’s spotty reliability record. https://t.co/PX0cu9HeTI",
+            "created_at": "2025-11-06T23:45:05Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a product review for LG's Studio fridge, focusing on its design and reliability issues. It does not mention anything related to a cyberattack or cybersecurity."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986563740259557459",
+            "text": "The unprecedented pay day will go into full effect by 2035—as long as Tesla hits ambitious financial and production targets. https://t.co/YXlPVZG6Js",
+            "created_at": "2025-11-06T22:37:58Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Tesla's financial and production targets related to an upcoming pay day by 2035. It does not mention anything related to a cyberattack or cybersecurity issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986556705778315319",
+            "text": "Six new cookbooks bring stellar dishes—and cultures—from around the world into your kitchen. https://t.co/70FWTgk1y5",
+            "created_at": "2025-11-06T22:10:01Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses new cookbooks and their culinary offerings, which does not relate to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986554907126608190",
+            "text": "Taylor Swift getting married before we get GTA6",
+            "created_at": "2025-11-06T22:02:52Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing Taylor Swift's marriage and the anticipation for a Grand Theft Auto 6 video game release. There is no mention of a cyberattack or any related themes, so the answer is that the tweet is not talking about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986538330356376042",
+            "text": "High-class retro gaming dream, meet budget manufacturing reality. https://t.co/TlMtavQIWR",
+            "created_at": "2025-11-06T20:57:00Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses retro gaming and budget manufacturing, which does not indicate any mention or implication of a cyberattack. The content is focused on gaming and manufacturing aspects."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986530264802087125",
+            "text": "Damn",
+            "created_at": "2025-11-06T20:24:57Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet is simply an expression of frustration or surprise with the word 'Damn' and does not provide any specific information regarding a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986516516326539656",
+            "text": "I tasted dozens of mushroom teas, kava drinks, and party drinks to find the best. Brez and Juni are the two I recommend for most people looking for focus. https://t.co/58o6IV43M8",
+            "created_at": "2025-11-06T19:30:19Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses tasting various drinks and recommending some for focus. There is no mention of a cyberattack or any related topic."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986514469103481211",
+            "text": "Save hundreds on our preferred MacBook for most people. https://t.co/EH7u5sKbQV",
+            "created_at": "2025-11-06T19:22:11Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is promoting a MacBook and includes a link, which indicates it is an advertisement rather than discussing a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986498065696534922",
+            "text": "The best travel pillows can provide neck support and comfort. The Travelrest Nest Ultimate is our top pick for achieving some much-needed sleep on the go. https://t.co/9VBvds65zh",
+            "created_at": "2025-11-06T18:17:00Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses travel pillows and their comfort for sleeping while traveling. It does not mention a cyberattack or any related topic."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986495686129463529",
+            "text": "This $400 set comes with minifigures of the complete Next Gen crew, including Picard, Riker, and Wesley Crusher’s portable tractor beam. https://t.co/rEIX1IL6rw",
+            "created_at": "2025-11-06T18:07:33Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a $400 set of minifigures from a science fiction series and does not mention anything related to cyberattacks or cyber security."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986473698032050209",
+            "text": "RT @vxunderground: Mr. Manley was kind enough to share the DMCA takedown notice he received.\n\nHe indicated in the attached post that he bel…",
+            "created_at": "2025-11-06T16:40:11Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a DMCA takedown notice, which is related to copyright issues rather than a cyberattack. There is no indication in the content provided that the topic is about any form of cyberattack or hacking."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986455510644629623",
+            "text": "Black Friday lasts a month this year at The Home Depot, including half off select tools and tool sets. https://t.co/bFSLNQqQxO",
+            "created_at": "2025-11-06T15:27:54Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is promoting a sale at The Home Depot and is focused on discounts on tools, which does not relate to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986453643080458736",
+            "text": "Where to stay, play, eat, and work, while on a business trip to Minneapolis and St. Paul. https://t.co/KyyU44w1so",
+            "created_at": "2025-11-06T15:20:29Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing recommendations for visiting Minneapolis and St. Paul, focusing on accommodations and activities for business trips. It does not mention any cyberattack or related topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986452389809766741",
+            "text": "If New York wanted a real management layer, they would've hired MDMdani",
+            "created_at": "2025-11-06T15:15:30Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to a cyberattack. It appears to be discussing management or leadership issues in New York, without reference to cybersecurity or attacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986442001819074947",
+            "text": "For foragers, chefs, and mycologists—these are mushroom gifts every fungi lover will adore. https://t.co/0ibTGJ84dU",
+            "created_at": "2025-11-06T14:34:14Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses mushroom gifts for foragers, chefs, and mycologists, without any mention or implication of a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986427637032497432",
+            "text": "RT @car0linehaskins: SCOOP (free, as it's FOIA-based!): I obtained 1,665 pgs of documents about \"Bicken Ben,\" a growing private school the…",
+            "created_at": "2025-11-06T13:37:09Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses obtaining documents related to a private school, indicating it is about educational or legal matters and not a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986423020924100691",
+            "text": "The Download: how doctors fight conspiracy theories, and your AI footprint https://t.co/3wUxiHVztg",
+            "created_at": "2025-11-06T13:18:48Z",
+            "username": "techreview"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses how doctors are combating conspiracy theories and mentions an AI footprint, but it does not mention or imply any cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986409416183173571",
+            "text": "RT @deepfates: Black and white was an incredible game about being a powerful godling and having to care for your tribe of humans as they ma…",
+            "created_at": "2025-11-06T12:24:45Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to a cyberattack. It refers to a video game about being a god and caring for humans, which is unrelated to cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986405137913397563",
+            "text": "Over time, neighbors became fed up with what they argued was the city’s lack of action, particularly with respect to the school. Some believed that the delay was because of preferential treatment to the Zuckerbergs.\n\nRead the full story: https://t.co/HxQ7aU861D",
+            "created_at": "2025-11-06T12:07:45Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses neighbors' frustrations about city action regarding a school and suggests preferential treatment to the Zuckerbergs. There is no mention or implication of a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986405048767635791",
+            "text": "These documents reveal a wider problem: For almost a decade, the Zuckerbergs’ neighbors have been complaining to the city about noisy construction, intrusive private security, and hordes of staffers and associates causing traffic and taking up parking. https://t.co/HxQ7aU861D",
+            "created_at": "2025-11-06T12:07:23Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses complaints made by neighbors regarding construction noise and the presence of private security and staff, but it does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986404463981039729",
+            "text": "First came complaints about noise, security, and traffic. Then, Mark Zuckerberg’s Palo Alto neighbors noticed that an unlicensed school appeared to be operating out of his compound. They began a crusade to shut it down that didn’t end until summer 2025. https://t.co/HxQ7aU861D",
+            "created_at": "2025-11-06T12:05:04Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses complaints about noise, security, and traffic related to Mark Zuckerberg's neighbors and a school operating out of his compound. There is no mention or implication of a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986404121356714178",
+            "text": "Ikea’s new 21-product series of bulbs, sensors, and remotes is dirt cheap, idiot-proof, Matter-ready, and designed to work with everything. But we're still years from the promised house of the future. https://t.co/dYKMhzMC4k",
+            "created_at": "2025-11-06T12:03:42Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Ikea’s new product series related to smart home technology, specifically bulbs, sensors, and remotes. It does not mention or imply anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986398101926478083",
+            "text": "Stop worrying about your AI footprint. Look at the big picture instead. https://t.co/4frfBI05gX",
+            "created_at": "2025-11-06T11:39:47Z",
+            "username": "techreview"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses concerns about AI and encourages looking at the big picture, but it does not mention or imply a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986396715566383378",
+            "text": "Make sure your party is a hit from the moment your guests walk through the door with this expert-led holiday home scenting advice. https://t.co/47LjHYqVdq",
+            "created_at": "2025-11-06T11:34:17Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is about holiday home scenting advice and does not mention or imply anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986396712206733534",
+            "text": "Rob Leathern and Rob Goldman, who both worked at Meta, are launching a new nonprofit that aims to bring transparency to an increasingly opaque, scam-filled social media ecosystem. https://t.co/t0qLbhCOmr",
+            "created_at": "2025-11-06T11:34:16Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the launch of a nonprofit aimed at transparency in social media and does not mention or imply anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986381564939251802",
+            "text": "Neighbors complained about noise, security guards, and hordes of traffic. An unlicensed school named after the Zuckerbergs’ pet chicken tipped them over the edge. https://t.co/aR8RjNiAXX",
+            "created_at": "2025-11-06T10:34:04Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses complaints from neighbors regarding noise, security guards, and traffic related to an unlicensed school. There is no mention of a cyberattack or any cyber-related issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986285430740844893",
+            "text": "Discord has rolled out updates to its Family Center, giving guardians more insights into their teens' usage patterns, including purchases, top https://t.co/umYi0c6Get",
+            "created_at": "2025-11-06T04:12:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses updates to Discord's Family Center, focusing on features that provide insights into teen usage patterns, which is unrelated to cyberattacks. There is no mention or implication of any cyber threat or hacking activity."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986262102604939655",
+            "text": "RT @MCCCANM: A few things to know about the ATC reduction in flights:\n\n1) This will be a nightmare for airline scheduling. We have reductio…",
+            "created_at": "2025-11-06T02:39:22Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing the reduction in flights and its impact on airline scheduling, but there is no mention or implication of a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986255214546940347",
+            "text": "These open-back headphones are no good for your commute, but they sure make staying at home fun. https://t.co/Si1ItBvOBa",
+            "created_at": "2025-11-06T02:12:00Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing open-back headphones and their suitability for commuting versus staying at home. There is no mention of a cyberattack or anything related to cybersecurity."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986237148870168782",
+            "text": "Clean your house without the restraint of a power cord with these cordless stick vacuums. https://t.co/EVR7dbRtbn",
+            "created_at": "2025-11-06T01:00:13Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is advertising cordless stick vacuums and does not mention anything related to a cyberattack. Therefore, it does not address the question."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986223111113466335",
+            "text": "The US government is aiming to ease the pressure on air traffic controllers suffering shutdown-related woes by curtailing flights. But airlines have experience with this kind of sudden disruption. https://t.co/x0WIgrUiPW",
+            "created_at": "2025-11-06T00:04:26Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses disruptions in air traffic control related to government actions due to a shutdown, rather than addressing a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986221001978392908",
+            "text": "Blue Origin's first New Glenn launch in January mostly went well, and now the long-delayed second mission is finally ready for takeoff. https://t.co/r0esQklkxo",
+            "created_at": "2025-11-05T23:56:03Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing the launch of Blue Origin's New Glenn rocket, which involves space technology and does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986218420216426907",
+            "text": "These hard-working travel totes handle everything from a work trip to a weekend getaway. https://t.co/7qe8ledpo8",
+            "created_at": "2025-11-05T23:45:48Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is promoting travel totes and discussing their functionality for travel, without any reference to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986194315467469251",
+            "text": "Save cash without sacrificing quality with one of these excellent cheap TVs. https://t.co/ylabY5nJjJ",
+            "created_at": "2025-11-05T22:10:01Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is promoting cheap TVs and discusses saving money while maintaining quality. There is no mention or implication of a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986190842575438222",
+            "text": "A new ion-based quantum computer makes error correction simpler https://t.co/0SFbY0wDBM",
+            "created_at": "2025-11-05T21:56:13Z",
+            "username": "techreview"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses advancements in quantum computing and error correction but does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986183253909282992",
+            "text": "Eric Bach, who was once the director of engineering at Tesla, is out amid a larger executive shakeup at the company. https://t.co/vN0984pmkU",
+            "created_at": "2025-11-05T21:26:03Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the departure of Eric Bach from Tesla amidst an executive shakeup and does not mention or imply any cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986182999843446968",
+            "text": "Lee declined to share Cluely's financial metrics just four months after boasting how quickly the startup is growing. https://t.co/GBEAKMgJBD",
+            "created_at": "2025-11-05T21:25:03Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a startup's financial metrics and growth, but it does not mention anything related to a cyberattack. Therefore, it does not pass the question."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986175942696276074",
+            "text": "From everyday canvas sacks to rainstorm-ready sling packs, these one-strap wonders shoulder the burden. https://t.co/MUlw3IQ6fj",
+            "created_at": "2025-11-05T20:57:00Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to a cyberattack. It discusses canvas sacks and sling packs, which are items related to bags or fashion, and does not address cybersecurity or any form of attack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986175102891839894",
+            "text": "Microsoft, Alphabet, Meta, and Amazon are investing tens of billions in data centers. AI infrastructure is now a key driver of US economic growth. https://t.co/yzi633TgpI",
+            "created_at": "2025-11-05T20:53:40Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses investments by major tech companies in data centers and AI infrastructure as a driver of economic growth, without any mention or implication of a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986174195634417699",
+            "text": "Apple is turning to Google's technology to help revamp Siri and power a slate of upcoming features for the voice assistant. https://t.co/1x0CUTIKLF",
+            "created_at": "2025-11-05T20:50:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Apple's collaboration with Google on improving Siri, which is related to technology and voice assistant features, but does not mention or imply anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986154083502133586",
+            "text": "Razer’s smaller gaming laptop gets an OLED display, a thinner chassis, and the latest Nvidia graphics. https://t.co/FGf1UGOUII",
+            "created_at": "2025-11-05T19:30:09Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a gaming laptop's specifications and features, such as its OLED display and Nvidia graphics. There is no mention of a cyberattack or any related topic, so the tweet does not talk about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986149550910767535",
+            "text": "You can snag a discount on all the Pixel 10 phone varieties if you act fast. https://t.co/VIc47f07NX",
+            "created_at": "2025-11-05T19:12:08Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to a cyberattack. It talks about a discount on Pixel 10 phone varieties, which is about a promotional offer and not related to cyber security or cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986148006505095360",
+            "text": "AgiBot is using AI-powered robots to do new manufacturing tasks. Smarter machines may transform physical labor in China. https://t.co/2UDyHPh7p1",
+            "created_at": "2025-11-05T19:06:00Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses AI-powered robots transforming manufacturing tasks in China, with no mention of a cyberattack or any related cybersecurity topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986147774962806922",
+            "text": "Pinterest CEO Bill Ready says open source AI is offering cost savings to the company, particularly in visual search. https://t.co/SdOHDtheWR",
+            "created_at": "2025-11-05T19:05:05Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Pinterest CEO Bill Ready's comments on open source AI and its benefits in visual search, with no mention of a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986146544295330232",
+            "text": "Khan's appointment sends a message to the tech industry, whose most powerful players have already been critical of Mamdani, a Democratic socialist. https://t.co/zHttkjQzE3",
+            "created_at": "2025-11-05T19:00:11Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Khan's appointment in the tech industry and mentions criticism from powerful players but does not mention cyberattacks or related topics. Therefore, it does not talk about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986145253817045381",
+            "text": "Australia now has so much solar power that the government will require utilities to sell customers free electricity for three hours per day. https://t.co/AMTHMbPXru",
+            "created_at": "2025-11-05T18:55:03Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses solar power and government regulations regarding electricity rates, which are not related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986137705952968965",
+            "text": "Tinder is testing an AI feature that learns about you from your Camera Roll photos. https://t.co/eUQRqwGnEX",
+            "created_at": "2025-11-05T18:25:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Tinder testing an AI feature related to personal photos and does not mention or imply anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986137301085245684",
+            "text": "Much of the content about Mamdani online hasn't come from his campaign, or the dozens of political influencers invited to cover it. It's also come from fans. https://t.co/IraZCi0lyE",
+            "created_at": "2025-11-05T18:23:27Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the online content related to Mamdani, focusing on the involvement of political influencers and fans, rather than mentioning any cyberattack. Therefore, it does not talk about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986135677700821185",
+            "text": "These open-back headphones are no good for your commute, but sure make staying at home fun. https://t.co/Si1ItBvOBa",
+            "created_at": "2025-11-05T18:17:00Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions open-back headphones and discusses their usability for commuting versus staying at home. It does not reference any cyberattack or indicate a discussion of cybersecurity issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986129655011713431",
+            "text": "In addition to affordability, New York City’s mayor-elect will be forced to reckon with the NYPD’s sweeping mass surveillance operations. https://t.co/KHc4Uj9KSg",
+            "created_at": "2025-11-05T17:53:04Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the topic of affordability and the NYPD's surveillance operations, but does not mention a cyberattack or any related activity. Therefore, the tweet is not talking about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986117824738152751",
+            "text": "Researchers at Microsoft have developed a new simulation environment for testing AI agents, revealing surprising weaknesses in the current state-of-the-art. https://t.co/7i9riIa5TR",
+            "created_at": "2025-11-05T17:06:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a simulation environment for testing AI agents developed by Microsoft, which reveals weaknesses in AI technology. It does not mention anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986117576133366043",
+            "text": "Users will now be able to access AI Mode via a new dedicated shortcut button under the search bar when opening a \"New Tab\" page in Chrome. https://t.co/ZyeGShwr7O",
+            "created_at": "2025-11-05T17:05:05Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a new feature in Chrome related to AI Mode and does not mention anything about a cyberattack. It focuses on functionality and usability improvements rather than any security issues or incidents."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986117319676891545",
+            "text": "Wabi, a startup from the founder of Replika, has just raised a $20 million pre-seed round. Wabi is like \"YouTube for apps\" -- a social platform where anyone can use prompts to instantly create mini apps and share them with friends. https://t.co/PdYJfN01ZF",
+            "created_at": "2025-11-05T17:04:03Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a startup and its funding announcement rather than mentioning a cyberattack. It focuses on Wabi's platform and its features, not on cybersecurity issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986112009805476239",
+            "text": "RT @daithaigilbert: Some of the things MAGA has called @zohrankmamdani since his election victory last night:\n\n• Third world communist\n• Ma…",
+            "created_at": "2025-11-05T16:42:57Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything about a cyberattack. It seems to be discussing political name-calling and reactions to someone's election victory."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986111180759286012",
+            "text": "WIRED talked to NBC’s Steve Kornacki about Tuesday's election results. He thinks Trump didn't do Republicans any favors. https://t.co/GCssXJ1pFY",
+            "created_at": "2025-11-05T16:39:40Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses election results and Steve Kornacki's opinion on Trump's impact on Republicans. There is no mention of a cyberattack or any related topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986098448131588303",
+            "text": "The MPA sent Meta a cease-and-desist over its use of the term 'PG-13' in Instagram teen ratings system. https://t.co/0KFVOjjKsI",
+            "created_at": "2025-11-05T15:49:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a cease-and-desist issued by the MPA to Meta regarding the use of the term 'PG-13'. It does not mention any cyberattack or related events. Therefore, the tweet is not talking about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986093414278967667",
+            "text": "Penn experienced a data breach on Friday as hackers sent messages boasting of the hack to the university community. https://t.co/S7fz1AK530",
+            "created_at": "2025-11-05T15:29:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": true,
+          "reasoning": "The tweet mentions a 'data breach' and refers to 'hackers', which indicates that it is discussing an incident related to unauthorized access to data, commonly associated with cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986090893749678321",
+            "text": "Alloy Enterprises has developed a new additive manufacturing technique that can improve liquid cooling performance while bringing it to new parts of the server rack. https://t.co/gr1ztvc4ul",
+            "created_at": "2025-11-05T15:19:03Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a new additive manufacturing technique related to improving liquid cooling performance in server racks. It does not mention anything about a cyberattack, which typically refers to unauthorized attempts to access or damage information systems."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986085864905048460",
+            "text": "Google announced its intent to acquire cloud security company Wiz in March and the deal is now on track to close in early 2026. https://t.co/MS49nCx9IF",
+            "created_at": "2025-11-05T14:59:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Google's acquisition of a cloud security company, Wiz, and does not mention anything about a cyberattack. The focus is on a business transaction rather than a security incident or attack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986085219569373273",
+            "text": "Republican lawmakers, right-wing influencers, far-right extremists, and conspiracy theorists pushed anti-immigrant and anti-Muslim rhetoric after Zohran Mamdani’s victory. https://t.co/eLHBfaB1ni",
+            "created_at": "2025-11-05T14:56:30Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses political reactions to Zohran Mamdani's victory, focusing on anti-immigrant and anti-Muslim rhetoric from various groups. It does not mention a cyberattack or any cyber-related activity."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986084608220225981",
+            "text": "The companies on Tuesday reached a settlement that sees the search giant agreeing to Android app store reforms that include lowering fees and enabling more competition. https://t.co/8R09QfKigy",
+            "created_at": "2025-11-05T14:54:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a settlement between companies regarding Android app store reforms, which relates to business practices rather than a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986077058812768409",
+            "text": "SoftBank's joint venture with OpenAI that will localize and sell the AI company's enterprise tech to companies in Japan. And the first customer of this joint venture is going to be SoftBank itself. https://t.co/5RMKA614ld",
+            "created_at": "2025-11-05T14:24:05Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a business venture between SoftBank and OpenAI related to AI technology localization in Japan. It does not mention or imply anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986072022888100061",
+            "text": "Google is now baking Gemini into Maps to let users ask it questions while driving, improve navigation, and do more with the app. https://t.co/ynKwvviL1L",
+            "created_at": "2025-11-05T14:04:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a new feature being integrated into Google Maps, specifically the incorporation of Gemini to enhance user interaction while driving. There is no mention or implication of a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986066238640919001",
+            "text": "The Download: the solar geoengineering race, and future gazing with the The Simpsons https://t.co/gZ3G6TsRRt",
+            "created_at": "2025-11-05T13:41:05Z",
+            "username": "techreview"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses topics related to solar geoengineering and future predictions, notably mentioning 'The Simpsons'. There is no indication or mention of a cyberattack in the tweet."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986062858304774177",
+            "text": "When others worried about a Mamdani mayoralty, New York’s tech scene stayed calm. Now that he’s won, that confidence will be put to the test.\n\nRevisit the story: https://t.co/EJvVBZdJFH",
+            "created_at": "2025-11-05T13:27:39Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a political event related to a mayoralty and the tech scene's reaction, but there is no mention or implication of a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986055676150349883",
+            "text": "Armis is hoping to launch its IPO in late 2026 or early 2027, its co-founder and CEO Yevegny Dibrov told TechCrunch. https://t.co/KtEZ7Og1Xa",
+            "created_at": "2025-11-05T12:59:06Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet is about Armis planning to launch its IPO and does not mention anything related to cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986042769668735271",
+            "text": "Skip the tourist traps. Here's what to do in San Francisco when you're on and off the clock. https://t.co/xkBVWfBdYT",
+            "created_at": "2025-11-05T12:07:49Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses recommendations for activities in San Francisco and does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986034482302824451",
+            "text": "The Monroe Institute claims its meditations, which have also been used by the US military, help people access different planes of consciousness. Its virtual and in-person retreats are now selling out. https://t.co/l0QicVvLOp",
+            "created_at": "2025-11-05T11:34:53Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the Monroe Institute and its meditation practices, mentioning their use by the US military in a broader context, but it does not refer to or imply any cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986026723897462888",
+            "text": "A raft of voice-based hardware devices have emerged, aimed at companionship, productivity, or personal growth. These include card-shaped devices from https://t.co/20dFiLCFgc",
+            "created_at": "2025-11-05T11:04:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses voice-based hardware devices and their purposes, including companionship, productivity, and personal growth. It does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986026489603612871",
+            "text": "A new company called Sandbar has unveiled a smart wearable called Stream Ring, which uses a microphone to record your softly spoken thoughts. And it’s powered by—you guessed it—an AI chatbot. https://t.co/3ZACxB7NCK",
+            "created_at": "2025-11-05T11:03:08Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a product called Stream Ring, which is a smart wearable that records thoughts using a microphone and AI technology. It does not mention anything related to cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986013288602148951",
+            "text": "RT @WIRED: Mere months ago, @ZohranKMamdani was polling at 1 percent—right next to “Someone Else.” Tonight, he was elected New York City’s…",
+            "created_at": "2025-11-05T10:10:41Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the election of a political figure and does not mention anything related to a cyberattack or cybersecurity issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986012727953826282",
+            "text": "The end of daylight saving time is disruptive to circadian rhythms, but there are some things you can do to help yourself reset. https://t.co/W2JEkksxOo",
+            "created_at": "2025-11-05T10:08:27Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the effects of daylight saving time on circadian rhythms and suggests ways to help reset them, but it does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986004374187913232",
+            "text": "New diagnostic kits aim to revolutionize early screening of the disease, potentially allowing patients to receive treatments—such as monoclonal antibodies—sooner. https://t.co/k9Cb8l0t2U",
+            "created_at": "2025-11-05T09:35:15Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses new diagnostic kits for disease screening and possible treatments, which do not relate to cyberattacks. There is no mention of cyberattacks or related cybersecurity topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985940656796103056",
+            "text": "MoEngage already has customers across 75 countries, with North America being its biggest business driver. https://t.co/FXD6nLU1mm",
+            "created_at": "2025-11-05T05:22:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to a cyberattack. It discusses the customer base and business operations of MoEngage without any reference to cybersecurity."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985913200806597079",
+            "text": "Qualcomm Ventures has joined six Indian venture firms, collectively adding more than $850 million to boost India’s deep-tech ecosystem. https://t.co/Nm4SP8dNzn",
+            "created_at": "2025-11-05T03:32:58Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Qualcomm Ventures collaborating with Indian venture firms to invest in the deep-tech ecosystem in India, which does not indicate any discussion about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985906353102307617",
+            "text": "In October, our global editorial director Katie Drummond interviewed the newly minted internet darling and icon of the left about his social media strategy, how he’ll handle ICE in NYC, and how he plans to work with the tech sector.\n\nRead it here: https://t.co/9t5fsAJskC",
+            "created_at": "2025-11-05T03:05:45Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything about a cyberattack. It discusses a social media strategy and an interview with an individual about handling ICE and working with the tech sector, which are unrelated to cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985906351030292863",
+            "text": "Mere months ago, @ZohranKMamdani was polling at 1 percent—right next to “Someone Else.” Tonight, he was elected New York City’s newest mayor.\nhttps://t.co/9t5fsAJskC https://t.co/gVV6smgTYd",
+            "created_at": "2025-11-05T03:05:45Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the election of Zohran Mamdani as New York City's new mayor and does not mention anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985881516795207942",
+            "text": "The reversal comes after weeks of pressure from people like Elon Musk, who accused Transportation Secretary Sean Duffy of being ill-equipped for the job. https://t.co/XC7y9OZAI9",
+            "created_at": "2025-11-05T01:27:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a reversal related to Transportation Secretary Sean Duffy in the context of pressure from individuals like Elon Musk. There is no mention or implication of a cyberattack in this content."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985848548194222382",
+            "text": "Amazon won't allow agents on its site that don't identify themselves as such. Perplexity is not pleased. https://t.co/yXzuHjBKv1",
+            "created_at": "2025-11-04T23:16:03Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a policy change by Amazon regarding agent identification, which does not imply any reference to a cyberattack. It centers on a topic related to online policies rather than security breaches or cyber threats."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985838483919794239",
+            "text": "People Inc. signs an AI licensing deal with Microsoft, which will use its media content in Copilot. https://t.co/BJcWoHlgl0",
+            "created_at": "2025-11-04T22:36:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses an AI licensing deal between People Inc. and Microsoft, but it does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985835971858854307",
+            "text": "The electric aviation company Beta Technologies made an impressive showing in its debut on the New York Stock Exchange. https://t.co/gu7G8mkA3x",
+            "created_at": "2025-11-04T22:26:05Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing the electric aviation company Beta Technologies and its debut on the New York Stock Exchange, which does not relate to a cyberattack. It focuses on a business event rather than cybersecurity or attacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985815835605139644",
+            "text": "It's the second time this year Rivian has spun out a new company, after it created micromobility startup Also in March. https://t.co/a7Ja6eAhds",
+            "created_at": "2025-11-04T21:06:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Rivian creating a new company and mentions its micromobility startup, but there is no mention or implication of a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985812878448857265",
+            "text": "Hell yeah https://t.co/S2z2UlIYsw",
+            "created_at": "2025-11-04T20:54:19Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not provide any context or content that indicates it is discussing a cyberattack. The phrase 'Hell yeah' is ambiguous and does not specifically reference cybersecurity or any cyber-related incident."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985809543327043731",
+            "text": "For example, you can ask \"find me 2 cheap tickets for the Shaboozey concert coming up. prefer standing floor tickets.\" AI Mode will then search across multiple websites to find real-time ticket options that meet your specific requests. https://t.co/y73DNuMjyM",
+            "created_at": "2025-11-04T20:41:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing AI capabilities for searching concert tickets and does not mention anything related to cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985808284813496687",
+            "text": "Just over three years after taking the reins as the steward of the storied firm, Both passed the leadership button to Lin and Grady. https://t.co/a8h2qEYFF0",
+            "created_at": "2025-11-04T20:36:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a leadership transition within a firm and does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985806264618639525",
+            "text": "Thoughts on my proposed atrium design? https://t.co/0xfNE9X6lF",
+            "created_at": "2025-11-04T20:28:02Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet is asking for thoughts on a proposed atrium design and does not mention or imply anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985800226456945091",
+            "text": "RT @WIRED: The revolution started on social media. It ended with protests, violence, and an online poll to pick the new prime minister. htt…",
+            "created_at": "2025-11-04T20:04:03Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the impact of social media on a revolution and its aftermath, including protests and polling for a new prime minister. It does not mention or imply a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985794492750774759",
+            "text": "In a bulletin to law enforcement agencies, the FBI said criminal impersonators are exploiting ICE’s image and urged nationwide coordination to distinguish real operations from fakes. https://t.co/GEY1PQx1vY",
+            "created_at": "2025-11-04T19:41:16Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses criminal impersonation related to law enforcement and the FBI's advice on distinguishing real operations from fake ones. It does not mention a cyberattack specifically; rather, it focuses on the issue of impersonation and law enforcement coordination."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985794492494938300",
+            "text": "A Turning Point USA official inaccurately claimed a high school's math department wore Halloween costumes that mocked Charlie Kirk. Those teachers are now facing a flood of online attacks and death threats. https://t.co/G8OCGEgNJr",
+            "created_at": "2025-11-04T19:41:15Z",
+            "username": "WIRED"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a situation where teachers are facing 'a flood of online attacks and death threats,' which can be interpreted as a form of cyberattack due to the online nature of the threats."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985794207290646608",
+            "text": "The Sora app is now available for Android users in the US, Canada, and Japan, among other regions. https://t.co/HOLcc6EOgq",
+            "created_at": "2025-11-04T19:40:07Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the availability of the Sora app for Android users in certain regions. It does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985793885709484245",
+            "text": "RT @daithaigilbert: SCOOP :\n\nI obtained the death threats and doxxes teachers in Arizona are facing after a TPUSA spokesperson inaccurately…",
+            "created_at": "2025-11-04T19:38:51Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses death threats and doxxing faced by teachers, which are serious issues but not classified as a cyberattack. A cyberattack typically refers to a deliberate act to damage, disrupt, or gain unauthorized access to computer systems, networks, or devices, whereas this tweet is focusing on threats made against individuals rather than an attack on digital infrastructure."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985793272900698603",
+            "text": "Federal rules require immigration officers to identify themselves and state the reason for an arrest “as soon as it is practical and safe to do so.” The standard has not changed since it was codified, yet advocates say it is increasingly ignored.\nhttps://t.co/b6IHaGZlii",
+            "created_at": "2025-11-04T19:36:25Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses federal rules regarding immigration officers and their conduct during arrests, which does not relate to cyberattacks or cybersecurity issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985793274209321236",
+            "text": "“When masked federal agents conceal their identity and authority as a practice, anyone can don a mask and a gun and not be expected or required to verify their authority,” says Alycia Castillo of the Texas Civil Rights Project.\n\nRead more: https://t.co/b6IHaGZlii",
+            "created_at": "2025-11-04T19:36:25Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the actions of masked federal agents and critiques the lack of accountability in their concealment of identity, focusing on civil rights issues rather than a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985793270077931642",
+            "text": "Criminals posing as US immigration officers have carried out robberies, kidnappings and sexual assaults in several states, warns an FBI bulletin to law enforcement agencies issued last month.\nhttps://t.co/b6IHaGZlii",
+            "created_at": "2025-11-04T19:36:24Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses crimes perpetrated by criminals impersonating immigration officers, but it does not mention a cyberattack or any digital threats. The focus is on physical criminal activities such as robberies and kidnappings."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985791698786525209",
+            "text": "A svelte smart ring can track important activity, sleep, and health metrics. Unlike some smartwatches, a ring doesn’t need to be charged every day. https://t.co/GqjW0bY2Mr",
+            "created_at": "2025-11-04T19:30:09Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a smart ring that tracks health metrics and sleep, which is unrelated to cyberattacks. There is no mention of cybersecurity or cyberattacks in the content."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985784943361089814",
+            "text": "NEW TECH CONNECTIONS | I was right about dishwasher pods, and now I can prove it https://t.co/nOPcIoZBrZ",
+            "created_at": "2025-11-04T19:03:19Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention or imply anything about a cyberattack. It talks about dishwasher pods and the author's correctness regarding them."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985782246385562088",
+            "text": "Save almost $20 on Microsoft's first-party headset for Xbox Series S/X. https://t.co/FqTRPCD7mh",
+            "created_at": "2025-11-04T18:52:36Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is promoting a discount on Microsoft's gaming headset, which is unrelated to cyberattacks or any cybersecurity issues. It focuses solely on a product offer and does not imply any discussion of cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985780314342314185",
+            "text": "RT @arekfurt: Can't believe I missed this on Thursday. This is a great, necessary document from NSA, CISA, etc. that provides a pretty comp…",
+            "created_at": "2025-11-04T18:44:55Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything about a cyberattack. It refers to a document from the NSA and CISA but does not specifically state or imply that it is discussing a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985779751491903933",
+            "text": "RT @fuyaishdfasjdh: @DustinWalper The worst thing about copper theft is for every $10 of scrap they get it costs someone else at least 10-1…",
+            "created_at": "2025-11-04T18:42:41Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses copper theft and its economic impact, but it does not mention anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985776577045549290",
+            "text": "Elon Musk is pushing for a $1 trillion performance pay package. Another major shareholder has said no. https://t.co/8zhOAjG44A",
+            "created_at": "2025-11-04T18:30:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a performance pay package related to Elon Musk and does not mention anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985775315902226932",
+            "text": "Shopify says AI-driven traffic to its online stores is up 7x since January, and orders from AI search are up 11x. https://t.co/hZ0Rrtn8VA",
+            "created_at": "2025-11-04T18:25:03Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Shopify's increase in traffic and orders due to AI, and does not mention any cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985773290686738707",
+            "text": "Hisense's midrange TV gets a mega boost of brightness for (mostly) thrilling results. https://t.co/MoZ5X99Lzk",
+            "created_at": "2025-11-04T18:17:01Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a midrange TV from Hisense and its improved brightness, which is related to product features, not a cyberattack. There is no mention of any cyber-related issues or attacks, so it does not qualify as talking about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985770283261735249",
+            "text": "Netflix is looking for exclusivity, which means that video podcasts that it licenses could no longer be uploaded to YouTube. https://t.co/48YAcXuZaU",
+            "created_at": "2025-11-04T18:05:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Netflix's strategy regarding exclusivity and video podcasts, specifically their licensing arrangements in relation to YouTube. There is no mention of a cyberattack or any related topic."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985758962877169802",
+            "text": "Journalists in Europe found it was \"easy\" to spy on top European Union officials using commercially obtained location data sold by data brokers, despite the continent having some of the strongest data protection laws in the world. https://t.co/2gxQeKnJSH",
+            "created_at": "2025-11-04T17:20:05Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the ease of spying on EU officials using location data from data brokers, touching on privacy issues rather than a cyberattack. It does not reference any digital intrusion or hacking, which would be necessary to classify it as a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985752680262771100",
+            "text": "RT @uncledoomer: its funny that an entire decade of cool looking consumer products was caused by the addition of NURBS to CAD. it wasnt tha…",
+            "created_at": "2025-11-04T16:55:07Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing consumer products and CAD (Computer-Aided Design), specifically the contribution of NURBS (Non-Uniform Rational B-Splines) to their design. There is no mention or implication of a cyberattack in this context."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985751810817032476",
+            "text": "RT @PyroTek3: Let's talk about Group Managed Service Accounts (GMSAs).\n\nUser accounts created to be used as service accounts rarely have th…",
+            "created_at": "2025-11-04T16:51:39Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing technical aspects of Group Managed Service Accounts (GMSAs) and does not mention or imply anything related to a cyberattack. Therefore, it does not talk about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985751663806750795",
+            "text": "Despite its imprecision, the fourth \"Master Plan\" is a centerpiece of Tesla's case for giving CEO Elon Musk $1 trillion in company shares. https://t.co/h86qV3DdFW",
+            "created_at": "2025-11-04T16:51:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Tesla's Master Plan and Elon Musk's compensation, and does not mention anything related to cyberattacks or cybersecurity."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985751416850280649",
+            "text": "The Information reports that Anthropic expects to generate as much as $70 billion in revenue and $17 billion in cash flow in 2028. The growth projections are fueled by rapid adoption of Anthropic’s business products, a person with knowledge of the compa... https://t.co/vz4DIdFSGk",
+            "created_at": "2025-11-04T16:50:05Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses revenue projections and business growth for Anthropic, which is related to its products and financial expectations, not a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985749218951049476",
+            "text": "TechCrunch is getting back to our roots with Build Mode, a new podcast to help guide you through the messy, unpredictable journey of building an early-stage startup. \n\nNo sugarcoating. No hype. Just candid conversations and actionable advice from people who’ve been there before.\n\nIf you’re building a company, or even thinking about it, this is your survival guide. Mark your calendar. Season 1 launches November 13, and you can subscribe to be first in line here: https://t.co/3s9iV1Lhyo",
+            "created_at": "2025-11-04T16:41:21Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet is about a new podcast aimed at helping early-stage startups, and does not mention or imply anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985748330459131984",
+            "text": "RT @jsrailton: We're learning more about how an @L3HarrisTech Trenchant exec stole exploits &amp; sold them to a Russian broker.\n\nIt's bad.\n\nGr…",
+            "created_at": "2025-11-04T16:37:50Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the theft of exploits and their sale to a Russian broker, which suggests involvement in cyber activities or cybercrime. Since this relates to the theft and possible misuse of technology, it can be interpreted as a discussion about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985745118838521892",
+            "text": "Spotify says that users' time spent with video content on Spotify has also more than doubled year-over-year, largely driven by video podcasts. https://t.co/PAvSbzVvPq",
+            "created_at": "2025-11-04T16:25:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Spotify's increase in video content usage among users, specifically mentioning video podcasts. There is no mention or implication of a cyberattack, as the content focuses on metrics and user engagement."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985734827824328993",
+            "text": "“I can't, for the life of me, figure out why we are still so rigid and moderating everything when we have nothing to lose for the first time,” a Democratic digital strategist tells WIRED. https://t.co/qcyfsCuv5V",
+            "created_at": "2025-11-04T15:44:10Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a perspective on moderation and digital strategy rather than specifically mentioning or hinting at a cyberattack. It reflects on the state of moderation during uncertain times, but does not allude to any cyber-related incident."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985729040729120998",
+            "text": "RT @daithaigilbert: NEW: \n\nAs the GOP tears itself apart over claims of antisemitism, the person who triggered it all, @NickJFuentes, is ce…",
+            "created_at": "2025-11-04T15:21:11Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a political issue related to the GOP and claims of antisemitism, but there is no mention of a cyberattack or any cyber-related topic. Therefore, it does not pertain to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985724737486516433",
+            "text": "Why the for-profit race into solar geoengineering is bad for science and public trust https://t.co/zrJPUulXO9",
+            "created_at": "2025-11-04T15:04:05Z",
+            "username": "techreview"
+          },
+          "pass": false,
+          "reasoning": "The tweet talks about solar geoengineering and its implications for science and public trust, but it does not mention anything related to cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985724733275488458",
+            "text": "For the first time, WhatsApp users will be able to use their Apple Watch to get call notifications, read full messages, record and send voice messages, and view media content more clearly. https://t.co/cXY7ErRKGM",
+            "created_at": "2025-11-04T15:04:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses new features for WhatsApp on the Apple Watch, specifically related to messaging and notifications. It does not mention anything about a cyberattack, which typically involves unauthorized access or disruption of services. Therefore, the tweet is not talking about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985718946822062346",
+            "text": "Tucker Carlson’s friendly interview with white nationalist Nick Fuentes has led to a major reckoning in the Republican party. https://t.co/s8hhOjQvIR",
+            "created_at": "2025-11-04T14:41:04Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a political interview involving Tucker Carlson and Nick Fuentes, focusing on its implications for the Republican party. There is no mention or implication of a cyberattack in the content of the tweet."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985714668183187576",
+            "text": "Nvidia has signed a €1 billion partnership with Deutsche Telekom to set up an \"AI factory\" in Munich that aims to boost Germany's AI computing power by 50%. https://t.co/9BCWKD8jWv",
+            "created_at": "2025-11-04T14:24:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a partnership between Nvidia and Deutsche Telekom to enhance AI computing power in Munich. It does not mention anything related to cyberattacks, cybersecurity, or any form of malicious activity typically associated with cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985710336159150493",
+            "text": "“The Carman Family Deaths,” based on a 2021 WIRED story, chronicles what happened after a son was rescued following a boat accident off the New England coast. https://t.co/1S61Te7S06",
+            "created_at": "2025-11-04T14:06:51Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a story about a boat accident and the aftermath, specifically focusing on the Carman family. There is no mention of a cyberattack or related themes in the content."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985710136757805228",
+            "text": "Alexa+, Amazon's upgraded assistant powered by AI, is coming to the music streaming app for iOS and Android devices.  https://t.co/E2JszyJVig",
+            "created_at": "2025-11-04T14:06:03Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the introduction of Amazon's upgraded assistant Alexa+ into a music streaming app, which is related to technology and AI, but does not mention anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985709885909025081",
+            "text": "GoFundMe is letting you gift nonprofit gift cards to loved ones to help them donate to their favorite organizations. https://t.co/K1xoDFSvq7",
+            "created_at": "2025-11-04T14:05:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet from TechCrunch discusses a feature by GoFundMe that allows gifting nonprofit gift cards. It does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985709636045901973",
+            "text": "Core parts of the release were possible because of its acquisition of Qatalog. https://t.co/sbYWIbFCE9",
+            "created_at": "2025-11-04T14:04:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a business acquisition related to a tech release and does not mention anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985708438115025337",
+            "text": "RT @CloudflareRadar: At around 10:30 UTC today, Internet traffic in #Jamaica started returning to pre-hurricane levels, with bytes recoveri…",
+            "created_at": "2025-11-04T13:59:18Z",
+            "username": "CloudflareRadar"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the recovery of internet traffic in Jamaica after a hurricane, rather than addressing a cyberattack. It focuses on the improvement of internet services post-disaster instead."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985708253872107713",
+            "text": "At around 10:30 UTC today, Internet traffic in #Jamaica started returning to pre-hurricane levels, with bytes recovering faster than HTTP requests. Traffic had been disrupted since the hurricane made landfall in Jamaica on Tuesday, October 28.\nhttps://t.co/YAl133b5w7 https://t.co/SSskrh57vz",
+            "created_at": "2025-11-04T13:58:35Z",
+            "username": "CloudflareRadar"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the recovery of internet traffic in Jamaica after a hurricane, but it does not mention any cyberattack. The focus is on a natural disaster (the hurricane) and its impact on internet traffic rather than any malicious cyber activity."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985702314536009794",
+            "text": "Just days earlier, these activists had been ordinary young people, lost in the grind of their daily lives. Now they were being asked to help choose Nepal’s next prime minister.\n\nRead the full story @cupoftulsi: https://t.co/O1awjjBs6k https://t.co/BoqKjBkVfG",
+            "created_at": "2025-11-04T13:34:59Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses activists in Nepal and their involvement in choosing a prime minister. It does not mention any cyberattacks or related topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985701493450621354",
+            "text": "Finally, he presented them with an ultimatum. It had been their youth-led movement that had sparked the protests, he said, so they were the ones responsible for shaping the interim government. https://t.co/O1awjjBs6k",
+            "created_at": "2025-11-04T13:31:43Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a youth-led movement and protests but does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985699249950974138",
+            "text": "The Download: the AGI myth, and US/China AI competition https://t.co/RE9nLyFTK1",
+            "created_at": "2025-11-04T13:22:48Z",
+            "username": "techreview"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses AGI (Artificial General Intelligence) and US/China AI competition, but it does not mention or imply a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985679679370510535",
+            "text": "In the late 19th century, Georg Cantor believed his new theory could help the Church understand the infinite nature of the divine. He miscalculated. https://t.co/adSb3agyc6",
+            "created_at": "2025-11-04T12:05:02Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Georg Cantor's theory related to the Church and infinity in the context of the 19th century. It does not mention or imply anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985679674417074190",
+            "text": "Skip the tourist traps. Here's what to do in Seattle when you're on and off the clock. https://t.co/tV8idwlOZl",
+            "created_at": "2025-11-04T12:05:01Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet talks about tourist attractions and activities in Seattle, with no mention of cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985679433198387250",
+            "text": "Apple's latest iOS update doesn't introduce major features, but it does bring one highly-requested tweak: the ability to change the transparency of the translucent liquid glass design. https://t.co/7ZHeQHfYP8",
+            "created_at": "2025-11-04T12:04:03Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a new feature in Apple's iOS update related to design changes, specifically transparency settings, without mentioning anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985672463670276575",
+            "text": "But ideally, the journalist and podcast host would rather not work for tech CEOs at all. https://t.co/yL0fJ2HPdt",
+            "created_at": "2025-11-04T11:36:22Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to a cyberattack. It discusses the preferences of a journalist and podcast host regarding their work with tech CEOs, which is unrelated to cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985664726345351599",
+            "text": "The revolution started on social media. It ended with protests, violence, and an online poll to pick the new prime minister. https://t.co/TUO7wA04DH",
+            "created_at": "2025-11-04T11:05:37Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a revolution that started on social media and ended with protests and violence, but it does not explicitly mention a cyberattack or any malicious online activity. Therefore, it does not pass the criteria for talking about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985657479208878131",
+            "text": "Eight years of research and 10,000 prototypes have created a luxury water bottle claiming to redefine the experience of drinking H2O, all for an eye-watering sum. https://t.co/vq84uqFz4m",
+            "created_at": "2025-11-04T10:36:49Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a luxury water bottle and the research and prototypes involved in its creation, with no mention or implication of a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985657471583629428",
+            "text": "Nitazenes, a class of synthetic drugs 40 times more potent than fentanyl, are steadily becoming more common on both sides of the Atlantic. https://t.co/DB0wE7HxW3",
+            "created_at": "2025-11-04T10:36:47Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses nitazenes, a class of drugs, and their prevalence, but does not mention anything related to cyberattacks. Therefore, the tweet is not talking about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985649490372538533",
+            "text": "Major battery breakthroughs seemingly happen every day, but only some of that tech ever leaves the lab. WIRED breaks down what’s actually going to change EVs and what’s just a dream. https://t.co/Qsu6I9u2Yt",
+            "created_at": "2025-11-04T10:05:04Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing advancements in battery technology and its implications for electric vehicles (EVs), not a cyberattack. It focuses on technological developments rather than any form of cyber threat."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985642139401716001",
+            "text": "By combining LED technology and nanomaterials, researchers have created a therapy that eliminates cancer cells using localized heat without damaging healthy tissue. https://t.co/gXnN5wskVt",
+            "created_at": "2025-11-04T09:35:52Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a new cancer therapy that utilizes LED technology and nanomaterials, which has no relation to cyberattacks. It focuses on medical and technological advancements in healthcare rather than cybersecurity or cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985559648577933430",
+            "text": "Meta said that Facebook Dating has 1.77 million daily active users in the US between ages 18-29. https://t.co/nAItcdrCiY",
+            "created_at": "2025-11-04T04:08:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses user statistics for Facebook Dating and does not mention or suggest any cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985537879616209112",
+            "text": "This is what it feels like moving into your first real job as InfoSec https://t.co/8RZQSYMyn2",
+            "created_at": "2025-11-04T02:41:34Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the experience of transitioning into a first real job in the field of Information Security (InfoSec), rather than referencing a cyberattack. It appears to reflect on the emotions associated with starting a new job rather than any incidents of cybercrime or attacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985518655493562743",
+            "text": "School Cafeteria Sloppy Joe from the 1980s &amp; '90s | Tasting History https://t.co/6a3K0w5dwO",
+            "created_at": "2025-11-04T01:25:11Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention or imply anything related to a cyberattack. It references a cafeteria food item, specifically a Sloppy Joe, and links to a tasting history video, which indicates that the content is related to food and nostalgia rather than cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985506721658266111",
+            "text": "TxO was founded by a16z in 2020 to support founders who do not have access to traditional venture networks, and many of TxO’s participants were women and minorities who, overall, receive very slim amounts of venture capital dollars.\n\nAnd now, it's been shut down, with its March 2025 cohort becoming its last.\nhttps://t.co/prQTa1kjfh",
+            "created_at": "2025-11-04T00:37:46Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the closure of TxO, an initiative by a16z, which supported underrepresented founders in venture capital. There is no mention or indication of a cyberattack within the tweet."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985500253009617178",
+            "text": "Andreessen Horowitz is pausing its Talent x Opportunity (TxO) fund and program, according to multiple sources. https://t.co/AqelFFnLx0",
+            "created_at": "2025-11-04T00:12:03Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Andreessen Horowitz pausing its Talent x Opportunity fund and program. There is no mention or implication of a cyberattack in the content of the tweet."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985488344751481191",
+            "text": "&gt;they dont know https://t.co/Jr5dBhnMSn",
+            "created_at": "2025-11-03T23:24:44Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not explicitly mention a cyberattack. It seems to be a general statement, possibly about uncertainty or confusion, without any clear reference to cyber security or attacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985488090215928100",
+            "text": "RT @z3dster: @SwiftOnSecurity https://t.co/qHhGTGY06q",
+            "created_at": "2025-11-03T23:23:43Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not contain any content that directly references a cyberattack. It is a retweet of another user without any additional commentary or context that would suggest a discussion of cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985487774955504010",
+            "text": "send children back to school they are not learning the lore",
+            "created_at": "2025-11-03T23:22:28Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing children returning to school and not related to cyberattacks in any way. It talks about education, likely in a more casual or humorous context, rather than a cyber threat."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985487465038114886",
+            "text": "&gt;post video of taylor swift\n&gt;tell ppl to watch it\n&gt;ppl reply upset it was just a video of taylor swift and I wasted their time\n\nmy dawgs\n\ni have some news for you about me",
+            "created_at": "2025-11-03T23:21:14Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a video of Taylor Swift and responses from people who felt their time was wasted. There is no mention of a cyberattack or any related topic."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985486410690830635",
+            "text": "Over the last year, certain AI markets appear to be nearly sewn up by startup market leaders. https://t.co/R4hLd50c8o",
+            "created_at": "2025-11-03T23:17:03Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the dominance of certain AI markets by startup leaders, focusing on market trends rather than any indication or mention of a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985481379375612393",
+            "text": "Flock said around 3% of its law enforcement customers do not use multi-factor authentication, potentially exposing dozens of law enforcement agency accounts open to compromise and improper access. https://t.co/g9jYZk94KO",
+            "created_at": "2025-11-03T22:57:03Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the lack of multi-factor authentication among some law enforcement customers of Flock, which poses a risk of accounts being compromised. However, it does not explicitly mention a cyberattack occurring. Instead, it highlights a potential vulnerability that could lead to unauthorized access."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985478871991333203",
+            "text": "OpenAI's approach to working with copyrighted content is to ask forgiveness, not permission. https://t.co/MafBthDD7t",
+            "created_at": "2025-11-03T22:47:06Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing OpenAI's approach to handling copyrighted content, which does not involve a cyberattack. There is no mention of hacking, data breaches, or any malicious activities typically associated with cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985477603029897335",
+            "text": "Locket's social app is using iOS Live Activities to reach Gen Alpha via the iPhone Lock Screen. https://t.co/CjZkpOmXqn",
+            "created_at": "2025-11-03T22:42:03Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Locket's social app and its use of iOS Live Activities to engage Gen Alpha, without mentioning anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985476343820120343",
+            "text": "The CEOs of OpenAI and Microsoft are betting that AI will continue to consume more electricity, but they're not sure how much. That could leave some investors holding the bag. https://t.co/OxkleluBBJ",
+            "created_at": "2025-11-03T22:37:03Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the CEOs of OpenAI and Microsoft and their concerns related to the consumption of electricity by AI, along with implications for investors. It does not mention any cyberattacks or related cybersecurity issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985469538566132116",
+            "text": "Thanksgiving can be daunting. Meal kit boxes from Sunbasket and Marley Spoon offer the satisfaction of making a home-cooked feast with a lot less stress. https://t.co/tbJdFbwyDK",
+            "created_at": "2025-11-03T22:10:00Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses meal kit boxes from Sunbasket and Marley Spoon in the context of making Thanksgiving easier. There is no mention of a cyberattack or any related topic."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985466279671558343",
+            "text": "Before this update, users could see individual pages for apps on the web, but there was no way to browse within the App Store. https://t.co/FvmjaEFCJI",
+            "created_at": "2025-11-03T21:57:03Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses an update regarding the App Store and its functionality, specifically about users being able to see individual app pages. There is no mention of a cyberattack or any reference to cybersecurity."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985463765177913429",
+            "text": "Peter Williams sold eight exploits to a Russian zero-day broker by smuggling them from his employer’s highly secured air-gapped network. A court document, plus exclusive reporting by TechCrunch and interviews with former Trenchant staff, explains how Wi... https://t.co/l7dHyw00z2",
+            "created_at": "2025-11-03T21:47:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses Peter Williams selling exploits related to a highly secured network, which suggests a breach of security measures often associated with cyberattacks. The mention of exploits and a zero-day broker indicates involvement in the cyberattack ecosystem."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985458734336729544",
+            "text": "This deal was announced just hours after Microsoft announced a $9.7 billion deal with Australian data center company IREN. https://t.co/JVVYWRceP5",
+            "created_at": "2025-11-03T21:27:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a business deal between Microsoft and an Australian data center company, IREN. There is no mention of a cyberattack, so it does not pertain to that topic."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985451167057338731",
+            "text": "Thanksgiving can be daunting. Meal kit boxes from Sunbasket or Marley Spoon offer the satisfaction of making a home-cooked feast, with a lot less stress. https://t.co/tbJdFbwyDK",
+            "created_at": "2025-11-03T20:57:00Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses meal kit boxes and home-cooked meals for Thanksgiving, which is unrelated to cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985434571337302368",
+            "text": "Three people, including two U.S. ransomware negotiators, are accused of working on behalf of the ALPHV/BlackCat ransomware gang. https://t.co/o2sug8dXAz",
+            "created_at": "2025-11-03T19:51:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses individuals accused of working for a ransomware gang, which implies involvement in cybercrime activities, specifically a cyberattack scenario involving ransomware."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985433317613719729",
+            "text": "Detroit, Las Vegas, and San Diego are next on Waymo's robotaxi tick list. https://t.co/Nmz4vNZT5G",
+            "created_at": "2025-11-03T19:46:05Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Waymo's plans for expanding its robotaxi services to various cities and does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985429305426387216",
+            "text": "Get your pictures off your phone and in front of your loved ones with our favorite digital picture frames. https://t.co/C7STSe4Edt",
+            "created_at": "2025-11-03T19:30:08Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses digital picture frames and suggests getting pictures off your phone to share with loved ones. It does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985428224290197838",
+            "text": "But many now worry that the race to build ever-more infrastructure—and the unusual financial agreements behind the deals—are a sign of an AI bubble.\nhttps://t.co/obsBQ47ZvU",
+            "created_at": "2025-11-03T19:25:50Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses concerns about infrastructure and financial agreements related to AI, but it does not mention or imply anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985428160725627308",
+            "text": "One analyst says that OpenAI’s strategy is to limit its dependence on any one cloud provider. “OpenAI is deploying with pretty much everybody at this point.\"\nhttps://t.co/obsBQ47ZvU",
+            "created_at": "2025-11-03T19:25:35Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses OpenAI's strategy regarding cloud providers, focusing on their deployment strategies and partnerships. There is no mention or implication of a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985428141083349270",
+            "text": "The Trump administration has recast Binance founder CZ as a martyr—and his pardon may have unintended consequences for the US crypto industry. https://t.co/q5DXzkxeWN",
+            "created_at": "2025-11-03T19:25:30Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the Trump administration's portrayal of Binance founder CZ and its implications for the US crypto industry. It does not mention anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985426261871567296",
+            "text": "Save a chunk of change on the excellent Google Pixel Buds Pro 2. https://t.co/M65saqX9SA",
+            "created_at": "2025-11-03T19:18:02Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a sale on Google Pixel Buds Pro 2 and does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985423692319387718",
+            "text": "OpenAI has committed to buying billions of dollars worth of compute from AWS—the latest in a string of major deals brokered by the AI startup. https://t.co/roKHGrMQB0",
+            "created_at": "2025-11-03T19:07:50Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses OpenAI's commitment to purchasing compute resources from AWS and does not contain any information or context regarding a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985423690087965016",
+            "text": "In this episode of “Uncanny Valley,” we run through the top stories of the week and dive into why the promise of a tech-forward school in Texas with software instead of teachers fell apart. https://t.co/Mc5Vy0c2Bn",
+            "created_at": "2025-11-03T19:07:49Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses an episode of a podcast that covers stories about technology and education, specifically mentioning a tech-forward school and its issues. There is no indication or mention of a cyberattack in the content."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985417975919247831",
+            "text": "What do you think about me sharing this with my interior designer https://t.co/Yqta4ArnKX",
+            "created_at": "2025-11-03T18:45:07Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to a cyberattack. It appears to be about sharing something with an interior designer, which is unrelated to cyber threats or attacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985410902670131626",
+            "text": "From workout-ready earbuds to gaming over-ears, these WIRED-tested picks sound like a million bucks. https://t.co/6l0LmAxWzK",
+            "created_at": "2025-11-03T18:17:01Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to a cyberattack. It discusses earbuds and headphones, which have no connection to cyber security or attacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985409411855139171",
+            "text": "Facebook is making it possible for private Groups to switch to public without compromising members' privacy. https://t.co/DCPKnzPkj0",
+            "created_at": "2025-11-03T18:11:05Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Facebook's privacy settings for Groups and does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985408089370083581",
+            "text": "Your friend came to you because they respect your knowledge and opinion, and outsourcing the answer to a machine is lazy and rude. Just answer them yourself. https://t.co/fCBco7wcS2",
+            "created_at": "2025-11-03T18:05:50Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses personal interaction and knowledge sharing rather than a cyberattack. There is no mention or implication of hacking or digital threats."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985406889413280119",
+            "text": "Desktop users who have enhanced autofill enabled with see their passport and driver’s license number, vehicle information, like their license plate or VIN, and more automatically filled. https://t.co/ScZD7sN8R3",
+            "created_at": "2025-11-03T18:01:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything about a cyberattack. It discusses the autofill feature for desktop users related to personal identification information, which is not directly related to cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985393306696610265",
+            "text": "Dia's AI browser has a head start on what works for consumers thanks to learnings from its browser experiment, Arc. https://t.co/Ybh83fZ0uR",
+            "created_at": "2025-11-03T17:07:05Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing an AI browser developed by Dia and its advantages over prior experiments. It does not mention anything related to a cyberattack, focusing instead on technological advancements and product development."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985393298303770676",
+            "text": "The Indian fintech already has a presence in 20 countries worldwide. https://t.co/VblOzD9wr2",
+            "created_at": "2025-11-03T17:07:03Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the presence of an Indian fintech company in 20 countries and does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985389273248416018",
+            "text": "The awards will include \"Creator of the Year,\" \"Video of the Year,\" \"Muse of the Year,\" \"Breakthrough Artist of the Year,\" and more. https://t.co/c4NHusm4Qe",
+            "created_at": "2025-11-03T16:51:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses various awards related to the entertainment or creator industry, without any mention of a cyberattack or related context."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985382696382611582",
+            "text": "The State of AI: Is China about to win the race? https://t.co/JUNh4M2tsU",
+            "created_at": "2025-11-03T16:24:56Z",
+            "username": "techreview"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses artificial intelligence and its geopolitical aspects, specifically mentioning China and the race in AI technology. It does not mention a cyberattack or any related cybersecurity issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985371835697971457",
+            "text": "#Internet traffic has once again started to increase in #Tanzania, climbing after 14:00 UTC. However, we will need to watch and see if connectivity remains available, or if recovery is short-lived, as it was on October 30. https://t.co/3zjljA9Rcb",
+            "created_at": "2025-11-03T15:41:46Z",
+            "username": "CloudflareRadar"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses internet traffic patterns in Tanzania and expresses a concern about connectivity, but it does not explicitly mention a cyberattack or any related cybersecurity events. Therefore, it does not pass the question regarding whether it is talking about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985368707309461973",
+            "text": "RT @thehelpdeskgirl: Got Twins? 🐄🍪🍪🥛 https://t.co/xYeRw8OMS8",
+            "created_at": "2025-11-03T15:29:20Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet is a light-hearted message featuring an emoji and a rhetorical question about having twins, with no mention or implication of a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985367742497669599",
+            "text": "NATO just posted this on Instagram. YAAAAAAASSS https://t.co/tGUFGALfYd",
+            "created_at": "2025-11-03T15:25:30Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet is expressing excitement about a post from NATO on Instagram, but it does not mention or imply anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985367634406260843",
+            "text": "OpenAI isn't done securing the AI infrastructure it needs to rapidly scale agentic workloads. The ChatGPT-maker on Monday said it has reached a deal with Amazon to buy $38 billion in cloud computing services over the next seven years.   https://t.co/XXM6Ux4q39",
+            "created_at": "2025-11-03T15:25:05Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a business deal between OpenAI and Amazon concerning cloud computing services, and does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985354871264989533",
+            "text": "Apple gives you a lot of control over your privacy and security. Make good use of it. https://t.co/UT3zvBauWY",
+            "created_at": "2025-11-03T14:34:22Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing Apple's privacy and security features without mentioning any cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985352534324634025",
+            "text": "For the first time, the U.S. has granted Microsoft a license to export Nvidia chips to the UAE – a move that positions the country as both a proving ground for U.S. export-control diplomacy and a regional anchor of American AI influence.   https://t.co/PGky3aQBHG",
+            "created_at": "2025-11-03T14:25:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a license granted to Microsoft for exporting Nvidia chips to the UAE, which is related to technology and AI influence. It does not mention or imply anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985347980489101670",
+            "text": "Brian Koo’s Stock Farm Road and Utopai Studios have partnered up to form Utopai East, an AI-powered film production company. https://t.co/9KBgRfdPgJ",
+            "created_at": "2025-11-03T14:06:59Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the formation of a new AI-powered film production company and does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985347776088031453",
+            "text": "An innovative use of @CloudflareRadar data!",
+            "created_at": "2025-11-03T14:06:10Z",
+            "username": "CloudflareRadar"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to a cyberattack. It talks about an innovative use of CloudflareRadar data, which could be related to internet services but does not imply any malicious activity or cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985347501143028005",
+            "text": "The deal will give Microsoft access to compute infrastructure built with Nvidia's GB300 GPUs, which will be deployed over phases through 2026. https://t.co/Unk4TgAtiu",
+            "created_at": "2025-11-03T14:05:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a deal between Microsoft and Nvidia related to access to compute infrastructure and GPUs. There is no mention or indication of a cyberattack in the content of the tweet."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985340752973439097",
+            "text": "The Download: gene-edited babies, and cleaning up copper https://t.co/5PLRMFgCDR",
+            "created_at": "2025-11-03T13:38:16Z",
+            "username": "techreview"
+          },
+          "pass": false,
+          "reasoning": "The tweet from techreview is discussing topics related to gene editing and environmental clean-up, which are not related to cyberattacks. Therefore, it does not talk about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985318214373650839",
+            "text": "RT @CloudflareRadar: For the sixth day, #HurricaneMelissa’s impact on Internet traffic is still being felt in Jamaica, with a slight recove…",
+            "created_at": "2025-11-03T12:08:42Z",
+            "username": "CloudflareRadar"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the impact of Hurricane Melissa on Internet traffic in Jamaica, which is unrelated to a cyberattack. Instead, it focuses on a natural disaster's effect."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985317633604891092",
+            "text": "Skip the tourist traps. Here’s what to do in Chicago when you’re on and off the clock. https://t.co/nSA07jmm0o",
+            "created_at": "2025-11-03T12:06:23Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is recommending activities to do in Chicago, and it does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985317425374540257",
+            "text": "For the sixth day, #HurricaneMelissa’s impact on Internet traffic is still being felt in Jamaica, with a slight recovery over the weekend and traffic remaining around 40% below pre-hurricane levels.\nhttps://t.co/YAl133axGz https://t.co/sFZ2jREEqX",
+            "created_at": "2025-11-03T12:05:34Z",
+            "username": "CloudflareRadar"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the impact of Hurricane Melissa on Internet traffic in Jamaica and does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985306794613231969",
+            "text": "This startup wants to clean up the copper industry https://t.co/7nV4XJ4UaB",
+            "created_at": "2025-11-03T11:23:19Z",
+            "username": "techreview"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a startup that aims to improve the copper industry, which is unrelated to cyberattacks. There are no indications or mentions of a cyberattack within the content of the tweet."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985302632064311407",
+            "text": "While puzzling captchas—from dogs in hats to sliding jockstraps—still exist, most bot-deterring challenges have vanished into the background. https://t.co/yuGnILNaZa",
+            "created_at": "2025-11-03T11:06:47Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses bot-deterring challenges and their evolution, specifically mentioning captchas. It does not mention anything related to a cyberattack, security breaches, or any form of hacking."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985294892776460330",
+            "text": "As the Trump administration ramps up its targeting of left-leaning people and groups, the prosecution and harsh sentencing of Casey Goonan may provide a glimpse of things to come. https://t.co/QrpzFR46wp",
+            "created_at": "2025-11-03T10:36:02Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the actions of the Trump administration in relation to prosecution and sentencing, but it does not mention or imply anything related to a cyberattack. The subject matter focuses on political actions rather than cybersecurity issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985287842260533492",
+            "text": "A major breach of the Kansas City, Kansas, Police Department reveals, for the first time, a list of alleged officer misconduct including dishonesty, sexual harassment, excessive force, and false arrest. https://t.co/Z6oVBHvhfB",
+            "created_at": "2025-11-03T10:08:01Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a breach of the Kansas City Police Department revealing misconduct by officers, but it does not explicitly mention a cyberattack. It focuses on the implications of the breach regarding officer behavior rather than the nature of the breach itself."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985169281609335222",
+            "text": "RT @vxunderground: Spoke to a Threat Actor recently who just got done serving a few years in federal prison the United States.\n\nHe was conv…",
+            "created_at": "2025-11-03T02:16:54Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet references a conversation with a 'Threat Actor' who has served time in prison, which suggests a focus on criminal behavior related to cyber activities, but it does not explicitly mention a cyberattack. The context of the conversation might imply cybersecurity issues, but without direct mention of a cyberattack, it cannot be concluded definitively that the tweet is talking about one."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985164547175428475",
+            "text": "\"As an investor, you kind of have to not only say, okay, cool tech, sure, but emotionally, how does it make me feel? And how does it make others feel around me?\" https://t.co/nioJhOFS4w",
+            "created_at": "2025-11-03T01:58:05Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the emotional and subjective experience of investing in technology, rather than talking about a cyberattack. It focuses on feelings and perceptions related to tech rather than any security breach or attack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985151965383323755",
+            "text": "Despite the emphasis on detachment from ideas, X employees do have significant skin in the game when projects spin out. https://t.co/Yc8HHU1WBa",
+            "created_at": "2025-11-03T01:08:05Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to cyberattacks or cybersecurity. It discusses the involvement of employees in projects at X, suggesting a focus on company culture or business operations rather than any form of attack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985134093806219650",
+            "text": "At Disrupt, Botha had advice for founders who are swimming in terms sheets right now. https://t.co/o8D57Ej6tq",
+            "created_at": "2025-11-02T23:57:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses advice for founders at a tech event, specifically regarding terms sheets, and does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985107149853241765",
+            "text": "Live TV is far from dead, but it looks a little bit different these days. These are our favorite services. https://t.co/G2ECGAko3r",
+            "created_at": "2025-11-02T22:10:00Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the state of live TV and mentions favorite services associated with it. There is no indication or mention of a cyberattack in the content."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985093828076859778",
+            "text": "Senator Martha Blackburn argued Gemma’s fabrications are “not a harmless ‘hallucination,’\" but rather “an act of defamation produced and distributed by a Google-owned AI model.” https://t.co/ivwDXSUFaW",
+            "created_at": "2025-11-02T21:17:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Senator Martha Blackburn's comments regarding defamation caused by an AI model, not a cyberattack. It does not reference any incidents involving computer networks or system breaches typical of a cyberattack scenario."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985088777933504813",
+            "text": "This motorized office chair has a built-in battery that powers a spinal massage when you need a break from the screen. https://t.co/2rssYICeVI",
+            "created_at": "2025-11-02T20:57:00Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a motorized office chair with a massage feature, which is unrelated to cyberattacks. It focuses on office comfort rather than cybersecurity issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985074554574680330",
+            "text": "Fake video walk-throughs, a magically expanding loft, and stair hallucinations are just some of the new AI-generated features house hunters are coming across. https://t.co/DbNclseJ08",
+            "created_at": "2025-11-02T20:00:29Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses AI-generated features related to house hunting and does not mention or allude to any cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985066902406795370",
+            "text": "Aura's new digital photo frame changes the game with a fully wireless device and E Ink screen. https://t.co/Fvay03Xc3O",
+            "created_at": "2025-11-02T19:30:04Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a digital photo frame and its features, focusing on its wireless capability and E Ink screen. There is no mention of a cyberattack or any related topic."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985048513374212548",
+            "text": "Meta's new display-less smart glasses are quite good, but the vibes are off. https://t.co/q9Qy5AchJH",
+            "created_at": "2025-11-02T18:17:00Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Meta's new smart glasses and their appeal, but it does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985033567907299424",
+            "text": "Original bioshock infinite key blank https://t.co/qPmmxMIp6d",
+            "created_at": "2025-11-02T17:17:37Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions 'bioshock infinite key blank', which suggests it is a reference to a video game item rather than a cyberattack. There is no indication or context in the tweet that relates to cyberattacks or any security issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985033179871293699",
+            "text": "OpenAI CEO Sam Altman recently said that the company is doing “well more” than $13 billion in annual revenue — and he sounded a little testy when pressed on how it will pay for its massive spending commitments. https://t.co/tqquHx7TVL",
+            "created_at": "2025-11-02T17:16:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses OpenAI CEO Sam Altman and the company's financial performance, specifically mentioning annual revenue and spending commitments. There is no mention of a cyberattack or anything related to cybersecurity."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985030663129501939",
+            "text": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation. https://t.co/p7yeZhb5T4",
+            "created_at": "2025-11-02T17:06:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet is about TechCrunch Mobility and news related to transportation, and it does not mention anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985018333230432555",
+            "text": "Meta's AI spending is starting to make Wall Street nervous. https://t.co/Mg4PJS744T",
+            "created_at": "2025-11-02T16:17:05Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Meta's AI spending and its effects on Wall Street, but does not mention or imply anything about a cyberattack. Instead, it focuses on financial concerns regarding AI investment."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985018083321209183",
+            "text": "The White House released more details Saturday about a trade deal reached between U.S. President Donald Trump and Chinese President Xi Jinping. https://t.co/QbxEwFfjv9",
+            "created_at": "2025-11-02T16:16:05Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a trade deal between the U.S. and China, which is unrelated to topics of cyberattacks or cybersecurity. It focuses on diplomatic relations and economic agreements rather than any form of cyber incident."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985003302430401021",
+            "text": "TechCrunch is getting back to our roots with Build Mode, a new podcast to help guide you through the messy, unpredictable journey of building an early-stage startup. \n\nNo sugarcoating. No hype. Just candid conversations and actionable advice from people who’ve been there before.\n\nIf you’re building a company, or even thinking about it, this is your survival guide. Mark your calendar. Season 1 launches November 13, and you can subscribe to be first in line here: https://t.co/3s9iV1Lhyo",
+            "created_at": "2025-11-02T15:17:21Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a podcast focused on building early-stage startups and does not mention a cyberattack or cybersecurity topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984955819260100624",
+            "text": "“Anomalous” heat flow, which at first appears to violate the second law of thermodynamics, gives physicists a way to detect quantum entanglement without destroying it. https://t.co/C87IkqkBPL",
+            "created_at": "2025-11-02T12:08:40Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a scientific concept related to physics, specifically heat flow and quantum entanglement, and does not mention or imply anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984954356781736393",
+            "text": "Skip the tourist traps. Here’s what to do in Austin when you’re on and off the clock. https://t.co/OSef8vPzBi",
+            "created_at": "2025-11-02T12:02:51Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses activities to do in Austin and does not mention anything related to a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984938982057165184",
+            "text": "We dive into the pros and cons of cold plunging to see whether this popular wellness trend really is worth the chill. https://t.co/mqMQNr32o7",
+            "created_at": "2025-11-02T11:01:46Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing cold plunging, a wellness trend, and does not mention anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984924649432416655",
+            "text": "The venue where the first game of the World Cup will be held on June 11 next year is a legendary piece of world soccer history. It's getting a new field, a new roof, and countless modern upgrades. https://t.co/YZLSjiuBPo",
+            "created_at": "2025-11-02T10:04:49Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the preparations for the World Cup, specifically focusing on upgrades to the venue. There is no mention of a cyberattack or any related terms."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984772497049317717",
+            "text": "From monsters to kittens to strategy games, these sets will liven things up on nights when everyone is tired of screens. https://t.co/4Jq3150JkZ",
+            "created_at": "2025-11-02T00:00:13Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses various activities and sets for entertainment, specifically highlighting themes like 'monsters', 'kittens', and 'strategy games'. There is no mention or implication of a cyberattack in the content."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984753579773550594",
+            "text": "When it rains, it pours. Here are our picks for cold, wet days—plus expert tips on deciphering product specs. https://t.co/zivfHNXOvd",
+            "created_at": "2025-11-01T22:45:03Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions product picks and tips for cold, wet days, which does not indicate any discussion about a cyberattack. It focuses on consumer advice rather than security issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984730930980794551",
+            "text": "OpenAI released initial estimates about the share of users who may be experiencing symptoms like delusional thinking, mania, or suicidal ideation, and says it has tweaked GPT-5 to respond more effectively.  https://t.co/DZKWrD8c9x",
+            "created_at": "2025-11-01T21:15:03Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses OpenAI's estimates about user symptoms related to its technology and adjustments to GPT-5, but it does not mention or imply a cyberattack. The content is focused on user experience and the technology rather than security threats."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984729663629844657",
+            "text": "Unlock the course and raise your game with the best golf rangefinders you can buy. https://t.co/YiomZ70juH",
+            "created_at": "2025-11-01T21:10:00Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything about a cyberattack. It is advertising a course related to golf rangefinders, which is unrelated to cyber security."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984712816079618286",
+            "text": "Elon Musk and Sam Altman are still taking swipes at each other on Musk’s social media platform X. https://t.co/ql7DN5tcqM",
+            "created_at": "2025-11-01T20:03:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet refers to Elon Musk and Sam Altman's interactions on a social media platform, but it does not mention a cyberattack or any related activities. It focuses on personal exchanges rather than cybersecurity issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984711291173253574",
+            "text": "Lectric upgraded its most popular bike with greater range, a new color display, and a better torque sensor. https://t.co/2WGT3sEd1X",
+            "created_at": "2025-11-01T19:57:00Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses an upgraded bicycle model that includes features like greater range, a new display, and a better torque sensor. There is no indication or mention of a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984689438258012449",
+            "text": "He’s one of the loudest voices of the AI haters—even as he does PR for AI companies. Either way, Ed Zitron has your attention. https://t.co/z4hex9UGxT",
+            "created_at": "2025-11-01T18:30:10Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Ed Zitron's position and actions regarding AI but does not mention or imply a cyberattack. The focus is on the individual's views about AI, rather than cyber threats or attacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984671026119061538",
+            "text": "WIRED brought 10 of the most popular artificial Christmas trees into a studio, had volunteers assemble them, then got three interior designers to pick the best through blind judging. https://t.co/L67JzoN7J6",
+            "created_at": "2025-11-01T17:17:00Z",
+            "username": "WIRED"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a feature about artificial Christmas trees and does not mention anything related to cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984667519282512330",
+            "text": "While Armstrong may have helped some Kalshi and Polymarket users make a little money, he was also illustrating how easily these markets can be manipulated. https://t.co/9hdhRr7kxw",
+            "created_at": "2025-11-01T17:03:04Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses market manipulation related to Kalshi and Polymarket, but it does not mention or imply any cyberattack. It focuses on financial markets rather than cybersecurity issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984663824553623624",
+            "text": "RT @dontblamealex: Happy halloween to them https://t.co/YJuohHBzhQ",
+            "created_at": "2025-11-01T16:48:23Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet is a retweet with a Halloween greeting and a link, which does not mention or imply anything about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984663671373455783",
+            "text": "RT @dustinfreeman: @CSMFHT wtf https://t.co/uq0sZ7PkBI",
+            "created_at": "2025-11-01T16:47:47Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not provide any content or context that refers to a cyberattack. The use of 'wtf' suggests confusion or shock, but without additional information or clarity about the topic being discussed, we cannot conclude it is about a cyberattack."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984662161797358045",
+            "text": "Watch this",
+            "created_at": "2025-11-01T16:41:47Z",
+            "username": "SwiftOnSecurity"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not provide any context or information that directly indicates it is discussing a cyberattack. It only contains the phrase 'Watch this', which could refer to various topics or media, but lacks specific mention of cyberattacks."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984656197278970197",
+            "text": "A majority of consumers say they’re worried about data centers driving up electricity costs. Is the industry prepared for a possible backlash? https://t.co/P6KWBUeuV1",
+            "created_at": "2025-11-01T16:18:05Z",
+            "username": "TechCrunch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses consumers' concerns about electricity costs related to data centers, but it does not mention or imply anything about a cyberattack."
+        }
+      ],
+      "count": 264,
+      "filter_question": "Is this tweet talking about a cyberattack?",
+      "summarization_question": "Summarize cyberattack news last week",
+      "summary": "Direct answer\nLast week’s major cyberattack news clustered around insider-enabled theft and exploitation of high-value vulnerabilities, alleged collusion between cybercriminal groups and intermediaries, a notable university data breach, and a wave of online harassment driven by false claims. The biggest stories: an L3Harris (Trenchant) executive allegedly stole and sold zero‑day exploits to a Russian broker (including eight exploits reportedly smuggled from an air‑gapped network) [TechCrunch report](https://x.com/TechCrunch/status/1985463765177913429) and broader reporting about that theft surfaced via security commentators (see retweet/coverage) (https://x.com/SwiftOnSecurity/status/1985748330459131984); prosecutors also allege three people — including two U.S. ransomware negotiators — worked for the ALPHV/BlackCat ransomware gang (https://x.com/TechCrunch/status/1985434571337302368); the University of Pennsylvania experienced a data breach with hackers sending boastful messages to the campus community (https://x.com/TechCrunch/status/1986093414278967667); and a misinformation-driven harassment campaign targeted high‑school teachers after an inaccurate claim from a Turning Point USA official (https://x.com/WIRED/status/1985794492494938300).\n\nKey themes and topics\n- Insider risk and privileged-access abuse: reporting highlights a Trenchant/L3Harris employee allegedly extracting zero‑day exploits from an air‑gapped environment and selling them to criminal brokers, showing how trusted insiders can bypass technical and physical controls (https://x.com/TechCrunch/status/1985463765177913429).  \n- Commercialization of exploits and criminal markets: zero‑day vulnerabilities continue to be commodified and traded on opaque markets and through brokers — raising the stakes for defenders and increasing the speed at which high‑impact vulnerabilities enter criminal use (https://x.com/SwiftOnSecurity/status/1985748330459131984).  \n- Ransomware organization links and insider facilitation: allegations that people with roles in ransomware negotiation or cyber response worked with ALPHV/BlackCat point to blurred lines between defenders/negotiators and criminal actors, complicating incident response and trust (https://x.com/TechCrunch/status/1985434571337302368).  \n- Data breaches at institutions and public-facing bragging: the Penn incident shows attackers continuing to target higher‑education institutions and use public messaging to amplify impact and sow fear (https://x.com/TechCrunch/status/1986093414278967667).  \n- Harassment and misinformation triggering online attacks: false claims about teachers’ behavior led to targeted harassment and death threats, illustrating how social-engineering and misinformation can produce real-world safety risks for non‑technical targets (https://x.com/WIRED/status/1985794492494938300).\n\nNotable patterns and trends\n- Increasing role of insiders: multiple stories underscore a trend where employees or contractors with privileged access become a primary vector for high‑impact compromise, rather than just external exploitation.  \n- Cross‑pollination between criminal markets and corporate/government ecosystems: allegations of exploit sales from corporate air‑gapped environments and the involvement of negotiation professionals with criminal gangs suggest criminal groups are recruiting or otherwise leveraging expertise from the sectors they target.  \n- Exploits quickly translating into criminal capability: thefts of zero‑days appear to accelerate criminal operations because they give attackers ready-made tools to breach hardened targets.  \n- Information operations feeding harassment cycles: misinformation on social platforms continues to convert into directed harassment and threats, and those campaigns can be treated as a cyber‑adjacent risk to public safety.\n\nImportant mentions, interactions, and data points\n- The TechCrunch deep dive names Peter Williams and reports he sold eight exploits after smuggling them from an air‑gapped Trenchant (L3HarrisTech) environment; reporting is based on court documents and interviews with former staff (https://x.com/TechCrunch/status/1985463765177913429).  \n- Security commentators and researchers amplified new details about how those exploits reached a Russian broker (see SwiftOnSecurity retweet of reporting and analysis) (https://x.com/SwiftOnSecurity/status/1985748330459131984).  \n- Prosecutors allege three people — including two U.S. ransomware negotiators — acted on behalf of the ALPHV/BlackCat gang, signaling potential insider or collusive roles in facilitating ransomware operations (https://x.com/TechCrunch/status/1985434571337302368).  \n- At the University of Pennsylvania, hackers sent messages to the community boasting of the breach, indicating attackers used public messaging to maximize disruption and reputational damage (https://x.com/TechCrunch/status/1986093414278967667).  \n- A false claim by a Turning Point USA official about a high‑school math department’s Halloween costumes led to a torrent of online attacks and death threats against teachers, demonstrating information‑driven harm beyond traditional data theft (https://x.com/WIRED/status/1985794492494938300).\n\nSignificant events (one‑paragraph treatment each)\n- Trenchant/L3Harris insider exploit theft and sales: Reporting and court documents indicate a Trenchant (L3HarrisTech) employee, identified in reporting as Peter Williams, removed and sold eight exploits from an air‑gapped network to a Russian zero‑day broker. The details — smuggling from a highly secured environment, the number of exploits, and corroboration from former staff — mark this as a high‑severity insider compromise that could seed major future intrusions and erode confidence in air‑gapped protections (https://x.com/TechCrunch/status/1985463765177913429). Security observers amplified the story and its implications for markets that buy and sell zero‑days (https://x.com/SwiftOnSecurity/status/1985748330459131984).\n\n- Alleged ALPHV/BlackCat collusion with U.S. negotiators: Authorities have accused three people, including two individuals described as U.S. ransomware negotiators, of working on behalf of the ALPHV/BlackCat ransomware gang. If proven, these allegations point to worrying intersections between those who interface with victims/organizations and the criminal groups they are supposed to counter — a trend that could undermine incident response integrity and complicate law enforcement efforts (https://x.com/TechCrunch/status/1985434571337302368).\n\n- University of Pennsylvania breach and public taunting: The University of Pennsylvania experienced a breach in which hackers sent messages to the university community boasting of the compromise. The attackers’ use of public messaging to claim credit suggests an intent to amplify reputational harm and fear, a tactic increasingly common in criminal extortion and leak operations (https://x.com/TechCrunch/status/1986093414278967667).\n\n- Misinformation driving harassment of teachers: A Turning Point USA official falsely claimed a high‑school math department wore costumes mocking Charlie Kirk; that falsehood provoked a flood of online attacks and death threats against teachers. This shows how social misinformation can quickly escalate into targeted threats and offline safety concerns for individuals not traditionally considered cybersecurity targets (https://x.com/WIRED/status/1985794492494938300).\n\nOverall assessment\nLast week’s coverage highlights a convergence of insider risk, exploit commodification, and criminal market activity that materially raise cyber risk for organizations — especially those relying on air‑gapped or high‑assurance systems. At the same time, information operations and misinformation continue to produce harm via harassment and reputational attacks. Defenders should treat privileged insiders and the supply chains of exploits as top priorities, and organizations should prepare for attacks that combine technical breaches with public messaging and extortion strategies."
+    },
+    "completed_at": "2025-11-08T15:08:49.791221Z",
+    "processing_time_seconds": 104
+  }
+}

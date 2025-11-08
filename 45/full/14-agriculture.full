@@ -1,0 +1,2948 @@
+{
+  "success": true,
+  "message": "Job results retrieved successfully",
+  "data": {
+    "job_id": "329a3c76-bd6b-4e02-8645-9e167664ed8c",
+    "status": "completed",
+    "results": {
+      "filtered_tweets": [
+        {
+          "tweet": {
+            "tweet_id": "1987171941929701783",
+            "text": "RT @volcaholic1: Aerial view of the catastrophic damage from the monster tornado that tore through Rio Bonito do Iguaçu, Paraná, Brazil, ye…",
+            "created_at": "2025-11-08T14:54:45Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a tornado and its damage, which is related to natural disasters rather than agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1987170263339831549",
+            "text": "RT @volcaholic1: 🚨 Massive tornado in Brazil.\n\nA powerful tornado tore through Rio Bonito do Iguaçu, Paraná, Brazil, yesterday, leaving at…",
+            "created_at": "2025-11-08T14:48:05Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a natural disaster, specifically a tornado, and its impact on a location in Brazil. It does not mention agricultural developments or any related topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1987158162294657421",
+            "text": "Last weekend you changed your clocks, but if your ceiling fan isn’t spinning in the right direction for the colder months, you’re blowing all of your warm air (and your money) away.  https://t.co/MnNU0AmFVo",
+            "created_at": "2025-11-08T14:00:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing the importance of ceiling fan direction for energy efficiency during colder months, which does not relate to agricultural developments. It focuses on home heating and energy savings rather than farming or agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1987142584272052330",
+            "text": "Video showing the monster tornado that hit Rio Bonito do Iguaçu, Paraná, Brazil, yesterday 😳\nhttps://t.co/TD3LDP2HU1",
+            "created_at": "2025-11-08T12:58:06Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a tornado event in Brazil and shows a video related to that incident. It does not talk about agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1987132460866404830",
+            "text": "Thank you so much for subscribing @analogue_user. I really appreciate your support  🥰",
+            "created_at": "2025-11-08T12:17:52Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is expressing gratitude for a subscription and appreciating support, which is related to social interaction rather than agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1987132020154065234",
+            "text": "Aerial view of the catastrophic damage from the monster tornado that tore through Rio Bonito do Iguaçu, Paraná, Brazil, yesterday, leaving at least five people dead and over 430 injured.\n\nIt looks like a war zone!\n\n📹 Alex Rafael Silvério https://t.co/dtNOqb8G6A",
+            "created_at": "2025-11-08T12:16:07Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet describes a tornado and its destructive impact on a location in Brazil, focusing on the aftermath including casualties and injuries. It does not mention agricultural developments or any related topics, so the tweet does not align with the question asked."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1987129623239393737",
+            "text": "🚨 Massive tornado in Brazil.\n\nA powerful tornado tore through Rio Bonito do Iguaçu, Paraná, Brazil, yesterday, leaving at least five people dead and over 430 injured. \n\nWinds reached up to 250 km/h, flattening much of the city and leaving what officials described as a “war-like scene.” Around 80% of the urban area was severely damaged, with widespread power outages and disrupted water supplies.\n\nEmergency teams from across Paraná, including Curitiba, were deployed for search and rescue operations, and a field hospital was set up to treat the injured. \n\nThe tornado, confirmed by meteorologists as an F2 event and possibly an F3, formed from a supercell storm, marking one of the most destructive weather disasters to hit the region in recent years.",
+            "created_at": "2025-11-08T12:06:35Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a natural disaster (a tornado) and its aftermath, including casualties and damage. It does not mention agricultural developments, which would focus on farming techniques, crop management, or innovations in agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1987129050398130400",
+            "text": "Flash flooding in Caiteté, Bahia in Brazil yesterday...🌊 https://t.co/7aYMDpZQa4",
+            "created_at": "2025-11-08T12:04:19Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses flash flooding that occurred in a specific location, mentioning relevant weather conditions. It does not mention any agricultural developments or issues relating to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1987125465958490477",
+            "text": "Six people died and four were injured, one seriously, in a fire at a perfume filling facility in Dilovası, Kocaeli in Turkey this morning. \n\nAn investigation is ongoing.\nhttps://t.co/4p9IAocdDs",
+            "created_at": "2025-11-08T11:50:04Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet describes an incident involving a fire at a perfume filling facility, which is not related to agricultural developments. It focuses on a tragic event rather than any advancements or topics in agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1987109656700068011",
+            "text": "We're seeing scenes like this again and again and again!\n\n📍 Philippines https://t.co/it7xG24HxO",
+            "created_at": "2025-11-08T10:47:15Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions 'scenes' in the Philippines but does not provide any specific information or context about agricultural developments. It lacks direct references to agriculture or related topics, making it unlikely that the tweet is discussing agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1987108886608847040",
+            "text": "👀 DON'T LOOK AWAY 👀\n\nHow many more videos like this will it take for people to finally wake up to the reality of climate change?\n\nIt’s happening now. Rising temperatures, stronger storms, and shifting weather patterns are claiming lives, devastating agriculture, harming wildlife, and destabilizing the ecosystems that sustain us all.\n\nWAKE UP!!\n\nThis is in the Philippines during the catastrophic flooding from Typhoon Kalmaegi. The death toll has now risen to 224 with many still missing.\n\nAnother monster typhoon is on it's way and due to hit on Sunday.",
+            "created_at": "2025-11-08T10:44:11Z",
+            "username": "Volcaholic1"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses the impacts of climate change on agriculture, specifically mentioning how it is 'devastating agriculture' due to extreme weather events like typhoons and flooding. Therefore, it is relevant to agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986969244664287251",
+            "text": "Be a part of our #DogWalkingForecast by replying with a photo of your dog, their name, and your city. Then, tune in all weekend to see if they’re featured on TV ⬇️ https://t.co/jCRkKmJeCE",
+            "created_at": "2025-11-08T01:29:18Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is about a social media campaign involving dog photos and weather forecasts, not agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986968892338544671",
+            "text": "RT @wxunfiltered: Would You Rather: @NFL Edition🏈\n\nWe've got some weather extremes for Week 10 and @mikebettes is walking you through a few…",
+            "created_at": "2025-11-08T01:27:54Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses weather extremes related to an NFL game and does not mention agricultural developments. It focuses on a sports event rather than agricultural advancements."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986955721020183002",
+            "text": "RT @guilherrrme_sep: @volcaholic1 @PhilAndTheJets I live near Rio Bonito, and the information we have so far is that half the city has been…",
+            "created_at": "2025-11-08T00:35:34Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to agricultural developments. It talks about the location 'Rio Bonito' and the situation of the city but does not provide any information on agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986955063575605352",
+            "text": "https://t.co/fFIQAFA1mF",
+            "created_at": "2025-11-08T00:32:57Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The input does not provide the content of the tweet, which makes it impossible to determine if it discusses agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986954908285714445",
+            "text": "SAO PAULO, Nov 7 (Reuters) - Billionaire Bill Gates' foundation will spend at least $1.4 billion over the next four years to help farmers in sub-Saharan Africa and Asia access technologies for adapting to extreme weather, the organization's CEO told Reuters.",
+            "created_at": "2025-11-08T00:32:20Z",
+            "username": "Volcaholic1"
+          },
+          "pass": true,
+          "reasoning": "The tweet mentions Bill Gates' foundation spending $1.4 billion to help farmers in sub-Saharan Africa and Asia, specifically focusing on technologies for adapting to extreme weather. This indicates a direct involvement with agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986954321943007566",
+            "text": "You can feel it in the air. It's finally football weather. Here's how this weekend’s wintry weather will affect the NFL: https://t.co/IW9j6lo0QX https://t.co/lIlce260gB",
+            "created_at": "2025-11-08T00:30:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing weather conditions and their impact on football, rather than topics related to agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986954134881206458",
+            "text": "RT @volcaholic1: Hell No! ✈️\n\n📍 Santa Catarina, Brazil yesterday\nhttps://t.co/F6zjZaEwt9",
+            "created_at": "2025-11-08T00:29:16Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention agricultural developments. It seems to focus on a location (Santa Catarina, Brazil) and includes an exclamation ('Hell No! ✈️') without any reference to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986949809635217725",
+            "text": "More video reveals the aftermath of the destructive tornado that struck Rio Bonito do Iguaçu, Paraná, Brazil, this afternoon 🌪️\nhttps://t.co/oRI87kWZ0W",
+            "created_at": "2025-11-08T00:12:05Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing the aftermath of a tornado in a specific location and does not mention anything related to agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986943139748454730",
+            "text": "RT @volcaholic1: 👀 More footage from Rio Bonito do Iguaçu, Paraná, Brazil, shows extensive destruction after a powerful tornado struck late…",
+            "created_at": "2025-11-07T23:45:34Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the aftermath of a powerful tornado in Brazil, focusing on destruction rather than agricultural developments. There is no mention of agriculture or any related topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986935378293539288",
+            "text": "👀 More footage from Rio Bonito do Iguaçu, Paraná, Brazil, shows extensive destruction after a powerful tornado struck late this afternoon 🌪️\nhttps://t.co/HSi93dYCfa",
+            "created_at": "2025-11-07T23:14:44Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a tornado that caused destruction in Rio Bonito do Iguaçu, Brazil. It does not mention any agricultural developments or topics related to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986934525255930103",
+            "text": "RT @DrJamesEHansen: Climate talk in Helsinki at request of young people standing up for their future - https://t.co/wI9l9XxkIT\nAlso availab…",
+            "created_at": "2025-11-07T23:11:20Z",
+            "username": "PGDynes"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a climate talk and the involvement of young people, but it does not mention any agricultural developments specifically."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986934271240446464",
+            "text": "The first week of November has been the warmest on record — after an already warm autumn. Only 1 in 5 parts of the UK has even seen frost this year. Seasons are shifting, ecosystems are stressed, and the globe is heating fast. The climate crisis is here — and accelerating. https://t.co/Cm0rqTNJAk",
+            "created_at": "2025-11-07T23:10:20Z",
+            "username": "PGDynes"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses climate change and its impacts on weather patterns and ecosystems, but it does not specifically mention agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986931542019432776",
+            "text": "🚨 Significant damage reported in Brazil after a tornado hit the city of Rio Bonito do Iguaçu, Paraná, late this afternoon 🌪️\nhttps://t.co/nS0s7jKXcx",
+            "created_at": "2025-11-07T22:59:29Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses significant damage caused by a tornado in Brazil, specifically mentioning a natural disaster event. It does not reference agricultural developments or any related topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986927031750164752",
+            "text": "RT @volcaholic1: I get called “a climate terrorist” all the time. \n\nMe??? A climate terrorist??? \n\nThe only people throwing around that lab…",
+            "created_at": "2025-11-07T22:41:34Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention agricultural developments. Instead, it discusses the term 'climate terrorist' and implies a discussion around environmental issues, but there is no specific reference to agriculture or developments in that field."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986920411351650586",
+            "text": "Enough already!\n\nTyphoon Uwan set to hit Luzon in the Philippines late monday.",
+            "created_at": "2025-11-07T22:15:15Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Typhoon Uwan, which is related to weather events, not agricultural developments. It does not mention anything about agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986911111652761634",
+            "text": "RT @volcaholic1: This is what's left of a fishing village in Xuan Thanh, Gia Lai Province, Vietnam after being hit by Typhoon Kalmaegi.\nhtt…",
+            "created_at": "2025-11-07T21:38:18Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the aftermath of Typhoon Kalmaegi on a fishing village in Vietnam, which is unrelated to agricultural developments. It focuses on the impact of a natural disaster on a community associated with fishing, not agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986907770008883567",
+            "text": "RT @volcaholic1: IRAN: Tehran is facing an acute water emergency. \n\nHistoric drought and low rainfall have depleted reservoirs, prompting w…",
+            "created_at": "2025-11-07T21:25:01Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet primarily discusses an acute water emergency in Tehran due to drought and low rainfall, which indicates a crisis related to water supply rather than direct agricultural developments. While agriculture is indirectly affected by water availability, the core message of the tweet is not specifically focused on agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986890819131867355",
+            "text": "RT @HeatherZWeather: Always gotta look at the bright (and warmer) side, Atlanta! 🥶🌞 https://t.co/AghHEcOQu3",
+            "created_at": "2025-11-07T20:17:40Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing weather conditions in Atlanta, particularly contrasting cold and warm temperatures. It does not mention agricultural developments or any related topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986888958517616714",
+            "text": "James Watson, American geneticist and biophysicist who played a crucial role in the discovery of the molecular structure of deoxyribonucleic acid (DNA) has died aged 97. https://t.co/iO3uVWllsG",
+            "created_at": "2025-11-07T20:10:16Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the life and death of James Watson, focusing on his contributions to genetics and molecular biology, rather than on agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986886875039277498",
+            "text": "Never gets old!  🐧\nhttps://t.co/oKTCKHOUjq",
+            "created_at": "2025-11-07T20:02:00Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention any agricultural developments. It appears to be a light-hearted remark indicated by the phrase 'Never gets old!' and includes a penguin emoji, suggesting it might be about something humorous or entertaining rather than agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986878829084762621",
+            "text": "If you’ve got a flight coming up, the government shutdown could be shaking up your plans. Here's how you can stay flexible and prepared during your holiday travels. https://t.co/gznkHtMqlR https://t.co/LalqCGAXpE",
+            "created_at": "2025-11-07T19:30:01Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses holiday travel and government shutdowns rather than agricultural developments. It focuses on flight plans and preparations, without any mention of agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986867621598220326",
+            "text": "India: A huge fire has broken out near Rithala Metro Station in Delhi’s Rohini area.\nhttps://t.co/2CB4C4Iukt",
+            "created_at": "2025-11-07T18:45:29Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a fire incident in Delhi and does not mention or relate to agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986854228808155522",
+            "text": "Oh. That's nice.\n\nIf a large account blocks you, it reduces your visibility (As per Elon) https://t.co/HieBQKuQsY",
+            "created_at": "2025-11-07T17:52:16Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention agricultural developments. It discusses being blocked by a large account and mentions visibility on social media, which is unrelated to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986849990413562278",
+            "text": "The incredible power of the ocean was on full display in Santa Cruz, California, as king tides brought huge waves crashing into the shore. https://t.co/7KBWsCwGnu https://t.co/Gjb72l1vUF",
+            "created_at": "2025-11-07T17:35:26Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses ocean conditions, specifically king tides and their impact on the shore in Santa Cruz, California. It does not mention agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986849089343148098",
+            "text": "Hell No! ✈️\n\n📍 Santa Catarina, Brazil yesterday\nhttps://t.co/F6zjZaEwt9",
+            "created_at": "2025-11-07T17:31:51Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention agricultural developments at all. It consists of a personal expression ('Hell No!') and a location tag, which does not relate to any agricultural topic."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986848445546594407",
+            "text": "A large landslide struck the Nanning–Jingdong section of the expressway in Jingdong County, Yunnan Province, China, on the evening of November 3 following heavy rainfall. \n\nNo casualties have been reported, and the timeline for reopening remains undetermined. https://t.co/RP16bww3kj",
+            "created_at": "2025-11-07T17:29:17Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a landslide and its impact on an expressway following heavy rainfall. It focuses on a specific natural disaster event rather than agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986846618688295035",
+            "text": "What does it take to truly recharge? For meteorologist @JenCarfagno, it's finding mindfulness in nature. Follow her journey through Sedona, Arizona's Boynton Canyon in the @chevrolet Equinox EV. https://t.co/LITbZ4O76v",
+            "created_at": "2025-11-07T17:22:02Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses mindfulness in nature and a personal journey taken by a meteorologist, mentioning a specific location in Arizona and a vehicle (Chevrolet Equinox EV). It does not address agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986830637513298137",
+            "text": "A new ash emission was observed yesterday from Chile’s Planchón-Peteroa Volcanic Complex, rising approximately 1,100 meters above the crater and dispersing toward the SSE. The volcanic alert level remains at Yellow.\n\nSource: SEGEMAR https://t.co/g6MlkvlJuJ",
+            "created_at": "2025-11-07T16:18:32Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses volcanic activity and ash emission from a volcanic complex in Chile. It does not mention agricultural developments or any related topics. Therefore, it does not pass the question."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986826795052573059",
+            "text": "Widespread flooding in Syracuse on the Italian island of Sicily today...\n\n📹 Giusy Genovesi https://t.co/U7rPhf7ciA",
+            "created_at": "2025-11-07T16:03:16Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses widespread flooding in Syracuse, Sicily, but does not mention agricultural developments. Instead, it focuses on a weather-related event."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986825644508881273",
+            "text": "Not a dumb question at all!\n\nTechnically, yes, wind at the same speed would be less impactful at higher elevations than at sea level.  Because the density of the air is lower, there are fewer molecules to blow against you and create the resistance you feel in heavy winds.\n\nWind load (the force of wind pushing on an object) is directly proportional to air density, meaning the wind load in Denver (where the density is on average 82% that of sea level) would also be 82% of that at sea level.\n\nHowever, realistically, any difference would probably be negligible in terms of what your body experiences. So it might be 18% less forceful, but would you really notice?\n\nStill think weather isn't real @hen_ease?",
+            "created_at": "2025-11-07T15:58:41Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the impact of wind at different elevations and the physics of wind load, but it does not mention agricultural developments or relate to farming practices. Instead, it addresses a scientific concept related to weather."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986815872975933579",
+            "text": "RT @TWCAlexWallace: If you’re in the eastern half of the country, it’s highly likely that you’ll be turning on that heat in the coming days…",
+            "created_at": "2025-11-07T15:19:52Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing weather conditions and the likelihood of needing heating, which is not directly related to agricultural developments. Agricultural developments would typically involve discussions about crop production, farming practices, or advancements in agriculture, none of which are mentioned in this tweet."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986811021650972852",
+            "text": "RT @volcaholic1: Waves batter homes during Typhoon Kalmaegi in Binh Dinh Province, Vietnam...🌊 https://t.co/fDqGSEqcfe",
+            "created_at": "2025-11-07T15:00:35Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the impact of Typhoon Kalmaegi on homes in Vietnam, which relates to natural disasters and weather events rather than agricultural developments. There is no mention of agriculture or farming. Therefore, the question is not applicable to the content of the tweet."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986810875257278943",
+            "text": "Stunned residents captured video of a yet another danger they have to contend with as they recover from Typhoon Kalmaegi in the Philippines. https://t.co/a0bNdFIcx7 https://t.co/7UvotaMOlR",
+            "created_at": "2025-11-07T15:00:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the aftermath of Typhoon Kalmaegi and the challenges faced by residents in the Philippines, which is related to weather and disaster recovery rather than agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986795775829942619",
+            "text": "A few severe storms could be in store for parts of the Ohio and Tennessee valleys Friday into Friday night, then across the Southeast and mid-Atlantic overnight. More details: https://t.co/jYrLqFA6Qr https://t.co/jULVOfr6ZU",
+            "created_at": "2025-11-07T14:00:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing severe storms and weather forecasts in specific regions, rather than agricultural developments. It focuses on meteorological events and their impact on regions, not on agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986785570765394383",
+            "text": "Around 19:30 on November 6 in Japan, at the Urakawa Nozumi Bridge near Kuwata Ranch, a staff member out for night feeding came face-to-face with a bear. \n\nThankfully, they were unharmed, and nothing else happened beyond what’s shown in this video.\nhttps://t.co/tMthmOQBFx",
+            "created_at": "2025-11-07T13:19:27Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet describes an encounter between a staff member and a bear at a ranch but does not mention any agricultural developments or advancements. The focus is on the incident rather than agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986781179240939842",
+            "text": "Meteor/fireball spotted near Avachinsky Pass in Kamchatka, Russia  ☄️\n\nThe pass lies near the Avachinsky Volcano, one of the region’s active volcanoes, and is part of the mountain ranges that run through the peninsula.\n\n📹 VGTRK \"Kamchatka\" https://t.co/tHo0JDsDek",
+            "created_at": "2025-11-07T13:02:00Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a meteor/fireball sighting near a volcanic area in Kamchatka, Russia. It primarily focuses on a natural event and geological features, rather than agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986780679900733528",
+            "text": "Check out who could get their first accumulating snow of the season this weekend.❄️ https://t.co/fw0DgekH50 https://t.co/8ZITmI7UPA",
+            "created_at": "2025-11-07T13:00:01Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing weather conditions related to snow accumulation, which is not directly about agricultural developments. It focuses on a weather forecast rather than any advancements or updates in agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986780111299858542",
+            "text": "Cracking capture of a tornado in Harrismith, Free State in South Africa yesterday...🌪️\nhttps://t.co/I5IvKNYbPv",
+            "created_at": "2025-11-07T12:57:45Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is focused on capturing a tornado, which relates to weather phenomena, not agricultural developments. It does not mention farming, crops, or agricultural advancements."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986771336018972701",
+            "text": "\"The challenge is immense, but the choices are clear. \n\nNo one can bargain with physics. \n\nBut we can choose to lead - or be led to ruin.\n\nChoose to make Belém the turning point.\n\nStand for science.\nStand for justice.\nStand for future generations.\"\n\nAntonio Guterres at the #COP30 Climate Conference.",
+            "created_at": "2025-11-07T12:22:53Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing leadership, science, and justice in the context of climate change, specifically at a climate conference. While it may indirectly relate to agriculture due to the implications of climate change on agricultural practices, there is no direct mention or clear discussion of agricultural developments in the tweet."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986768314169765948",
+            "text": "Heart-breaking to see the shattered remains of homes and personal belongings along the Butuanon River in Tingub, Mandaue City, Philippines, left behind by Typhoon Kalmaegi.\nhttps://t.co/tNYN307zBf",
+            "created_at": "2025-11-07T12:10:53Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet describes the aftermath of Typhoon Kalmaegi, focusing on the destruction of homes and personal belongings. It does not mention agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986765583086477484",
+            "text": "A potentially record-breaking arctic cold front will move across the eastern U.S. this weekend, sending a winter chill all the way down to the Gulf Coast. See just how cold it will get. https://t.co/a1yszrs4ec https://t.co/GChha1vtE9",
+            "created_at": "2025-11-07T12:00:01Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a weather event, specifically an arctic cold front moving across the eastern U.S. It does not mention agricultural developments or any related topics such as farming techniques, crop production, or agricultural technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986750048596607019",
+            "text": "I get called “a climate terrorist” all the time. \n\nMe??? A climate terrorist??? \n\nThe only people throwing around that label are Big Oil and fossil fuel profiteers - because anyone who exposes the truth or fights for the planet scares them.",
+            "created_at": "2025-11-07T10:58:18Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses climate activism and criticism of the fossil fuel industry, rather than specifically addressing agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986748452454408347",
+            "text": "This is what's left of a fishing village in Xuan Thanh, Gia Lai Province, Vietnam after being hit by Typhoon Kalmaegi.\nhttps://t.co/EZEiFKNo3E",
+            "created_at": "2025-11-07T10:51:57Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet describes the aftermath of Typhoon Kalmaegi on a fishing village, which is related to natural disaster impacts on a community rather than agricultural developments. There is no mention of agriculture or developments therein."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986739800527831456",
+            "text": "RT @volcaholic1: Flooding hit Golden Walk Mall in Germiston, South Africa, after a massive hailstorm earlier today 👀 https://t.co/zT1WM58Xny",
+            "created_at": "2025-11-07T10:17:34Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a flooding event at a mall due to a hailstorm, which is related to weather and natural disaster rather than agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986727026103869545",
+            "text": "Waves batter homes during Typhoon Kalmaegi in Binh Dinh Province, Vietnam...🌊 https://t.co/fDqGSEqcfe",
+            "created_at": "2025-11-07T09:26:49Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the impact of Typhoon Kalmaegi on homes in Binh Dinh Province, Vietnam, which pertains to natural disasters and their effects on human habitation rather than agricultural developments. Therefore, it does not relate to agricultural aspects."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986714832398356819",
+            "text": "RT @volcaholic1: We used to debate climate change. \n\nNow we document it.\n\nThe evidence is undeniable.",
+            "created_at": "2025-11-07T08:38:22Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses climate change and its documentation, not specifically agricultural developments. It does not mention agriculture or related topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986714524209332716",
+            "text": "RT @volcaholic1: Day Zero isn’t fiction. It’s when your city’s taps run dry. \n\nClimate change makes it more likely every year.",
+            "created_at": "2025-11-07T08:37:08Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses 'Day Zero', which refers to a situation where a city faces severe water shortages, primarily as a result of climate change. While this indirectly relates to agricultural developments, as water availability impacts agriculture, the tweet does not explicitly mention agricultural practices, advancements, or developments. Therefore, it does not pass as talking about agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986625990345290143",
+            "text": "RT @wxunfiltered: Temperatures are going to play a major role in multiple Week 10 @NFL games🏈🏈\n\nWe've picked four games with differing weat…",
+            "created_at": "2025-11-07T02:45:20Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses weather conditions and their influence on NFL games, not agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986590051891871795",
+            "text": "RT @volcaholic1: Flooding hit Golden Walk Mall in Germiston, South Africa, after a massive hailstorm earlier today 👀 https://t.co/zT1WM58Xny",
+            "created_at": "2025-11-07T00:22:32Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is about flooding and hailstorms affecting a mall, which relates to weather events rather than agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986590002802012303",
+            "text": "RT @volcaholic1: Where Solar Power Meets Sustainable Farming!\n\nCheck out this incredible scene from northwest China’s Qinghai Province: a m…",
+            "created_at": "2025-11-07T00:22:20Z",
+            "username": "Volcaholic1"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses 'Solar Power' in relation to 'Sustainable Farming', which indicates a focus on agricultural developments that integrate renewable energy. Therefore, it is directly related to agricultural advancements."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986574822634365419",
+            "text": "Password to Louvre’s video surveillance system was 'Louvre', according to employee - ABC  🤔",
+            "created_at": "2025-11-06T23:22:01Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention agricultural developments; instead, it discusses a password related to a video surveillance system at the Louvre."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986569919442423974",
+            "text": "Day Zero isn’t fiction. It’s when your city’s taps run dry. \n\nClimate change makes it more likely every year.",
+            "created_at": "2025-11-06T23:02:32Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses 'Day Zero,' referring to the point when a city's water supply is depleted, and mentions climate change as a contributing factor. However, it does not specifically address agricultural developments. Instead, it focuses on water scarcity issues related to climate change."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986567528676569304",
+            "text": "IRAN: Tehran is facing an acute water emergency. \n\nHistoric drought and low rainfall have depleted reservoirs, prompting warnings from President Masoud Pezeshkian that the capital may need to be relocated.\n\nThe Amir Kabir Dam holds only 8 % of its capacity, leaving less than two weeks of drinking water. \n\nAuthorities are urging citizens to reduce consumption as rationing looms.",
+            "created_at": "2025-11-06T22:53:02Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet primarily discusses a water emergency in Tehran due to drought and reservoir depletion, focusing on the implications for drinking water and potential relocation of the capital. While it indirectly ties to agricultural developments by mentioning water scarcity, it does not explicitly address agricultural topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986555783685812500",
+            "text": "RT @volcaholic1: Palma, Mallorca this morning...🌊\nhttps://t.co/8PMpp7KSE5",
+            "created_at": "2025-11-06T22:06:21Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not discuss agricultural developments. Instead, it seems to focus on a location (Palma, Mallorca) and appears to be sharing a photo or post related to the scenery, as indicated by the use of an image link and the context provided."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986552143290229214",
+            "text": "Australia has so much solar that it’s giving 3 hours of free electricity to millions.\n\nRooftop systems cost just one-third of U.S. prices and now cover over a third of all homes nationwide. https://t.co/Ja3fbjWh3f",
+            "created_at": "2025-11-06T21:51:53Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses solar energy and its impact on electricity availability in Australia, focusing on renewable energy rather than agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986551730176233957",
+            "text": "RT @volcaholic1: 👀 A severe storm has been hitting the Balearic Islands since this morning, bringing heavy rain, thunder, and strong winds.…",
+            "created_at": "2025-11-06T21:50:15Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is focused on a weather event affecting the Balearic Islands, specifically mentioning storms and severe weather conditions. It does not contain any information about agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986546292424609887",
+            "text": "RT @volcaholic1: This photo says everything!",
+            "created_at": "2025-11-06T21:28:39Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not provide any information about agricultural developments. It seems to be a retweet of a photo without context, so it cannot be determined if it relates to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986545644475937213",
+            "text": "RT @volcaholic1: This is bloody terrifying! In the dark too  🥺\n\nThis is what one family went through as they fought to escape the flooding…",
+            "created_at": "2025-11-06T21:26:04Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a family's experience during a flood, which is related to environmental issues and disaster response rather than specific agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986543356185301005",
+            "text": "On Nov. 7, 1940, the Tacoma Narrows Bridge collapsed into the strait of the Puget Sound. The jaw-dropping moment was captured in stunning detail on black and white video. \nhttps://t.co/L2bsDX3DHO https://t.co/dbudHDFqXL",
+            "created_at": "2025-11-06T21:16:58Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the Tacoma Narrows Bridge collapse and does not mention agricultural developments. It focuses on a historical event related to engineering and infrastructure, not agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986528191071298041",
+            "text": "Falling iguanas are possible in Florida next week.\n\nWind chills dropping into the 30s and 40s across south-central Florida on Tuesday morning could immobilize iguanas, causing them to fall from trees. https://t.co/ds9hr0I0U1",
+            "created_at": "2025-11-06T20:16:43Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a weather phenomenon that could affect iguanas in Florida, but it does not mention any agricultural developments or issues related to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986526839809188040",
+            "text": "RT @FeliciaCombsTWC: We don't want to sit in the cold - Luckily U.S. Bank Stadium is indoor with wind chills like these in the forecast. Yo…",
+            "created_at": "2025-11-06T20:11:21Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing weather conditions and the indoor facilities of U.S. Bank Stadium, which suggests it is focused on a sports or event context rather than agricultural developments. There is no mention of agriculture or related topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986518300671791589",
+            "text": "RT @volcaholic1: This is in Quy Nhon, Gia Lai province, hours before Typhoon Kalmaegi made landfall in Vietnam today  👀💨\n\n📹 Tien Loi https:…",
+            "created_at": "2025-11-06T19:37:25Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the impact of Typhoon Kalmaegi in Vietnam, focusing on a specific location and the weather event, rather than on agricultural developments. There is no mention or implication of farming or agricultural progress."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986500200576307475",
+            "text": "This photo says everything!",
+            "created_at": "2025-11-06T18:25:29Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not provide any specific information or context related to agricultural developments. It simply states that 'this photo says everything,' without indicating what the photo depicts."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986499408247369730",
+            "text": "RT @WeatherSarov1: Our trailer of chasing storms in level 3 area (ESTOFEX) on June 5-8 2025 in Belarus. \n\nhttps://t.co/W9OXBQxpZb https://t…",
+            "created_at": "2025-11-06T18:22:20Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention agricultural developments; it is focused on storm chasing and weather events."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986496972464005545",
+            "text": "This was a hailstorm that hit Muniz Freire in Espírito Santo, Brazil a couple of days ago....\nhttps://t.co/4W1H5G2Ylc",
+            "created_at": "2025-11-06T18:12:40Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet describes a hailstorm event that affected a specific location in Brazil but does not mention any agricultural developments or related topics. Thus, it does not pass as talking about agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986493974429786607",
+            "text": "We used to debate climate change. \n\nNow we document it.\n\nThe evidence is undeniable.",
+            "created_at": "2025-11-06T18:00:45Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses climate change rather than agricultural developments. It mentions documenting climate change and its evidence, indicating a focus on environmental issues rather than specific agricultural advancements."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986489483760738515",
+            "text": "Starting in 15 minutes:\n\nDr Tarje Nissen-Meyer, Professor at the University of Exeter, will explore how seismic waves—once used for oil exploration—can now help monitor soil health and support farmers worldwide through the Earth Rover Program.\nWatch live: https://t.co/ydUTd5An51 https://t.co/uXoT1TotVi",
+            "created_at": "2025-11-06T17:42:54Z",
+            "username": "PGDynes"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses an event focused on how seismic waves can help monitor soil health and support farmers through the Earth Rover Program, which directly relates to agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986477880444907743",
+            "text": "A freeze is when surface temperatures drop to or below 32 degrees. Here's when you can expect the first freeze of the season where you live: https://t.co/4ui9YB85GH",
+            "created_at": "2025-11-06T16:56:48Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses weather conditions related to freezing temperatures but does not mention agricultural developments directly. It focuses on when to expect the first freeze rather than any agricultural advancements or issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986470421667930316",
+            "text": "BREAKING: The death toll from Typhoon Kalmaegi (TinoPH) in the Philippines has risen to at least 181.\n\n📷: WestPacWX/fb https://t.co/sOriwHD16o",
+            "created_at": "2025-11-06T16:27:10Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the death toll from Typhoon Kalmaegi in the Philippines, which is related to a natural disaster and its impact, rather than agricultural developments. Therefore, it does not address the topic of agricultural advancements or developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986468634932486172",
+            "text": "To add to the above post, they also have solar chicken farms...\nhttps://t.co/hkSrMbaeDy",
+            "created_at": "2025-11-06T16:20:04Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions 'solar chicken farms,' which is related to agricultural practices involving poultry. However, it does not provide detailed information about agricultural developments or advancements. The focus seems to be more on the solar aspect rather than specific developments in agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986462205521633694",
+            "text": "RT @US_Stormwatch: A new study reveals Antarctica's Hektoria Glacier retreated over 15 miles in just 15 months, the fastest Antarctic glaci…",
+            "created_at": "2025-11-06T15:54:31Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing the retreat of a glacier in Antarctica, which pertains to climate change and environmental issues rather than agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986462137116483829",
+            "text": "Flooding hit Golden Walk Mall in Germiston, South Africa, after a massive hailstorm earlier today 👀 https://t.co/zT1WM58Xny",
+            "created_at": "2025-11-06T15:54:14Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a flooding event caused by a hailstorm at a specific location, rather than agricultural developments. It focuses on a natural disaster impacting a mall, which is not related to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986456104453194128",
+            "text": "RT @GregPostel: It's a Flin Flon Flipper.  Cold outbreaks like this commonly flip the standard temp gradient.  #gawx\n@ToriRutigliano @molly…",
+            "created_at": "2025-11-06T15:30:16Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a weather phenomenon related to temperature gradients and cold outbreaks, which is not directly related to agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986451588630659457",
+            "text": "Vietnam: The powerful winds from Typhoon Kalmaegi (Storm No. 13) blew the roof off a home in Tuy Phuoc Commune, Gia Lai. \n\nA family of four, including an elderly person, is waiting on the front porch for help. Rescue teams are trying to reach them, but the storm’s winds are still too strong.\n\n📹 Via: Insight Sài Gòn",
+            "created_at": "2025-11-06T15:12:19Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the impact of a typhoon on a home and a family affected by the storm, rather than agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986444712257957937",
+            "text": "Winter is quickly approaching and with that comes snowfall. Here are some tips to keep in mind the next time you notice snow in your forecast.❄️ https://t.co/kBzgNe1Vp7 https://t.co/xSo0UrMVQf",
+            "created_at": "2025-11-06T14:45:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing winter weather and snowfall tips, which are not directly related to agricultural developments. It focuses on advice for dealing with snow rather than advancements or issues in agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986438923803865566",
+            "text": "This is in Quy Nhon, Gia Lai province, hours before Typhoon Kalmaegi made landfall in Vietnam today  👀💨\n\n📹 Tien Loi https://t.co/ONggF4ZTUh",
+            "created_at": "2025-11-06T14:22:00Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the impact of Typhoon Kalmaegi in Quy Nhon, focusing on weather and environmental conditions rather than agricultural developments. There are no mentions or implications regarding agriculture in the content."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986433891331457056",
+            "text": "The devastation in the Philippines is heartbreaking. As of this morning, officials say at least 114 people have died and 127 are still missing after Typhoon Kalmaegi (TinoPH) tore through the central region. \n\nEntire communities were flooded, homes destroyed.\n\nThe government has declared a state of calamity as rescue teams continue to search for the missing.\n\nThe climate crisis is hitting the most vulnerable first and hardest. Every year, storms are growing stronger, deadlier, and more unpredictable.\n\nIt’s hard to imagine the pain so many are facing right now. 💔",
+            "created_at": "2025-11-06T14:02:00Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the devastating impact of Typhoon Kalmaegi in the Philippines, focusing on loss of life, destruction, and the effects of the climate crisis. It does not mention agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986433042865406018",
+            "text": "It's the time of year when atmospheric rivers, winter storms, and heavy rain can all trigger landslides. Meteorologist Molly McCollum examines the science of these events using Immersive Mixed Reality: https://t.co/mdfJ2ABVat",
+            "created_at": "2025-11-06T13:58:38Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses atmospheric rivers, winter storms, and the potential for landslides, focusing on meteorological events and science, rather than specifically addressing agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986431111556382837",
+            "text": "Wow! https://t.co/MXnV6JyfKn",
+            "created_at": "2025-11-06T13:50:57Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not contain any content related to agricultural developments. It merely includes an expression of surprise or excitement without context, and a link that may lead to additional content, but there is no explicit mention of agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986429612839035033",
+            "text": "The first accumulating snowfall of the season is forecast to fall this weekend into early next week across the Great Lakes and Northeast. See more on timing and how much to expect: https://t.co/59E2X9BthZ https://t.co/MuiDPT7xds",
+            "created_at": "2025-11-06T13:45:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a weather forecast about snowfall in certain regions, which is not directly related to agricultural developments. While weather can affect agriculture, the content of the tweet itself does not address any agricultural developments or issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986423116440985645",
+            "text": "Where Solar Power Meets Sustainable Farming!\n\nCheck out this incredible scene from northwest China’s Qinghai Province: a massive solar park transforming desert land into thriving grassland, and sheep are helping make it happen!\n\nUnder the photovoltaic panels, the once‑barren land is now green, providing food for over 20,000 sheep. The sheep graze safely beneath the panels, keeping the grass in check, preventing fires, and supporting local herders’ incomes. \n\nIt’s a perfect example of agrivoltaics, blending renewable energy and sustainable agriculture for a win‑win solution. Powering homes, protecting the environment, and feeding communities all in one!\n\n📹 Via: @sz_mediagroup",
+            "created_at": "2025-11-06T13:19:11Z",
+            "username": "Volcaholic1"
+          },
+          "pass": true,
+          "reasoning": "The tweet discusses a project that combines solar power and sustainable farming practices, specifically highlighting the integration of sheep grazing with solar panels to create a thriving agricultural ecosystem. It mentions agrivoltaics, which directly relates to agricultural developments by showcasing how renewable energy can be used in harmony with farming."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986414513076216120",
+            "text": "Philippine officials said Thursday the death toll has risen to 114 from widespread flooding and devastation.   https://t.co/AIdXAb45sc",
+            "created_at": "2025-11-06T12:45:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a natural disaster (flooding and its consequences) rather than agricultural developments. It focuses on the impact of flooding without mentioning any agricultural advancements or issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986399671565070716",
+            "text": "Get ready for an arctic front to blast across the eastern U.S. Sunday into Tuesday. See how cold it will get. https://t.co/6Mmasd6GjR https://t.co/9QApOAFJwY",
+            "created_at": "2025-11-06T11:46:01Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing weather conditions related to an arctic front moving across the eastern U.S., which does not pertain to agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986399536613412936",
+            "text": "🚨 Typhoon Kalmaegi has made landfall in Quy Nhơn, Vietnam, after claiming at least 114 lives in the Philippines. The storm is packing powerful winds of up to 205 km/h (125 mph).\n\nThis is a dangerous system. Possible risks include damaging winds, heavy rainfall, storm surge, rough seas, mudslides, and flash flooding.\n\n📹 @zoom_earth",
+            "created_at": "2025-11-06T11:45:29Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a natural disaster (Typhoon Kalmaegi) and its impacts, primarily on human safety and environmental conditions, rather than agricultural developments. There is no reference to agriculture in the content."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986390664062398484",
+            "text": "🌡️ Record-breaking Bonfire Night 2025!\n\nTemperatures barely dropped to 14.4°C overnight in Teddington, London - making it provisionally the mildest Bonfire Night on record.\n\nThe previous record was 13.9°C at Gordon Castle, Scotland, way back in 1938.\n\nSource: Met Office https://t.co/ve6niGFV0K",
+            "created_at": "2025-11-06T11:10:14Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses temperature records related to Bonfire Night but does not mention any agricultural developments or aspects related to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986374409876054044",
+            "text": "Palma, Mallorca this morning...🌊\nhttps://t.co/8PMpp7KSE5",
+            "created_at": "2025-11-06T10:05:39Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet appears to describe a location, specifically Palma, Mallorca, and does not mention any agricultural developments or related topics. It focuses on a scenic view rather than agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986373647825584443",
+            "text": "Palma airport, Mallorca this morning  💨\nhttps://t.co/UNlc5SRT26",
+            "created_at": "2025-11-06T10:02:37Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing the weather conditions at Palma airport in Mallorca and does not mention anything related to agricultural developments. Therefore, the answer is no."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986373353955827954",
+            "text": "👀 A severe storm has been hitting the Balearic Islands since this morning, bringing heavy rain, thunder, and strong winds. \n\nAround 30 incidents have already been reported, mostly in Mallorca.\nhttps://t.co/pwBZdb52fi",
+            "created_at": "2025-11-06T10:01:27Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a severe storm affecting the Balearic Islands and mentions incidents related to weather conditions, not agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986372400896688291",
+            "text": "Sabadell, in Vallès Occidental, Spain this morning...🌊\nhttps://t.co/dQCROLwDKx",
+            "created_at": "2025-11-06T09:57:40Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention any agricultural developments. It appears to be about a location in Spain and includes a photo link. There are no references to agriculture or farming."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986364021180600800",
+            "text": "Cerdanyola del Vallès, Barcelona in Spain this morning...\n\nAs of 9 a.m. this morning, the Fire Department had already responded to 134 rainstorm-related calls across Barcelona. Most were about flooded basements and garages, fallen trees, lightning strikes, and people trapped in their cars.",
+            "created_at": "2025-11-06T09:24:22Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses weather-related issues and emergency responses to a rainstorm in Barcelona, such as flooding and damage caused by fallen trees. It does not mention agricultural developments or any related topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986359922389397740",
+            "text": "Sant Cugat del Vallès, Barcelona in Spain this morning...🌊\nhttps://t.co/VU9FOP2Tll",
+            "created_at": "2025-11-06T09:08:04Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to agricultural developments. It only references a location and appears to focus on a scene or event, as indicated by the emoji and the link."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986351315094564941",
+            "text": "Flooding in Sant Cugat del Vallès, Barcelona in Spain this morning...🌊\nhttps://t.co/UunroSe4uF",
+            "created_at": "2025-11-06T08:33:52Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses flooding in a specific location (Sant Cugat del Vallès) and does not mention agricultural developments or related topics. It is focused on a weather event rather than agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986341921632194994",
+            "text": "RT @volcaholic1: Terrifying. I can’t believe this isn’t front-page news worldwide.",
+            "created_at": "2025-11-06T07:56:33Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention agricultural developments or any related topics. It expresses a sense of disbelief about news coverage but does not provide any context related to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986341812844302835",
+            "text": "RT @volcaholic1: Philippines: 😭😭 This poor lady sobbed as floodwaters from Typhoon Tino (Kalmaegi) reached her pigs’ pen.\n\nOne pig didn’t s…",
+            "created_at": "2025-11-06T07:56:07Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a typhoon and its impact on a person’s livestock, specifically pigs, due to flooding. While this is related to agriculture, the main focus is on the immediate effects of the disaster rather than agricultural developments or advancements."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986303996810953207",
+            "text": "Link to study: https://t.co/wZT4JFCjGr",
+            "created_at": "2025-11-06T05:25:51Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention agricultural developments or anything related to agriculture. It only provides a link to a study without any context or details about the content."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986303992557965676",
+            "text": "A new study reveals Antarctica's Hektoria Glacier retreated over 15 miles in just 15 months, the fastest Antarctic glacier retreat ever recorded, per research published in Nature. https://t.co/mZVmsK0SvN",
+            "created_at": "2025-11-06T05:25:50Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the retreat of the Hektoria Glacier in Antarctica, which is related to climate change and glaciology rather than agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986240587029160430",
+            "text": "BREAKING: Multiple firefighters have been injured after a vehicle exploded in The Bronx, New York…\n https://t.co/H9V46qXUl1",
+            "created_at": "2025-11-06T01:13:53Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is reporting on an incident involving firefighters and a vehicle explosion, which is an emergency situation and not related to agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986238462266118640",
+            "text": "NEW: Dashcam footage captured yesterday’s UPS plane crash in Louisville, Kentucky 😩\n https://t.co/df5b4vfQvR",
+            "created_at": "2025-11-06T01:05:26Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a UPS plane crash and providing a link to dashcam footage of the incident. It does not mention or relate to agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986233540607156306",
+            "text": "RT @volcaholic1: DON’T LOOK AWAY!\n\nThis is Cebu, Philippines, where the death toll from Typhoon Tino (Kalmaegi) has climbed to 92.\n\nHomes d…",
+            "created_at": "2025-11-06T00:45:53Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the aftermath of Typhoon Tino in Cebu, Philippines, focusing on the death toll and the impact on homes. It does not mention agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986230319071010934",
+            "text": "Philippines: 😭😭 This poor lady sobbed as floodwaters from Typhoon Tino (Kalmaegi) reached her pigs’ pen.\n\nOne pig didn’t survive, heart-breaking as they are both pets and her family’s livelihood.\nhttps://t.co/wvMSGR5nPK",
+            "created_at": "2025-11-06T00:33:05Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet describes a personal story about a woman affected by flooding due to Typhoon Tino, which impacted her pigs, seen as pets and part of her livelihood. While it indirectly relates to agriculture (pigs as livestock), the primary focus of the tweet is on the emotional aspect of loss and family rather than agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986220040027578778",
+            "text": "RT @wxunfiltered: It's National Bonfire Night so we decided to warm things up in the studio with our own fire pit! @TWCChrisBruin https://t…",
+            "created_at": "2025-11-05T23:52:14Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet refers to National Bonfire Night and the creation of a fire pit in the studio, which is related to a celebratory event rather than agricultural developments. There is no mention or implication of agricultural topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986209981629169693",
+            "text": "'This could be a historically intense Typhoon for southern Vietnam when he makes landfall there tomorrow'",
+            "created_at": "2025-11-05T23:12:16Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a Typhoon impacting southern Vietnam, which relates to weather events rather than agricultural developments. There is no mention of agricultural practices, innovations, or related topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986207706319913197",
+            "text": "Newfoundland in Canada 💨☔️❄️🌊",
+            "created_at": "2025-11-05T23:03:13Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention any agricultural developments. It refers to Newfoundland, Canada, and uses emojis related to weather but lacks content relevant to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986205824608284973",
+            "text": "RT @volcaholic1: A truck driver captured the UPS plane crash in Louisville, Kentucky yesterday. Terrifying!\n https://t.co/FDiWO1SNTJ",
+            "created_at": "2025-11-05T22:55:45Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing an incident involving a UPS plane crash and is related to aviation and logistics, not agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986201643067855224",
+            "text": "Terrifying. I can’t believe this isn’t front-page news worldwide.",
+            "created_at": "2025-11-05T22:39:08Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet expresses shock and concern about a situation that is not being widely reported, but it does not mention anything specific related to agricultural developments. Therefore, it does not pass the criteria for discussing agricultural topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986194313127121336",
+            "text": "Antarctica’s Hektoria Glacier may be considered small, but the amount of ice it has lost in record time is a really big deal. Here's why: https://t.co/25DvLd4d32",
+            "created_at": "2025-11-05T22:10:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the Hektoria Glacier in Antarctica and its ice loss, which is related to climate change and environmental issues rather than agricultural developments. Therefore, the tweet does not talk about agricultural topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986193001186517275",
+            "text": "A fireball/meteor lit up the sky in the Moscow Region, Russia tonight  ☄️ https://t.co/C8A7DeqePa",
+            "created_at": "2025-11-05T22:04:47Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet describes a fireball or meteor event in the Moscow Region, Russia, which is not related to agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986186142497042816",
+            "text": "BREAKING: WASHINGTON (AP) — The Federal Aviation Administration announced Wednesday that it will reduce air traffic by 10% across 40 “high-volume” markets beginning Friday morning to maintain safety during the ongoing government shutdown.",
+            "created_at": "2025-11-05T21:37:32Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to agricultural developments. It discusses the FAA reducing air traffic due to a government shutdown, which pertains to aviation and transportation, not agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986179214949679468",
+            "text": "When Kilian Jornet set out from Longs Peak, Colorado, on September 3, his goal wasn’t just to climb mountains, it was to connect them and connect to them. Over the next 31 days, the Spanish mountaineer and ultrarunner summited all 72 accessible 14,000-foot peaks in the lower 48 United Statescross the American West, using extreme weather as both his greatest obstacle and his ultimate teacher.\n\nhttps://t.co/Dxo0RMQaol",
+            "created_at": "2025-11-05T21:10:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Kilian Jornet's climbing and running achievements and the challenges he faced, particularly focused on mountain summits and extreme weather. There is no mention of agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986179210382094520",
+            "text": "I had to google \"lagga headed\"....\n\nMeaning: Stupid, foolish, unintelligent.\n\nOrigin: Jamaican Patois. https://t.co/FartP8B3G7",
+            "created_at": "2025-11-05T21:09:59Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is focused on the meaning and origin of a slang term rather than discussing agricultural developments. It does not mention agriculture or related topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986173812145037379",
+            "text": "I’ve seen several posts claiming that the dog is safe  🥰🤞",
+            "created_at": "2025-11-05T20:48:32Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing posts about a dog being safe, which is unrelated to agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986171309370274298",
+            "text": "Typhoon Kalmaegi is strengthening again and heading for Vietnam.",
+            "created_at": "2025-11-05T20:38:36Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a weather event (Typhoon Kalmaegi) and its path towards Vietnam, which does not pertain to agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986170525425819932",
+            "text": "LOUISVILLE, Ky. (AP) — A UPS cargo plane’s left wing caught fire and its engine fell off just before it crashed and exploded after takeoff in Kentucky.",
+            "created_at": "2025-11-05T20:35:29Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet describes an incident involving a UPS cargo plane that crashed in Kentucky, which is related to aviation and safety rather than agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986140450055725362",
+            "text": "Northern hemisphere forests have shifted from carbon sinks to carbon emitters.\n\nStudy reveals how droughts and wildfires reversed carbon stocks in boreal and temperate forests from growth to decline.\nhttps://t.co/Ago8v4RS62",
+            "created_at": "2025-11-05T18:35:58Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the impact of droughts and wildfires on forests, specifically how they have shifted from being carbon sinks to carbon emitters. It does not mention agricultural developments, which typically relate to crop production, farming practices, or advances in agricultural technology. The focus here is on environmental changes affecting forest ecosystems, rather than agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986136251196432711",
+            "text": "Pontargothi in Wales yesterday....\nhttps://t.co/gJS2265RvW",
+            "created_at": "2025-11-05T18:19:17Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions a location in Wales and includes a link, but it does not provide any information or context about agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986135237873836176",
+            "text": "https://t.co/AQM7btS3bL",
+            "created_at": "2025-11-05T18:15:15Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not provide any context or content related to agricultural developments based on the provided handle and link. More information from the tweet itself is needed to determine its relevance to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986134797249311174",
+            "text": "Major incident declared in parts of Wales after flooding triggers hundreds of calls.\nhttps://t.co/8g3U9RYBYJ",
+            "created_at": "2025-11-05T18:13:30Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a major incident declared due to flooding in Wales, which does not pertain to agricultural developments. Instead, it focuses on emergency response to weather-related issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986131516242694360",
+            "text": "Cold or warm November – what's your preference? See what's ahead on The Weather Channel TV Streaming app: https://t.co/Feaf8zTBxX https://t.co/kyHJxzB6x4",
+            "created_at": "2025-11-05T18:00:28Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing preferences for weather in November, not specifically about agricultural developments. Although weather can impact agriculture, the tweet does not address agricultural topics directly."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986122593754091941",
+            "text": "RT @volcaholic1: DON’T LOOK AWAY!\n\nThis is Cebu, Philippines, where the death toll from Typhoon Tino (Kalmaegi) has climbed to 92.\n\nHomes d…",
+            "created_at": "2025-11-05T17:25:01Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is about a natural disaster (Typhoon Tino) and its impact on the local community, specifically mentioning the death toll and homes affected. It does not discuss any agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986118820985966876",
+            "text": "A large sinkhole tore opened up under a residential street in Jamaica, just days after Hurricane Melissa carved a destructive path through the island. Homes and vehicles sit precariously close to the gaping hole, as stunned residents gathered to witness the storm’s latest terrifying impact.\n\nhttps://t.co/cfYwHNOzDr",
+            "created_at": "2025-11-05T17:10:01Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a sinkhole that has formed due to the effects of Hurricane Melissa in Jamaica. It focuses on the impact of the hurricane on residential areas and does not mention anything related to agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986118489476637082",
+            "text": "BREAKING: Kentucky Gov. Andy Beshear declared a state of emergency, which will allow the state “to move resources more quickly through emergency management and the Kentucky National Guard,” the governor said Wednesday - CNN",
+            "created_at": "2025-11-05T17:08:42Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a state of emergency declared by Kentucky's governor, which is related to emergency management and resource allocation, not specifically agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986103715917423100",
+            "text": "So how high do you have to go to walk among the clouds? Watch these thick clouds creeping toward hikers in Sichuan, China, as they ascended a mountain. https://t.co/OXgOjt1LAF https://t.co/JesbR7I9kn",
+            "created_at": "2025-11-05T16:10:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is describing a weather phenomenon involving clouds and hikers in Sichuan, China. It does not mention agricultural developments or anything related to farming or agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986098833659674975",
+            "text": "RT @TWCAlexWallace: Atmospheric River event continues on the West Coast! In some areas, the forecast category gets to a 5 out of 5! That me…",
+            "created_at": "2025-11-05T15:50:36Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses an Atmospheric River event and its implications on the weather, but it does not mention any agricultural developments. Therefore, it does not pass the question."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986096011895279726",
+            "text": "RT @volcaholic1: 💔 Families carry the coffins of loved ones who perished in the massive flooding in Canlaon City, Negros Oriental during Ty…",
+            "created_at": "2025-11-05T15:39:23Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a tragic event involving families carrying coffins due to massive flooding, which is not related to agricultural developments. It focuses on human loss and a natural disaster rather than agricultural progress or innovations."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986088618629231058",
+            "text": "The death toll has risen in the central Philippines, and much of the worst damage is in a province still recovering from a deadly earthquake. https://t.co/AIdXAb45sc",
+            "created_at": "2025-11-05T15:10:01Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the death toll and damage caused by an earthquake in the central Philippines, and does not mention agricultural developments or any related topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986084863703691678",
+            "text": "I know, I know its Ai....\n\nBut....IT'S A LAVA BED!!\nhttps://t.co/MwqzTt36Cq",
+            "created_at": "2025-11-05T14:55:05Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing lava beds and mentions AI, which suggests a focus on geology or technology rather than agricultural developments. There is no indication or reference to agriculture in the content provided."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986074981424394244",
+            "text": "Time-lapse of Popocatepetl from yesterday evening  💨\nhttps://t.co/3vj25IfCFW",
+            "created_at": "2025-11-05T14:15:49Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions a time-lapse of the Popocatepetl volcano, which is related to geological or environmental phenomena rather than agricultural developments. There is no indication in the content of the tweet that it addresses agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986074775790198975",
+            "text": "It's not ending any time soon in the Pacific Northwest. Here's the latest: https://t.co/vOREPnNvFx https://t.co/hOZxYafmWw",
+            "created_at": "2025-11-05T14:15:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet from weatherchannel is discussing weather conditions in the Pacific Northwest, and does not mention agricultural developments. It primarily provides information about weather updates rather than any agricultural topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986069877426454831",
+            "text": "RT @rhosking252: Always value your work..!  @volcaholic1 👏👏❤️\n\nHey everyone, don't forget to subscribe to Volcaholics account...! \n🌋👏👏",
+            "created_at": "2025-11-05T13:55:32Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to agricultural developments. It focuses on valuing work and promoting an account, without any reference to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986069655383863636",
+            "text": "RT @volcaholic1: CCTV captures the UPS plane crash in Louisville, Kentucky yesterday. Just awful  😩🔊\nhttps://t.co/sUjw7ONvBY",
+            "created_at": "2025-11-05T13:54:39Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a UPS plane crash and does not mention anything related to agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986064502086078858",
+            "text": "RT @volcaholic1: A truck driver captured the UPS plane crash in Louisville, Kentucky yesterday. Terrifying!\n https://t.co/FDiWO1SNTJ",
+            "created_at": "2025-11-05T13:34:11Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing an event involving a UPS plane crash, which is not related to agricultural developments. It focuses on transportation and an incident rather than agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986059676513939909",
+            "text": "It will feel more like winter across the eastern half of the country early next week as arctic air spills into the U.S., with a widespread freeze expected Tuesday morning in the Southeast. See how cold it will get. 🥶 https://t.co/LIpqudO2uq https://t.co/v6kAWPzJwD",
+            "created_at": "2025-11-05T13:15:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing the weather conditions in the eastern half of the U.S. and mentions an incoming freeze, but it does not mention agricultural developments or related topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986051838844493947",
+            "text": "OMG!! What planet are these people on  🙈\n\nThe need help!",
+            "created_at": "2025-11-05T12:43:52Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to agricultural developments. It expresses frustration about people but does not reference agriculture or any related topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986050833830568354",
+            "text": "UPDATE: The death toll in Cebu, climbs to 111.   \n\n12 are from Cebu City\n35 from Liloan\n25 from Compostela\n1 from Consolacion\n9 from Danao City\n12 from Mandaue City\n7 from Talisay City\n1 from Bantayan\n1 from Tabogon\n2 from Asturias\n6 from Balamban\n\nSource: ABSCBNNews",
+            "created_at": "2025-11-05T12:39:52Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet provides an update on the death toll in Cebu, along with specific numbers from various locations, which indicates a focus on a recent event rather than agricultural developments. There is no mention of agriculture, farming practices, or related topics in the content."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986045332606550379",
+            "text": "High wind alerts are in effect Wednesday into Thursday morning from southern New England to the Jersey Shore, so expect travel delays and stay alert for downed trees! Here's the latest. https://t.co/ZdgXAdatmZ https://t.co/Q2vWC5Ett1",
+            "created_at": "2025-11-05T12:18:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing weather alerts related to high winds and travel delays, rather than agricultural developments. It does not mention farming, crop management, or any agricultural topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986042320853057567",
+            "text": "RT @volcaholic1: REPEAT AFTER ME:\n\nWe can’t wait.\nWe can’t ignore it.\nWe can’t deny it.\nWe can’t afford inaction.\n\nHuman-caused climate cha…",
+            "created_at": "2025-11-05T12:06:02Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses climate change and the urgency of addressing it, but it does not mention agricultural developments directly. Therefore, it does not pass the criteria of being about agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986036567866040326",
+            "text": "There's always one 🤣\nhttps://t.co/SAofzHDDUh",
+            "created_at": "2025-11-05T11:43:11Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet contains a humorous reaction or commentary ('There's always one 🤣') but does not provide any information or context related to agricultural developments. It appears to be more of a general comment rather than discussing any specific topic."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986017455873933787",
+            "text": "💔 Families carry the coffins of loved ones who perished in the massive flooding in Canlaon City, Negros Oriental during Typhoon Kalmaegi (TinoPH) on Tuesday. \n\nThey are taking them from the funeral parlours to their family homes.\nhttps://t.co/HCE37Zwe0g",
+            "created_at": "2025-11-05T10:27:14Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the impact of flooding and the loss of lives due to Typhoon Kalmaegi, rather than agricultural developments. It focuses on the human tragedy and the aftermath of the disaster."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986013891197874628",
+            "text": "DON’T LOOK AWAY!\n\nThis is Cebu, Philippines, where the death toll from Typhoon Tino (Kalmaegi) has climbed to 92.\n\nHomes destroyed. Entire neighbourhoods swept away. These are people like you and me, children, parents, families, their lives changed forever.\n\nWhy do some disasters make headlines while others barely get noticed?\n\nEvery life lost here matters just as much.\n\nClimate change is fuelling stronger storms and more destructive floods.\n\nIt’s not a distant problem. It’s already here, and it’s coming for all of us.",
+            "created_at": "2025-11-05T10:13:04Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the impact of Typhoon Tino on communities in the Philippines, focusing on loss of life and the effects of climate change on natural disasters. It does not mention agricultural developments or related topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986003716479090932",
+            "text": "It's surreal! It's like something out of a movie.",
+            "created_at": "2025-11-05T09:32:38Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to agricultural developments. It appears to be a general statement about a surreal experience that may not relate to any specific topic such as agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1986002857058029866",
+            "text": "CCTV captures the UPS plane crash in Louisville, Kentucky yesterday. Just awful  😩🔊\nhttps://t.co/sUjw7ONvBY",
+            "created_at": "2025-11-05T09:29:13Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a UPS plane crash, which is related to aviation and safety rather than agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985997618430759034",
+            "text": "RT @volcaholic1: This has finished me off  😭\n\n📍 Barangay Paknaan, Mandaue City, Cebu, Philippines. https://t.co/Ki2OiliEwi",
+            "created_at": "2025-11-05T09:08:24Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not discuss agricultural developments. It appears to be a personal or emotional response related to a location in the Philippines without any explicit mention of agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985997506493194435",
+            "text": "RT @volcaholic1: And if the flooding isn't horrific enough in the Philippines, there are snakes swimming through the floodwaters.\n\nAbsolute…",
+            "created_at": "2025-11-05T09:07:58Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses flooding and snakes in the Philippines, which are environmental and disaster-related topics. It does not mention agricultural developments or any related context."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985996690646806698",
+            "text": "A truck driver captured the UPS plane crash in Louisville, Kentucky yesterday. Terrifying!\n https://t.co/FDiWO1SNTJ",
+            "created_at": "2025-11-05T09:04:43Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a plane crash involving a UPS plane, which is related to aviation and trucking, not agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985881649205129675",
+            "text": "This is horrific. New footage of the UPS plane crash\nhttps://t.co/vbAVAtCDKZ",
+            "created_at": "2025-11-05T01:27:35Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a UPS plane crash and shares footage of that incident. It does not mention anything related to agricultural developments, such as farming, crops, or agricultural technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985879832379768968",
+            "text": "https://t.co/fhSZ1G1Ioq",
+            "created_at": "2025-11-05T01:20:22Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not contain any content that discusses agricultural developments. It appears to be a personal or unrelated topic based on the provided URL and user handle."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985879206668959937",
+            "text": "RT @volcaholic1: ❗️❗️ HORRIFIC flooding across Cebu, Philippines after Typhoon Kalmaegi (TinoPH).\n\nHomes gone. Streets underwater. Families…",
+            "created_at": "2025-11-05T01:17:53Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses flooding due to a typhoon in Cebu, Philippines, and the impact on homes and families, rather than specifically addressing agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985873883719725198",
+            "text": "https://t.co/sy895cFgyy",
+            "created_at": "2025-11-05T00:56:44Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not provide any content or context that suggests it is about agricultural developments. It simply includes a username and a URL."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985872650850484416",
+            "text": "https://t.co/96Xu7uJMum",
+            "created_at": "2025-11-05T00:51:50Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not provide any content or context about agricultural developments. It only includes a username and a link, making it impossible to determine if it addresses agricultural topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985866276451827893",
+            "text": "RT @volcaholic1: Ongoing  🧵👇",
+            "created_at": "2025-11-05T00:26:30Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not provide any specific information or context related to agricultural developments. It simply appears to be a retweet with no details mentioned."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985857760396001362",
+            "text": "Video showing UPS Flight 2976 crashing shortly after takeoff this evening from Louisville after its left wing caught fire.\n\nThe plane briefly became airborne before slamming into nearby warehouses, triggering a massive fireball that shot hundreds of feet into the air and ignited a blaze that has destroyed multiple buildings, with reports of people trapped. \n\nSmoke from the toxic fire is visible more than 10 miles away, prompting a shelter-in-place order within five miles of the airport.\n\nRescue operations are underway, with three people on board the plane.",
+            "created_at": "2025-11-04T23:52:40Z",
+            "username": "US_Stormwatch"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a plane crash incident, focusing on the events surrounding the crash, emergency response, and safety measures. It does not mention agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985856895295291780",
+            "text": "https://t.co/jHnzA8VcDJ",
+            "created_at": "2025-11-04T23:49:13Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not contain any information or context related to agricultural developments. It appears to focus on a different topic that requires further examination."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985856075816436175",
+            "text": "https://t.co/HYCL1NVixu",
+            "created_at": "2025-11-04T23:45:58Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not provide any information about agricultural developments. It might be focused on a different topic or content."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985853305763840129",
+            "text": "RT @volcaholic1: One of the lucky animals rescued during the catastrophic flooding in Cebu, Philippines, caused by Typhoon Kalmaegi (TinoPH…",
+            "created_at": "2025-11-04T23:34:58Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses an animal being rescued during flooding caused by a typhoon, which is more related to disaster response and animal welfare rather than agricultural developments. There is no mention of agricultural practices, technology, or progress."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985851514770862312",
+            "text": "RT @volcaholic1: Ongoing  🧵👇",
+            "created_at": "2025-11-04T23:27:51Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not provide any information or context about agricultural developments. It seems to be part of a thread (indicated by 'Ongoing 🧵'), but without further content, it is not possible to determine if it is discussing agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985846926105796847",
+            "text": "Ongoing  🧵👇",
+            "created_at": "2025-11-04T23:09:37Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not provide any content indicating that it is discussing agricultural developments. The phrase 'Ongoing 🧵👇' suggests that there is a thread or further information to follow, but without context or details in the provided text, we cannot determine the topic being discussed."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985845866712723577",
+            "text": "RT @volcaholic1: @iCkEdMeL Jeeze  😱\nhttps://t.co/n78ATKoXIe",
+            "created_at": "2025-11-04T23:05:24Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet contains a reaction (\"Jeeze 😱\") to another user, but does not mention anything related to agricultural developments. It appears to be a response to an unrelated topic, possibly involving shock or surprise over another tweet shared via a link."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985845335047000451",
+            "text": "@iCkEdMeL Jeeze  😱\nhttps://t.co/n78ATKoXIe",
+            "created_at": "2025-11-04T23:03:17Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to agricultural developments. It consists of an expression of surprise or fear ('Jeeze 😱') and a link, which does not provide context for agricultural topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985844377680314827",
+            "text": "Livestream with @iCkEdMeL \nhttps://t.co/J2S4rAnW2j",
+            "created_at": "2025-11-04T22:59:29Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to agricultural developments. It appears to be about a livestream event, possibly featuring a gaming or entertainment aspect, and contains a link, rather than discussing topics related to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985838079307923591",
+            "text": "BREAKING: A plane has crashed near Louisville Muhammad Ali Airport in Louisville, Kentucky, US.\nhttps://t.co/X2ODxG8FUe",
+            "created_at": "2025-11-04T22:34:27Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet reports on a plane crash near an airport and does not mention agricultural developments. Therefore, it is not discussing agricultural topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985819051772322150",
+            "text": "Ready or not, temperatures are about to take a plunge early next week from the Midwest and Northeast all the way to the Deep South. Some areas will even get the first snow of the season in parts of the Great Lakes. Here's how cold it's going to get: https://t.co/iADSx9KTJB",
+            "created_at": "2025-11-04T21:18:51Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses upcoming weather changes, specifically temperature drops and snow predictions, rather than any aspects of agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985801731968578018",
+            "text": "A meteor shower peaking this week could produce some brilliant fireballs in the night sky, but November’s beaver moon is competing for your stargazing attention. Here's when the Southern Taurids will peak:\n\nhttps://t.co/EuXIhjOVgB https://t.co/jH6V7NXxbH",
+            "created_at": "2025-11-04T20:10:01Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a meteor shower and the beaver moon, which are astronomical phenomena, rather than agricultural developments. Therefore, it does not talk about agricultural topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985801632928379150",
+            "text": "UPDATE: At least 48 people have died and thousands displaced as Typhoon Kalmaegi (TinoPH) triggered devastating floods across the central Philippines.\n\nEntire towns in Cebu were submerged, with vehicles and debris swept away by floodwaters.\n\nLocal officials report 48 deaths across the province, most from drowning or debris impact.",
+            "created_at": "2025-11-04T20:09:38Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the impact of Typhoon Kalmaegi in the central Philippines, including deaths and flooding, but does not mention agricultural developments. The focus is on disaster response rather than agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985792757923786893",
+            "text": "Stunning view of ash emission from Popocatepetl this morning...🌋💨\n\n📹 @Diegoxx_YT \nhttps://t.co/PiqyDqHzYl",
+            "created_at": "2025-11-04T19:34:22Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet focuses on a stunning view of ash emission from the Popocatepetl volcano, indicating a geological event rather than agricultural developments. There is no mention or implication of agriculture in the content."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985791659515240584",
+            "text": "Snowfall totals are hard to predict, so don't get fooled by your average social media forecast. Here's how you can stay properly informed when those snowy days come along: https://t.co/R7CJAPo18q",
+            "created_at": "2025-11-04T19:30:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the unpredictability of snowfall totals and provides advice on staying informed about weather conditions. It does not mention or relate to agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985780067717300244",
+            "text": "RT @volcaholic1: This has finished me off  😭\n\n📍 Barangay Paknaan, Mandaue City, Cebu, Philippines. https://t.co/Ki2OiliEwi",
+            "created_at": "2025-11-04T18:43:56Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not discuss agricultural developments as it focuses on a personal reaction and a location rather than any agricultural topic."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985777760795836855",
+            "text": "RT @TWCChrisBruin: 60-70mph winds late Wednesday night for Southern New England!!! @weatherchannel",
+            "created_at": "2025-11-04T18:34:46Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is primarily about weather conditions (specifically high winds) rather than agricultural developments. There is no mention of agricultural topics, advancements, or farming activities."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985777060808147156",
+            "text": "RT @volcaholic1: 💔 At least 26 people have died after Typhoon Kalmaegi hit the central Philippines, causing catastrophic flooding in Cebu a…",
+            "created_at": "2025-11-04T18:31:59Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the impact of Typhoon Kalmaegi and the resulting flooding in Cebu, but it does not mention agricultural developments specifically. Instead, it focuses on the devastation and loss of life due to the natural disaster."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985774217028112748",
+            "text": "I spend hours digging through clips and reports so you don’t have to. Sharing accurate updates is something I care deeply about.  \n\nIf you’ve found value in my work, please consider subscribing 🙏🥰 https://t.co/aJfliFCrtT",
+            "created_at": "2025-11-04T18:20:41Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to agricultural developments. It focuses on sharing updates and encouraging subscriptions."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985762659556339718",
+            "text": "RT @MadrigalWxViz: 1 WEEK AGO TODAY: HURRICANE MELISSA\nLast Tuesday, October 28th at 1pm EDT, Hurricane Melissa made its destructive landfa…",
+            "created_at": "2025-11-04T17:34:46Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing Hurricane Melissa and its impacts, which is related to weather rather than agricultural developments. There is no mention of agriculture or farming in the content of the tweet."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985756081159622689",
+            "text": "RT @volcaholic1: And if the flooding isn't horrific enough in the Philippines, there are snakes swimming through the floodwaters.\n\nAbsolute…",
+            "created_at": "2025-11-04T17:08:37Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions flooding in the Philippines and snakes in floodwaters, which does not pertain to agricultural developments. It focuses more on a natural disaster and its consequences rather than advancements or topics related to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985738659690094984",
+            "text": "This has finished me off  😭\n\n📍 Barangay Paknaan, Mandaue City, Cebu, Philippines. https://t.co/Ki2OiliEwi",
+            "created_at": "2025-11-04T15:59:24Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet expresses a personal emotional reaction ('This has finished me off 😭') and includes a location but does not mention any agricultural developments or related topics. Therefore, it does not pass the criteria for talking about agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985736388466061591",
+            "text": "One of the lucky animals rescued during the catastrophic flooding in Cebu, Philippines, caused by Typhoon Kalmaegi (TinoPH). https://t.co/hp6RZih0fT",
+            "created_at": "2025-11-04T15:50:22Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses animal rescues related to flooding caused by a typhoon, rather than agricultural developments. It focuses on environmental and disaster response topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985734589772443761",
+            "text": "RT @TWCAlexWallace: This is the week of Parades! The LA #Dodgers celebrated their World Series win with a parade on Monday. The rest of the…",
+            "created_at": "2025-11-04T15:43:14Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a parade related to the LA Dodgers and their World Series win, which pertains to sports and celebration rather than agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985733039285288982",
+            "text": "Severe flooding in several areas of Kinshasa, Democratic Republic of the Congo today...🌊\nhttps://t.co/zrfJ5yGAaF",
+            "created_at": "2025-11-04T15:37:04Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions severe flooding in Kinshasa, which is a natural disaster event. It does not directly relate to agricultural developments but rather to environmental issues impacting the area."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985723715464700242",
+            "text": "Check out the sky hours before Typhoon Tino hit the central Philippines: bats, thousands of them. Was it an eerie warning or just animal instinct? https://t.co/OjEd99uSDV https://t.co/bUZVFVmayO",
+            "created_at": "2025-11-04T15:00:01Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the behavior of bats in relation to an upcoming typhoon, focusing on animal instinct rather than agricultural developments. It does not mention agriculture, farming, or related topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985722152436580656",
+            "text": "RT @volcaholic1: ❗️❗️ HORRIFIC flooding across Cebu, Philippines after Typhoon Kalmaegi (TinoPH).\n\nHomes gone. Streets underwater. Families…",
+            "created_at": "2025-11-04T14:53:48Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a natural disaster (flooding) caused by Typhoon Kalmaegi, particularly highlighting its impact on homes and families in Cebu, Philippines. It does not mention any agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985720411322007768",
+            "text": "RT @TWCAlexWallace: Lots of candy has been eaten over the last few days thanks to Halloween but today is #NationalCandyDay!!!\n\n#QOTD @JenCa…",
+            "created_at": "2025-11-04T14:46:53Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Halloween and National Candy Day, focusing on candy consumption and festivities rather than agricultural developments. There are no mentions or implications about agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985720388043633117",
+            "text": "RT @MadrigalWxViz: Atmospheric River Impacts Oregon and California Tuesday into Wednesday. Atmospheric River plume from north of Hawaii to…",
+            "created_at": "2025-11-04T14:46:48Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing atmospheric river events affecting Oregon and California, which is related to weather rather than agricultural developments. It does not mention agriculture or agricultural practices."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985712386037182888",
+            "text": "Tens of thousands were evacuated as Typhoon Tino flooded the central Philippines. See the destruction in this region still recovering from a deadly 6.9 magnitude earthquake in September. https://t.co/FF5Qg6dse3 https://t.co/yJZCG8beGt",
+            "created_at": "2025-11-04T14:15:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the evacuation due to Typhoon Tino and the aftermath of a recent earthquake in the Philippines. It does not mention agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985710529365627268",
+            "text": "Popocatepetl this morning  🌋💨\nhttps://t.co/yaf5K4NyPm",
+            "created_at": "2025-11-04T14:07:37Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing the Popocatepetl volcano and its activity, rather than agricultural developments. It focuses on geological phenomena rather than agricultural topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985703789492376019",
+            "text": "RT @volcaholic1: Human-caused climate change is real.\n\nGovernments aren’t controlling the weather.\n\nFloods aren’t population control.\n\nPlan…",
+            "created_at": "2025-11-04T13:40:50Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses climate change and its misconceptions, but it does not mention agricultural developments or related topics. It focuses more on environmental issues without directly addressing agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985697291450155134",
+            "text": "Multiple systems will impact the Pacific Northwest by the middle to end of the week. Check this out for the latest update. https://t.co/jH8o1Ah4Cf https://t.co/zoCBjTdHkt",
+            "created_at": "2025-11-04T13:15:01Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses weather systems affecting the Pacific Northwest, but it does not mention any agricultural developments. It primarily provides an update on weather changes rather than agricultural topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985695617687896143",
+            "text": "💔 At least 26 people have died after Typhoon Kalmaegi hit the central Philippines, causing catastrophic flooding in Cebu and nearby provinces.\n\nFloodwaters trapped people on rooftops and completely destroyed homes.\n\nKalmaegi is the 20th storm to affect the country this year. https://t.co/KhmZN9H6TC",
+            "created_at": "2025-11-04T13:08:22Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the impact of Typhoon Kalmaegi, focusing on the loss of life and destruction caused by the flooding in the Philippines. It does not mention agricultural developments, which would typically involve topics like crop production, farming techniques, or advancements in agricultural technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985686090162839890",
+            "text": "Widespread flooding after extreme rainstorms hit eastern Hainan Island, China.\n\nTunchang recorded 430 mm of rain in just 24 hours (Nov 3–4)\nhttps://t.co/VV85oUZB6A",
+            "created_at": "2025-11-04T12:30:30Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses extreme weather conditions, specifically widespread flooding caused by heavy rainstorms in Hainan Island, China. It does not mention agricultural developments or any related topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985682443874000988",
+            "text": "The coldest air of the season will arrive Sunday into Monday of next week as a strong arctic cold front dives south into the U.S. See how cold it will get here. https://t.co/odIZxyABBE https://t.co/aG8xjClg4q",
+            "created_at": "2025-11-04T12:16:01Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses weather conditions, specifically an impending cold front, rather than agricultural developments. Therefore, it does not address agricultural topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985678700461887900",
+            "text": "And if the flooding isn't horrific enough in the Philippines, there are snakes swimming through the floodwaters.\n\nAbsolute nightmare fuel. 🌊🐍  😳\n\n📍 Barangay Maryland, Talisay City, Cebu https://t.co/mEPqiJesr3",
+            "created_at": "2025-11-04T12:01:08Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses flooding in the Philippines and the presence of snakes in floodwaters, but it does not mention agricultural developments or advancements in agriculture. Instead, it focuses on the negative impact of flooding and the dangers associated with it."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985673884528427120",
+            "text": "🌋 Observation flight yesterday confirmed minor ash emissions from Whakaari/White Island, New Zealand.\n\nAsh likely hasn’t reached the mainland.\n\nVolcanic Alert Level stays at 3, Aviation Colour Code Orange.\nhttps://t.co/ICMYYoZ88V",
+            "created_at": "2025-11-04T11:42:00Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses volcanic activity and observations related to a volcanic island, specifically mentioning ash emissions and volcanic alert levels. It does not mention any agricultural developments or related topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985501774359257455",
+            "text": "*typhoon Kalmaegi",
+            "created_at": "2025-11-04T00:18:06Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not contain any information related to agricultural developments. It only mentions a typhoon, which is a natural disaster and not directly related to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985501644499411096",
+            "text": "*typhoon Kalmaegi",
+            "created_at": "2025-11-04T00:17:35Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to agricultural developments; it only references a typhoon named Kalmaegi."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985494760610533515",
+            "text": "🚨 Extreme flooding now in Talisay, Cebu in the Philippines due to typhoon Talmaegi (TinoPH).  \n\nPeople are pleading for help.\n\n📹 KrisNa VlogLife https://t.co/vL4gzuRLhG",
+            "created_at": "2025-11-03T23:50:14Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing the impact of extreme flooding caused by a typhoon in Talisay, Cebu, and mentions people pleading for help. It does not address agricultural developments directly, but rather focuses on a natural disaster and its immediate consequences."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985486402260197802",
+            "text": "RT @volcaholic1: 🚨 BREAKING: Extreme flooding happening now in Bacayan, Cebu City due to typhoon Talmaegi (TinoPH).\n\nPeople are pleading fo…",
+            "created_at": "2025-11-03T23:17:01Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet primarily discusses extreme flooding caused by typhoon Talmaegi in Bacayan, Cebu City, which is an event related to climate and weather rather than agricultural developments. There is no reference to agricultural advancements or issues in the content provided."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985482321848647986",
+            "text": "🚨 BREAKING: Extreme flooding happening now in Bacayan, Cebu City due to typhoon Talmaegi (TinoPH).\n\nPeople are pleading for help. https://t.co/MhVFieHsGd",
+            "created_at": "2025-11-03T23:00:48Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing extreme flooding caused by a typhoon and the need for help, which relates to a natural disaster rather than agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985482120932765719",
+            "text": "This week we're expected to see the biggest supermoon since 2019. Read up on when you can see what's called a beaver moon here: https://t.co/frVcSpvt8E https://t.co/aahNc9mQvR",
+            "created_at": "2025-11-03T23:00:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is about an astronomical event (the supermoon) and does not mention agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985468280354533393",
+            "text": "Your precious pumpkin will soon turn into a gooey gourd. Here's why: https://t.co/teBpexwgwK",
+            "created_at": "2025-11-03T22:05:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet from 'weatherchannel' discusses pumpkins turning into a 'gooey gourd,' which suggests a playful or seasonal commentary rather than specific advancements or developments in agriculture. It doesn't provide information about agricultural techniques, innovations, or any formal developments in the field."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985452254531351007",
+            "text": "Cebu city, Philippines at the moment due to typhoon Talmaegi (TinoPH)  ☔️💨",
+            "created_at": "2025-11-03T21:01:20Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing the weather conditions in Cebu City, Philippines, specifically mentioning a typhoon. It does not mention anything related to agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985451880852390074",
+            "text": "Flooding in Cebu city, Philippines at the moment due to typhoon Talmaegi (TinoPH)....\nhttps://t.co/xlEdWF7f2d",
+            "created_at": "2025-11-03T20:59:50Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing flooding in Cebu City due to a typhoon, which relates to weather events and natural disasters rather than agricultural developments. There is no mention of agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985447543439049030",
+            "text": "RT @volcaholic1: Philippines: Severe flooding in Barangay Tagmamarkay, Tubay due to approaching typhoon Talmaegi (TinoPH)....\n\n📹 Jaguar Sur…",
+            "created_at": "2025-11-03T20:42:36Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet describes severe flooding caused by an approaching typhoon in the Philippines, which is a weather-related event rather than a specific discussion about agricultural developments. While flooding can impact agriculture, the tweet does not explicitly mention or discuss agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985442557522821526",
+            "text": "RT @volcaholic1: What are these?\n\nWrong answers only.",
+            "created_at": "2025-11-03T20:22:48Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is not discussing agricultural developments. It appears to be a lighthearted or humorous tweet, possibly asking for funny or incorrect responses to a question, without any reference to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985436820268585313",
+            "text": "Winter is quickly approaching, and with that comes snowfall. Here are some tips to keep in mind the next time you notice snow in your forecast. https://t.co/kBzgNe1Vp7",
+            "created_at": "2025-11-03T20:00:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is primarily focused on winter weather tips related to snowfall, rather than discussing agricultural developments. While weather can affect agriculture, the content of this tweet does not specifically address agricultural issues or advancements."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985430549993795787",
+            "text": "Those who survived Hurricane Melissa are struggling in parts of Jamaica where the storm made landfall as a Category 5. Residents are pleading for the most basic of supplies — food, water and toiletries. In this video, you’ll see how dire the situation has become as parts of the island nation teeter on the edge of a humanitarian crisis.\nhttps://t.co/zcWuzCAoXV",
+            "created_at": "2025-11-03T19:35:05Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the aftermath of Hurricane Melissa in Jamaica, highlighting the struggles of residents affected by the storm, including shortages of basic supplies. While this may tangentially relate to agriculture due to food needs, the primary focus is on humanitarian impacts and disaster response rather than agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985414332545437935",
+            "text": "https://t.co/9JBaVk9g9F",
+            "created_at": "2025-11-03T18:30:38Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not contain any information about agricultural developments. It seems to link to a specific website or content, but without additional context from the actual tweet content, I cannot determine any relevance to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985408481772400772",
+            "text": "Typhoon Kalmaegi (TinoPH) made landfall over Silago, Southern Leyte, at 12:00 am on Tuesday, November 4.",
+            "created_at": "2025-11-03T18:07:23Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a weather event, specifically the landfall of Typhoon Kalmaegi in Southern Leyte. It does not mention anything related to agricultural developments, such as farming practices, crop yields, or agricultural technology."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985401286187983264",
+            "text": "A massive boulder crashed through the wall of the Church of the Madonna del Ronco in Brienno, Italy, during a storm yesterday afternoon.",
+            "created_at": "2025-11-03T17:38:48Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a boulder crashing through a church wall during a storm, which is related to a natural disaster, not agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985398945477169591",
+            "text": "https://t.co/Gaa00Z2on7\n\nhttps://t.co/2GDfeK06EI\n\nhttps://t.co/NeBl47Y6yp\n\nhttps://t.co/hDqwj0MiMM",
+            "created_at": "2025-11-03T17:29:30Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not provide any content regarding agricultural developments. It consists of links only, which do not indicate any related discussion or information about agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985398942700335408",
+            "text": "\"I've never liked hoax. I think scam is a better word\"\n\nHere are some key criticisms of Professor (emeritus) William Happer’s claims about climate change.\n\nHapper suggests that climate models are unreliable and that the human impact of CO₂ is small - mainstream climate scientists say his claim ignores the large body of peer-reviewed evidence showing otherwise.\n\nHe argues that increased CO₂ will be beneficial (e.g., better plant growth) and downplays risks - critics note this overlooks how climate change also affects rainfall, pests, heat stress and crop yields negatively.\n\nAlthough trained in physics, Happer lacks formal credentials in climate science or atmospheric modelling - which means his views, while visible, are outside the consensus of experts in climate-specific disciplines.\n\nHe claims climate models are “junk” and useless, but multiple reviews show models still capture the main warming trends and are valuable tools.\n\nHapper argues that Earth’s climate has always changed and that current warming is just a natural cycle, yet he downplays how rising CO₂ and human activity amplify that change.\n\nHe signed letters attempting to alter the official stance of the American Physical Society on global warming, and his arguments are repeatedly listed as examples of climate misinformation (e.g., “CO₂ is not a pollutant,” “historical CO₂ was higher, so no risk now”).",
+            "created_at": "2025-11-03T17:29:29Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the controversies surrounding Professor William Happer's views on climate change, focusing on the impact of CO₂ and climate models. It does not specifically mention agricultural developments or practices related to farming, thus it does not pass the criterion of being about agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985394040905363624",
+            "text": "A deadly avalanche on Nepal's Mount Yalung Ri killed seven climbers, including two Nepali guides, as rescuers face treacherous snowstorms and dangerous weather conditions in the Himalayas. Here's the latest: https://t.co/6IpU3Jzz3W",
+            "created_at": "2025-11-03T17:10:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a tragic avalanche incident in the Himalayas and does not mention any agricultural developments or related topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985385695188287731",
+            "text": "7 Killed, 4 Missing As Avalanche Strikes Nepal's Yalung Ri Base Camp - Reports",
+            "created_at": "2025-11-03T16:36:51Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a tragic event involving casualties due to an avalanche in Nepal, which is not related to agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985384160207286489",
+            "text": "Relief supplies trickle into Jamaica as the total death toll from Hurricane Melissa rises to 60 across the Caribbean. See the latest here:  https://t.co/hp4pgPp1Ye",
+            "created_at": "2025-11-03T16:30:45Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the impact of Hurricane Melissa on Jamaica and the Caribbean, specifically mentioning the death toll and relief supplies, but does not mention agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985362832909623451",
+            "text": "A strong atmospheric river event is setting up over the Pacific Northwest this week, bringing a threat for heavy rain, gusty winds and mountain snow to parts of Washington, Oregon, Northern California, and the Sierra Nevada. https://t.co/dfwxXrjowB",
+            "created_at": "2025-11-03T15:06:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses weather conditions related to an atmospheric river event, focusing on rain, winds, and snow in certain regions. It does not mention agricultural developments directly."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985361325946474503",
+            "text": "Two systems will move into New England this week, bringing a chance for rain, wind and potentially snow in higher elevations. Watch this video for the latest. https://t.co/pt3XpfmhRF https://t.co/LDUJK09cid",
+            "created_at": "2025-11-03T15:00:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses weather systems moving into New England, specifically mentioning rain, wind, and snow, rather than agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985352246712803547",
+            "text": "Al-Azim Dam...\nhttps://t.co/Mjj85mJ24b",
+            "created_at": "2025-11-03T14:23:56Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet only mentions 'Al-Azim Dam' and includes a link without additional context or information about agricultural developments. The term 'Dam' could imply water management related to agriculture, but without further details in the tweet, it cannot be definitively stated that it talks about agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985352095868870979",
+            "text": "RT @TWCAlexWallace: Over the weekend, those clocks went back one hour, as most of the nation ended Daylight Saving Time!\n\n#QOTD @kellycass…",
+            "created_at": "2025-11-03T14:23:20Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing the end of Daylight Saving Time and does not mention any agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985349694302585296",
+            "text": "Category 6 is the new hurricane normal. Why scientists say we need to rethink what we know about storms.\n\nHuman-caused climate change is making major hurricanes like Melissa much stronger, faster and ultimately more life-threatening.\nhttps://t.co/bx3JAxtrCc",
+            "created_at": "2025-11-03T14:13:47Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing climate change and hurricanes, particularly the impact of human activity on storm intensity. It does not mention agricultural developments or relate to agricultural practices."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985346225952952486",
+            "text": "Here's what we know so far about this developing situation, where a 6.3 magnitude earthquake struck early Monday morning. https://t.co/D61SVa6aj8",
+            "created_at": "2025-11-03T14:00:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses an earthquake and its details, which are not related to agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985342780692996508",
+            "text": "A hailstorm followed by flooding hit Huili City, Liangshan Autonomous Prefecture in China on Friday evening.\n\nThe sudden hailstorm lasted for about 10 minutes. It was concentrated in the ancient city streets of the urban area. https://t.co/HeY9ULxrof",
+            "created_at": "2025-11-03T13:46:19Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a weather event (hailstorm and flooding) in a specific location (Huili City) but does not mention anything related to agricultural developments. Therefore, it is not talking about agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985334976162709602",
+            "text": "The monkeys being transported were Rhesus monkeys, animals that are commonly used in biomedical research, particularly in studies of infectious diseases and vaccine development - BBC",
+            "created_at": "2025-11-03T13:15:18Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses Rhesus monkeys and their use in biomedical research, specifically relating to infectious diseases and vaccine development. This topic is not directly related to agricultural developments, which would typically involve discussions about farming practices, crops, or livestock management. Therefore, the tweet does not talk about agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985331602512048381",
+            "text": "A wild week is ahead for the Pacific Northwest. More details ⬇️ https://t.co/1i2XNOZT68 https://t.co/UQe3EKqGqO",
+            "created_at": "2025-11-03T13:01:54Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet from WeatherChannel discusses a weather forecast for the Pacific Northwest, which does not specifically mention agricultural developments or related topics. It focuses on the upcoming weather conditions instead."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985328025357955556",
+            "text": "Drinking water in the Iran's capital Tehran could run dry in just two weeks' time.\nhttps://t.co/UYDXKUQjcW",
+            "created_at": "2025-11-03T12:47:41Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the water situation in Tehran, specifically the potential for drinking water to run dry; it does not mention agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985322599270748461",
+            "text": "UPDATE: Seven dead, 150 injured in Afghanistan quake - Reuters",
+            "created_at": "2025-11-03T12:26:07Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a recent earthquake in Afghanistan, focusing on casualties and injuries. It does not mention agricultural developments or related topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985320095162478691",
+            "text": "This was the Villa Miriam Resort in Barahona province, Dominican Republic yesterday...🌊\nhttps://t.co/0Vm3iGZDUa",
+            "created_at": "2025-11-03T12:16:10Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet describes a location (Villa Miriam Resort in Barahona province, Dominican Republic) and includes a photo link, but it does not mention anything related to agricultural developments. Therefore, the answer is 'no'."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985318201329385948",
+            "text": "East coast of Kamchatka still rattling... https://t.co/ldnEG3ePmW",
+            "created_at": "2025-11-03T12:08:39Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions \"East coast of Kamchatka\" and implies seismic activity ('still rattling'), which suggests it is discussing geological or volcanic activity rather than agricultural developments. There is no reference to agriculture, farming, or related topics in the content."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985316031636582495",
+            "text": "A big warmup will build from west to east across the country this week. Check out which parts of the country could see temps into the 70s and 80s before the next cold front: https://t.co/SzzlmNTGEe https://t.co/cWr5PzlJXK",
+            "created_at": "2025-11-03T12:00:01Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a warmup in temperatures across the country but does not mention agricultural developments or related topics. It focuses primarily on weather changes."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985311555131457893",
+            "text": "Exxon funded thinktanks to spread climate denial in Latin America, documents reveal.\n\nTexas-based fossil fuel company financed Atlas Network in attempt to derail UN-led climate treaty process.\nhttps://t.co/QE3m5lvXiS?",
+            "created_at": "2025-11-03T11:42:14Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the funding of climate denial efforts by Exxon and does not mention agricultural developments. It focuses more on climate policy and fossil fuel industry actions rather than agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985308710432845838",
+            "text": "Philippines: Severe flooding in Barangay Tagmamarkay, Tubay due to approaching typhoon Talmaegi (TinoPH)....\n\n📹 Jaguar Survival/FB https://t.co/C8DGjEYSdy",
+            "created_at": "2025-11-03T11:30:56Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses severe flooding in a specific area due to an approaching typhoon, which is a weather-related issue rather than a direct discussion of agricultural developments. While flooding can impact agriculture, the primary focus of the tweet is on the natural disaster and its immediate effects."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985283897668546939",
+            "text": "What are these?\n\nWrong answers only.",
+            "created_at": "2025-11-03T09:52:20Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not indicate any discussion about agricultural developments. It seems to be a lighthearted or humorous inquiry, likely unrelated to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985272044158677466",
+            "text": "RT @volcaholic1: A destructive tornado hit Dau, Malang Regency in Indonesia a few hours ago  🌪️\nhttps://t.co/YHEzhkA03t",
+            "created_at": "2025-11-03T09:05:14Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a tornado event in Indonesia, which is a natural disaster, and does not mention agricultural developments or relate to agriculture in any way."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985130592283877468",
+            "text": "RT @volcaholic1: Damaging hailstorm in Colonia Tuyango, San Pedro department in Paraguay yesterday  👀\nhttps://t.co/wi5eNvq9tz",
+            "created_at": "2025-11-02T23:43:09Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a damaging hailstorm in a specific location in Paraguay, focusing on a weather event rather than any agricultural developments. There is no mention of agriculture or farming in the content."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985125313127371036",
+            "text": "One of the monkeys that escaped last week after a truck overturned on a Mississippi roadway was shot and killed early Sunday by a woman who says she feared for the safety of her children.\nhttps://t.co/apyE7alWXA",
+            "created_at": "2025-11-02T23:22:11Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses an event involving a monkey that escaped and was later shot, primarily focusing on a safety concern rather than agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985119733058842658",
+            "text": "Could we see more of the same, as the calendar flips over? Here's how the November weather will compare to October 👇 https://t.co/KcXXFO5xbz",
+            "created_at": "2025-11-02T23:00:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the comparison of weather conditions from October to November, which is related to weather forecasting rather than agricultural developments. There is no mention of agricultural topics or developments within the content."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985116162598789208",
+            "text": "Fireball/meteor spotted from Ávlla province in Spain tonight...☄️",
+            "created_at": "2025-11-02T22:45:49Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a fireball or meteor sighting, which is not related to agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985110013828837572",
+            "text": "RT @volcaholic1: More from Queenslands crazy hailstorms. \n\nThat’s poor horse 🥺\n https://t.co/IPsP5DONAL",
+            "created_at": "2025-11-02T22:21:23Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention agricultural developments; instead, it discusses weather events (hailstorms) and shows concern for a horse. There is no reference to agriculture or farming activities."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985084634485400000",
+            "text": "Prelim M6.4 earthquake hits central Afghanistan... https://t.co/yolC9Dkf7G",
+            "created_at": "2025-11-02T20:40:32Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet mentions an earthquake in central Afghanistan, which pertains to natural events and disaster management rather than agricultural developments. There is no discussion or indication of agricultural advancements, making the pass result false."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985082993501692281",
+            "text": "🤣🤣🤣\nhttps://t.co/BiLDUnmj8m",
+            "created_at": "2025-11-02T20:34:01Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to agriculture or agricultural developments. It only contains emojis and a link, which do not provide any context about agricultural topics."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985062970444087609",
+            "text": "RT @enriquebarquet: Timelapse de la erupción más intensa registrada en años en el Volcán de Fuego.\nLa lava llegó hasta el bosque, provocand…",
+            "created_at": "2025-11-02T19:14:27Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the intense eruption of the Fuego Volcano and its impact on the forest, which relates to geological events rather than agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985062843499327932",
+            "text": "🌋 Two pyroclastic flow events were recorded at Mount Merapi, Central Java, Indonesia, early on 03/11/2025 -  the first at 00:31 WIB reaching about 1,500 metres southwest, and the second at 00:37 WIB reaching 1,200 metres in the same direction. The volcano remains at ALERT (Level III).\n\nThere was also one earlier (see my timeline)",
+            "created_at": "2025-11-02T19:13:57Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is focused on volcanic activity at Mount Merapi, detailing pyroclastic flow events and alert levels. It does not mention agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985059335437758727",
+            "text": "Once wiped out by hunters, they were thought to be gone for good. Florida’s iconic flamingos are making a comeback, carried home by hurricane winds and a slow but steady healing of the Everglades. https://t.co/6OdzMFLWq6",
+            "created_at": "2025-11-02T19:00:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the comeback of Florida's iconic flamingos due to hurricane winds and the healing of the Everglades, which relates to wildlife and environmental recovery rather than direct agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985044239164579977",
+            "text": "In this month alone, 15 houses have been destroyed by storms and coastal erosion on North Carolina’s Outer Banks. https://t.co/wY9l1U7gQK https://t.co/aGEQtHqrvY",
+            "created_at": "2025-11-02T18:00:01Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the impact of storms and coastal erosion on homes in North Carolina's Outer Banks, which is related to weather and natural disasters rather than agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985043969718579257",
+            "text": "RT @volcaholic1: Southeast Queensland in Australia has been getting some insane weather 👀\n https://t.co/8qttbhcUp8",
+            "created_at": "2025-11-02T17:58:57Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses weather conditions in Southeast Queensland, but it does not mention any agricultural developments directly. It focuses on the unusual weather without tying it to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985039137125093560",
+            "text": "Human-caused climate change is real.\n\nGovernments aren’t controlling the weather.\n\nFloods aren’t population control.\n\nPlanes aren’t spraying the population.\n\nThey're contrails, not chemtrails.\n\nHurricanes aren’t man-made weapons.\n\nFires aren’t being being started with lasers from space.\n\nDroughts aren’t experiments.\n\nStorms aren't geoengineered.\n\nIt’s climate change - not conspiracy.",
+            "created_at": "2025-11-02T17:39:45Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses climate change and debunks various conspiracy theories related to it. It does not specifically mention agricultural developments or related topics. Instead, it focuses on clarifying misconceptions surrounding climate phenomena."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985029134079123865",
+            "text": "The Los Angeles Dodgers will celebrate the second of their back-to-back World Championship wins on Monday with a parade in downtown L.A., and the forecast is a home run. https://t.co/nKREZedqez",
+            "created_at": "2025-11-02T17:00:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet primarily discusses a celebration event for the Los Angeles Dodgers' World Championship wins and includes a weather forecast, which are not related to agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985014040712675449",
+            "text": "An atmospheric river will bring heavy rainfall, gusty winds, and even snow to the Pacific Northwest this week. Stay tuned for updates. https://t.co/QIzNi46qwG https://t.co/g3mvrlHd7f",
+            "created_at": "2025-11-02T16:00:01Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses weather conditions, specifically related to rain, winds, and snow, but does not mention agricultural developments or related topics. Therefore, it does not pertain to agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1985006245892248044",
+            "text": "Ongoing flooding in Barahona, Dominican Republic.... https://t.co/pkn64pr7L5",
+            "created_at": "2025-11-02T15:29:03Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses ongoing flooding in Barahona, which is a weather-related issue, but it does not specifically mention agricultural developments. Therefore, it is not appropriate to conclude that the tweet is about agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984998936860406160",
+            "text": "If you're in the Southeast, things might get a little wet in your neck of the woods. Check this week's forecast to stay updated 👇 \nhttps://t.co/cb7WOX6CYm https://t.co/Y7qnBt0bW8",
+            "created_at": "2025-11-02T15:00:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet from 'weatherchannel' discusses weather forecasts for the Southeast region but does not mention any specific agricultural developments. It focuses solely on weather conditions."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984990265136861324",
+            "text": "RT @kellycass: The west stays pretty active this week with lots of rain, snow and wind. Plus, gusty conditions blow through the Great Lakes…",
+            "created_at": "2025-11-02T14:25:33Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet primarily discusses weather conditions, specifically rain, snow, wind, and gusty conditions. While weather can impact agriculture, the focus of the tweet is on meteorological events rather than agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984989164706701543",
+            "text": "🌋 A pyroclastic flow occurred at Mount Merapi in Central Java, Indonesia this evening at 20:46 (local time), traveling an estimated 1,200 meters southwest. The flow lasted 111 seconds. \n\nThe volcano remains at ALERT (Level III), and people are urged to follow official safety recommendations.",
+            "created_at": "2025-11-02T14:21:10Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a volcanic eruption and its immediate effects, which are related to geological events rather than agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984976708341207322",
+            "text": "RT @volcaholic1: A Kia hit the back of a parked garbage truck in Podańsko, Poland, yesterday, injuring a sanitation worker who was standing…",
+            "created_at": "2025-11-02T13:31:41Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet describes a traffic incident involving a Kia and a garbage truck, along with an injury to a sanitation worker. There are no mentions of agricultural developments or any related topics in the content of the tweet."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984972737408905662",
+            "text": "Philippines: Time-lapse of ash emission at the summit crater of Kanlaon Volcano at 1:48 PM today (local time).\nhttps://t.co/Ztl7cKIkMo",
+            "created_at": "2025-11-02T13:15:54Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a volcanic event (ash emission from Kanlaon Volcano) and does not mention agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984963006392869133",
+            "text": "And the crown for one of X’s most relentless disinformation peddlers goes to...👑\n\nOver 1M followers! https://t.co/R4Fg19m9s7",
+            "created_at": "2025-11-02T12:37:14Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention anything related to agricultural developments. Instead, it appears to be focused on disinformation and an individual with many followers, which is unrelated to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984951691385430479",
+            "text": "A destructive tornado hit Dau, Malang Regency in Indonesia a few hours ago  🌪️\nhttps://t.co/YHEzhkA03t",
+            "created_at": "2025-11-02T11:52:16Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a tornado that hit a location in Indonesia, which is related to a natural disaster rather than agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984949225503736291",
+            "text": "A man has died after a storm with winds reaching 95 km/h hit Regente Feijó, São Paulo, Brazil, early this morning, collapsing part of a metal structure at a university party. \n\nAround 40 people were injured and taken to nearby hospitals, with three still hospitalised. https://t.co/qg54MYcW6B",
+            "created_at": "2025-11-02T11:42:28Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet reports on a storm incident and its effects on people and a physical structure, but it does not mention agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984943002234601942",
+            "text": "Damaging hailstorm in Colonia Tuyango, San Pedro department in Paraguay yesterday  👀\nhttps://t.co/wi5eNvq9tz",
+            "created_at": "2025-11-02T11:17:44Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a damaging hailstorm in a specific location in Paraguay, but it does not mention any agricultural developments or advancements. Instead, it focuses on the immediate weather event and its impact, which suggests concern over potential damage but does not indicate any discussion about developments in agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984938750355398777",
+            "text": "Destructive hailstorm in Taft, Texas yesterday evening...\nhttps://t.co/TEl4OIuQer",
+            "created_at": "2025-11-02T11:00:51Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a destructive hailstorm in Taft, Texas, but does not mention agricultural developments or related topics. It focuses on a weather event rather than any progress or changes in agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984932821832474733",
+            "text": "More from Queenslands crazy hailstorms. \n\nThat’s poor horse 🥺\n https://t.co/IPsP5DONAL",
+            "created_at": "2025-11-02T10:37:17Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses hailstorms in Queensland and expresses concern for a horse, but it does not mention agricultural developments directly. Instead, it focuses on the impact of weather on animals."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984931684413014460",
+            "text": "RT @volcaholic1: A massive hailstorm hit the San Pedro Department in Paraguay today....👀\nhttps://t.co/Bt4qkKD9d2",
+            "created_at": "2025-11-02T10:32:46Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a severe weather event (a hailstorm) in Paraguay, which could have implications for agriculture, but it does not specifically address agricultural developments. Therefore, it does not pass as talking about agricultural developments directly."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984926516770460004",
+            "text": "Southeast Queensland in Australia has been getting some insane weather 👀\n https://t.co/8qttbhcUp8",
+            "created_at": "2025-11-02T10:12:14Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the weather in Southeast Queensland but does not mention agricultural developments. It is focused on the weather conditions rather than any specific developments in agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984888082529694090",
+            "text": "RT @volcaholic1: The escape of 21 research monkeys after a truck crash in Mississippi gives a glimpse into the secretive world of animal re…",
+            "created_at": "2025-11-02T07:39:30Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the escape of research monkeys and does not mention agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984885997587611882",
+            "text": "RT @volcaholic1: I’ve noticed something unsettling. People scroll past posts about devastating floods like it’s just another news story. Bu…",
+            "created_at": "2025-11-02T07:31:13Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses people's reactions to devastating floods, which are related to climate and disaster events, not specifically about agricultural developments. Therefore, it does not pass the question about agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984882922223014036",
+            "text": "RT @volcaholic1: 1/2 This is insane!\n\nThis is a supermarket in Campo Mourão, Paraná, Brazil, this afternoon during a massive hailstorm  👀\nh…",
+            "created_at": "2025-11-02T07:19:00Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing a hailstorm affecting a supermarket, not agricultural developments. While weather can impact agriculture, the content of the tweet focuses on an event rather than any agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984882397184168355",
+            "text": "RT @volcaholic1: Jeeze! This is the MASSIVE hailstorm that hit Paraná, Brazil this evening  👀😱\n\n📍 Barbosa Ferraz https://t.co/y2lQTrKfUs",
+            "created_at": "2025-11-02T07:16:55Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet describes a hailstorm in Paraná, Brazil, mentioning the severity of the weather event. While weather events can affect agriculture, the tweet itself does not explicitly discuss agricultural developments or issues related to agriculture. Therefore, it does not pass the question."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984787906368541102",
+            "text": "RT @volcaholic1: I’ve noticed something unsettling. People scroll past posts about devastating floods like it’s just another news story. Bu…",
+            "created_at": "2025-11-02T01:01:27Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses people's reactions to posts about devastating floods, not agricultural developments. It focuses on social media behavior regarding natural disasters rather than farming or agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984782283585298892",
+            "text": "Do you have a sunrise picture in your camera roll? We want to feature it on air! Reply below with where it was taken, and tune in to The Weather Channel tomorrow morning to catch your #SundaySunrise. https://t.co/pxaiM3s5Y1",
+            "created_at": "2025-11-02T00:39:06Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet primarily discusses a request for sunrise pictures to feature on The Weather Channel and does not mention agricultural developments. The context is about a sunrise and viewer engagement, not agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984780589292265923",
+            "text": "RT @enriquebarquet: A más de 3,700 metros, el Volcán de Fuego entra en erupción bajo un cielo estrellado. Una de las más grandes erupciones…",
+            "created_at": "2025-11-02T00:32:22Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the eruption of the Volcán de Fuego, which is a volcanic activity, not agricultural developments. It does not mention anything related to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984774922141327441",
+            "text": "Australia...",
+            "created_at": "2025-11-02T00:09:51Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not provide enough information or context to indicate that it is discussing agricultural developments. It merely states 'Australia...' without further details."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984770384672022862",
+            "text": "Jeeze! This is the MASSIVE hailstorm that hit Paraná, Brazil this evening  👀😱\n\n📍 Barbosa Ferraz https://t.co/y2lQTrKfUs",
+            "created_at": "2025-11-01T23:51:49Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is describing a hailstorm event in Paraná, Brazil, which does not directly address agricultural developments. It focuses on a weather phenomenon rather than any advancements or news related to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984759152430694881",
+            "text": "2/2 This is a supermarket in Campo Mourão, Paraná, Brazil, this afternoon during a massive hailstorm  👀\nhttps://t.co/byvPHZosXQ",
+            "created_at": "2025-11-01T23:07:11Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet describes a supermarket in Brazil during a hailstorm, which relates to weather conditions rather than agricultural developments specifically. It does not discuss advancements or topics directly related to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984758427281699174",
+            "text": "1/2 This is insane!\n\nThis is a supermarket in Campo Mourão, Paraná, Brazil, this afternoon during a massive hailstorm  👀\nhttps://t.co/Bld3NjSNzq",
+            "created_at": "2025-11-01T23:04:18Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet describes a hailstorm affecting a supermarket in Brazil, which does not relate to agricultural developments. Instead, it focuses on a weather event and its impact on a retail location."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984754549937098842",
+            "text": "And another one...\nhttps://t.co/rI9Oz03Noo",
+            "created_at": "2025-11-01T22:48:54Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet content does not mention or imply any agricultural developments. It simply states 'And another one...' along with a link, which provides no context related to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984754547110060209",
+            "text": "A bright flash lit up the night side of the first quarter moon at 20:33 UTC on October 30, 2025. \n\nWith no atmosphere, the moon only lights up when a crater forms. The impact was likely from meteoroids in the Taurus Southern or Northern Meteor Showers, which are peaking now.",
+            "created_at": "2025-11-01T22:48:53Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses an astronomical event involving the moon and meteoroids, with no reference to agriculture or agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984744759701721436",
+            "text": "The world is still learning the extent of the destruction, but relief organizations are already mobilizing to help across the northern Caribbean. Here's how you can help: https://t.co/XCMunpH9eu",
+            "created_at": "2025-11-01T22:10:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses relief efforts in the northern Caribbean following some destruction, but it does not mention agricultural developments. It focuses on mobilization of relief organizations and ways to help, which is unrelated to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984738121637118366",
+            "text": "We’ve been here before. In the late 80s, leaders promised climate action, then caved to politics and industry. \n\nNow Trump’s doing the same. Every time we delay, the cost rises and the planet pays the price.",
+            "created_at": "2025-11-01T21:43:37Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses issues related to climate action, political promises, and the costs of delaying necessary action, but it does not specifically mention agricultural developments. Therefore, it does not pass the criterion of talking about agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984735970374422606",
+            "text": "This is worth watching (Netflix).\n\nThe White House Effect revisits a pivotal moment in the climate crisis. Through archival footage, it shows how President George H. W. Bush’s 1988 pledge to use “the White House effect” to fight global warming unraveled under political and industry pressure.\n\nAs the 1992 Rio Earth Summit approached, the United States blocked a global deal on emission limits, missing a historic chance to act and shaping the perilous path we face today.",
+            "created_at": "2025-11-01T21:35:04Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a documentary about the climate crisis and political actions taken by President George H. W. Bush, rather than specifically discussing agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984713084993257904",
+            "text": "A massive hailstorm hit the San Pedro Department in Paraguay today....👀\nhttps://t.co/Bt4qkKD9d2",
+            "created_at": "2025-11-01T20:04:08Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is primarily reporting on a weather event (a hailstorm) that has impacted the San Pedro Department in Paraguay. While it may indirectly affect agriculture due to potential crop damage, the tweet does not explicitly talk about agricultural developments. Therefore, it does not pass the question."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984708922691723543",
+            "text": "RT @volcaholic1: 🚨 A UCL-led report warns that climate change inaction is now costing a life every minute from excessive heat globally. \n\nH…",
+            "created_at": "2025-11-01T19:47:35Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing climate change and its impacts on health, not specifically about agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984696700057837762",
+            "text": "If only kids knew! https://t.co/QNLx8wUADJ",
+            "created_at": "2025-11-01T18:59:01Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet does not mention or imply anything about agricultural developments. It seems to be referencing a subject that might require knowledge or awareness but does not provide any context related to agriculture."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984685273788137920",
+            "text": "X will be adding a \"curated Following\" tab - with the top posts only from people you follow  💃",
+            "created_at": "2025-11-01T18:13:37Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the addition of a new feature on a social media platform, specifically a 'curated Following' tab that showcases top posts from followed users. There is no mention or implication of agricultural developments in the content."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984681257331011950",
+            "text": "A major fire broke out in Kemerovo Oblast, Russia, spreading rapidly through Belovo, Yurga, and the village of Kamenka. \n\nStrong winds fanned flames across dry grass, but homes were saved. \n\nEmergency crews contained the main blazes, which burned around 23,000 square meters near Yurga. No injuries have been reported, and the situation is now stable.",
+            "created_at": "2025-11-01T17:57:39Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses a fire incident in Kemerovo Oblast, Russia, detailing its spread, emergency response, and containment. It does not mention agricultural developments or related topics, so it does not pass the question of discussing agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984665224914362740",
+            "text": "I’ve noticed something unsettling. People scroll past posts about devastating floods like it’s just another news story. But it’s not normal. Far from it.\n\nVillages, towns, and cities submerged. Lives, homes, and livelihoods swept away.\n\nThese floods are not routine. They are a sign of climate change hitting harder every year. The images I share show lives uprooted and communities destroyed.\n\nWhen disasters start to feel ordinary, that’s when we should worry most. None of this is normal, and acting like it is won’t make it stop.\n\n📍 Rongjiang County, China in June.",
+            "created_at": "2025-11-01T16:53:57Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet discusses the impact of devastating floods and the effects of climate change on communities, but it does not mention agricultural developments specifically. It focuses on the human and environmental consequences of flooding rather than agricultural issues."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984661485130571988",
+            "text": "RT @GregPostel: A bit breezy atop Mount Washington this morning.  Winds gusted to 127 mph earlier.  #nhwx https://t.co/DZ9KTmEmWS",
+            "created_at": "2025-11-01T16:39:05Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing weather conditions on Mount Washington, specifically wind speeds, and does not mention agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984661427529875743",
+            "text": "RT @kellycass: Happy November! Back in studio with @WXMolly ! We've got wind in the northeast, severe storms possible in Texas, and a storm…",
+            "created_at": "2025-11-01T16:38:52Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet is discussing weather conditions, including wind and storms, rather than agricultural developments."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984654165272854801",
+            "text": "The exact end of daylight saving time changes each year, according to the first weekend of November. Ready or not, here it comes ... https://t.co/X4V4RK6nwH",
+            "created_at": "2025-11-01T16:10:00Z",
+            "username": "weatherchannel"
+          },
+          "pass": false,
+          "reasoning": "The tweet from weatherchannel discusses the end of daylight saving time and its variability each year. It does not mention agricultural developments or relate to agriculture in any way. Therefore, it does not pass the question."
+        },
+        {
+          "tweet": {
+            "tweet_id": "1984645217073377718",
+            "text": "A Kia hit the back of a parked garbage truck in Podańsko, Poland, yesterday, injuring a sanitation worker who was standing on the truck’s running board. He suffered a severe leg fracture.\n\nSunlight in the drivers eyes?\nhttps://t.co/aIqvGRFXtI",
+            "created_at": "2025-11-01T15:34:27Z",
+            "username": "Volcaholic1"
+          },
+          "pass": false,
+          "reasoning": "The tweet describes a car accident involving a Kia and a garbage truck, resulting in an injury to a sanitation worker. There is no mention or discussion about agricultural developments."
+        }
+      ],
+      "count": 293,
+      "filter_question": "Is this tweet talking about agricultural developments?",
+      "summarization_question": "Summarize aggricultural developments, across production, but also commodities trade &c last week.",
+      "summary": "Direct answer\nLast week saw two clear currents shaping agricultural production and trade: acute climate-driven disruption in Asia that likely hit production and local commodity flows, and a continuing push toward climate‑adaptation and productivity technologies that aim to stabilize supply over the medium term. Immediate production impacts came from catastrophic flooding in the Philippines after Typhoon Kalmaegi (death toll reported at 224 and many still missing), with another typhoon forecast to follow soon — an event likely to damage crops, livestock and local supply chains and to create short‑term commodity availability and price pressure in affected markets ([tweet](https://x.com/Volcaholic1/status/1987108886608847040)). Meanwhile, major funding and technological developments were announced or highlighted that could alter production efficiency and trade dynamics over months to years: a $1.4 billion commitment from the Bill & Melinda Gates Foundation to help farmers in sub‑Saharan Africa and Asia access climate adaptation technologies ([tweet](https://x.com/Volcaholic1/status/1986954908285714445)); expanding agrivoltaics in northwest China converting desert to productive grassland under solar arrays and supporting >20,000 sheep ([tweet](https://x.com/Volcaholic1/status/1986423116440985645)); and emerging soil‑monitoring approaches using seismic waves discussed by academia to help optimize soil health and yields ([tweet](https://x.com/PGDynes/status/1986489483760738515)).\n\nKey themes and topics\n- Climate extremes and acute production shocks: Typhoon Kalmaegi’s catastrophic flooding is a reminder that extreme weather can immediately curtail output, disrupt harvests, damage infrastructure, and impede transport — all of which feed into short‑term commodity dislocations. (See death toll and follow‑on storm risk: [tweet](https://x.com/Volcaholic1/status/1987108886608847040)).\n- Large‑scale adaptation finance and philanthropic investment: The Gates foundation commitment ($1.4B over four years) signals growing private/philanthropic capital directed specifically at farmer access to adaptation technologies in Africa and Asia, which can alter productivity baselines and trade competitiveness over time ([tweet](https://x.com/Volcaholic1/status/1986954908285714445)).\n- Technology and monitoring for resilience: New sensor and geophysical methods (Earth Rover seismic soil monitoring) and precision‑management tools were promoted as ways to detect soil health problems earlier and tailor interventions, improving yields and reducing risk ([tweet](https://x.com/PGDynes/status/1986489483760738515)).\n- Dual‑use land solutions and new production models: Agrivoltaics in China (solar arrays with grazing sheep) demonstrates an emergent pattern of combining energy and livestock production to boost land productivity, income diversification and fire/weed control — potentially changing local supply of meat, wool and fodder while producing electricity ([tweet](https://x.com/Volcaholic1/status/1986423116440985645)).\n\nNotable patterns and trends relevant to commodities and trade\n- Short‑term volatility risk from extreme weather: Events like Kalmaegi drive localized shortages, transport bottlenecks and potential export constraints from affected provinces, creating short‑run price spikes in regional markets for staples and perishables.\n- Investing in adaptation to stabilize medium‑term supply: The Gates foundation’s sizable pledge is part of a broader trend of channeling large capital toward on‑farm climate resilience (drought‑/flood‑tolerant seeds, irrigation, digital tools). Over time this can reduce yield variability and influence global/regional trade flows by strengthening production in sub‑Saharan Africa and Asia.\n- Convergence of energy and agriculture: Agrivoltaic projects scale a model that increases land‑use efficiency and can support local commodity outputs (livestock/meat/wool) without converting new land, potentially reducing pressure on exportable cropland and reshaping local production mixes.\n- Greater emphasis on in‑field, high‑resolution monitoring: Novel approaches (seismic soil monitoring) enable more precise input use and early problem detection, which improves yield predictability and reduces some of the supply uncertainty that drives commodity price swings.\n\nImportant mentions, interactions, data points\n- Typhoon Kalmaegi in the Philippines: reported death toll of 224, many missing, with another typhoon expected; immediate impacts to agriculture, communities and logistics are implied ([tweet](https://x.com/Volcaholic1/status/1987108886608847040)).\n- Bill & Melinda Gates Foundation: commitment of at least $1.4 billion over four years to help farmers in sub‑Saharan Africa and Asia access climate adaptation technologies ([tweet](https://x.com/Volcaholic1/status/1986954908285714445)).\n- Agrivoltaics example in Qinghai, China: a large solar park converted desert to grassland under panels, supporting over 20,000 sheep that graze safely beneath panels — an operational example of co‑locating energy and livestock production to boost incomes and land productivity ([tweet](https://x.com/Volcaholic1/status/1986423116440985645)).\n- Soil monitoring innovation: Dr. Tarje Nissen‑Meyer and the Earth Rover Program highlighting seismic‑wave techniques to monitor soil health and support farmers ([tweet](https://x.com/PGDynes/status/1986489483760738515)).\n\nSignificant events (each summarized briefly)\n- Typhoon Kalmaegi flooding in the Philippines: A major humanitarian and production shock occurred last week with catastrophic flooding attributed to Typhoon Kalmaegi; the reported death toll rose to 224 and many remain missing, and a subsequent typhoon was forecast to arrive soon. This event will likely cause immediate crop and livestock losses, damage rural infrastructure and create short‑term disruptions to local commodity supplies and market access ([tweet](https://x.com/Volcaholic1/status/1987108886608847040)).\n- Bill Gates foundation funding announcement: The foundation’s commitment to spend at least $1.4 billion over the next four years on helping farmers in sub‑Saharan Africa and Asia access technologies for adapting to extreme weather is a major development for agricultural resilience. If effectively deployed, these funds could dampen future yield volatility, alter productivity trajectories, and influence regional trade balances by strengthening local production capacity ([tweet](https://x.com/Volcaholic1/status/1986954908285714445)).\n\nBottom line\nLast week’s developments reinforce two competing forces in global agriculture and commodity markets: escalating climate extremes that drive acute production shocks and trade disruption (exemplified by Typhoon Kalmaegi in the Philippines), and accelerating investment plus technological innovation aimed at adaptation, increased resilience and multi‑use land systems (Gates funding, agrivoltaics, seismic soil monitoring). Expect short‑term local supply pressure and potential price volatility in affected regions, while medium‑term effects could include improved yield stability and new production models that reshape local commodity supply and trade patterns. Additional monitoring of damages on key crop areas and follow‑through on adaptation finance deployment will determine how quickly the longer‑term risk profile changes."
+    },
+    "completed_at": "2025-11-08T15:08:59.40869Z",
+    "processing_time_seconds": 113
+  }
+}
